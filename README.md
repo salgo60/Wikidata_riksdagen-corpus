@@ -8,4 +8,4 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
     1. create a mismatch Notebook to see where we have differencies
 
 ## Misc
-* SPARQL query finding |all external properties](https://w.wiki/4XQi) for people in Wikidata with  
+* SPARQL query finding [all external properties](https://w.wiki/4XQi) for people in Wikidata with  
