@@ -72,6 +72,14 @@ Scholia is a service that creates visual scholarly profiles for topics, people, 
  <img src="https://lh3.googleusercontent.com/-V6PE2YRp_SY/YXF7gOEdWxI/AAAAAAAA3XQ/UGZTABI-YsYUGj8C8X0skUkG600YTJ01gCLcBGAsYHQ/image.png" width="600" />
  <img src="https://community.dataportal.se/assets/uploads/files/1637157955177-d691283b-95bf-462c-be0f-d8e998a093bb-image.png" width="600" />
 
+## Wikidata Workshops for research
+* "Workshop for the scientific Wikidata community @ ISWC 2021 24 October 2021. Online" [wikidataworkshop.github.io/2021](https://wikidataworkshop.github.io/2021/)
+
+"Wikidata is an open knowledge base hosted by the Wikimedia Foundation that can be read and edited by both humans and machines. Wikidata acts as the central source of common, open structured data used by Wikipedia, Wiktionary, Wikisource, and others. It is used in a variety of academic and industrial applications.
+
+In recent years, we have seen an increase in the number of scientific publications around Wikidata. While there are a number of venues for the Wikidata community to exchange, none of those publish original research. We want to bridge the gap between these communities and the research events and give the research-focused part of the Wikidata community a venue to meet and exchange information and knowledge.
+
+The Wikidata Workshop 2021 focuses on the challenges and opportunities of working on a collaborative open-domain knowledge graph such as Wikidata, which is edited by an international and multilingual community. We encourage submissions that observe the influence such a knowledge graph has on the web of data, as well as those working on improving this knowledge graph itself. This workshop brings together everyone working around Wikidata in both the scientific field and industry to discuss trends and topics around this collaborative knowledge graph."
 
 ## Misc2
 * [ny gratis bok om KG](https://kgbook.org/)
