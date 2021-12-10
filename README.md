@@ -57,7 +57,7 @@ Scholia is a service that creates visual scholarly profiles for topics, people, 
 
 
 ## Svenskt Porträtt arkiv
-* [portrattarkiv.se](https://portrattarkiv.se/about) "En person" har scannat in 880 000 bilder --> massor med bilder på Riksdagsledamöter som jag långsamt kopplar ihop med Wikidata se verktyg jag byggt till deras API [github.com/salgo60/spa2Commons](https://github.com/salgo60/spa2Commons) [video in swedish/english](https://www.youtube.com/watch?v=aCPzWF0aYmw)
+* [portrattarkiv.se](https://portrattarkiv.se/about) "En person" har scannat in 880 000 bilder --> massor med bilder på Riksdagsledamöter som jag långsamt kopplar ihop med Wikidata se verktyg jag byggt till deras API [github.com/salgo60/spa2Commons](https://github.com/salgo60/spa2Commons) - video in [swedish/english](https://www.youtube.com/watch?v=aCPzWF0aYmw)
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Theodor_Adelsw%C3%A4rd_SPA27.jpg/1599px-Theodor_Adelsw%C3%A4rd_SPA27.jpg" width="600" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Erik_Abrahamsson_SPA.jpg" width="600" />
@@ -81,6 +81,16 @@ In recent years, we have seen an increase in the number of scientific publicatio
 
 The Wikidata Workshop 2021 focuses on the challenges and opportunities of working on a collaborative open-domain knowledge graph such as Wikidata, which is edited by an international and multilingual community. We encourage submissions that observe the influence such a knowledge graph has on the web of data, as well as those working on improving this knowledge graph itself. This workshop brings together everyone working around Wikidata in both the scientific field and industry to discuss trends and topics around this collaborative knowledge graph."
 
+## Wikibase a free "empty" Wikidata
+* [wikiba.se](https://wikiba.se)
+* Show cases research
+  * [FactGrid](https://database.factgrid.de/wiki/Main_Page)  Gotha Research Centre - [video](https://media.ccc.de/v/wikidatacon2019-5-wikibase_inspiration_panel#t=2550) 20 years research on the Illuminate
+
+ <img src="https://database.factgrid.de/w/images/a/af/FactGrid-Logo.PNG" width="400" />
+
+  * ["A Quarter of a Million Items on FactGrid – just a brief reflection"](https://blog.factgrid.de/archives/2231)
+  * ["Einblicke in das interne Berichtswesen des Illuminaten-Ordens. Aus der Hand Hermann Schüttlers: 71 Dokumente der Jahre 1781 bis 1785"](https://blog.factgrid.de/archives/2032)
+  * ["The Illuminati Correspondence Fast Forward"](https://database.factgrid.de/tools/illuminati.html) using [Kepler.gl](http://Kepler.gl)  / [blog](https://blog.factgrid.de/archives/1695)
 ## Misc2
 * [ny gratis bok om KG](https://kgbook.org/)
  <img src="https://community.dataportal.se/assets/uploads/files/1638058593587-ee18c7ae-353e-4ea9-896f-2a20fb8c6abe-image.png" width="600" />
