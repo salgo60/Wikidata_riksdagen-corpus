@@ -57,7 +57,7 @@ Scholia is a service that creates visual scholarly profiles for topics, people, 
 
 
 ## Svenskt Porträtt arkiv
-* [portrattarkiv.se](https://portrattarkiv.se/about) "En person" har scannat in 880 000 bilder --> massor med bilder på Riksdagsledamöter som jag långsamt kopplar ihop med Wikidata se verktyg jag byggt till deras API [github.com/salgo60/spa2Commons](https://github.com/salgo60/spa2Commons)
+* [portrattarkiv.se](https://portrattarkiv.se/about) "En person" har scannat in 880 000 bilder --> massor med bilder på Riksdagsledamöter som jag långsamt kopplar ihop med Wikidata se verktyg jag byggt till deras API [github.com/salgo60/spa2Commons](https://github.com/salgo60/spa2Commons) [video in swedish/english](https://www.youtube.com/watch?v=aCPzWF0aYmw)
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Theodor_Adelsw%C3%A4rd_SPA27.jpg/1599px-Theodor_Adelsw%C3%A4rd_SPA27.jpg" width="600" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Erik_Abrahamsson_SPA.jpg" width="600" />
