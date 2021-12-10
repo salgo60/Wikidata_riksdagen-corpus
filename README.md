@@ -24,4 +24,5 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
      * [Q33071890](https://www.wikidata.org/wiki/Q33071890?uselang=sv) "förstakammarledamot" - [graf](https://w.wiki/4Xch) 
      * [Q81531912](https://www.wikidata.org/wiki/Q81531912?uselang=sv) "andrakammarledamot"  - [graf](https://w.wiki/4Xcf)
      * [Q10655178](https://www.wikidata.org/wiki/Q10655178?uselang=sv) "ledamot av Sveriges riksdag" - [graf](https://w.wiki/4Xcj) 
+     * [Q82697153](https://www.wikidata.org/wiki/Q82697153?uselang=sv) "ledamot av Sveriges ståndsriksdag" - [graf](https://w.wiki/4Xct) 
   * parlamentsgrupp [P4100](https://www.wikidata.org/wiki/Property:P4100)   
