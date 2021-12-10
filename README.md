@@ -97,7 +97,7 @@ The Wikidata Workshop 2021 focuses on the challenges and opportunities of workin
 
 ## Wikibase a free "empty" Wikidata
 * [wikiba.se](https://wikiba.se)
-* Show cases research
+* [Show cases](https://wikiba.se/showcase/) research
   * [FactGrid](https://database.factgrid.de/wiki/Main_Page)  Gotha Research Centre - [video](https://media.ccc.de/v/wikidatacon2019-5-wikibase_inspiration_panel#t=2550) 20 years research on the Illuminate
 
  <img src="https://database.factgrid.de/w/images/a/af/FactGrid-Logo.PNG" width="400" />
