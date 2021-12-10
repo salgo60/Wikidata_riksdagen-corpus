@@ -22,6 +22,8 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
        * [Sample Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians/Sample_Queries)
        * Andrew gray twitter [@generalising](https://twitter.com/generalising) is worth follow see example [tweet queries](https://twitter.com/generalising/status/1127156761176223744)  
    * [Wikidata:WikiProject Country subdivision](https://www.wikidata.org/wiki/Wikidata:WikiProject_Country_subdivision) "Any geographically based political division within a country is covered by this WikiProject" 
+      * [List of administrative divisions by country](https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country)
+        * [Svenska Församlingar i Wikidata](https://salgo60.github.io/Svenskaforsamlingar) 
 * The ShEx we have for Riksdagsledamöter in Wikidata [EntitySchema:E134](https://www.wikidata.org/wiki/EntitySchema:E134)
   * Video when this schema was created "[Wikipedia Weekly Network - Entity Schemas and Shape Expressions (ShEx)](https://www.youtube.com/watch?v=nM8kXuZM3lQ)"
 * Wikidata related objects for Swedish PMs
