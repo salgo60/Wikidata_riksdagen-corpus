@@ -56,3 +56,24 @@ Scholia is a service that creates visual scholarly profiles for topics, people, 
  <img src="https://lh3.googleusercontent.com/-W-Eguv9QGnM/YbLYu2dXqiI/AAAAAAAA3Z8/SiXSxxpNugIejdJeobRaIOGT_Z44Qt-5QCNcBGAsYHQ/image.png" width="600" />
 
 
+## Svenskt Porträtt arkiv
+* [portrattarkiv.se](https://portrattarkiv.se/about) "En person" har scannat in 880 000 bilder --> massor med bilder på Riksdagsledamöter som jag långsamt kopplar ihop med Wikidata se verktyg jag byggt till deras API [github.com/salgo60/spa2Commons](https://github.com/salgo60/spa2Commons)
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Theodor_Adelsw%C3%A4rd_SPA27.jpg/1599px-Theodor_Adelsw%C3%A4rd_SPA27.jpg" width="600" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Erik_Abrahamsson_SPA.jpg" width="600" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Anders_Pers_1860_SPA3.jpg" width="600" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Johan_Bergman_SPA4.jpg/1599px-Johan_Bergman_SPA4.jpg" width="600" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ingebrikt_Bergman_SPA.jpg" width="600" />
+
+## Koppla Högsta Domstolens domar till Wikidata  
+
+ * se [tweet](https://twitter.com/Belteshassar/status/1416063302669672450?s=20) / [SPARQL](https://w.wiki/3eF6) / [video](https://www.youtube.com/watch?t=5083&v=yMtP64yFKn0&feature=youtu.be9) / [lördagsintervju](https://sverigesradio.se/avsnitt/632809)
+
+ <img src="https://lh3.googleusercontent.com/-V6PE2YRp_SY/YXF7gOEdWxI/AAAAAAAA3XQ/UGZTABI-YsYUGj8C8X0skUkG600YTJ01gCLcBGAsYHQ/image.png" width="600" />
+ <img src="https://community.dataportal.se/assets/uploads/files/1637157955177-d691283b-95bf-462c-be0f-d8e998a093bb-image.png" width="600" />
+
+
+## Misc2
+* [ny gratis bok om KG](https://kgbook.org/)
+ <img src="https://community.dataportal.se/assets/uploads/files/1638058593587-ee18c7ae-353e-4ea9-896f-2a20fb8c6abe-image.png" width="600" />
+
