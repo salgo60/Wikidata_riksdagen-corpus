@@ -34,4 +34,5 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
 ## Scholia
 Scholia is a service that creates visual scholarly profiles for topics, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata - [satistics](https://scholia.toolforge.org/statistics) = 37,436,027Scholarly articles
   * latest Wikidata [related research papers](https://scholia.toolforge.org/topic/Q2013)
+     * exam ple SPARQL [co-authors graph for topic Wikidata](https://w.wiki/3Jhi) 
   * latest research paper in Wikidata [from Uppsala Uniuversity](https://scholia.toolforge.org/organization/Q185246)
