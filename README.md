@@ -21,7 +21,7 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
        * SPARQL [Vilka skriver motioner ihop i Svenska Riksdagen 2018](https://w.wiki/YF7) - [tweet](https://twitter.com/salgo60/status/1288735899346509825?s=20)
 ![](https://pbs.twimg.com/media/EeKCSw6WoAURSlW?format=png&name=medium)
  
-     * [Wikidata:WikiProject British Politicians](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians) one of the best MP project 
+     * [Wikidata:WikiProject British Politicians](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians) one of the best country MP projects 
        * [Sample Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians/Sample_Queries)
        * Andrew gray twitter [@generalising](https://twitter.com/generalising) is worth follow see example [tweet queries](https://twitter.com/generalising/status/1127156761176223744)  
    * [Wikidata:WikiProject Country subdivision](https://www.wikidata.org/wiki/Wikidata:WikiProject_Country_subdivision) "Any geographically based political division within a country is covered by this WikiProject" 
