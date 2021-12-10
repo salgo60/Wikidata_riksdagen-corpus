@@ -32,6 +32,7 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
   * parlamentsgrupp [P4100](https://www.wikidata.org/wiki/Property:P4100)   
   * ....
   * Europaparlamentariker-ID [P1186](https://www.wikidata.org/wiki/Property:P1186) --> [SPARQL nationality Swedish](https://w.wiki/4Xei) = 105
+  * Twitter property [P2002](https://www.wikidata.org/wiki/Property:P2002)  - [sparql Swedish PM](https://w.wiki/4Xep)
 * [Creating parliament charts with wikidata](https://blog.k-nut.eu/wikidata-parliament-svg)
 ## Scholia
 Scholia is a service that creates visual scholarly profiles for topics, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata - [satistics](https://scholia.toolforge.org/statistics) = 37,436,027Scholarly articles
