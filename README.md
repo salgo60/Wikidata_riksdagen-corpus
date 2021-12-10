@@ -60,10 +60,24 @@ Scholia is a service that creates visual scholarly profiles for topics, people, 
 * [portrattarkiv.se](https://portrattarkiv.se/about) "En person" har scannat in 880 000 bilder --> massor med bilder på Riksdagsledamöter som jag långsamt kopplar ihop med Wikidata se verktyg jag byggt till deras API [github.com/salgo60/spa2Commons](https://github.com/salgo60/spa2Commons) - video in [swedish/english](https://www.youtube.com/watch?v=aCPzWF0aYmw)
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Theodor_Adelsw%C3%A4rd_SPA27.jpg/1599px-Theodor_Adelsw%C3%A4rd_SPA27.jpg" width="600" />
+
+* Wikidata [Q5542641](https://www.wikidata.org/wiki/Q5542641) / bilder [Wikicommons](https://commons.wikimedia.org/wiki/Category:Theodor_Adelsw%C3%A4rd) 
+
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Erik_Abrahamsson_SPA.jpg" width="600" />
+
+* Wikidata [Q5627413](https://www.wikidata.org/wiki/Q5627413) / bilder [Wikicommons](https://commons.wikimedia.org/wiki/Category:Erik_Abrahamsson_1873) 
+
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Anders_Pers_1860_SPA3.jpg" width="600" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Johan_Bergman_SPA4.jpg/1599px-Johan_Bergman_SPA4.jpg" width="600" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ingebrikt_Bergman_SPA.jpg" width="600" />
+
+* Wikidata [Q6042371](https://www.wikidata.org/wiki/Q6042371) / bilder [Wikicommons](https://commons.wikimedia.org/wiki/Category:Anders_Pers_1860) 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Johan_Bergman_SPA4.jpg/1599px-Johan_Bergman_SPA4.jpg" width="600" />
+
+* Wikidata [Q5572691](https://www.wikidata.org/wiki/Q5572691) / bilder [Wikicommons](https://commons.wikimedia.org/wiki/Category:Johan_Bergman_1864) 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ingebrikt_Bergman_SPA.jpg" width="600" />
+
+* Wikidata [Q5572670](https://www.wikidata.org/wiki/Q5572670) / bilder [Wikicommons](https://commons.wikimedia.org/wiki/Category:Ingebrikt_Bergman) 
 
 ## Koppla Högsta Domstolens domar till Wikidata  
 
