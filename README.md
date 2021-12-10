@@ -17,6 +17,8 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
       * ""   
    * [Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents)
      * [Most common properties on a certain document type](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Most_common_properties_on_a_certain_document_type) 
+   * One of the best MP project is [Wikidata:WikiProject British Politicians](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians)
+     * [Sample Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians/Sample_Queries)  
 * The ShEx we have for Riksdagsledamöter in Wikidata [EntitySchema:E134](https://www.wikidata.org/wiki/EntitySchema:E134)
   * Video when this schema was created "[Wikipedia Weekly Network - Entity Schemas and Shape Expressions (ShEx)](https://www.youtube.com/watch?v=nM8kXuZM3lQ)"
 * Wikidata related objects to the Swedish PM
@@ -26,3 +28,4 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
      * [Q10655178](https://www.wikidata.org/wiki/Q10655178?uselang=sv) "ledamot av Sveriges riksdag" - [graf](https://w.wiki/4Xcj) 
      * [Q82697153](https://www.wikidata.org/wiki/Q82697153?uselang=sv) "ledamot av Sveriges ståndsriksdag" - [graf](https://w.wiki/4Xct) 
   * parlamentsgrupp [P4100](https://www.wikidata.org/wiki/Property:P4100)   
+* [Creating parliament charts with wikidata](https://blog.k-nut.eu/wikidata-parliament-svg)
