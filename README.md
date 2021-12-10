@@ -9,7 +9,7 @@ repository for matching Wikidata with [riksdagen-corpus](https://github.com/welf
 
 ## Misc
 * SPARQL query finding [all Wikidata external properties](https://w.wiki/4XQi) for people in Wikidata with [Property:P39](https://www.wikidata.org/wiki/Property:P39) "position held" Swedish "Riksdagen"  
-* About [integrating with Wikidata](https://github.com/salgo60/Wikidata_riksdagen-corpus/discussions/4)
+* About [integrating with Wikidata](https://github.com/salgo60/Wikidata_riksdagen-corpus/discussions/4) "Wikidata good patterns #4"
 * Interesting WIkidata projects 
    * [Wikidata:WikiProject_every_politician](https://www.wikidata.org/wiki/Wikidata:WikiProject_every_politician) 
       * "The overall aim of this WikiProject is to have complete and consistently structured data across the world on all elected representatives, from National to Local level"
