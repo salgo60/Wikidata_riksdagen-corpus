@@ -49,15 +49,16 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
 
   <img src="https://blog.k-nut.eu/static/parliament.svg" width="400" />
 
-## Scholia
+## Scholia https://scholia.toolforge.org/
 Scholia is a service that creates visual scholarly profiles for topics, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata - [satistics](https://scholia.toolforge.org/statistics) = 37,436,027Scholarly articles
-  * latest Wikidata [related research papers](https://scholia.toolforge.org/topic/Q2013)
-     * example SPARQL [co-authors graph for topic Wikidata](https://w.wiki/3Jhi) 
+  * Example
+    * latest Wikidata [related research papers](https://scholia.toolforge.org/topic/Q2013)
+      * example SPARQL [co-authors graph for topic Wikidata](https://w.wiki/3Jhi) 
  
  <img src="https://lh3.googleusercontent.com/-kwVeh3zlLww/YbLYD1ogiFI/AAAAAAAA3Z0/MKGANDsTxCQ3sXCpQid_xZQlbHfQrIangCNcBGAsYHQ/image.png" width="600" />
 
     
-  * latest research paper in Wikidata [from Uppsala University](https://scholia.toolforge.org/organization/Q185246)
+    * latest research paper in Wikidata [from Uppsala University](https://scholia.toolforge.org/organization/Q185246)
 
  <img src="https://lh3.googleusercontent.com/-W-Eguv9QGnM/YbLYu2dXqiI/AAAAAAAA3Z8/SiXSxxpNugIejdJeobRaIOGT_Z44Qt-5QCNcBGAsYHQ/image.png" width="600" />
 
