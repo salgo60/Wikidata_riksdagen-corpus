@@ -26,7 +26,7 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
        * SPARQL [birth and death places WIkidata has for Swedish MPs ](https://w.wiki/4XiX) see [video](https://www.youtube.com/watch?v=4__-DddldCw)
        
    <img src="https://lh3.googleusercontent.com/-RyM_7CgAT_Q/YbMdybZnaII/AAAAAAAA3aM/MHGb7MpK9VEqYwXu0zjXux9ILo5EG-BfgCNcBGAsYHQ/image.png" width="400" />
-
+    
      * [Wikidata:WikiProject British Politicians](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians) one of the best country MP projects 
        * [Sample Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_British_Politicians/Sample_Queries)
        * Andrew gray twitter [@generalising](https://twitter.com/generalising) is worth follow see example [tweet queries](https://twitter.com/generalising/status/1127156761176223744)  
@@ -101,7 +101,11 @@ Scholia is a service that creates visual scholarly profiles for topics, people, 
 In recent years, we have seen an increase in the number of scientific publications around Wikidata. While there are a number of venues for the Wikidata community to exchange, none of those publish original research. We want to bridge the gap between these communities and the research events and give the research-focused part of the Wikidata community a venue to meet and exchange information and knowledge.
 
 The Wikidata Workshop 2021 focuses on the challenges and opportunities of working on a collaborative open-domain knowledge graph such as Wikidata, which is edited by an international and multilingual community. We encourage submissions that observe the influence such a knowledge graph has on the web of data, as well as those working on improving this knowledge graph itself. This workshop brings together everyone working around Wikidata in both the scientific field and industry to discuss trends and topics around this collaborative knowledge graph."
+## Histropedia Timeline
+[Histropedia](http://histropedia.com/) tool using Wikidata to displays timelines
 
+![](https://lh3.googleusercontent.com/-gZhQUentEos/YbVhHEawN_I/AAAAAAAA3aU/JSgq0jPXgSEgpoYqxWEV7VG4pXvpHj3-gCNcBGAsYHQ/image.png)
+* example [Swedish PM in Wikidata on a timeline](http://www.histropedia.com/showcase/wikidata-viewer.html?q=SELECT%20?person%20?personLabel%20%0A(SAMPLE(?birth_date)%20AS%20?birth_date)%20%0A(SAMPLE(?death_date)%20AS%20?death_date)%20%0A(SAMPLE(?image)%20AS%20?image)%20%0A(SAMPLE(?party)%20AS%20?party)%20%0A(COUNT(?article)%20AS%20?rank)%20%0A?article%0A%0AWHERE%20%7B%0A%7B%0A%20%20%20%20%7B%20?person%20wdt:P39%20wd:Q81531912.%20%7D%0A%20%20%20%20UNION%0A%20%20%20%20%7B%20?person%20wdt:P39%20wd:Q33071890.%20%7D%0A%20%20%20%20UNION%0A%20%20%20%20%7B%20?person%20wdt:P39%20wd:Q82697153.%20%7D%0A%20%20%20%20UNION%0A%20%20%20%20%7B%20?person%20wdt:P39%20wd:Q10655178.%20%7D%0A%20%20%7D%0A?person%20p:P569/psv:P569%20?birth_date_node%20.%0A?birth_date_node%20wikibase:timeValue%20?birth_date%20.%20%0A?birth_date_node%20wikibase:timePrecision%20?birth_date_precision.%0A%0AOPTIONAL%20%7B%20%0A?person%20p:P570/psv:P570%20?death_date_node.%0A?death_date_node%20wikibase:timeValue%20?death_date%20.%0A%7D%0A%0AOPTIONAL%20%7B%20%0A?person%20p:P570/psv:P570%20?death_date_node.%0A?death_date_node%20wikibase:timeValue%20?death_date%20.%0A%7D%0A%0AOPTIONAL%20%7B%20?person%20wdt:P18%20?image%7D%0A%20%20%0AOPTIONAL%7B%0A?person%20wdt:P102%20?partyid.%20%0A?partyid%20rdfs:label%20?party.%0AFILTER((LANG(?party))%20%3D%20%22sv%22)%0A%7D%0A%20OPTIONAL%20%7B%0A%20%20%20%20%20%20?article%20schema:about%20?person%20.%0A%20%20%20%20%20%20?article%20schema:inLanguage%20%22sv%22%20.%0A%20%20%20%20%20%20?article%20schema:isPartOf%20%3Chttps://sv.wikipedia.org/%3E%20.%0A%20%20%20%20%7D%20%20%0ASERVICE%20wikibase:label%20%7B%20bd:serviceParam%20wikibase:language%20%22sv%22,%22en%22.%20%7D%0A%7D%0AGROUP%20BY%20?person%20?personLabel%20?article%0A%0AORDER%20BY%20DESC(?rank)%0A&d=2&md=true&g=person&l=article&t=personLabel&s=birth_date&e=death_date&i=image&r=rank&c=party&f=party&v=t)
 ## Wikibase a free "empty" Wikidata
 * [wikiba.se](https://wikiba.se)
 * [Show cases](https://wikiba.se/showcase/) research
