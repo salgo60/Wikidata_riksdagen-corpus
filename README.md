@@ -139,7 +139,7 @@ The Wikidata Workshop 2021 focuses on the challenges and opportunities of workin
  <img src="https://community.dataportal.se/assets/uploads/files/1638058593587-ee18c7ae-353e-4ea9-896f-2a20fb8c6abe-image.png" width="600" />
 
 ## Next step 
-### opinions i Wikidata
+### Opinions in Wikidata
 I would like to see that we not just describe birth, death about a person but also opinions with sources as Linked data
 * Example a person in the Swedish Parliament who has [Q28528178](https://www.wikidata.org/wiki/Q28528178) "racist" opinions
    * [Q5573026](https://www.wikidata.org/wiki/Q5573026) "Olof Bergqvist" 
