@@ -132,6 +132,8 @@ The Wikidata Workshop 2021 focuses on the challenges and opportunities of workin
   * ["The Illuminati Correspondence Fast Forward"](https://database.factgrid.de/tools/illuminati.html) using [Kepler.gl](http://Kepler.gl)  / [blog](https://blog.factgrid.de/archives/1695)
 
 * Announced is a Cloud version see [tweets](https://twitter.com/search?q=wikibase.cloud&f=live)
+
+* [list of some implementations of Wikibase](https://airtable.com/shrDDdBmiBuHNtmSF/tblawy0LDa6V5ffCU)
 ## Misc2
 * [ny gratis bok om KG](https://kgbook.org/)
  <img src="https://community.dataportal.se/assets/uploads/files/1638058593587-ee18c7ae-353e-4ea9-896f-2a20fb8c6abe-image.png" width="600" />
