@@ -136,10 +136,13 @@ The Wikidata Workshop 2021 focuses on the challenges and opportunities of workin
 * [ny gratis bok om KG](https://kgbook.org/)
  <img src="https://community.dataportal.se/assets/uploads/files/1638058593587-ee18c7ae-353e-4ea9-896f-2a20fb8c6abe-image.png" width="600" />
 
-## Next step - opinions
+## Next step 
+### opinions i Wikidata
 I would like to see that we not just describe birth, death about a person but also opinions with sources as Linked data
 * Example a person in the Swedish Parliament who has [Q28528178](https://www.wikidata.org/wiki/Q28528178) "racist" opinions
    * [Q5573026](https://www.wikidata.org/wiki/Q5573026) "Olof Bergqvist" 
       *  [SVT](https://www.svt.se/nyheter/lokalt/norrbotten/biskopens-gata-kan-byta-namn-kranker-urfolken-och-samerna) "Gata i Gällivare kan få nytt namn – döpt efter rasistisk biskop"
       * "[Rastänkande och särskiljande av samer*](https://www.svenskakyrkan.se/filer/29%20Oscarsson.pdf)" 
       * Swedish SBL - Band 03 (1922), [page 655](https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18653) dont mention this how do we describe that as linked data
+### Enriching Claim Reviews - Sharing Experience From Factchecking
+* see "[Enriching Claim Reviews - Sharing Experience From Factchecking](http://blog.schema.org/2021/12/enriching-claim-reviews-sharing.html)"
