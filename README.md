@@ -141,3 +141,5 @@ I would like to see that we not just describe birth, death about a person but al
 * Example a person in the Swedish Parliament who has [Q28528178](https://www.wikidata.org/wiki/Q28528178) "racist" opinions
    * [Q5573026](https://www.wikidata.org/wiki/Q5573026) "Olof Bergqvist" 
       *  [SVT](https://www.svt.se/nyheter/lokalt/norrbotten/biskopens-gata-kan-byta-namn-kranker-urfolken-och-samerna) "Gata i Gällivare kan få nytt namn – döpt efter rasistisk biskop"
+      * "[Rastänkande och särskiljande av samer*](https://www.svenskakyrkan.se/filer/29%20Oscarsson.pdf)" 
+      * Swedish SBL - Band 03 (1922), [page 655](https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18653) dont mention this how do we describe that as linked data
