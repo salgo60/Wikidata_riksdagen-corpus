@@ -149,3 +149,8 @@ I would like to see that we not just describe birth, death about a person but al
 ### Enriching Claim Reviews - Sharing Experience From Factchecking
 * see "[Enriching Claim Reviews - Sharing Experience From Factchecking](http://blog.schema.org/2021/12/enriching-claim-reviews-sharing.html)"
    * [schema.org ClaimReview](https://schema.org/ClaimReview)
+### Document signficant persons, mentors...
+* [Svenskt kvinnobiografiskt lexikon SKBL](https://skbl.se/en/about-skbl) has added sections about signficant persons
+   * Example [Alva Myrdal SKBL](https://skbl.se/en/article/AlvaMyrdal) [json](https://skbl.se/en/article/AlvaMyrdal.json) / [Wikidata graf](https://w.wiki/4YMZ)  
+       ![](https://lh3.googleusercontent.com/-mH1LoXO74Ao/Ybbs-FEYzII/AAAAAAAA3bA/ijdhP8sQiBwkLkJ5HlGGFmtFI5KNi-EQACNcBGAsYHQ/image.png)
+       ![](https://lh3.googleusercontent.com/-HB8-__hTp7I/YbbszHpMqdI/AAAAAAAA3a8/esO_ENioTpsyS-GhD1m-2U4skQQ4WA-0gCNcBGAsYHQ/image.png)
