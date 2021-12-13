@@ -146,3 +146,4 @@ I would like to see that we not just describe birth, death about a person but al
       * Swedish SBL - Band 03 (1922), [page 655](https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18653) dont mention this how do we describe that as linked data
 ### Enriching Claim Reviews - Sharing Experience From Factchecking
 * see "[Enriching Claim Reviews - Sharing Experience From Factchecking](http://blog.schema.org/2021/12/enriching-claim-reviews-sharing.html)"
+   * [schema.org ClaimReview](https://schema.org/ClaimReview)
