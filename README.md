@@ -136,3 +136,8 @@ The Wikidata Workshop 2021 focuses on the challenges and opportunities of workin
 * [ny gratis bok om KG](https://kgbook.org/)
  <img src="https://community.dataportal.se/assets/uploads/files/1638058593587-ee18c7ae-353e-4ea9-896f-2a20fb8c6abe-image.png" width="600" />
 
+## Next step - opinions
+I would like to see that we not just describe birth, death about a person but also opinions with sources as Linked data
+* Example a person in the Swedish Parliament who has [Q28528178](https://www.wikidata.org/wiki/Q28528178) "racist" opinions
+   * [Q5573026](https://www.wikidata.org/wiki/Q5573026) "Olof Bergqvist" 
+      *  [SVT](https://www.svt.se/nyheter/lokalt/norrbotten/biskopens-gata-kan-byta-namn-kranker-urfolken-och-samerna) "Gata i Gällivare kan få nytt namn – döpt efter rasistisk biskop"
