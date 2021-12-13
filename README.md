@@ -50,9 +50,9 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
   <img src="https://blog.k-nut.eu/static/parliament.svg" width="400" />
 
 ## Scholia https://scholia.toolforge.org/
-Scholia is a service that creates visual scholarly profiles for topics, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata - [satistics](https://scholia.toolforge.org/statistics) = 37,436,027Scholarly articles
+Scholia is a service that creates visual scholarly profiles for topics, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata - [statistics](https://scholia.toolforge.org/statistics) = 37,436,027Scholarly articles
   * Example
-    * latest Wikidata [related research papers](https://scholia.toolforge.org/topic/Q2013)
+    * latest Wikidata [related research papers](https://scholia.toolforge.org/topic/Q2013) 
       * example SPARQL [co-authors graph for topic Wikidata](https://w.wiki/3Jhi) 
  
  <img src="https://lh3.googleusercontent.com/-kwVeh3zlLww/YbLYD1ogiFI/AAAAAAAA3Z0/MKGANDsTxCQ3sXCpQid_xZQlbHfQrIangCNcBGAsYHQ/image.png" width="600" />
