@@ -57,8 +57,7 @@ Scholia is a service that creates visual scholarly profiles for topics, people, 
  
  <img src="https://lh3.googleusercontent.com/-kwVeh3zlLww/YbLYD1ogiFI/AAAAAAAA3Z0/MKGANDsTxCQ3sXCpQid_xZQlbHfQrIangCNcBGAsYHQ/image.png" width="600" />
 
-    
-    * latest research paper in Wikidata [from Uppsala University](https://scholia.toolforge.org/organization/Q185246)
+* latest research paper in Wikidata [from Uppsala University](https://scholia.toolforge.org/organization/Q185246)
 
  <img src="https://lh3.googleusercontent.com/-W-Eguv9QGnM/YbLYu2dXqiI/AAAAAAAA3Z8/SiXSxxpNugIejdJeobRaIOGT_Z44Qt-5QCNcBGAsYHQ/image.png" width="600" />
 
