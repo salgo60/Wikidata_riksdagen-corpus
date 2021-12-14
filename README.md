@@ -159,6 +159,8 @@ I would like to see that we not just describe birth, death about a person but al
        ![](https://lh3.googleusercontent.com/-mH1LoXO74Ao/Ybbs-FEYzII/AAAAAAAA3bA/ijdhP8sQiBwkLkJ5HlGGFmtFI5KNi-EQACNcBGAsYHQ/image.png)
        ![](https://lh3.googleusercontent.com/-HB8-__hTp7I/YbbszHpMqdI/AAAAAAAA3a8/esO_ENioTpsyS-GhD1m-2U4skQQ4WA-0gCNcBGAsYHQ/image.png)
 ### "One click" - find all decisions in Europe regarding AI strategies
+Can we classify all parliament documents to do them more findable?
+ 
 [Paul-Olivier Dehaye](https://twitter.com/podehaye?lang=en) the person behind [Cambridge Analytica scandal](https://www.thelocal.ch/20180411/how-a-swiss-based-mathematician-helped-lift-the-lid-on-the-facebook-data-scandal/) has the vision that with one click [tweet](https://twitter.com/salgo60/status/1321253963946250248?s=20)
 
 ![](https://lh3.googleusercontent.com/-RVcQzeq31E8/YbgCdLLfC2I/AAAAAAAA3bU/z76TY1uyXSQX5f6SW2b-tl81v8HXf9ZEgCNcBGAsYHQ/image.png)
