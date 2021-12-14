@@ -133,6 +133,8 @@ The Wikidata Workshop 2021 focuses on the challenges and opportunities of workin
   * ["Einblicke in das interne Berichtswesen des Illuminaten-Ordens. Aus der Hand Hermann Schüttlers: 71 Dokumente der Jahre 1781 bis 1785"](https://blog.factgrid.de/archives/2032)
   * ["The Illuminati Correspondence Fast Forward"](https://database.factgrid.de/tools/illuminati.html) using [Kepler.gl](http://Kepler.gl)  / [blog](https://blog.factgrid.de/archives/1695)
 
+ <img src="https://blog.factgrid.de/wp-content/uploads/2019/09/screenshot-Illuminatenkorrespondenz.png" width="400" />
+
 * Announced is a Cloud version see [tweets](https://twitter.com/search?q=wikibase.cloud&f=live)
 
 * [list of some implementations of Wikibase](https://airtable.com/shrDDdBmiBuHNtmSF/tblawy0LDa6V5ffCU)
