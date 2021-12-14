@@ -1,5 +1,7 @@
 # Wikidata / riksdagen-corpus
-repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) with [riksdagen-corpus](https://github.com/welfare-state-analytics/riksdagen-corpus)
+repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) with the [Welfare State Analytics project](https://www.westac.se/en/) and the [riksdagen-corpus](https://github.com/welfare-state-analytics/riksdagen-corpus)
+
+![](https://lh3.googleusercontent.com/-z8P467ttHEk/Ybf9SpkK1pI/AAAAAAAA3bM/Kso3c_zmTMw_lSOoGPg_JKHL0MQ0WAjJQCNcBGAsYHQ/image.png)
 
 1. I will use [Open Refine](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine) and match with Wikidata
 1. The plan  
