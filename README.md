@@ -5,11 +5,12 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
 
 ## News 
 * small test with 3037 lines matched with Wikidata se [members_of_parliament WD 20211217.csv](https://github.com/salgo60/Wikidata_riksdagen-corpus/blob/main/data/members_of_parliament%20WD%2020211217.csv)
-  * when exporin I added Wikidata qnummer 
-  * [P2002](https://www.wikidata.org/wiki/Property:P2002?uselang=sv) - Twitteraccount we have in Wikidata for Swedish PM
-  * [P1214](https://www.wikidata.org/wiki/Property:P1214?uselang=sv) - The old id in the Swedish PM that you have ""Riksdagens person-id"
-  * [P8388](https://www.wikidata.org/wiki/Property:P8388?uselang=sv) -  The new id in the Swedish PM "Riksdagen person GUID"
-  * [P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) - "Svenskt Biografiskt Lexikon-ID"
+  * when exporting I added the following columns from Wikidata
+     * Wikidata qnummer 
+     * [P2002](https://www.wikidata.org/wiki/Property:P2002?uselang=sv) - Twitteraccount we have in Wikidata for Swedish PM
+     * [P1214](https://www.wikidata.org/wiki/Property:P1214?uselang=sv) - The old id in the Swedish PM that you have ""Riksdagens person-id"
+     * [P8388](https://www.wikidata.org/wiki/Property:P8388?uselang=sv) -  The new id in the Swedish PM "Riksdagen person GUID"
+     * [P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) - "Svenskt Biografiskt Lexikon-ID"
 # Planned activities
 1. I will use [Open Refine](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine) and match with Wikidata
 1. The plan  
