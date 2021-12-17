@@ -4,7 +4,7 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
 ![](https://lh3.googleusercontent.com/-z8P467ttHEk/Ybf9SpkK1pI/AAAAAAAA3bM/Kso3c_zmTMw_lSOoGPg_JKHL0MQ0WAjJQCNcBGAsYHQ/image.png)
 
 ## News 
-* **2021-12-17** small test with 3037 lines matched with Wikidata se [members_of_parliament WD 20211217.csv](https://github.com/salgo60/Wikidata_riksdagen-corpus/blob/main/data/members_of_parliament%20WD%2020211217.csv)
+* **2021-12-17** small test with 3037 lines matched with Wikidata see [members_of_parliament WD 20211217.csv](https://github.com/salgo60/Wikidata_riksdagen-corpus/blob/main/data/members_of_parliament%20WD%2020211217.csv)
   * when exporting I added the following columns from Wikidata
      * Wikidata qnumber 
      * [P2002](https://www.wikidata.org/wiki/Property:P2002?uselang=sv) - Twitteraccount we have in Wikidata for Swedish PM
