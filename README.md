@@ -11,6 +11,11 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
      * [P1214](https://www.wikidata.org/wiki/Property:P1214?uselang=sv) - The old id in the Swedish PM that you have ""Riksdagens person-id"
      * [P8388](https://www.wikidata.org/wiki/Property:P8388?uselang=sv) -  The new id in the Swedish PM "Riksdagen person GUID"
      * [P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) - "Svenskt Biografiskt Lexikon-ID"
+  * other candidates to be added
+     * External properties for Swedish PM in Wikidata [query](https://w.wiki/4aAm) [sv](https://w.wiki/4XQi) = 329 properties
+        * External properties for Swedish PM in Wikidata related to politicians [query](https://w.wiki/4aAh) [sv](https://w.wiki/4aAY) = 8 properties
+        * External properties for Swedish PM in Wikidata that are Swedish [query](https://w.wiki/4aAj) [sv](https://w.wiki/4aAZ) = 37 properties
+     * Wikidata (not external) properties for Swedish PM in Wikidata [query](https://w.wiki/4aAf) [sv](url) = 118 properties  
 # Planned activities
 1. I will use [Open Refine](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine) and match with Wikidata
 1. The plan  
