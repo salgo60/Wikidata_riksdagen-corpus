@@ -16,6 +16,8 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
         * External properties for Swedish PM in Wikidata related to politicians [query](https://w.wiki/4aAh) [sv](https://w.wiki/4aAY) = 8 properties
         * External properties for Swedish PM in Wikidata that are Swedish [query](https://w.wiki/4aAj) [sv](https://w.wiki/4aAZ) = 37 properties
      * Wikidata (not external) properties for Swedish PM in Wikidata [query](https://w.wiki/4aAf) [sv](url) = 118 properties  
+     * Position helds [en](https://w.wiki/4aAp) [sv](https://w.wiki/4aAq)
+     * Member of parties [en](https://w.wiki/4aAt) [sv](https://w.wiki/4aAs)
 # Planned activities
 1. I will use [Open Refine](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine) and match with Wikidata
 1. The plan  
