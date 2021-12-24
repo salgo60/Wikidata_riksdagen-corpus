@@ -183,3 +183,10 @@ Can we classify all parliament documents to do them more findable?
 ![](https://lh3.googleusercontent.com/-RVcQzeq31E8/YbgCdLLfC2I/AAAAAAAA3bU/z76TY1uyXSQX5f6SW2b-tl81v8HXf9ZEgCNcBGAsYHQ/image.png)
 
 2019 I meet the Swedish parlament IT people 2019 ([T235527#5615454](https://phabricator.wikimedia.org/T235527#5615454)) and they had 2019 plans on using the  [Eurovoc](https://en.wikipedia.org/wiki/EuroVoc) a multilingual thesaurus maintained by the Publications Office of the European Union (Wikidata [Property:P5437](https://wikidata.org/wiki/Property:P5437) looks like nothing was done
+
+# More Parliamntary related data
+* [Parliamentary Corpora in the CLARIN infrastructure ](https://ep.liu.se/ecp/147/007/ecp17147007.pdf)
+* [pyparlaclarin](https://welfare-state-analytics.github.io/pyparlaclarin/pyparlaclarin)
+* Welfare state: 
+  * [Google Colab notebook](https://colab.research.google.com/drive/1C3e2gwi9z83ikXbYXNPfB6RF7spTgzxA?usp=sharing)
+* [Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup](https://drops.dagstuhl.de/opus/volltexte/2021/14544/pdf/OASIcs-LDK-2021-8.pdf) 
