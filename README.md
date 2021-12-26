@@ -192,3 +192,4 @@ Can we classify all parliament documents to do them more findable?
 * Welfare state: 
   * [Google Colab notebook](https://colab.research.google.com/drive/1C3e2gwi9z83ikXbYXNPfB6RF7spTgzxA?usp=sharing)
 * [Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup](https://drops.dagstuhl.de/opus/volltexte/2021/14544/pdf/OASIcs-LDK-2021-8.pdf) 
+* [hansard.hud.ac.uk/](https://hansard.hud.ac.uk/) substantially verbatim report of what was said in both houses of Parliament between 1803-2021 through various search functions and interactive visualisations.
