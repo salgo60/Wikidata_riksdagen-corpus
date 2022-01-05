@@ -5,7 +5,7 @@ repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) 
 
 ## News 
 * **2022-01-04** the special name form used for the Swedish PM is now decided to also be moved down to Wikidata and accessable as [SPARQL questions](https://w.wiki/4dqM) and a Wikipedia [template](https://sv.wikipedia.org/wiki/Mall:Iriksdagenkallad), primary source used in the beginning are the books ["Tvåkammar-riksdagen 1867-"](https://portrattarkiv.se/advancedsearch;facts=PortraitCatalog:Tv%C3%A5kammar-riksdagen%201867-)
-
+   * [video](https://www.youtube.com/watch?v=ovrIeyC4gsk) how this is implemented
 * **2021-12-24** [Notebook](https://github.com/salgo60/Wikidata_riksdagen-corpus/blob/main/Notebook/Sveriges%20Riksdag%20i%20SPA.ipynb) with scanned pictures of Swedish PM at [portrattarkiv.se](https://portrattarkiv.se/)
 * **2021-12-17** small test with 3037 lines matched with Wikidata see [members_of_parliament WD 20211217.csv](https://github.com/salgo60/Wikidata_riksdagen-corpus/blob/main/data/members_of_parliament%20WD%2020211217.csv)
   * when exporting I added the following columns from Wikidata
