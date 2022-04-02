@@ -781,10 +781,11 @@ Edin i Östersund, Svea M, 5:294
 Edin i Junsele, Sven, 5:214
 Edlund i Västerås, Dag R, 1:430
 Edlund i Stockholm, Erik, 1:76
-Edsbäcker i Bohus, K Theodor, 4:218 Edström i Lund, Gunnar O, 3:208
-Edsbäcker i Nordmaling, Gustaf R, 5:347
-Edsbäcker i Knista, Johan F, 4:478
-Edsbäcker i Göteborg, Walter S, 4:77
+Edsbäcker i Bohus, K Theodor, 4:218 
+Edström i Lund, Gunnar O, 3:208
+Edström i Nordmaling, Gustaf R, 5:347
+Edström i Knista, Johan F, 4:478
+Edström i Göteborg, Walter S, 4:77
 Egnell i Locketorp, E Wiktor, 4:314 
 Ehrenborg i Hässleholm, Casper G S, 3:115
 Ehrenborg i Kråk, Richard M, 4:479
@@ -860,8 +861,7 @@ Elmvall i Björkhult, B Emil, 1:366
 Elofsson i Vä, Gustaf S, 3:117
 Elowson i Karlstad, Gullbrand, 4:398
 Elowsson i Kristianstad, Nils J, 3:118
-Emthén i Höven, senare Marsta, K Oswald,
-5:215
+Emthén i Höven, senare Marsta, K Oswald, 5:215
 Enander i Borås, A Johan, 4:220
 — i Lillhärdal, S Johan, 5:294
 Enarsson i Laxarby, J O Arvid, 4:220 Enderstedt i Borås, H Mauritz E, 4:220
