@@ -2727,137 +2727,131 @@ Perman i Fränsta, Olof, 5:250
 Permansson i Erikslund, Johan, 5:250
 Pers i Västerås, Anders, 5:84
 Persson i Björsbyholm, N Alfred, 4:432 
-— i Mörarp, Anders, 3:257
-— i Tofta, Anders, 2:397
-— i Vä, Anders, 3:145
-— i Heden, N Arne, 4:263
-— i Rinna, August, 4:264
-— i Halmstad, Bror W, 2:398
-— i Stallerhult, Carl, 4:344
-— i Gärstad, Carl J, 2:95
-— i Tällberg, Daniel, 5:84
-— i Älvdalsåsen, G V Einar, 5:85
-— i Borrby, Esbjörn, 3:146
-— i Växjö, senare Stockholm, Fritz J H, 2:229 
-— i Falla, Gunnar, 4:506
-— i Luleå, O Helmer, 5:432
-— i Skabersjö, Ivar, 3:257
-— i Arboga, Jakob, 1:448
-— i Tidaholm, Johan A L, 4:344
-— i Östervåla, Johan G, 1:449
-— i Grysshult, Jöns, 2:230
-— i Västervik, Jöns, 2:300
-— i Bjära, Karl R, 3:146
-— i Hjulsta, Lars, 1:449
-— i Häljebol, Lars, 4:432
-— i Grytterud, Nils, 4:433
-— i Helsingborg, Nils, 3:258
-— i Malmö, Nils, 3:258
-— i Svensköp, Nils, 3:259
-— i Vadensjö, Nils, 3:259
-— i Rinkaby, Ola, 3:146
-— i Landafors, Ola F, 4:136, 5:164
-— i Örkelljunga, senare Killebäckstorp, Olof,
-3:147
-— i Tandö, K Olof, 5:85
-— i Plöninge, Otto S, 3:259
-— i Norrby, Per, 5:165
-— i Trången, Per, 5:309
-— i Tofta, Perjohan, 2:398
-— i Undersvik, senare Tomterna, Per L, 5:165 
-— i Hult, J Peter, 2:230
-— i Stora Isie, Petter, 3:260
-— i Vinberg, Ragnar V, 2:398
-— i Stockholm, Set E, 1:161
-— i Fritorp, Swen, 3:147
-— i Stockholm, senare Norrköping, Sven, 1:161,
-2:95
-— i Appuna, Sven G F, 2:96
-— i Romna, Yngve B, 3:260
-— i Stockholm, E Yngve, 1:162
+Persson i Mörarp, Anders, 3:257
+Persson i Tofta, Anders, 2:397
+Persson i Vä, Anders, 3:145
+Persson i Heden, N Arne, 4:263
+Persson i Rinna, August, 4:264
+Persson i Halmstad, Bror W, 2:398
+Persson i Stallerhult, Carl, 4:344
+Persson i Gärstad, Carl J, 2:95
+Persson i Tällberg, Daniel, 5:84
+Persson i Älvdalsåsen, G V Einar, 5:85
+Persson i Borrby, Esbjörn, 3:146
+Persson i Växjö, senare Stockholm, Fritz J H, 2:229 
+Persson i Falla, Gunnar, 4:506
+Persson i Luleå, O Helmer, 5:432
+Persson i Skabersjö, Ivar, 3:257
+Persson i Arboga, Jakob, 1:448
+Persson i Tidaholm, Johan A L, 4:344
+Persson i Östervåla, Johan G, 1:449
+Persson i Grysshult, Jöns, 2:230
+Persson i Västervik, Jöns, 2:300
+Persson i Bjära, Karl R, 3:146
+Persson i Hjulsta, Lars, 1:449
+Persson i Häljebol, Lars, 4:432
+Persson i Grytterud, Nils, 4:433
+Persson i Helsingborg, Nils, 3:258
+Persson i Malmö, Nils, 3:258
+Persson i Svensköp, Nils, 3:259
+Persson i Vadensjö, Nils, 3:259
+Persson i Rinkaby, Ola, 3:146
+Persson i Landafors, Ola F, 4:136, 5:164
+Persson i Örkelljunga, senare Killebäckstorp, Olof, 3:147
+Persson i Tandö, K Olof, 5:85
+Persson i Plöninge, Otto S, 3:259
+Persson i Norrby, Per, 5:165
+Persson i Trången, Per, 5:309
+Persson i Tofta, Perjohan, 2:398
+Persson i Undersvik, senare Tomterna, Per L, 5:165 
+Persson i Hult, J Peter, 2:230
+Persson i Stora Isie, Petter, 3:260
+Persson i Vinberg, Ragnar V, 2:398
+Persson i Stockholm, Set E, 1:161
+Persson i Fritorp, Swen, 3:147
+Persson i Stockholm, senare Norrköping, Sven, 1:161, 2:95
+Persson i Appuna, Sven G F, 2:96
+Persson i Romna, Yngve B, 3:260
+Persson i Stockholm, E Yngve, 1:162
 af Petersens i Sävsjöström, Gösta H, 2:230 
 Peterson i Hasselstad, August, 3:71
-— i Karlskrona, P H Gustaf, 3:72 
-— i Kvissberg, Johan Alfred, 2:96
+Peterson i Karlskrona, P H Gustaf, 3:72 
+Peterson i Kvissberg, Johan Alfred, 2:96
 Petersson i Lidingö villastad, G Albert, 1:262 
-— i Gärestad, H Alfred, 3:72
-— i Påboda, P Alfred, 1:262, 2:301, 5:166
-— i Tuna, C August, 2:96
-— i Hamra, Axel E, 2:97
-— i Nybro, G Å Bertil, 2:301
-— i Lerbäcksbyn, A Birger, 4:264 
-— i Dänningelanda, Carl F, 2:231 
-— i Eksebo, Carl Johan, 2:301
-— i Storegården, J Edvard, 3:72 
-— i Karlskrona, Emil, 3:73
-— i Gäddvik, P Emil, 5:433
-— i Linköping, Eric G H, 2:97
-— i Alvesta, Erik F T, 2:231
-— i Ugglekull, A Fredrik, 2:232 
-— i Möllstorp, O Fredrik, 2:302 
-— i Röstånga, Hans E, 3:260
-— i Boestad, Johan, 2:232
-— i Borås, Johannes, 4:264
-— i Göteborg, Knut Z, 4:137
-— i Leksand, E Lorents, 5:86
-— i Broaryd, M Lucas, 2:176
-— i Runtorp, Nils, 2:302
-— i Lindekullen, P Otto, 2:97
-— i Brystorp, Per Gustaf, 2:98
-— i Gäddvik, Per M, 5:433
-— i Surahammar, Peter, 1:449
-— i Ugglekull, Peter, 2:232
-— i Skurö, B A Robert, 2:302
-— i Snällebo, Sven Magnus, 2:303
+Petersson i Gärestad, H Alfred, 3:72
+Petersson i Påboda, P Alfred, 1:262, 2:301, 5:166
+Petersson i Tuna, C August, 2:96
+Petersson i Hamra, Axel E, 2:97
+Petersson i Nybro, G Å Bertil, 2:301
+Petersson i Lerbäcksbyn, A Birger, 4:264 
+Petersson i Dänningelanda, Carl F, 2:231 
+Petersson i Eksebo, Carl Johan, 2:301
+Petersson i Storegården, J Edvard, 3:72 
+Petersson i Karlskrona, Emil, 3:73
+Petersson i Gäddvik, P Emil, 5:433
+Petersson i Linköping, Eric G H, 2:97
+Petersson i Alvesta, Erik F T, 2:231
+Petersson i Ugglekull, A Fredrik, 2:232 
+Petersson i Möllstorp, O Fredrik, 2:302 
+Petersson i Röstånga, Hans E, 3:260
+Petersson i Boestad, Johan, 2:232
+Petersson i Borås, Johannes, 4:264
+Petersson i Göteborg, Knut Z, 4:137
+Petersson i Leksand, E Lorents, 5:86
+Petersson i Broaryd, M Lucas, 2:176
+Petersson i Runtorp, Nils, 2:302
+Petersson i Lindekullen, P Otto, 2:97
+Petersson i Brystorp, Per Gustaf, 2:98
+Petersson i Gäddvik, Per M, 5:433
+Petersson i Surahammar, Peter, 1:449
+Petersson i Ugglekull, Peter, 2:232
+Petersson i Skurö, B A Robert, 2:302
+Petersson i Snällebo, Sven Magnus, 2:303
 Petre i Hofors, K Casimir, 5:166
-— i Hofors, H Hjalmar, 5:167
-— i Gävle, Janne W, 5:167
-Petrén i Stockholm, senare Uppsala, D Alfred,
-5:86
-— i Kristianstad, senare Stockholm o Ystad,
-Bror A, 3:147
-— i Västerås, B E Folke, 1:450
+Petre i Hofors, H Hjalmar, 5:167
+Petre i Gävle, Janne W, 5:167
+Petrén i Stockholm, senare Uppsala, D Alfred, 5:86
+Petrén i Kristianstad, senare Stockholm o Ystad, Bror A, 3:147
+Petrén i Västerås, B E Folke, 1:450
 Petri i Eksjö, E Axel, 2:176
-Petterson iDegerfors, K Göran, 4:507 
-— i Fållinge Ågård, S Malkolm, 2:177 
+Petterson i Degerfors, K Göran, 4:507 
+Petterson i Fållinge Ågård, S Malkolm, 2:177 
 Pettersson i Vråtsered, Alfred, 4:264 
-— i Sibbarp, Anders F, 3:260
-— i Dahl, Anders P, 2:399
-— i Västerås, P Anton, 1:450, 3:73
-
- — i Malmö, S Arne, 3:261
-— i Österhaninge, August T, 1:263
-— i Köping, August Wilhelm, 1:451
-— i Sundborn, Carl F, 5:87
-— i Åby, Carl Johan, 2:98
-— i Bjälbo, David H, 2:98
-— i Ersbacken, Erik A, 5:87
-— i Tjärsta, Fredric, 1:389
-— i Uddevalla, senare Jönköping, Fredrik E
-2:177, 4:137
-— i Visby, A Georg, 2:343
-— i Örebro, A Georg, 4:507
-— i Kungälv, Gunnar, 4:507
-— i Hällbacken, Gustaf K, 5:88
-— i Kvänum, Harald A I, 4:345
-— i Stäringe, senare Rosta, Ivar J, 4:508 
-— i Södertälje, Jakob G, 1:263
-— i Alvesta, Johan, 2:232
-— i Stora Kil, Johannes, 4:433
-— i Sävsjö Norregård, John W, 2:177
-— i Stugun, Karl, 5:310
-— i Hallsberg, Karl G, 4:508
-— i Lund, N Lennart, 3:261
-— i Småkulla, Olaus, 4:265
-— i Rättvik, Per, 5:88
+Pettersson i Sibbarp, Anders F, 3:260
+Pettersson i Dahl, Anders P, 2:399
+Pettersson i Västerås, P Anton, 1:450, 3:73
+Pettersson i Malmö, S Arne, 3:261
+Pettersson i Österhaninge, August T, 1:263
+Pettersson i Köping, August Wilhelm, 1:451
+Pettersson i Sundborn, Carl F, 5:87
+Pettersson i Åby, Carl Johan, 2:98
+Pettersson i Bjälbo, David H, 2:98
+Pettersson i Ersbacken, Erik A, 5:87
+Pettersson i Tjärsta, Fredric, 1:389
+Pettersson i Uddevalla, senare Jönköping, Fredrik E 2:177, 4:137
+Pettersson i Visby, A Georg, 2:343
+Pettersson i Örebro, A Georg, 4:507
+Pettersson i Kungälv, Gunnar, 4:507
+Pettersson i Hällbacken, Gustaf K, 5:88
+Pettersson i Kvänum, Harald A I, 4:345
+Pettersson i Stäringe, senare Rosta, Ivar J, 4:508 
+Pettersson i Södertälje, Jakob G, 1:263
+Pettersson i Alvesta, Johan, 2:232
+Pettersson i Stora Kil, Johannes, 4:433
+Pettersson i Sävsjö Norregård, John W, 2:177
+Pettersson i Stugun, Karl, 5:310
+Pettersson i Hallsberg, Karl G, 4:508
+Pettersson i Lund, N Lennart, 3:261
+Pettersson i Småkulla, Olaus, 4:265
+Pettersson i Rättvik, Per, 5:88
 Peyron i Stockholm, Adolph, 1:162
-— i Helsingborg, Gustaf O, 3:261 
-— i Stockholm, C Ludwig, 1:162
+Peyron i Helsingborg, Gustaf O, 3:261 
+Peyron i Stockholm, C Ludwig, 1:162
 Philipson i Norrköping, John, 2:99 
 Philipsson i Göteborg, Aron, 4:138 
 Piper i Sövdeborg, E C Alfred, 3:262
-— i Lövstad, Carl E A G, 2:99
-— i Krageholm, C G Fritz, 3:262
+Piper i Lövstad, Carl E A G, 2:99
+Piper i Krageholm, C G Fritz, 3:262
 von Platen i Stockholm, Baltzar J E, 1:327
 — i Kristinelund, Carl B E, 3:262
 — i Vettinge, Philip B, 3:148
