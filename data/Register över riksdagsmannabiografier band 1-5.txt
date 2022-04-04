@@ -1133,11 +1133,6 @@ v Geijer i Frändefors, J Oscar, 4:225
 von Geijer i Herrevadskloster, Bror B G, 3:120 
 von Geijer i Malmö, S Gottschalk, 3:213
 von Geijer i Trelleborg, senare Stockholm, Knut E, 3:213
-
-
-
-
-
 af Geijerstam i Ribbingsfors, Carl Fredrik, 4:319
 Gelin i Karlstad, Edvard V, 4:403 
 Gelotte i Tranås, B Ernfrid, 2:154 
@@ -2008,23 +2003,23 @@ Larsson i Karlskoga, K Åke, 4:497
 Lassinantti i Luleå, I Ragnar, 5:424 
 Lasson i Östra Hoby, Ola, 3:132 
 Laurell i Lundsholm, C Edward, 4:418 
-— i Skredsvik, Johannes D, 4:111 
+Laurell i Skredsvik, Johannes D, 4:111 
 Laurén i Eskilstuna, Erik, 1:380 
 Laurin i Sandarve, Arvid V T, 2:341 
-— i Överby gård, Harald, 1:247
+Laurin i Överby gård, Harald, 1:247
 de Laval i Stockholm, C Gustaf P, 1:129, 5:72 
-— i Falun, Palne P J, 5:73
+de Laval i Falun, Palne P J, 5:73
 Leander i Ystad, Axel, 3:231
-— i Grytgöl, B E Ingemar, 2:89
-— i Karlskrona, Ulrik, 3:62
+Leander i Grytgöl, B E Ingemar, 2:89
+Leander i Karlskrona, Ulrik, 3:62
 Leander-Jönsson i Ystad, Axel, 3:231
 Leffler i Kinna, J Edvin, 4:249
-— i Stockholm, Johan A, 4:111
-— i Stockholm, J Olle, 1:129
+Leffler i Stockholm, Johan A, 4:111
+Leffler i Stockholm, J Olle, 1:129
 Leijer i Visby, J G Ernst, 2:341
 Leijonancker i Stockholm, senare Halmstad, F Wilhelm E C, 4:112
 Leijonhufvud i Stockholm, B Abraham, 1:130, 5:73
-— i Åkerö, Sten E G, 1:380
+Leijonhufvud i Åkerö, Sten E G, 1:380
 Leksell i Sandviken, Erik A:son, 5:148
 Leman i Göteborg, Philip, 4:112
 Lemchen i Jönköping, J Åke, 2:167
@@ -2033,22 +2028,22 @@ Lenning i Norrköping, John C C, 2:90
 Leo i Älmhult, senare Lidingö, Henning V, 1:247, 2:220
 Lewén-Eliasson i Huddinge, Anna-Lisa, 1:248 
 Lewenhaupt i Stockholm, C M Casimir, 5:74
-— i Claestorp, Claes M, 1:380 — i Geddeholm, G Erik, 1:442
+Lewenhaupt i Claestorp, Claes M, 1:380 — i Geddeholm, G Erik, 1:442
 Levgren i Göteborg, Anders W, 4:112 
 Lewin i Velanda, Anders L, 4:250 
 Levin i Kämpinge, Hans S, 3:232
-— i Lund, Karl-Axel, 3:232
+Levin i Lund, Karl-Axel, 3:232
 Lexow i Alstrums bruk, A Casper, 4:418 
 Lidgård i Stockholm, H Bertil I, 1:130 
 Lidman-Frostenson i Drottningholm, Ulla E C, 1:248
 Lidskog i Vallentuna, C Ingvar G, 1:248 
 Lidström i Häxmo, Petrus A, 5:237
 Liedberg i Assmåsa, C Gösta, 3:232
-— i Oja, Pehr O, 3:233
+Liedberg i Oja, Pehr O, 3:233
 Lif i Hofors, Anders G, 5:149
 Lilienberg i Ronneby, Albert A, 3:63
 Liljedahl i Gävle, Edith V, 5:149
-— i Tranås, senare Linköping, Ernst T S, 2:167 
+Liljedahl i Tranås, senare Linköping, Ernst T S, 2:167 
 Liljeholm i Göteborg, Anders Fredrik, 4:113 
 Liljencrantz i Stockholm, Johan, 1:130 
 Liljenmark i Svärdsjö, Carl, 5:74
@@ -2061,75 +2056,117 @@ Lillienau i Göteborg, E August R, 4:113
 Lilliesköld i Värnamo, J Arvid, 2:168 
 Liljequist i Göteborg, Axel, 4:114
 Lind i Kustorp, Anders P, 4:114
-— i Gerum, Carl T, 4:114
-— i Västra Frölunda, Einar A, 4:115 
-— i Nås, Olof, 5:74
+Lind i Gerum, Carl T, 4:114
+Lind i Västra Frölunda, Einar A, 4:115 
+Lind i Nås, Olof, 5:74
 Lindahl i Lidingö, Essen H G, 1:249 
-— i Laxå, Lars H, 4:498
-— i Karlskrona, Wilhelm N A, 3:64 
+Lindahl i Laxå, Lars H, 4:498
+Lindahl i Karlskrona, Wilhelm N A, 3:64 
 Lindberg i Kalix, O Arne, 5:425
-— i Stockholm, senare Mälarhöjden o Hägersten, Carl A E, 1:131
-— i Sofielund, senare Limhamn, N Edvard, 3:234
-— i Umeå, ElofH, 5:360
-— i Kolsva, Lars, 1:442
-— i Frövi, Marta S, 4:498
-— i Hammarstrand, Sven J, 5:305
-— i Stockholm, William P, 1:131
+Lindberg i Stockholm, senare Mälarhöjden o Hägersten, Carl A E, 1:131
+Lindberg i Sofielund, senare Limhamn, N Edvard, 3:234
+Lindberg i Umeå, ElofH, 5:360
+Lindberg i Kolsva, Lars, 1:442
+Lindberg i Frövi, Marta S, 4:498
+Lindberg i Hammarstrand, Sven J, 5:305
+Lindberg i Stockholm, William P, 1:131
 Lindblad i Göteborg, Anders C, 1:381, 4:115 
-— i Närlunda, Ernst A, 1:381
-— i Gävle, Hans B, 5:149
+Lindblad i Närlunda, Ernst A, 1:381
+Lindblad i Gävle, Hans B, 5:149
 Lindblom i Falun, Erik A, 5:75
 Lindbärg i Domnarvet, K Ejnar, 5:75
 Lindedal i Borås, Ferdinand, 4:250
 Lindekvist i Skellefteå, Astrid E, 5:361
 Lindén i Gamleby, senare Vimmerby, Lars V, x2:289
 Linder i Stockholm, Nils, 1:132
-— i Västerås, C Wilhelm, 1:443
-— i Stockholm, senare Malmö, F William, 3:133 
+Linder i Västerås, C Wilhelm, 1:443
+Linder i Stockholm, senare Malmö, F William, 3:133 
 Linderot i Stockholm, Gerda M C , 1:132
-— i Stockholm, Sven H L:son, 5:361 
+Linderot i Stockholm, Sven H L:son, 5:361 
 Linderoth-Andersson i Hjo, Signe V, 4:336 
 Linders i Nevishög, Sven, 3:234
 Lindewall i Bärby, Anders, 1:319
-— i Flosta, C Leonard E, 1:443
-— i Bärby, J Oscar, 1:319
+Lindewall i Flosta, C Leonard E, 1:443
+Lindewall i Bärby, J Oscar, 1:319
 Lindgren i Dingelvik, Anders, 4:251
-— i Örebro, Adolf, 4:499
-— i Oskarshamn, N P Bertrand, 2:290
-— i Islingby, Gustaf, 1:443
-— i Örebro, Göran O V, 4:499
-— i Lund, Hjalmar O, 3:234
-— i Gallsäter, Johan, 5:237
-— i Tomteby, Johan Magnus, 2:290
-— i Vilske-Kleva, Justus H, 4:336
+Lindgren i Örebro, Adolf, 4:499
+Lindgren i Oskarshamn, N P Bertrand, 2:290
+Lindgren i Islingby, Gustaf, 1:443
+Lindgren i Örebro, Göran O V, 4:499
+Lindgren i Lund, Hjalmar O, 3:234
+Lindgren i Gallsäter, Johan, 5:237
+Lindgren i Tomteby, Johan Magnus, 2:290
+Lindgren i Vilske-Kleva, Justus H, 4:336
 Lindh i Kil, August W, 4:419
-— i Västanvik, Johan W, 5:425
-— i Gävle, Karl M, 5:150
-— i Säffle, Oscar W, 4:419
-
- Lindhagen i Stockholm, C Albert, 1:132
-— i Stockholm, senare Äppelviken o Ålsten,
-Carl A, 1:133, 5:237
+Lindh i Västanvik, Johan W, 5:425
+Lindh i Gävle, Karl M, 5:150
+Lindh i Säffle, Oscar W, 4:419
+Lindhagen i Stockholm, C Albert, 1:132
+Lindhagen i Stockholm, senare Äppelviken o Ålsten, Carl A, 1:133, 5:237
 Lindholm i Sandviken, P Sigurd, 5:150 
 Lindkvist i Vällingby, Oskar W, 1:134
-— i Uddevalla. Gustaf T, 4:118 
-— i Kalmar, Nils P, 2:290
-— i Trästad, P Otto W, 2:291
-— i Pukeby, Sigge, 1:250 
+Lindley i Stockholm, senare Äppelviken, Charles G, 1:134
+Lindley i Söderhamn, Ernst I, 5:151
+Lindman i Stockholm, S Arvid A, 1:134, 4:251, 5:151
+Lindmark i Drängsmark, Carl V, 5:362
+Lindmark i Drängsmark, Ewald E, 5:362
+Lindmark i Stockholm, C Gustaf, 1:135
+Lindqvist i Kosta, senare Halmstad, Axel A, 2:221
+Lindqvist i Stockholm, Fritz L, 5:238
+Lindqvist i Stockholm, A Herman, 1:136
+Lindqvist i Örnsköldsvik, John, 5:238 
+Lindqvist-Pettersson i Östersund, Anna E, 5:305
+Lindskog i Lund, Claes, 3:235
+Lindskog i Borlänge, senare Kvarnsveden o Söderbärke, Elsa I, 5:76
+Lindskog i Billinge, C J Fritiof, 3:235 
+Lindstam i Uddevalla, C Gustav, 4:116
+Lindstedt i Öregrund, Magnus, 1:249 
+Lindstrand i Valdemarsvik, Nils, 2:90 
+Lindström i Långnäs, Alfred, 5:426
+Lindström i Råneå, Axel, 5:426
+Lindström i Mörby, P Elof, 1:249
+Lindström i Bollnäs, C Erik R, 5:152
+Lindström i Lockne, Helge B, 5:306
+Lindström i Göteborg, B Julius, 4:116
+Lindström i Stockholm, senare Göteborg o åter Stockholm, K A Rickard, 1:250,4:116 
+Lindström i Stockholm, Ulla G, 1:49
+Lindvall i Havgården, Axel E, 3:64 
+Lingström i Klintehamn, L N August, 2:341 
+Linné i Skredsvik, S Benjamin, 4:117 
+Linnér i Nottebäck, Axel, 2:222
+Linnér i Uppsala, Sigfrid N, 320
+Lithander i Göteborg, O A Edvard, 4:117 
+Lithander i Göteborg, Pehr E, 4:252
+Lithner i Torp, Pehr, 5:239
+Littorin i Bjärtorp, Sven H, 4:336
+Ljung i Svalöv, Erik W, 3:236
+Ljungberg i Lysekil, Axel E, 4:118
+Ljungberg i Uppsala, Blenda M, 1:136
+Ljungberg i Stockholm, C Eduard, 4:252
+Ljungberg i Kristianstad, Louis C O, 3:133
+Ljungberg i Norrköping, Martin S, 2:90
+Ljungdahl i Ingelstad, Vilmar S, 2:222 
+Ljunggren i Stockholm, senare Eskilstuna, August, 2:222
+Ljunggren i Kristianstad, Carl J F, 3:133 
+Ljunggren i Örebro, Elof, 4:500
+Ljunggren i Uddevalla. Gustaf T, 4:118 
+Ljunggren i Kalmar, Nils P, 2:290
+Ljunggren i Trästad, P Otto W, 2:291
+Ljunggren i Pukeby, Sigge, 1:250 
 Ljungkvist i Borås, Sven E, 4:253
 Ljunglund, Leon K V , 1:136
 Ljungman i Tjörn, Axel V, 4:118
-— i Sundsby, Carl A L, 4:119
+Ljungman i Sundsby, Carl A L, 4:119
 Ljungqvist i Ålsten, Gunnar N, 1:137
-— i Munksjö, K Ottonin, 2:168
+Ljungqvist i Munksjö, K Ottonin, 2:168
 Ljuslin i Högom, Per Ulrik, 5:239
 Lodenius i Hammarby, V Gunnar, 1:251 
 Lokander i Karlstad, Kaj T, 4:420
 Lorentzon i Ledet, B Carl, 4:253
-— i Kramfors, B Gustaf L, 5:239
+Lorentzon i Kramfors, B Gustaf L, 5:239
 Lorichs i Bernshammar, L Ludvig, 1:444 
 Lothigius i Örserumsbrunn, Carl-Wilhelm, 2:169
-— i Karlshamn, senare Vänersborg, L Wilhelm S, 2:390, 3:64, 4:253
+Lothigius i Karlshamn, senare Vänersborg, L Wilhelm S, 2:390, 3:64, 4:253
 Lovén i Malmö, Carl O N:son, 3:236
 Lovén i Stockholm, O Christian, 1:137
 Lovén i Stockholm, Erik A, 1:138
@@ -2141,172 +2178,122 @@ Lund i Stockholm, F Magnus, 1:139
 Lundahl i Kristianstad, Jacob A, 3:134 
 Lundbeck i Stockholm, Alice M, 1:139 
 Lundberg i Västerteg, Johan Peter, 5:363 
-— i Uppsala, John I, 1:321
-— i Eksjö, Karl, 2:169
-— i Falkenberg, A Magnus, 2:391
-— i Malmö, Måns B:son, 3:236
-— i Sala, Otto V , 1:444
-— i Malmö, L E Roland, 3:237
-— i Helsingborg, Sven E, 3:237
+Lundberg i Uppsala, John I, 1:321
+Lundberg i Eksjö, Karl, 2:169
+Lundberg i Falkenberg, A Magnus, 2:391
+Lundberg i Malmö, Måns B:son, 3:236
+Lundberg i Sala, Otto V , 1:444
+Lundberg i Malmö, L E Roland, 3:237
+Lundberg i Helsingborg, Sven E, 3:237
 Lundberg-Löfqvist i Mörrum, Thyra C, 3:65 
 Lundblad i Eskilstuna, E Albert, 1:382
-— i Fredriksberg, Axel R, 1:444
-— i Helsingborg, Grethe, 3:238
-— i Malmö, Margit A A, 3:238
-— i Sem, Thor E, 4:254
+Lundblad i Fredriksberg, Axel R, 1:444
+Lundblad i Helsingborg, Grethe, 3:238
+Lundblad i Malmö, Margit A A, 3:238
+Lundblad i Sem, Thor E, 4:254
 Lundbom i Stordalen, J Erik, 1:382
 Lundeberg i Forsbacka, senare Stockholm, Christian, 5:152
 Lundell i Torestorp, Ernst A, 4:337 
-— i Ebbetorp, Per Olof, 2:291
-— i Ebbetorp, Torsten V, 2:292
+Lundell i Ebbetorp, Per Olof, 2:291
+Lundell i Ebbetorp, Torsten V, 2:292
 Lundén i Mosseberg, August V, 4:337 
-— i Göteborg, Peter, 4:119
+Lundén i Göteborg, Peter, 4:119
 Lunderqvist i Bolstad, Anders M, 4:254 
 Lundgren i Varberg, J Alfred, 2:391
-— i Röhammar, Ernst, 4:500
-Lindley i Stockholm, senare Charles G, 1:134
-Äppelviken,
-
-
-— i Söderhamn, Ernst I, 5:151
-Lindman i Stockholm, S Arvid A, 1:134, 4:251,
-5:151
-Lindmark i Drängsmark, Carl V, 5:362
-— i Drängsmark, Ewald E, 5:362
-— i Stockholm, C Gustaf, 1:135
-Lindqvist i Kosta, senare Halmstad, Axel A, 2:221
-— i Stockholm, Fritz L, 5:238
-— i Stockholm, A Herman, 1:136
-— i Örnsköldsvik, John, 5:238 
-Lindqvist-Pettersson i Östersund, Anna E, 5:305
-Lindskog i Lund, Claes, 3:235
-— i Borlänge, senare Kvarnsveden o Söderbärke, Elsa I, 5:76
-— i Billinge, C J Fritiof, 3:235 
-Lindstam i Uddevalla, C Gustav, 4:116
-Lindstedt i Öregrund, Magnus, 1:249 
-Lindstrand i Valdemarsvik, Nils, 2:90 
-Lindström i Långnäs, Alfred, 5:426
-— i Råneå, Axel, 5:426
-— i Mörby, P Elof, 1:249
-— i Bollnäs, C Erik R, 5:152
-— i Lockne, Helge B, 5:306
-— i Göteborg, B Julius, 4:116
-— i Stockholm, senare Göteborg o åter Stockholm, K A Rickard, 1:250,4:116 
-— i Stockholm, Ulla G, 1:49
-Lindvall i Havgården, Axel E, 3:64 
-Lingström i Klintehamn, L N August, 2:341 
-Linné i Skredsvik, S Benjamin, 4:117 
-Linnér i Nottebäck, Axel, 2:222
-— i Uppsala, Sigfrid N, 320
-Lithander i Göteborg, O A Edvard, 4:117 
-— i Göteborg, Pehr E, 4:252
-Lithner i Torp, Pehr, 5:239
-Littorin i Bjärtorp, Sven H, 4:336
-Ljung i Svalöv, Erik W, 3:236
-Ljungberg i Lysekil, Axel E, 4:118
-— i Uppsala, Blenda M, 1:136
-— i Stockholm, C Eduard, 4:252
-— i Kristianstad, Louis C O, 3:133
-— i Norrköping, Martin S, 2:90
-Ljungdahl i Ingelstad, Vilmar S, 2:222 
-Ljunggren i Stockholm, senare Eskilstuna, August, 2:222
-— i Kristianstad, Carl J F, 3:133 
-— i Örebro, Elof, 4:500
-
-— i Björna, senare Nora, G Fritiof, 5:240 
-— i Soldalen, Gustav Edvard, 3:238
-— i Wendelsberg, KOskar, 4:120
-— i Umeå, Per G, 5:363
-— i Göteborg, senare Strömsbro, Sven J, 4:120 
-— i Strömstad, W Theodor, 4:120
-— i Göteborg, Wilhelm R B, 4:121
+Lundgren i Röhammar, Ernst, 4:500
+Lundgren i Björna, senare Nora, G Fritiof, 5:240 
+Lundgren i Soldalen, Gustav Edvard, 3:238
+Lundgren i Wendelsberg, KOskar, 4:120
+Lundgren i Umeå, Per G, 5:363
+Lundgren i Göteborg, senare Strömsbro, Sven J, 4:120 
+Lundgren i Strömstad, W Theodor, 4:120
+Lundgren i Göteborg, Wilhelm R B, 4:121
 Lundh i Uppsala, Herbert T, 1:321
 Lundin i Karby, Johan, 1:251
-— i Los, D Sigurd, 5:153
-— i Karby, J Wilhelm, 1:252 
+Lundin i Los, D Sigurd, 5:153
+Lundin i Karby, J Wilhelm, 1:252 
 Lundkvist i Eskilstuna, Bror K, 1:383 
-— i Eskilstuna, K Svante, 1:383 
+Lundkvist i Eskilstuna, K Svante, 1:383 
 Lundmark i Lycksele, J Gunnar, 5:364 
 Lundquist i Ystad, Henric H, 3:238
-— i Baggarbo, C Oscar, 1:322 
+Lundquist i Baggarbo, C Oscar, 1:322 
 Lundqvist i Trollhättan, Artur E, 4:255
-— i Göteborg, Axel G, 4:121
-— i Rotebro, Ragnar, 1:252
-— i Skälvum, senare Kållängen, J Viktor, 4:338 
+Lundqvist i Göteborg, Axel G, 4:121
+Lundqvist i Rotebro, Ragnar, 1:252
+Lundqvist i Skälvum, senare Kållängen, J Viktor, 4:338 
 Lundstedt i Uppsala, A Vilhelm, 1:322 
 Lundsten i Åkarp, Per, 3:239
 Lundström i Piteå, Axel, 5:426
-— i Vreten, senare Länna, Axel Walfrid, 1:253 
-— i Bromma, N Birger, 1:139
-— i Stockholm, Carl F, 1:140
-— i Filipstad, Carl H, 4:420
-— i Boden, G Harald, 5:427
-— i Norsjö, Johan A, 5:364
-— i Långnäs, A Linus, 5:427
-— i Göteborg, K J Vilhelm, 4:121
+Lundström i Vreten, senare Länna, Axel Walfrid, 1:253 
+Lundström i Bromma, N Birger, 1:139
+Lundström i Stockholm, Carl F, 1:140
+Lundström i Filipstad, Carl H, 4:420
+Lundström i Boden, G Harald, 5:427
+Lundström i Norsjö, Johan A, 5:364
+Lundström i Långnäs, A Linus, 5:427
+Lundström i Göteborg, K J Vilhelm, 4:121
 Luterkort i Sundsvall, Salli, 5:240
 Lubeck i Stockholm, Sven EJ, 1:140
 Lybeck i Vindö, Carl U S, 2:292
 Lyberg i Falun, senare Stockholm, Ernst E, 5:76 
 Lyckholm i Wilhelmsdal, D Melcher, 4:122
-— i Wilhelmsdal, J Wilhelm, 4:122
+Lyckholm i Wilhelmsdal, J Wilhelm, 4:122
 Lyth i Burs, Anton Julius, 2:342
-—i Stockholm, G Wilhelm, 1:141
+Lyth i Stockholm, G Wilhelm, 1:141
 Lyttkens i Skedala, Ivar, 2:391
 Låftman i Billingsfors, J J August, 4:255 
 Löfberg i Skärplinge, Johan, 1:323
 Löfgren i Äppelviken, Axel, 1:141
-— i Stockholm, J Eliel, 1:142
-— i Malmö, N Sigfrid J, 3:239
+Löfgren i Stockholm, J Eliel, 1:142
+Löfgren i Malmö, N Sigfrid J, 3:239
 Löfqvist i Mörrum, Thyra C, 3:65
 Löfroth i Kiruna, senare Luleå, John G, 5:427 
 Löfvander i Kvarnby, Axel, 3:239
 Lönegren i Norrköping, Gustaf W L, 2:91 
 Lönnberg i Ringstad, Carl J L, 2:91
-— i Linköping, Lars Johan, 2:92
+Lönnberg i Linköping, Lars Johan, 2:92
 Löthner i Jönköping, Olof A, 2:169
 Löwegren i Malmö, A Gunnar H, 3:240 
 Löwenhielm i Härnösand, Brita, 5:241
-— i Kristinehamn, Severin, 4:420
+Löwenhielm i Kristinehamn, Severin, 4:420
 Lövgren i Nyborg, senare Boden o Luleå, Oscar W, 5:428
 Maechel i Karlstad, Frans F, 4:421
-— i Västervik, Gustaf C, 2:292
+Maechel i Västervik, Gustaf C, 2:292
 Magnell i Kristinehamn, Johan Jakob, 4:421 
 Magni i Hunna, Carl, 2:223
 Magnuson i Stockholm, Paul K, 1:142
-— i Sandviken, Tord A, 5:154
+Magnuson i Sandviken, Tord A, 5:154
 Magnusson i Lervik, Anders, 2:92
-— i Salsta, Anders, 4:338
-— i Jönköping, senare Nennesholm, S Arne E,
-2:170
-— i Lövås, Carl T, 4:255
-— i Tumhult, Erik O B, 2:223
-— i Näsviken, K Evald, 5:154
-— i Stockholm, G Gerhard, 1:143, 4:421
-— i Granbäckstorp, Jan, 4:422
-— i Kalmar, Karl E, 2:293
-— i Skövde, Karl H, 4:338
-— i Grebbestad, Nils B, 4:122
-— i Tumhult, E Otto, 2:224
-— i Fors, Sven, 4:339
-— i Borås, A Tage, 4:256
-— i Göteborg, A Theodor E, 4:123
+Magnusson i Salsta, Anders, 4:338
+Magnusson i Jönköping, senare Nennesholm, S Arne E, 2:170
+Magnusson i Lövås, Carl T, 4:255
+Magnusson i Tumhult, Erik O B, 2:223
+Magnusson i Näsviken, K Evald, 5:154
+Magnusson i Stockholm, G Gerhard, 1:143, 4:421
+Magnusson i Granbäckstorp, Jan, 4:422
+Magnusson i Kalmar, Karl E, 2:293
+Magnusson i Skövde, Karl H, 4:338
+Magnusson i Grebbestad, Nils B, 4:122
+Magnusson i Tumhult, E Otto, 2:224
+Magnusson i Fors, Sven, 4:339
+Magnusson i Borås, A Tage, 4:256
+Magnusson i Göteborg, A Theodor E, 4:123
 Maijström i Maj, P Leonard, 5:241
 Mallmin i Ängesta, E Johan, 1:445
-— i Gran, senare Krägga, Lars Petter, 1:323 
+Mallmin i Gran, senare Krägga, Lars Petter, 1:323 
 Malmberg i Väja, Frans T T, 5:241
-— i Västervik, Gustaf H, 2:293
+Malmberg i Västervik, Gustaf H, 2:293
 Malmborg i Ålsten, G Emil, 1:143
-— i Ljungby, Klas A, 2:294
-— i Skövde, Oscar J N, 4:339
+Malmborg i Ljungby, Klas A, 2:294
+Malmborg i Skövde, Oscar J N, 4:339
 Malmqvist i Tranås, Gustaf T, 2:170 
 Malmsten i Mariestad, Carl J, 4:340 
 Malmström i Vissefjärda, P Alfred L, 2:294 
-— i Vissefjärda, T Alfred, 2:294 
+Malmström i Vissefjärda, T Alfred, 2:294 
 Manderström i Stockholm, C R Ludvig, 5:241 
 Mankell i Stockholm, Julius, 1:144, 2:224 
 Mannerskantz i Värnanäs, Axel F, 2:294
-— i Värnanäs, Carl Axel, 2:295
+Mannerskantz i Värnanäs, Carl Axel, 2:295
 Mannheimer i Göteborg, Otto S, 4:123 
 Marcuson i Skogen, Janne M, 4:124 
 Marcusson i Västerås, Eric R, 1:445 
@@ -2314,21 +2301,20 @@ Markgren i Burträsk, O Richard, 5:364
 Marklund i Kiruna, Eivor I, 5:429 
 Markstedt i Skellefteå, Anton, 5:365 
 Martin i Södertälje, Anton F, 1:253 
-— i Hillebola, T Bernhard A, 1:323 
-— i Stockholm, Erik D V, 1:144
-— i Oscar-Fredriksborg, Karl A M J:son, 1:253 
-— i Södertälje, Otto A, 1:254
-— i Odenstad, P Roland, 4:422
+Martin i Hillebola, T Bernhard A, 1:323 
+Martin i Stockholm, Erik D V, 1:144
+Martin i Oscar-Fredriksborg, Karl A M J:son, 1:253 
+Martin i Södertälje, Otto A, 1:254
+Martin i Odenstad, P Roland, 4:422
 Martinsson i Sundsvall, Bo N O, 5:242
 Matsson i Gravås, senare Arvika, Magnus, 4:422
-
 Mattson i Göteborg, senare Vendelsö o Handen, Lisa, 4:124
 Mattsson i Lane-Herrestad, S M Lennart, 4:124 
-— i Näsinge, Oscar E, 4:125
-— i Eneryda, Torsten A V, 2:225
-— i Eneryda, Victor J, 2:225
+Mattsson i Näsinge, Oscar E, 4:125
+Mattsson i Eneryda, Torsten A V, 2:225
+Mattsson i Eneryda, Victor J, 2:225
 Medin i Möckelsnäs, Anders, 2:226 Meijer i Marielund, C Bernhard H, 3:134
-— i Göteborg, P Otto B, 4:125
+Medin i Göteborg, P Otto B, 4:125
 Meijerberg i Stockholm, Carl J, 1:145 
 Mejenqvist i Mejensjö, Carl J, 2:171
 Melin i Göteborg, senare Djursholm, Olof R, 4:125
@@ -2339,20 +2325,20 @@ von Mentzer i Lilla Segerstad, Carl H, 2:171
 Metzén i Skänninge, F Wilhelm, 2:92
 Meurling i Kristdala, Charodotes, 2:296
 Meyer i Karlshamn, Edvard F, 3:65
-— i Karlshamn, Ernst F W, 3:66
+Meyer i Karlshamn, Ernst F W, 3:66
 Meyerhöffer i Boden, Alf R D, 5:429
 Moberg i Karlstad, Carl O, 4:423
 Moberger i Visby, Elias V, 2:342
 Modig i Eskilstuna, Axel S N, 1:383
 Mogren i Bollstabruk, Sixten J A, 5:242
 Mogård i Karlskoga, senare Stockholm o Vällingby, J A Bertil, 1:145, 4:501
-—i Tullinge, Britt ET, 1:254
+Mogård i Tullinge, Britt E T, 1:254
 Molander i Säbrå, senare Härnösand, Helmer, 5:243
-— i Staberg, Nicolaus A, 4:257 
-— i Stockholm, Seth, 1:146
+Molander i Staberg, Nicolaus A, 4:257 
+Molander i Stockholm, Seth, 1:146
 Molin i Södertälje, G Adolf, 1:254
-— i Aspa bruk, Carl A, 4:501
-— i Dombäcksmark, P Emil, 5:243
+Molin i Aspa bruk, Carl A, 4:501
+Molin i Dombäcksmark, P Emil, 5:243
 Moll i Stockholm, Victor L, 1:146
 Montgomery i Rottneros, H Edvard, 4:423
 — i Stocksund, William C, 1:255 
