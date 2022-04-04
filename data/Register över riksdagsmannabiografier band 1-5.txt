@@ -1,4 +1,4 @@
-**Work in progress**
+** version 0.1 Needs Quality check - 3811 records **
 
 Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
 Aarnseth i Malung, Fredrik O, 5:45
@@ -3089,54 +3089,47 @@ Sandström i Nyland, senare Härnösand, Nils V, 5:253
 Sandström i Luleå, Pontus, 5:436
 Sandström i Teg, Ragnhild M A, 5:374 
 Sandwall i Borås, J Alfred, 4:269
-— i Jönköping, Frans G, 2:181
-— i Örebro, senare Stockholm, Fredrik W, 4:511 
-— i Lidköping, Jonas, 4:349
+Sandwall i Jönköping, Frans G, 2:181
+Sandwall i Örebro, senare Stockholm, Fredrik W, 4:511 
+Sandwall i Lidköping, Jonas, 4:349
 Sanne i Morlanda, Gunnar T, 4:145
-— i Uddevalla, Johan N, 4:146
+Sanne i Uddevalla, Johan N, 4:146
 Santesson i Varberg, Bernhard T, 2:400
-— i Janneberg, Bernt O I, 3:75
+Santesson i Janneberg, Bernt O I, 3:75
 Schartau i Stockholm, Frans, 1:168
 Schartau i Forsby, Frans H J, 1:453
 Schedin i Milsbo, Carl G, 5:91
 von Schéele i Visby, K Henning G, 2:345 
 Schenström i Västerås, O L Max, 1:453
-— i Köping, C M Oscar, 1:453
+Schenström i Köping, C M Oscar, 1:453
 Schill i Västermo, L August, 1:390
-Schlyter i Stockholm, senare Göteborg, Malmö o
-åter Stockholm, Karl J D, 3:75, 4:438 
+Schlyter i Stockholm, senare Göteborg, Malmö o åter Stockholm, Karl J D, 3:75, 4:438 
 Schmidt i Göteborg, Carl S, 4:146
-— i Partille, Herrman, 4:147 
-— i Björna, Janne A, 5:254
+Schmidt i Partille, Herrman, 4:147 
+Schmidt i Björna, Janne A, 5:254
 af Schmidt i Hovra, C J Georg, 1:390
 Schotte i Karlstad, senare Umeå, P Axel V, 4:439, 5:375
-— i Nyköping, G Victor, 1:391
+Schotte i Nyköping, G Victor, 1:391
 von Schoultz i Göteborg, H O Edvard, 4:147 
 Schröder i Ringaby, C Hildebrand, 4:511 
 Schultz i Norrköping, J Henning, 2:103
 von Schulzenheim i Ekebyhammar, Carl W, 4:512
-
-
-— i Västlandaholm, senare Stockholm,
-David
-T, 1:454
-
+von Schulzenheim i Västlandaholm, senare Stockholm, David T, 1:454
 von Schwerin i Skarhult, C J G A Jules, 3:268
-— i Skarhult, Werner G, 3:268
+von Schwerin i Skarhult, Werner G, 3:268
 Schyller i Oskarshamn, Alexander Emanuel, 2:308
-
 Sjögreen i Eksjö, Axel P, 2:183
-— i Mariannelund, Christian W, 2:183 
+Sjögreen i Mariannelund, Christian W, 2:183 
 Sjögren i Motala, Carl P W, 2:104
-— i Ultuna, C Einar, 1:331
-— i Lund, Johan M, 3:270
-— i Asarum, Johan P, 3:76
+Sjögren i Ultuna, C Einar, 1:331
+Sjögren i Lund, Johan M, 3:270
+Sjögren i Asarum, Johan P, 3:76
 Sjöholm i Eskilstuna, L Albert, 1:393
- — i Kvillebäcken, Johan, 4:151
-— i Helsingborg, Sten G, 3:270
+Sjöholm i Kvillebäcken, Johan, 4:151
+Sjöholm i Helsingborg, Sten G, 3:270
 Sjölander i Kungsängen, Oskar E, 1:331 
 Sjölin i Trollhättan, Bengt J O, 4:270
-— i Trelleborg, J Åke, 3:270
+Sjölin i Trelleborg, J Åke, 3:270
 Sjölund i Tuna, Jonas M, 5:255
 Sjönell i Stockholm, P Bengt G, 1:170
 Sjöqvist i Sunne, Birgitta K, 4:440
@@ -3144,33 +3137,33 @@ Sjöstrand i Eksjö, Helga K, 2:183
 Sjöström i Göteborg, Algot N, 4:151 
 Sjöström-Bengtsson i Göteborg, Anna M, 4:152 
 Sjövall i Göteborg, Elisabet, 4:152
-— i Trelleborg, E Hjalmar, 3:270
+Sjövall i Trelleborg, E Hjalmar, 3:270
 Skagerberg i Annefors, Gustaf, 5:91
 Skagerlund i Sörängen, Carl-David, 4:512
-— i Dyltabruk, N C Gunnar, 4:512
+Skagerlund i Dyltabruk, N C Gunnar, 4:512
 Skantz i Malmö, Anna Greta, 3:271
 Skantze i Karlskrona, Lars-Olof H, 3:76 
 Skareen i Skövde, Karl Wilhelm A:son, 4:350 
 Skarstedt i Falun, C A Waldemar, 5:91 
 Skoglund i Umeå, Gösta T, 5:376
-— i Doverstorp, J Martin, 2:105 
+Skoglund i Doverstorp, J Martin, 2:105 
 Skoglund-Lindblom i Sundsvall, Hulda O, 5:256 
 Skoglösa i Skoglösa, senare Önnestad, J Harald, 3:126
 Skogman i Stockholm, Carl J A, 3:76
 Skytte af Sätra i Stockholm, C Göran, 5:311
-— i Malmö, G Wilhelm, 3:271
+Skytte af Sätra i Malmö, G Wilhelm, 3:271
 Skårman i Alingsås, Bo A W, 4:271
 Sköld i Toarp, Nils P, 3:272
-— i Oxie, senare Kämpinge o Toftaröd, Per Edvin, 3:272
+Sköld i Oxie, senare Kämpinge o Toftaröd, Per Edvin, 3:272
 Sköldberg i Säby, Adolf, 4:350 
 Sköldén i Sköldunga, K Ivar, 4:152 
 Sköldin i Sundbyberg, P Arthur, 1:266 
 Smedberg i Väddåkra, Josef, 4:271
-— i Töva, Nils Erik, 5:256
+Smedberg i Töva, Nils Erik, 5:256
 Smedh i Bergkarlås, Herman D, 5:92 
 Smith i Stockholm, Emil A, 1:171
-— i Ystad, J Gustaf, 3:273
-— i Stockholm, Lars O, 3:77
+Smith i Ystad, J Gustaf, 3:273
+Smith i Stockholm, Lars O, 3:77
 von Sneidern i Berg, Axel W T, 4:271 
 Snoilsky i Göteborg, Gustaf F, 4:153 
 Snygg i Säter, J Gustaf E, 5:92
