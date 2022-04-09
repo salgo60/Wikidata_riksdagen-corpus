@@ -1,4 +1,5 @@
-** version 0.1 Needs Quality check - 3811 records **
+** version 0.2 Needs Quality check - 3815 records **
+
 
 Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
 Aarnseth i Malung, Fredrik O, 5:45
@@ -400,7 +401,8 @@ Bergmanson i Sundsvall, G Ulrik, 5:209
 Bergmark i Hedåker, Axel M, 4:307
 Bergmark i Alingsås, J Oscar, 4:209
 Bergquist i Västerås, senare Stockholm, Äppelviken o Växjö, Thorwald E N, 1:424 
-Bergqvist i Västra Frölunda, Jan G, 4:62 — i Luleå, Olof, 5:404
+Bergqvist i Västra Frölunda, Jan G, 4:62 
+Bergqvist i Luleå, Olof, 5:404
 Bergstedt i Skrukarp, Carl Fredrik, 2:53 
 Bergstrand i Avesta, E Gösta, 5:49
 Bergstrand i Kolmårdssanatoriet, Paul J, 2:53
@@ -2028,7 +2030,8 @@ Lenning i Norrköping, John C C, 2:90
 Leo i Älmhult, senare Lidingö, Henning V, 1:247, 2:220
 Lewén-Eliasson i Huddinge, Anna-Lisa, 1:248 
 Lewenhaupt i Stockholm, C M Casimir, 5:74
-Lewenhaupt i Claestorp, Claes M, 1:380 — i Geddeholm, G Erik, 1:442
+Lewenhaupt i Claestorp, Claes M, 1:380 
+Lewenhaupt i Geddeholm, G Erik, 1:442
 Levgren i Göteborg, Anders W, 4:112 
 Lewin i Velanda, Anders L, 4:250 
 Levin i Kämpinge, Hans S, 3:232
@@ -2406,7 +2409,7 @@ Nilsson i Steneberg, Alfred, 3:243
 Nilsson i Rinkaby, Anders, 3:136
 Nilsson i Teckomatorp, Anders, 3:244
 Nilsson i Norrlångträsk, Andreas, 5:366 
-Nilsson i Hammarslund, senare Kristianstad, Anna- sa, 3:136
+Nilsson i Hammarslund, senare Kristianstad, Anna-Lisa, 3:136
 Nilsson i Östrabo, N Anton, 3:244
 Nilsson i Lönsboda, B Arvid, 3:136
 Nilsson i Malmö, senare Kabbarp, N August, 3:244 
@@ -3046,7 +3049,7 @@ Selggren i Gävle, Jonas, 5:171
 Sellgren i Örnsköldsvik, Rolf O M, 5:255 
 Senander i Göteborg, Knut E W, 4:148 
 Senell i Kristianstad, A Leonard, 3:150 
-von Seth i Bratteborg, Torgil G A , 2:181 
+von Seth i Bratteberg, Torgil G A , 2:181 
 Setterberg i Vilske-Kleva, K Einar S, 4:349
 Setterberg i Göteborg, C Hjalmar, 4:149 
 Severin i Gävle, Erik J, 5:171
@@ -3607,7 +3610,8 @@ Wennérus i Lidköping, Carl A J, 4:357
 Wennqvist i Göteborg, Thore G B, 4:168 
 Werbro i Halmstad, Wiking E, 2:405 
 Werner i Hultsfred, Alfred, 2:316
-Werner i Stockholm, C P B Feodor, 1:189 — i Tyresö, Lars H, 1:189
+Werner i Stockholm, C P B Feodor, 1:189 
+Werner i Tyresö, Lars H, 1:189
 Werner i Kvarnby, N Mårten S, 3:288
 Werner i Höjen, Oscar E, 4:448
 Vessman i Stockholm, Signe A M, 1:189 
@@ -3799,7 +3803,7 @@ von Zweigbergk i Stockholm, Otto F, 3:156
 Örwall i Skärblacka, John O, 2:120
 Östberg i Brantshammar, senare Stockholm o Tureberg, G Fredrik, 1:280
 Tureberg i Stockholm, Johan, 1:197, 5:182
-Österberg i Eskilstuna, senare Nyköping, C Gus­ taf, 1:404
+Österberg i Eskilstuna, senare Nyköping, C Gustaf, 1:404
 Österdahl i Visby, Sven-Otto, 2:348 
 Östergren i Stockholm, August, 1:198, 2:349
 Östergren i Karlskrona, Theodor P:son, 3:87 
@@ -3807,7 +3811,8 @@ Tureberg i Stockholm, Johan, 1:197, 5:182
 Östling i Ljusdal, John, 5:319
 Östling i Linköping, Nils, 2:121
 Östling i Valbo, Olof, 5:182
-Östlund i Stockholm, Agda M, 1:198 — i Myckle, Carl, 5:381
+Östlund i Stockholm, Agda M, 1:198
+Östlund i Myckle, Carl, 5:381
 Östman i Ry, Per, 5:271 
 Östrand i Avesta, Erik L, 5:100
 Östrand i Söderhamn, P Olle, 5:182
