@@ -21,16 +21,16 @@ Adolfsson i Västerås, Tage V A , 1:419
 Afzelius i Uppsala, Fredrik G, 1:297
 Q2940262,Afzelius i Stockholm, J F Ivar, 1:47
 Agardh i Lund, Jacob G, 3:182
-Ager i Ulvsunda, Ruth M, 1:48
+Q4934282,Ager i Ulvsunda, Ruth M, 1:48
 Agerberg i Östersund, senare Frösön, Nils, 5:289 
 Ahl i Norrtälje, K Einar, 1:217
-Ahlberg i Stockholm, senare Lidingö, C Ernst N, 1:48
+Q5543827,Ahlberg i Stockholm, senare Lidingö, C Ernst N, 1:48
 Ahlgren i Ala, Erik, 5:201
 Ahlgren i Sundsvall, Magnus, 5:201
 Ahlin i Kalmar, Zacharias, 2:259
 Ahlfvengren i Halmstad, senare Stockholm, Fredrik Elias, 2:365
 Ahlkvist i Jordholmen, K Emil, 3:182
-Ahlmark i Enskede, senare Stockholm, Per A, 1:49, 4:469
+Q1347731,Ahlmark i Enskede, senare Stockholm, Per A, 1:49, 4:469
 Ahlsten i Alva, senare Hemse, C Johan, 2:331, 4:469
 Ahlstrand i Umeå, G Albin, 5:337 
 Ahlström i Malmö, Olof C, 3:183 
@@ -45,7 +45,7 @@ Alexandersson i Öckerö, Adolf E, 4:53
 Alin i Uppsala, Oscar J, 1:298
 Alkman i Göteborg, senare Stenkullen, Edvard P, 4:54
 Allard i Örebro, K Å Henry, 4:470 
-Alm i Stockholm, Ulla G, 1:49 
+Q4963023, Alm i Stockholm, Ulla G, 1:49 
 Almén i Stockholm, August T, 5:337
 Almén i Göteborg, Frans E, 4:54
 Almer i Varberg, Johan S, 2:365
@@ -142,7 +142,7 @@ Andersson i Jäger, O Emil, 4:55
 Andersson i Basterås, Eric, 4:202
 Andersson i Uppsala, Erik, 4:382
 Andersson i Bjertorp, Ernst G, 4:303
-Andersson i Värtan, Ernst V , 1:52
+Q110877099,Andersson i Värtan, Ernst V , 1:52
 Andersson i Helgesta, Folke, 4:471
 Andersson i Saleby, Fredrik, 4:303
 Andersson i Rossvik, Gunnar A, 1:358
@@ -274,7 +274,7 @@ Arvedson i Storbrohyttan, Nils G, 4:384
 Arweson i Gothem, Bengt E M, 2:331 
 Arvidson i Hög, John-Arvid, 3:189
 Arvidson i Stockholm, E Stellan Å, 1:53 
-Arwidsson i Stockholm, Hugo I, 1:54 
+Q5560646,Arwidsson i Stockholm, Hugo I, 1:54 
 Asker i Halmstad, Axel, 2:369, 5:205
 Asker i Gävle, G Ferdinand, 5:122 
 Asklöf i Hageby, Isaac J, 2:50
@@ -604,7 +604,7 @@ Burman i Haparanda, G Oskar, 5:408
 Busck i Trätteland, Rudolf Theodor C, 4:69 
 Bulow i Lund, J Christian, 3:201
 Bystedt i Sundsvall, August, 5:212
-Byström i Stockholm, Jakob J:son, 1:69 
+Q5591493,Byström i Stockholm, Jakob J:son, 1:69 
 Bågenholm i Hasselfors, Axel, 4:477
 Bäckgren i Markebäck, C Gustaf, 4:477
 Bäcklin i Nyköping, Johan E, 1:364
