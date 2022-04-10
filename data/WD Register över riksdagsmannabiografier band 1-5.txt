@@ -14,12 +14,12 @@ Adelswärd i Åtvidaberg, A Theodor, 2:43
 Adler i Elleholm, senare Nykvarn, Nils, 3:43 
 Adlercreutz i Malmö, Axel G, 3:181 
 Adlersparre i Stockholm, Axel, 1:47
-Adler i Gustafsvik, senare Arvika, Rudolf, 4:379 
+Q5542896,Adlersparre i Gustafsvik, senare Arvika, Rudolf, 4:379 
 Adolfsson i Malmö, senare Göteborg, Gunnar 3:181,4:53
 Adolfsson i Bynsberg, E Holger J, 4:379
 Adolfsson i Västerås, Tage V A , 1:419
 Afzelius i Uppsala, Fredrik G, 1:297
-Afzelius i Stockholm, J F Ivar, 1:47
+Q2940262,Afzelius i Stockholm, J F Ivar, 1:47
 Agardh i Lund, Jacob G, 3:182
 Ager i Ulvsunda, Ruth M, 1:48
 Agerberg i Östersund, senare Frösön, Nils, 5:289 
@@ -114,7 +114,7 @@ Andersson i Olsbenning, Anders, 1:420
 Andersson i Smedbyn, Anders, 4:380 
 Andersson i Torp, Anders, 5:202 
 Andersson i Falkenberg, Anders B, 2:366 
-Andersson i Helgesta, Anders Peter, 1:357
+Q5553964, Andersson i Helgesta, Anders Peter, 1:357
 Andersson i Gisselås, Andreas, 5:289 
 Andersson i Mosserudstorp, Andreas, 2:139, 4:381 
 Andersson i Saxtorp, G Arvid, 4:201
@@ -143,7 +143,7 @@ Andersson i Basterås, Eric, 4:202
 Andersson i Uppsala, Erik, 4:382
 Andersson i Bjertorp, Ernst G, 4:303
 Andersson i Värtan, Ernst V , 1:52
-Q5554485,Andersson i Helgesta, Folke, 4:471
+Andersson i Helgesta, Folke, 4:471
 Andersson i Saleby, Fredrik, 4:303
 Andersson i Rossvik, Gunnar A, 1:358
 Andersson i Djursholm, C F Gunnar, 3:185
@@ -1603,7 +1603,7 @@ Jeansson i Kalmar, Johan J, 2:281
 Jeansson i Kalmar, John, 2:282
 Jehander i Hörle bruk, Carl J, 2:160 
 Jensen i Lund, Martin C, 3:222 
-Jeppsson i Åsum, John, 3:125
+Q5882474,Jeppsson i Åsum, John, 3:125
 Jeppsson i Mörrum, senare Visby, Ola, 3:57
 Jesperson i Dorisborg, Jöns P, 3:223 
 Johannesson i Stockholm, senare Johanneshov, Ewald G V, 1:114
@@ -2253,7 +2253,7 @@ Löfqvist i Mörrum, Thyra C, 3:65
 Löfroth i Kiruna, senare Luleå, John G, 5:427 
 Löfvander i Kvarnby, Axel, 3:239
 Lönegren i Norrköping, Gustaf W L, 2:91 
-Lönnberg i Ringstad, Carl J L, 2:91
+Q5969765,Lönnberg i Ringstad, Carl J L, 2:91
 Lönnberg i Linköping, Lars Johan, 2:92
 Löthner i Jönköping, Olof A, 2:169
 Löwegren i Malmö, A Gunnar H, 3:240 
