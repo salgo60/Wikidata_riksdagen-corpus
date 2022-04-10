@@ -1,4 +1,4 @@
-** version 0.2 Needs Quality check - 3815 records **
+** version 0.21 Needs Quality check - 3815 records **
 
 
 Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
@@ -14,7 +14,7 @@ Adelswärd i Åtvidaberg, A Theodor, 2:43
 Adler i Elleholm, senare Nykvarn, Nils, 3:43 
 Adlercreutz i Malmö, Axel G, 3:181 
 Adlersparre i Stockholm, Axel, 1:47
-Adler i Gustafsvik, senare Arvika, Rudolf, 4:379 
+Adlersparre i Gustafsvik, senare Arvika, Rudolf, 4:379 
 Adolfsson i Malmö, senare Göteborg, Gunnar 3:181,4:53
 Adolfsson i Bynsberg, E Holger J, 4:379
 Adolfsson i Västerås, Tage V A , 1:419

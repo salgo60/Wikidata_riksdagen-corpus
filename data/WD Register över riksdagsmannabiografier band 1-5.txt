@@ -4,11 +4,11 @@
 Q5540544,Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
 Q5540672,Aarnseth i Malung, Fredrik O, 5:45
 Q5540748,Aastrup i Stockholm, Nils G E, 1:47
-Abelin i Kvillinge, G Rudolph, 2:43
-Abenius i Västerås, E Wilhelm, 1:419 
-Abrahamsson i Jönköping, Erik R, 2:137 
-Adamsson i Malmö, Erik SJ, 3:181
-Adelsköld i Nolhaga o Stockholm, Claes A, 3:43
+Q5541257,Abelin i Kvillinge, G Rudolph, 2:43
+Q5541307,Abenius i Västerås, E Wilhelm, 1:419 
+Q5627413,Abrahamsson i Jönköping, Erik R, 2:137 
+Q5551491,Adamsson i Malmö, Erik SJ, 3:181
+Q384847,Adelsköld i Nolhaga o Stockholm, Claes A, 3:43
 Adelswärd i Stockholm, Axel R A, 2:43
 Adelswärd i Åtvidaberg, A Theodor, 2:43
 Adler i Elleholm, senare Nykvarn, Nils, 3:43 
@@ -54,7 +54,7 @@ Almgren i Norrahammar, N O Harald, 2:137
 Almgren i Stockholm, Oscar M, 1:50
 Almkvist i Skellefteå, senare Äppelviken, N John F, 5:338
 Alm-Lindström i Stockholm, Ulla G, 1:49 
-Almquist i Göteborg, senare Stockholm, Helge K H, 4:54
+Q3784536,Almquist i Göteborg, senare Stockholm, Helge K H, 4:54
 Almqvist i Stockholm, G Fridolf, 5:338
 Almqvist i Jönköping, J Gustaf, 2:138
 Almqvist i Janslunda, Knut F G, 1:357
@@ -143,7 +143,7 @@ Andersson i Basterås, Eric, 4:202
 Andersson i Uppsala, Erik, 4:382
 Andersson i Bjertorp, Ernst G, 4:303
 Andersson i Värtan, Ernst V , 1:52
-Andersson i Helgesta, Folke, 4:471
+Q5554485,Andersson i Helgesta, Folke, 4:471
 Andersson i Saleby, Fredrik, 4:303
 Andersson i Rossvik, Gunnar A, 1:358
 Andersson i Djursholm, C F Gunnar, 3:185
@@ -994,7 +994,7 @@ Ersson i Vik, Lars, 1:367
 Ersson i Västlandaholm, Per, 1:432
 Eskel i Karlstad, Arvid N, 4:400
 Eskhult i Eskhult, Ernst W, 4:354
-Eskilsson i Björsäter, Carl E, 2:65
+Q5719171, Eskilsson i Björsäter, Carl E, 2:65
 Eskilsson i Likenäs, E Gunnar F, 4:400
 Essén i Göteborg, Ludvig, 4:82
 von Essen i Kavlås, senare Stockholm, Fredrik, 4:315
@@ -1339,7 +1339,7 @@ Hansson i Stockholm, senare Ålsten, Per Albin, 1:99
 Hansson i Vallberga, Peter, 2:380
 Hansson i Lilla Essingen, senare Stockholm o Äppelviken, Sigfrid, 4:91
 Hansson i Önnarp, Stig F, 3:217 
-Hansson i Torp, Sven, 2:73
+Q5789670, Hansson i Torp, Sven, 2:73
 Hansson i Svartbyn, Sven V, 5:418 
 Hansson i Piteå, Tage T, 5:418
 Hansson i Göteborg, Torsten B G, 4:92 
@@ -1386,7 +1386,7 @@ Hegardt i Göteborg, Fredrik B, 4:94
 Hegardt i Latorp, senare Thorsätra, J Henrik B, 4:490 
 Hegardt i Halmstad, senare Östersund, Ingeborg M, 2:381
 Heidenberg i Visby, C G Hjalmar, 2:338 
-Heiding i Stora Tomteby, G Arthur, 2:279 
+Q5797491,Heiding i Stora Tomteby, G Arthur, 2:279 
 Heijkenskjöld i Ringaby, C Selim W, 4:490 
 von Heijne-Lillienberg i Edeby, L Georg, 1:371
 Heimer i Gäserud, Wilhelm, 4:232
@@ -2672,7 +2672,7 @@ Olsson i Helsingborg, Petter, 3:253
 Olsson i Österbo, J Rikard, 1:448
 Olsson i Älvdalsåsen, Smeds Lars, 5:83
 Olsson i Timrå, Stig E, 5:249
-Olsson i Sörnäs, Stormats Mathias, 5:83
+Q6028001,Olsson i Sörnäs, Stormats Mathias, 5:83
 Olsson i Labbemåla, Sven A, 2:94
 Olsson i Åsen, Sven A, 4:134
 Olsson i Mölndal, Sven G, 4:134
@@ -2916,7 +2916,7 @@ Ridderbjelke i Uppsala, senare Marielund o Stockholm, Fredrik G M, 1:330
 Ridderstad i Linköping, Carl Fredrik, 2:101 
 Rimmerfors i Bromma, senare Vällingby, A Einar, 1:164
 Rimås i Åsandby, K Sigvard E, 2:102
-Ringaby i Ringaby, Per-Eric, 4:139
+Q6072936, Ringaby i Ringaby, Per-Eric, 4:139
 Risberg i Kållered, Bo H, 4:140
 Risberg i Mörlunda, A Peter, 2:305
 Rissén i Stockholm, Hjalmar R, 1:164
@@ -3033,7 +3033,7 @@ Schödén i Backe, Jonas E, 5:254
 Schönbeck i Hässlunda, Henrik O, 3:268
 Schönbeck i Helsingborg, Kristian K, 3:269
 Schöning i Söderhamn, J Frithiof G, 5:170 
-Schött i Kalmar, R Helmer, 2:308
+Q111543297, Schött i Kalmar, R Helmer, 2:308
 Schött i Kalmar, Lars E, 2:309
 Sederholm i Ålberga gård, Edward M, 1:391
 Sederholm i Ålberga gård, Gustaf R, 1:392
@@ -3505,7 +3505,7 @@ Uggla i Stockholm, Gustaf F O, 4:445
 af Ugglas i Linköping, senare Stockholm, C Gustaf, 1:183, 2:114
 af Ugglas i Forsmark, C Ludvig F, 1:272
 Uhlén i Malmö, Axel, 3:285
-Uhr i Mörby, senare Svenstorp, Anders W, 4:519
+Q6218962,Uhr i Mörby, senare Svenstorp, Anders W, 4:519
 Ulfsparre af Broxvik i Nygård, Gustaf J T, 2:314 
 Ullman i Foss, M Wilfrid, 4:164
 Ullsten i Stockholm, S K Ola, 1:184
