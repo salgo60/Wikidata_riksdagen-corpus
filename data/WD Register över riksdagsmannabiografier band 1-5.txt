@@ -12,11 +12,11 @@ Q384847,Adelsköld i Nolhaga o Stockholm, Claes A, 3:43
 Q5542625,Adelswärd i Stockholm, Axel R A, 2:43
 Q5542641,Adelswärd i Åtvidaberg, A Theodor, 2:43
 Q18237084,Adler i Elleholm, senare Nykvarn, Nils, 3:43 
-Adlercreutz i Malmö, Axel G, 3:181 
-Adlersparre i Stockholm, Axel, 1:47
+Q791977,Adlercreutz i Malmö, Axel G, 3:181 
+Q5542875,Adlersparre i Stockholm, Axel, 1:47
 Q5542896,Adlersparre i Gustafsvik, senare Arvika, Rudolf, 4:379 
-Adolfsson i Malmö, senare Göteborg, Gunnar 3:181,4:53
-Adolfsson i Bynsberg, E Holger J, 4:379
+Q5410165,Adolfsson i Malmö, senare Göteborg, Gunnar 3:181,4:53
+Q111551656,Adolfsson i Bynsberg, E Holger J, 4:379
 Adolfsson i Västerås, Tage V A , 1:419
 Afzelius i Uppsala, Fredrik G, 1:297
 Q2940262,Afzelius i Stockholm, J F Ivar, 1:47
@@ -569,7 +569,7 @@ Brodén i Skara, Carl Johan, 4:311
 Brodin i Gävle, Olof A, 5:125
 Brolin i Söderhamn, J Gustaf, 5:125
 Brolin i Istrum, Sven, 4:311
-Broman i Stockholm, J Wilhelm, 1:69
+Q110651954, Broman i Stockholm, J Wilhelm, 1:69
 Bromée i Billsta, Jöns, 5:293
 Broomé i Bårslöv, senare Lidingö, L Gustaf, 3:201
 Broström i Göteborg, Dan, 4:67
@@ -1088,7 +1088,7 @@ Franzon i Norrtälje, F Laur, 1:236
 Fredberg i Finnerödja, G Manfred, 4:318 
 Fredenberg i Sala, Alarik, 1:433 
 Fredholm i Saleby, Elias G, 4:318
-Fredholm i Stockholm, J Henrik G, 1:87 
+Q5741552,Fredholm i Stockholm, J Henrik G, 1:87 
 Fredholm i Malmö, Lars, 3:213
 Fredricson i Eklunda, Johan Fredrik, 1:309 
 Fredriksson i Grängesberg, K Torsten, 5:61 
@@ -1347,7 +1347,7 @@ Hasselquist i Kalmar, Carl J, 2:278
 Hasselquist i Stockholm, Johannes J:son, 1:100
 Hasselrot i Semsholm, senare Ulriksberg, Carl, 4:231
 Hasselrot i Stockholm, senare Lundegård, Carl B, 2:278, 4:231
-Hassler i Stockholm, N H Åke, 1:100
+Q5792970,Hassler i Stockholm, N H Åke, 1:100
 Hay i Jönköping, A Bernhard, 2:157
 Hazelius i Stockholm, Janne A, 5:351
 Hazén i Forsheda, J Gustaf, 2:158
@@ -1447,7 +1447,7 @@ Heyman i Vårgårda, Knut A, 4:234
 Hierta i Näsby, Carl Gösta, 1:240
 Hierta i Främmestad, Fredrik P, 4:324
 Hierta i Stockholm, Lars J, 1:108
-Hildebrand i Stockholm, Karl E H, 1:108, 3:55 
+Q4162652,Hildebrand i Stockholm, Karl E H, 1:108, 3:55 
 Hilding i Sevalbo, Anders, 5:139
 Hilding i Gävle, Per, 5:140
 Hillgård i Halmstad, Karl, 2:383
@@ -1844,7 +1844,7 @@ Kinnman i Göteborg, Jean A, 4:104
 Kjellberg i Göteborg, Carl O, 4:105
 Kjellberg i Göteborg, Carl August, 4:105
 Kjellberg i Stockholm, Jonas H R C:son, 4:494
-Kjellberg i Stockholm, Knut E O, 1:121
+Q5912025,Kjellberg i Stockholm, Knut E O, 1:121
 Kjellén i Älgabäck, Johan F, 2:166
 Kjellén i Göteborg, senare Uppsala, J Rudolf, 2:288, 4:106
 Kjellgren i Reijmyre, Bror H A, 2:83
@@ -2020,7 +2020,7 @@ Leffler i Stockholm, Johan A, 4:111
 Leffler i Stockholm, J Olle, 1:129
 Leijer i Visby, J G Ernst, 2:341
 Leijonancker i Stockholm, senare Halmstad, F Wilhelm E C, 4:112
-Leijonhufvud i Stockholm, B Abraham, 1:130, 5:73
+Q5945036,Leijonhufvud i Stockholm, B Abraham, 1:130, 5:73
 Leijonhufvud i Åkerö, Sten E G, 1:380
 Leksell i Sandviken, Erik A:son, 5:148
 Leman i Göteborg, Philip, 4:112
@@ -2048,7 +2048,7 @@ Lilienberg i Ronneby, Albert A, 3:63
 Liljedahl i Gävle, Edith V, 5:149
 Liljedahl i Tranås, senare Linköping, Ernst T S, 2:167 
 Liljeholm i Göteborg, Anders Fredrik, 4:113 
-Liljencrantz i Stockholm, Johan, 1:130 
+Q5951786,Liljencrantz i Stockholm, Johan, 1:130 
 Liljenmark i Svärdsjö, Carl, 5:74
 Liljenroth i Göteborg, Georg, 4:113
 Liljesköld i Arvika, Karl A, 4:418
@@ -2170,14 +2170,14 @@ Lorentzon i Kramfors, B Gustaf L, 5:239
 Lorichs i Bernshammar, L Ludvig, 1:444 
 Lothigius i Örserumsbrunn, Carl-Wilhelm, 2:169
 Lothigius i Karlshamn, senare Vänersborg, L Wilhelm S, 2:390, 3:64, 4:253
-Lovén i Malmö, Carl O N:son, 3:236
-Lovén i Stockholm, O Christian, 1:137
-Lovén i Stockholm, Erik A, 1:138
-Lovén i Stockholm, H John, 1:138
-Lovén i Stockholm, P Sigurd, 1:139 
-Ludvigsson i Torshälla, Ingrid M, 1:382 
-Lund i Västervik, A Axel W, 2:291
-Lund i Stockholm, F Magnus, 1:139 
+Q5964250,Lovén i Malmö, Carl O N:son, 3:236
+Q5964257,Lovén i Stockholm, O Christian, 1:137
+Q5964269,Lovén i Stockholm, Erik A, 1:138
+Q5964304,Lovén i Stockholm, H John, 1:138
+Q5964342,Lovén i Stockholm, P Sigurd, 1:139 
+Q4963832,Ludvigsson i Torshälla, Ingrid M, 1:382 
+Q5965480,Lund i Västervik, A Axel W, 2:291
+Q5965552,Lund i Stockholm, F Magnus, 1:139 
 Lundahl i Kristianstad, Jacob A, 3:134 
 Lundbeck i Stockholm, Alice M, 1:139 
 Lundberg i Västerteg, Johan Peter, 5:363 
