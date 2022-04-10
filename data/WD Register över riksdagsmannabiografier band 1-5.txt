@@ -17,19 +17,19 @@ Q5542875,Adlersparre i Stockholm, Axel, 1:47
 Q5542896,Adlersparre i Gustafsvik, senare Arvika, Rudolf, 4:379 
 Q5410165,Adolfsson i Malmö, senare Göteborg, Gunnar 3:181,4:53
 Q111551656,Adolfsson i Bynsberg, E Holger J, 4:379
-Adolfsson i Västerås, Tage V A , 1:419
-Afzelius i Uppsala, Fredrik G, 1:297
+Q5543002,Adolfsson i Västerås, Tage V A , 1:419
+Q3087232,Afzelius i Uppsala, Fredrik G, 1:297
 Q2940262,Afzelius i Stockholm, J F Ivar, 1:47
-Agardh i Lund, Jacob G, 3:182
+Q520594,Agardh i Lund, Jacob G, 3:182
 Q4934282,Ager i Ulvsunda, Ruth M, 1:48
-Agerberg i Östersund, senare Frösön, Nils, 5:289 
-Ahl i Norrtälje, K Einar, 1:217
+Q5543430,Agerberg i Östersund, senare Frösön, Nils, 5:289 
+Q5543777,Ahl i Norrtälje, K Einar, 1:217
 Q5543827,Ahlberg i Stockholm, senare Lidingö, C Ernst N, 1:48
-Ahlgren i Ala, Erik, 5:201
-Ahlgren i Sundsvall, Magnus, 5:201
-Ahlin i Kalmar, Zacharias, 2:259
-Ahlfvengren i Halmstad, senare Stockholm, Fredrik Elias, 2:365
-Ahlkvist i Jordholmen, K Emil, 3:182
+Q5544009,Ahlgren i Ala, Erik, 5:201
+Q104868905,Ahlgren i Sundsvall, Magnus, 5:201
+Q93861211,Ahlin i Kalmar, Zacharias, 2:259
+Q5543988,Ahlfvengren i Halmstad, senare Stockholm, Fredrik Elias, 2:365
+Q5544085,Ahlkvist i Jordholmen, K Emil, 3:182
 Q1347731,Ahlmark i Enskede, senare Stockholm, Per A, 1:49, 4:469
 Ahlsten i Alva, senare Hemse, C Johan, 2:331, 4:469
 Ahlstrand i Umeå, G Albin, 5:337 
@@ -506,7 +506,7 @@ Boberg i Stockholm, senare Bistingsmåla o Kalmar, Carl G, 2:264
 Bodén i Hjo, Carl E, 4:309
 Bodin i Trangärd, Karl W, 4:391
 Bodin i Grausne, Lars G, 2:332
-Boéthius i Uppsala, Simon J, 1:302
+Q5580519,Boëthius i Uppsala, Simon J, 1:302
 Bogren i Falköping, senare Simonstorp o Sjömo, Oscar F, 4:309
 Boheman i Gränna, Erik C, 4:66
 Bohman i Stockholm, B Gösta, 1:66
@@ -923,7 +923,7 @@ Ericsson i Ålsten, C Eric, 4:81
 Ericsson i Väsby, J Eric, 4:481
 Ericsson i Malung, J Erik, 5:57
 Ericsson i Sörsjön, Evald, 5:57
-Ericsson i Näs, S Gunnar E, 2:272
+Q5411103,Ericsson i Näs, S Gunnar E, 2:272
 Ericsson i Åtvidaberg, Gunnar L V, 2:64
 Ericsson i Stockholm, Gustaf, 1:79
 Ericsson i Väsby, A Gustaf, 1:367
@@ -1297,7 +1297,7 @@ Hammar i Sjövik, A Olof, 5:66
 Hammarberg i Göteborg, Peter, 4:89
 Hammarberg i Västerås, Sven O, 1:435
 Hammarhjelm i Nynäs, Carl, 4:405 
-Hammarlund i Stockholm, Emil, 1:98
+Q5786752,Hammarlund i Stockholm, Emil, 1:98
 Hammarlund i Errarp, Nestor L, 3:122
 Hammarskjöld i Uppsala, Carl G, 1:310
 Hammarskjöld i Linköping, senare Stockholm, Carl Gustaf W, 2:72
@@ -2155,7 +2155,7 @@ Ljunggren i Örebro, Elof, 4:500
 Ljunggren i Uddevalla. Gustaf T, 4:118 
 Ljunggren i Kalmar, Nils P, 2:290
 Ljunggren i Trästad, P Otto W, 2:291
-Ljunggren i Pukeby, Sigge, 1:250 
+Q5961229,Ljunggren i Pukeby, Sigge, 1:250 
 Ljungkvist i Borås, Sven E, 4:253
 Ljunglund, Leon K V , 1:136
 Ljungman i Tjörn, Axel V, 4:118
@@ -2467,8 +2467,8 @@ Nilsson i Vittjärv, Pehr, 5:430
 Nilsson i Bonarp, Per, 3:140
 Nilsson i Kulhult, Per, 3:140
 Nilsson i Kärra, Per, 3:141
-Nilsson i Råby, Per, 4:504
-Nilsson i Tönnersa, Per, 2:395
+Q6011642,Nilsson i Råby, Per, 4:504
+Q6011649,Nilsson i Tönnersa, Per, 2:395
 Nilsson i Äspö, Per, 3:248
 Nilsson i Gränebo, C Petrus V, 2:274 
 Nilsson i Everöd, Sven, 3:141 
