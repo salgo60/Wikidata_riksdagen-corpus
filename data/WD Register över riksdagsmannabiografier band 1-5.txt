@@ -9,9 +9,9 @@ Q5541307,Abenius i Västerås, E Wilhelm, 1:419
 Q5627413,Abrahamsson i Jönköping, Erik R, 2:137 
 Q5551491,Adamsson i Malmö, Erik SJ, 3:181
 Q384847,Adelsköld i Nolhaga o Stockholm, Claes A, 3:43
-Adelswärd i Stockholm, Axel R A, 2:43
-Adelswärd i Åtvidaberg, A Theodor, 2:43
-Adler i Elleholm, senare Nykvarn, Nils, 3:43 
+Q5542625,Adelswärd i Stockholm, Axel R A, 2:43
+Q5542641,Adelswärd i Åtvidaberg, A Theodor, 2:43
+Q18237084,Adler i Elleholm, senare Nykvarn, Nils, 3:43 
 Adlercreutz i Malmö, Axel G, 3:181 
 Adlersparre i Stockholm, Axel, 1:47
 Q5542896,Adlersparre i Gustafsvik, senare Arvika, Rudolf, 4:379 
