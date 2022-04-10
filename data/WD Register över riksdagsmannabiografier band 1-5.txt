@@ -1094,7 +1094,7 @@ Fredricson i Eklunda, Johan Fredrik, 1:309
 Fredriksson i Grängesberg, K Torsten, 5:61 
 Friberg i Nyköping, P Gustaf, 1:368
 Frick i Karlskrona, Carl G, 3:51 
-Fridolfsson i Vällingby, Filip W, 1:88
+Q5743823,Fridolfsson i Vällingby, Filip W, 1:88
 Fridolfsson i Rödeby, A Nils U, 3:52
 von Friesen i Göteborg, O Bertil, 4:84
 von Friesen i Stockholm, Carl S, 1:88
@@ -1120,7 +1120,7 @@ Gabrielsson i Teg, Nils G, 5:348
 Gabrielsson i Norrby, Per M, 2:153
 Gadd i Uppsala, P E Arne, 1:310
 Gahn i Kåfalla, senare Vikmanshyttan, Henric P W, 5:62
-Gansmoe i Hägersten, senare Bandhagen, H G Ove, 1:90
+Q110401403,Gansmoe i Hägersten, senare Bandhagen, H G Ove, 1:90
 Gardell i Stenstugu, Arvid L J, 2:336
 Gardell i Gans, P Theodor, 2:336
 Gasslander i Karlskrona, Anders C, 3:52 
@@ -1986,8 +1986,8 @@ Larsson i Häste, Olof, 5:305
 Larsson i Nasta, Olof, 4:497
 Larsson i Stockholm, Oscar E, 1:128
 Larsson i Mörtlösa, F Oscar, 2:88
-Larsson i Fole, Per, 2:340
-Larsson i Viggetorp, Per, 4:417
+Q5938515,Larsson i Fole, Per, 2:340
+Q5938531,Larsson i Viggetorp, Per, 4:417
 Larsson i Öjersbyn, Per Adolf, 4:249
 Larsson i Loa, Per M, 4:497
 Larsson i Ulriksdal, A Sam E, 5:236
@@ -2391,7 +2391,7 @@ Neiglick i Uddevalla, Carl Anders, 4:127
 Neiglick i Uddevalla, G Sixten, 4:127
 Nelander i Trelleborg, Eric M, 3:242
 Nelsson i Ekengård, Nels, 3:67
-Nerman i Stockholm, Ture, 1:148
+Q538109,Nerman i Stockholm, Ture, 1:148
 Nestrup i Halmstad, Nils N, 2:393
 Nettelbrandt i Solna, A Cecilia, 1:256
 Netzén i Malmö, senare Stockholm o åter Malmö, K Gösta, 3:242
@@ -2497,7 +2497,7 @@ Nordenfelt i Kristinehamn, Carl H, 4:427
 Nordenfelt i Karlskrona, Enar W, 3:68
 Nordenfelt i Stockholm, Leonard M, 4:129
 Nordenfelt i Kristianstad, Åke H, 3:142 
-Nordenskiöld i Stockholm, N Adolf E, 1:149 
+Q156749,Nordenskiöld i Stockholm, N Adolf E, 1:149 
 Nordenskjöld i Sjögelö, O Gustaf, 2:172 
 Nordenson i Stockholm, Harald, 1:150
 Nordenson i Saltsjöbaden, Jonas W, 1:150
@@ -2662,7 +2662,7 @@ Olsson i Löräng, Olof, 5:163
 Olsson i Mosstakan, Olof, 4:431
 Olsson i Olebyn, Olof, 4:431
 Olsson i See, Olof, 5:163
-Olsson i Stockholm, Olof, 1:157
+Q6158761,Olsson i Stockholm, Olof, 1:157
 Olsson i Heden, senare Broberg, Oscar N, 4:134
 Olsson i Linköping, senare Danderyd, Oscar U B, 2:94, 4:506
 Olsson i Åsak, senare Fläsbro o Fiskeby, Per, 5:163 
@@ -2703,7 +2703,7 @@ Palmaer i Forsvik, C Wilhelm, 4:344
 Palme i Vällingby, S Olof J, 1:158, 2:174
 Palme i Stockholm, Sven T, 1:159
 Palmgren i Eskilstuna, Sven, 1:388
-Palmstierna i Stockholm, Erik K, 1:159
+Q1807154,Palmstierna i Stockholm, Erik K, 1:159
 Palmstierna i Skenäs, Henrik M A, 1:389
 Palmstierna i Stockholm, senare Jönköping, N A Hjalmar, 1:160, 2:175
 Pantzarhielm i Landskrona, Hans F A, 3:254 
@@ -3374,7 +3374,7 @@ Säve i Mariestad, J Adolf, 4:354
 Säve i Karlstad, Teofron A, 4:443
 Sävström i Bollnäs, August V, 5:175
 Sääf i Norrköping, Jöran R, 2:112
-Söderberg i Stockholm, Ernst J 1:178
+Q6201541,Söderberg i Stockholm, Ernst J, 1:178
 Söderberg i Rotebro, senare Norrviken, K Johan, 1:270 
 Söderberg i Rosendala, P Magnus, 2:188
 Söderberg i Hobborn, Samuel, 5:96
@@ -3406,7 +3406,7 @@ Tengdahl i Stockholm, senare Äppelviken, Knut A, 1:179, 4:444
 Tenger i Västervik, Carl F R, 2:312 
 Tengström i Göteborg, Carl F Gustav, 4:160 
 Tengvall i Stilleryd, Axel O, 3:79
-Tersmeden i Ramnäs, Adolf, 1:458
+Q6206359,Tersmeden i Ramnäs, Adolf, 1:458
 Tersmeden i Ramnäs, Wilhelm F, 1:458
 Testrup i Kristianstad, Erik M H G:son, 1:180 
 Tham i Stäholm, Henric S, 1:459
@@ -3733,8 +3733,8 @@ Zakrisson i Fageräng, Jonas Peter, 2:191
 Zander i Kolsva, J Albert, 1:461
 Zelahn i Tuna, Johan, 5:268
 Zetterberg i Spånga, senare Stockholm, K Åke H, 1:194
-Zetterstrand i Norrköping, Theodor, 2:119 
-Zetterström i Oxelösund, Sven N, 1:403 
+Q6252260,Zetterstrand i Norrköping, Theodor, 2:119 
+Q6252318,Zetterström i Oxelösund, Sven N, 1:403 
 Zimdahl i Brännan, Per, 5:380
 Zotterman i Vadstena, E August, 2:119
 von Zweigbergk i Stockholm, Otto F, 3:156
@@ -3811,7 +3811,7 @@ Tureberg i Stockholm, Johan, 1:197, 5:182
 Östling i Ljusdal, John, 5:319
 Östling i Linköping, Nils, 2:121
 Östling i Valbo, Olof, 5:182
-Östlund i Stockholm, Agda M, 1:198
+Q4691677,Östlund i Stockholm, Agda M, 1:198
 Östlund i Myckle, Carl, 5:381
 Östman i Ry, Per, 5:271 
 Östrand i Avesta, Erik L, 5:100
