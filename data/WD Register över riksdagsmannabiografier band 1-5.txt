@@ -62,7 +62,7 @@ Almqvist i Stockholm, Ludvig T, 1:218
 Almqvist i Umeå, E Victor, 5:339
 Almryd i Hemmestavik, Hans G B, 1:50
 Almström i Stockholm, A F Robert, 1:50, 5:119 
-Alsterlund i Luleå, Magnus, 5:399
+Q5552491,Alsterlund i Luleå, Magnus, 5:399
 Alströmer i Östad, Jonas, 4:199
 Alströmer i Halmstad, C J Oscar, 2:365
 Alströmer i Östad, C Thore J, 4:199
@@ -88,7 +88,7 @@ Anderson i Hälla, Jan, 1:420
 Anderson i Tenhult, Johan, 2:138
 Q5553576,Anderson i Säby, Johan Eric, 1:298
 Anderson i Sundsvall, John R, 5:202
-Anderson i Landa, Lars, 4:379
+Q5555287,Anderson i Landa, Lars, 4:379
 Anderson i Lydde, Nils A, 4:200
 Anderson i Hasselbol, Olof, 4:380
 Anderson i Linköping, Otto, 2:45
@@ -334,7 +334,7 @@ Bengtsson i Landskrona, Hugo V, 3:192
 Bengtsson i Varberg, S B Ingemund, 2:370 
 Bengtsson i Bjärnalt, Johannes, 2:370
 Bengtsson i Öxared, Johannes, 2:371
-Bengtsson i Gullåkra, Jöns, 3:193
+Q5570257,Bengtsson i Gullåkra, Jöns, 3:193
 Bengtsson i Lilla Hyllinge, Jöns, 3:193
 Bengtsson i Göteborg, Magnus, 4:61
 Bengtsson i Borås, Pål A, 4:207
@@ -430,7 +430,7 @@ Berndtsson i Bua, K Henry, 4:63
 Bernström i Djursholms Ösby, Erik A, 1:224
 Bernström i Stockholm, John P F, 1:224
 Berntson i Sveg, Olof, 5:293
-Beronius i Falun, Victor M, 5:50
+Q5574217,Beronius i Falun, Victor M, 5:50
 Beskow i Stockholm, Gustaf E, 1:61
 Beskow i Helsingborg, K Jakob, 3:195
 Bexelius i Stockholm, Anton, 1:61
@@ -1285,7 +1285,7 @@ Hamberg i Härnösand, Svante J, 5:223
 Hamilton i Hedensberg, M Alexander H, 1:435 
 Hamilton i Kviberg, Carl B, 4:89
 Hamilton i Hjälmsäter, W Gilbert, 4:322
-Hamilton i Hedenlunda, Henning L H, 1:370
+Q3054681,Hamilton i Hedenlunda, Henning L H, 1:370
 Hamilton i Blomberg, B Hugo A, 4:323
 Hamilton i Stockholm, senare Gävle o åter Stockholm, Hugo EG, 1:98,4:229, 5:138
 Hamilton i Ovesholm, Raoul G, 3:122
@@ -2226,7 +2226,7 @@ Lundquist i Baggarbo, C Oscar, 1:322
 Lundqvist i Trollhättan, Artur E, 4:255
 Lundqvist i Göteborg, Axel G, 4:121
 Lundqvist i Rotebro, Ragnar, 1:252
-Lundqvist i Skälvum, senare Kållängen, J Viktor, 4:338 
+Q5967563,Lundqvist i Skälvum, senare Kållängen, J Viktor, 4:338 
 Lundstedt i Uppsala, A Vilhelm, 1:322 
 Lundsten i Åkarp, Per, 3:239
 Lundström i Piteå, Axel, 5:426
@@ -2380,10 +2380,10 @@ von Möller i Skottorp, Peter, 2:393
 Möller i Eskilstuna, Greta G, 1:384
 Möller i Stockholm, F Gustav, 1:147
 Möller i Gävle, Yngve A, 5:155
-Mörner af Morlanda i Björksund, Axel K E, 1:384
-Mörner i Djursholm, K Axel G, 4:502
-Mörner i Stockholm, Carl Göran D, 2:226 
-Mörner i Kåreholm, J Oscar, 2:92
+Q6001499,Mörner af Morlanda i Björksund, Axel K E, 1:384
+Mörner af Morlanda i Djursholm, K Axel G, 4:502
+Mörner af Morlanda i Stockholm, Carl Göran D, 2:226 
+Mörner af Morlanda i Kåreholm, J Oscar, 2:92
 Mörtsell i Mörttjärn, Frans Oskar, 5:365 
 Mörtsell i Malå, senare Stensele, Johannes, 5:365
 Naesström i Ramsele, N August, 5:244
@@ -2572,7 +2572,7 @@ Näslund i Åsele, Pelle J, 5:369
 Näsman i Näs, Petter, 5:247 
 Näsström i Bjästa, Emil E, 5:248
 Ocklind i Skellefteå, Carl, 5:370 
-Odelberg i Enskede, Axel, 1:258
+Q6022244,Odelberg i Enskede, Axel, 1:258
 Odelberg i Enskede, A Theodor, 2:298, 5:160 
 Odelberg i Gustavsberg, O Wilhelm, 1:259
 Odell i Skankerud, Lars Fredrik, 4:504 
@@ -2767,7 +2767,7 @@ Persson i Örkelljunga, senare Killebäckstorp, Olof, 3:147
 Persson i Tandö, K Olof, 5:85
 Persson i Plöninge, Otto S, 3:259
 Persson i Norrby, Per, 5:165
-Persson i Trången, Per, 5:309
+Q6043613,Persson i Trången, Per, 5:309
 Persson i Tofta, Perjohan, 2:398
 Persson i Undersvik, senare Tomterna, Per L, 5:165 
 Persson i Hult, J Peter, 2:230
@@ -2804,7 +2804,7 @@ Petersson i Boestad, Johan, 2:232
 Petersson i Borås, Johannes, 4:264
 Petersson i Göteborg, Knut Z, 4:137
 Petersson i Leksand, E Lorents, 5:86
-Petersson i Broaryd, M Lucas, 2:176
+Q6045471,Petersson i Broaryd, M Lucas, 2:176
 Petersson i Runtorp, Nils, 2:302
 Petersson i Lindekullen, P Otto, 2:97
 Petersson i Brystorp, Per Gustaf, 2:98
@@ -2856,7 +2856,7 @@ Peyron i Stockholm, C Ludwig, 1:162
 Philipson i Norrköping, John, 2:99 
 Philipsson i Göteborg, Aron, 4:138 
 Piper i Sövdeborg, E C Alfred, 3:262
-Piper i Lövstad, Carl E A G, 2:99
+Q6050309,Piper i Lövstad, Carl E A G, 2:99
 Piper i Krageholm, C G Fritz, 3:262
 von Platen i Stockholm, Baltzar J E, 1:327
 von Platen i Kristinelund, Carl B E, 3:262
@@ -3472,9 +3472,9 @@ Treffenberg i Västerås, senare Härnösand, Falun o Stockholm, N Curry E, 1:45
 Troedsson i Bjärnum, Troed, 3:153
 von Troil i Malmö, Samuel G, 3:282 
 Troilius i Stockholm, Carl Oscar, 4:518 
-Trolle i Fulltofta, Carl A, 3:283
-Trolle i Klågerup, Carl A, 3:283
-Trolle i Trollenäs, Nils A A, 3:284
+Q6215604,Trolle i Fulltofta, Carl A, 3:283
+Q6215599,Trolle i Klågerup, Carl A, 3:283
+Q6215643,Trolle i Trollenäs, Nils A A, 3:284
 af Trolle i Karlskrona, Georg, 3:80 
 Trolle-Bonde i Trolleholm, Carl J, 3:198 
 Trolle-Wachtmeister i Trolle-Ljungby, Axel K, 3:154

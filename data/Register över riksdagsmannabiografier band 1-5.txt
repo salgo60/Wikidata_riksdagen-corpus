@@ -1,4 +1,4 @@
-** version 0.21 Needs Quality check - 3815 records **
+** version 0.22 Needs Quality check - 3815 records **
 
 
 Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
@@ -2378,9 +2378,9 @@ Möller i Eskilstuna, Greta G, 1:384
 Möller i Stockholm, F Gustav, 1:147
 Möller i Gävle, Yngve A, 5:155
 Mörner af Morlanda i Björksund, Axel K E, 1:384
-Mörner i Djursholm, K Axel G, 4:502
-Mörner i Stockholm, Carl Göran D, 2:226 
-Mörner i Kåreholm, J Oscar, 2:92
+Mörner af Morlanda i Djursholm, K Axel G, 4:502
+Mörner af Morlanda i Stockholm, Carl Göran D, 2:226 
+Mörner af Morlanda i Kåreholm, J Oscar, 2:92
 Mörtsell i Mörttjärn, Frans Oskar, 5:365 
 Mörtsell i Malå, senare Stensele, Johannes, 5:365
 Naesström i Ramsele, N August, 5:244
