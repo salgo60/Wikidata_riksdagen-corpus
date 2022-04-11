@@ -31,15 +31,15 @@ Q93861211,Ahlin i Kalmar, Zacharias, 2:259
 Q5543988,Ahlfvengren i Halmstad, senare Stockholm, Fredrik Elias, 2:365
 Q5544085,Ahlkvist i Jordholmen, K Emil, 3:182
 Q1347731,Ahlmark i Enskede, senare Stockholm, Per A, 1:49, 4:469
-Ahlsten i Alva, senare Hemse, C Johan, 2:331, 4:469
-Ahlstrand i Umeå, G Albin, 5:337 
-Ahlström i Malmö, Olof C, 3:183 
-Ahrenberg i Göteborg, Henrik E, 4:53 
-Albertsson i Tenhult, A Eskil A, 2:137 
-Aldén i Degerfors, A Olle, 4:469
-Alemyr i Vimmerby, Stig R, 2:259 
+Q5544228,Ahlsten i Alva, senare Hemse, C Johan, 2:331, 4:469
+Q5544237,Ahlstrand i Umeå, G Albin, 5:337 
+Q5544294,Ahlström i Malmö, Olof C, 3:183 
+Q5544520,Ahrenberg i Göteborg, Henrik E, 4:53 
+Q5545566,Albertsson i Tenhult, A Eskil A, 2:137 
+Q5545831,Aldén i Degerfors, A Olle, 4:469
+Q5546036,Alemyr i Vimmerby, Stig R, 2:259 
 Q5546265,Alexanderson i Ekensholm, Carl A, 1:357
-Alexanderson i Lidingö, K Erik, 1:217
+Q5546257,Alexanderson i Lidingö, K Erik, 1:217
 Alexanderson i Stockholm, Nils E, 1:297
 Alexandersson i Öckerö, Adolf E, 4:53
 Alin i Uppsala, Oscar J, 1:298
@@ -342,7 +342,7 @@ Bengtsson i Norup, Sven, 3:106
 Bengtsson i Halmstad, G Tore E, 2:371
 Bengtsson i Häradsköp, J Wilhelm, 2:141
 Benjaminsson i Tämta, Pehr, 4:208
-Bennich i Stockholm, N Axel G, 2:262, 5:291
+Q5570669,Bennich i Stockholm, N Axel G, 2:262, 5:291
 Berg i Staby, O Alfred, 1:301
 Berg i Karlshamn, Carl G, 3:44
 Berg i Eriksdal, senare Haga, Ernst G H, 5:206
@@ -2707,7 +2707,7 @@ Palme i Vällingby, S Olof J, 1:158, 2:174
 Palme i Stockholm, Sven T, 1:159
 Palmgren i Eskilstuna, Sven, 1:388
 Q1807154,Palmstierna i Stockholm, Erik K, 1:159
-Palmstierna i Skenäs, Henrik M A, 1:389
+Q6034114,Palmstierna i Skenäs, Henrik M A, 1:389
 Palmstierna i Stockholm, senare Jönköping, N A Hjalmar, 1:160, 2:175
 Pantzarhielm i Landskrona, Hans F A, 3:254 
 Pauli i Karlstad, senare Stockholm, Ivan H E, 2:176
@@ -2990,8 +2990,8 @@ Rydén i Jönköping, L Gustaf, 2:180
 Rydén i Malmö, senare Limhamn o Islinge, K Värner, 3:267
 Rydh Munck af Rosenschöld i Stockholm, Hanna A, 1:166
 Rydholm i Göteborg, Peter M, 4:143
-Rydin i Uppsala, Herman L, 1:330, 5:373
-Rydini Visby, Karl R, 2:344
+Q6085569,Rydin i Uppsala, Herman L, 1:330, 5:373
+Q6085588,Rydin i Visby, Karl R, 2:344
 Ryding i Stockholm, senare Skövde, K Axel, 4:347, 5:252
 Ryding i Göteborg, Gunvor I, 4:143
 Ryding i Härnösand, B T Gustaf, 5:252
@@ -3061,7 +3061,7 @@ Siegbahn i Stockholm, Bo L G, 1:169
 Sigfrid i Solvik, Nils J:son, 3:150 
 Sigurdsen i Stockholm, Gertrud C, 1:169 
 Silfverbrand i Gällivare, Otto T, 5:437 
-Silfverschiöld i Hede, N August, 4:269
+Q6175893, Silfverschiöld i Hede, N August, 4:269
 Silfverschiöld i Gåsvadholm, Carl Otto, 2:400 
 Silfverschiöld i Koberg, Otto B A, 4:270
 Silfverstolpe i Göteborg, David Otto M, 4:149 
@@ -3411,7 +3411,7 @@ Tengström i Göteborg, Carl F Gustav, 4:160
 Tengvall i Stilleryd, Axel O, 3:79
 Q6206359,Tersmeden i Ramnäs, Adolf, 1:458
 Q6206436,Tersmeden i Ramnäs, Wilhelm F, 1:458
-Testrup i Kristianstad, Erik M H G:son, 1:180 
+Q6206558,Testrup i Kristianstad, Erik M H G:son, 1:180 
 Tham i Stäholm, Henric S, 1:459
 Tham i Susegården, F A Sebastian, 2:403
 Tham i Huskvarna, G Wilhelm S, 2:189
@@ -3428,7 +3428,7 @@ Thomson i Lund, senare Stockholm, Arthur N, 3:278
 Thor i Nedansjö, C Gustaf, 5:261 
 Thorberg i Stockholm, J Arvid J, 1:181 
 Thorburn i Uddevalla, Robert M, 4:160
-Thorburn i Uddevalla, William F, 4:161 
+Q6208999,Thorburn i Uddevalla, William F, 4:161 
 Thore i Göteborg, Alexander, 4:161 
 Thorell i Stolp-Ekeby, Edvard E, 1:271
 Thorell i Hökerum, Olof, 4:277
