@@ -466,7 +466,7 @@ Björk i Jämtön, J Arvid, 5:406
 Björk i Skärholmen, senare Enebyberg, Kaj Å, 4:65
 Björk i Tryde, Nils H, 3:108
 Björk i Påarp, Villiam E, 3:196
-Björkenstam i Strömsnäs, Knut W, 1:425 
+Q5577602,Björkenstam i Strömsnäs, Knut W, 1:425 
 Björklund i Hässleholm, L Anton, 3:109
 Björklund i Stora Perstorp, J August, 4:308
 Björklund i Sund, senare Rörön, Olof, 5:210
@@ -720,7 +720,7 @@ Crafoord i Strömstad, Jacob G H G:son, 4:73
 Cramér i Visby, Rudolf A C, 2:334 
 Croneborg i Sjöberg, H Hjalmar U, 4:313
 Croneborg i Älvsbacka, J U Wilhelm, 4:394
-Cronstedt i Västerås, Fredrik J, 1:429
+Q5613568,Cronstedt i Västerås, Fredrik J, 1:429
 Cruse i Stockholm, C Sigvard, 1:74
 Crusebjörn i Umeå, senare Stockholm o åter Umeå, Jesper I, 5:346
 Culin i Laholm, Anders Magnus, 2:375 
@@ -2382,7 +2382,7 @@ Möller i Stockholm, F Gustav, 1:147
 Möller i Gävle, Yngve A, 5:155
 Q6001499,Mörner af Morlanda i Björksund, Axel K E, 1:384
 Mörner af Morlanda i Djursholm, K Axel G, 4:502
-Mörner af Morlanda i Stockholm, Carl Göran D, 2:226 
+Q6001576,Mörner af Morlanda i Stockholm, Carl Göran D, 2:226 
 Mörner af Morlanda i Kåreholm, J Oscar, 2:92
 Mörtsell i Mörttjärn, Frans Oskar, 5:365 
 Mörtsell i Malå, senare Stensele, Johannes, 5:365
@@ -3176,7 +3176,7 @@ Snygg i Säter, J Gustaf E, 5:92
 Sommelius i Helsingborg, Malte J T, 3:273 
 Spangenberg i Örebro, J Gottlieb, 4:513 
 Sparre i Östersund, Knut J U, 5:312
-Sparre af Söfdeborg i Vänersborg, Erik J F, 4:272
+Q6184928,Sparre af Söfdeborg i Vänersborg, Erik J F, 4:272
 Sparre af i Stockholm, Gustaf A V, 5:92
 Sparre af i Almnäs, senare Stockholm o Mariedal, N Gustaf A, 4:351, 5:256
 Spens i Grensholmen, G Harald, 2:105
@@ -3410,7 +3410,7 @@ Tenger i Västervik, Carl F R, 2:312
 Tengström i Göteborg, Carl F Gustav, 4:160 
 Tengvall i Stilleryd, Axel O, 3:79
 Q6206359,Tersmeden i Ramnäs, Adolf, 1:458
-Tersmeden i Ramnäs, Wilhelm F, 1:458
+Q6206436,Tersmeden i Ramnäs, Wilhelm F, 1:458
 Testrup i Kristianstad, Erik M H G:son, 1:180 
 Tham i Stäholm, Henric S, 1:459
 Tham i Susegården, F A Sebastian, 2:403
