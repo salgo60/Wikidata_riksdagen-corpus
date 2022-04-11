@@ -40,11 +40,11 @@ Q5545831,Aldén i Degerfors, A Olle, 4:469
 Q5546036,Alemyr i Vimmerby, Stig R, 2:259 
 Q5546265,Alexanderson i Ekensholm, Carl A, 1:357
 Q5546257,Alexanderson i Lidingö, K Erik, 1:217
-Alexanderson i Stockholm, Nils E, 1:297
-Alexandersson i Öckerö, Adolf E, 4:53
-Alin i Uppsala, Oscar J, 1:298
-Alkman i Göteborg, senare Stenkullen, Edvard P, 4:54
-Allard i Örebro, K Å Henry, 4:470 
+Q5546274,Alexanderson i Stockholm, Nils E, 1:297
+Q5552169,Alexandersson i Öckerö, Adolf E, 4:53
+Q2485795,Alin i Uppsala, Oscar J, 1:298
+Q5552279,Alkman i Göteborg, senare Stenkullen, Edvard P, 4:54
+Q1606431,Allard i Örebro, K Å Henry, 4:470 
 Q4963023, Alm i Stockholm, Ulla G, 1:49 
 Almén i Stockholm, August T, 5:337
 Almén i Göteborg, Frans E, 4:54
