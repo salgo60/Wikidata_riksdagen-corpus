@@ -354,7 +354,7 @@ Berg i Nyköping, J Harry, 1:361
 Q5571271,Berg i Stockholm, K John, 1:56
 Berg i Luleå, senare Stockholm, Lars, 5:401
 Berg i Munkfors, Nils A:son, 4:386
-Berg i Stockholm, C Oscar, 1:57, 5:49
+Q5571164,Berg i Stockholm, C Oscar, 1:57, 5:49
 Berg i Göteborg, F Oskar, 4:61
 Berg i Eksjö, Richard W T, 2:142
 Berg i Karlskrona, Robert W F, 3:45
@@ -603,7 +603,7 @@ Burman i Nedertorneå, E Gustaf, 5:408
 Burman i Haparanda, G Oskar, 5:408
 Busck i Trätteland, Rudolf Theodor C, 4:69 
 Bulow i Lund, J Christian, 3:201
-Bystedt i Sundsvall, August, 5:212
+Q5591469,Bystedt i Sundsvall, August, 5:212
 Q5591493,Byström i Stockholm, Jakob J:son, 1:69 
 Bågenholm i Hasselfors, Axel, 4:477
 Bäckgren i Markebäck, C Gustaf, 4:477
@@ -868,8 +868,8 @@ Q5708836,Eliasson i Stockholm, Lennart S, 1:78
 Q5708890,Eliasson i Markaryd, E Reinhold, 2:210
 Q5708904,Eliasson i Moholm, Rolf A E, 4:315
 Q5709034,Elisson i Fagared, Anders P, 2:376
-Elldin i Färnebol, Harald, 4:397
-Elliot i Stockholm, J Erik, 1:78
+Q5709148,Elldin i Färnebol, Harald, 4:397
+Q5709446,Elliot i Stockholm, J Erik, 1:78
 Elmén i Göteborg, Brita D, 4:80
 Elmgren i Norrköping, Bengt F, 2:62
 Elmroth i Tierp, Arthur E, 1:307
@@ -946,10 +946,10 @@ Erikson i Stockholm, P Jakob M, 1:80
 Erikson i Rydboholm, Johannes, 4:223 
 Erikson i Övra Odensvi, Olof G, 4:482
 Ericson i Stockholm, G Oskar, 1:80 
-Eriksson i Toftered, Albin, 2:377
-Eriksson i Rödsta, Anders August, 5:217
-Eriksson i Undrom, Anders W, 5:218
-Eriksson i Björka, O August, 5:58
+Q5715925,Eriksson i Toftered, Albin, 2:377
+Q5715991,Eriksson i Rödsta, Anders August, 5:217
+Q5716008,Eriksson i Undrom, Anders W, 5:218
+Q5718128,Eriksson i Björka, O August, 5:58
 Q4894168,Eriksson i Grängesberg, senare Falun, J Bernhard, 5:58 
 Q5716080,Eriksson i Stockholm, C J Bertil, 1:80
 Eriksson i Ljusdal, Carl E, 5:131 
