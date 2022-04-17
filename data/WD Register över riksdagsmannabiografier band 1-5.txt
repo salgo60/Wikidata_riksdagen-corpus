@@ -216,23 +216,23 @@ Q5555696,Andersson i Långviksmon, E Oscar, 5:204
 Q6213695,Andersson i Torngård, Oscar S, 2:313 
 Q110909540,Andersson i Knäppinge, Pehr August, 2:260 
 Q5555784,Andersson i Fragg, Per, 1:421
-Andersson i Koldemo, Per, 5:121 
-Andersson i Siggeboda, Per E, 4:472 
-Andersson i Torsbo, Per J, 4:203
-Andersson i Högkil, Peter, 4:203
-Andersson i Vistena, Peter Carl, 2:49
-Andersson i Säby, Petter, 3:43
-Andersson i Strängnäs, RosaV , 1:360 
-Andersson i Skrädene, Rosarus, 4:384 
-Andersson i Enskede, Sten S, 4:384
-Andersson i Plöninge, Sven, 3:188
-Andersson i Sveneby, Sven, 4:304
-Andersson i Billingsfors, Sven A H, 4:204
-Andersson i Örebro, Sven G, 4:472
-Andersson i Vigelsbo, senare Mamre, Sven J, 1:422
-Andersson i Göteborg, senare Riksby, Bromma, Mariehäll o Sundbyberg, Sven O M, 1:360, 4:58
-Andersson i Ronneby, Thure G, 3:44
-Andersson i Brämhult, Torsten, 4:204
+Q5555799,Andersson i Koldemo, Per, 5:121 
+Q5555795,Andersson i Siggeboda, Per E, 4:472 
+Q5555809,Andersson i Torsbo, Per J, 4:203
+Q5555843,Andersson i Högkil, Peter, 4:203
+Q5555851,Andersson i Vistena, Peter Carl, 2:49
+Q5555861,Andersson i Säby, Petter, 3:43
+Q4935917,Andersson i Strängnäs, Rosa V , 1:360 
+Q111633477,Andersson i Skrädene, Rosarus, 4:384 
+Q5556026,Andersson i Enskede, Sten S, 4:384
+Q5556075,Andersson i Plöninge, Sven, 3:188
+Q5556080,Andersson i Sveneby, Sven, 4:304
+Q5556063,Andersson i Billingsfors, Sven A H, 4:204
+Q5556070,Andersson i Örebro, Sven G, 4:472
+Q6224947,Andersson i Vigelsbo, senare Mamre, Sven J, 1:422
+Q953952,Andersson i Göteborg, senare Riksby, Bromma, Mariehäll o Sundbyberg, Sven O M, 1:360, 4:58
+Q5556133,Andersson i Ronneby, Thure G, 3:44
+Q16008322,Andersson i Brämhult, Torsten, 4:204
 Andersson i Köpinge, P Verner, 2:367
 Andersson i Bråborg, Wilhelm, 2:49
 Andersson i Resebo, A Wilhelm, 2:260
