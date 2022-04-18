@@ -76,9 +76,9 @@ Q5552957,Ander i Hårsbäck, J August, 1:419
 Q5553053,Anderberg i Vollsjö, H Rudolf, 3:183 
 Q5553501,Anderson i Stockholm, F Albert, 2:138, 5:201
 Q6086540,Anderson i Råstock, senare Björkbrotorp, Anders, 4:470
-Anderson i Bromma, senare Stockholm, Carl Albert, 1:51
-Anderson i Storegården, Carl Arvid, 4:301
-Anderson i Västanå, A August, 2:44
+Q5553446,Anderson i Bromma, senare Stockholm, Carl Albert, 1:51
+Q110765107,Anderson i Storegården, Carl Arvid, 4:301
+Q5553428,Anderson i Västanå, A August, 2:44
 Anderson i Knapasjö, C Edor, 4:200
 Anderson i Hägelåkra, S Erik, 2:259
 Anderson i Himmelsby, A Gustaf, 2:44
@@ -172,35 +172,35 @@ Andersson i Raklösen, Johan 1:298
 Andersson i Stärte, Johan, 1:421
 Andersson i Gävle, A Johan, 5:120
 Q5554960,Andersson i Sjöberg, L Johan, 4:303
-Andersson i Baggböle, N Johan, 5:339
-Andersson i Baltorp, Johannes, 4:303
-Andersson i Grude, Johannes, 4:202
-Andersson i Knarrevik, Johannes, 4:57
-Andersson i Lysvik, Johannes, 4:382
-Andersson i Ryssby, Johannes, 2:140
-Andersson i Alfredshem, K John B, 5:204
-Andersson i Hedsta, Jonas, 5:121
-Andersson i Hoberg, Jonas, 4:203
-Andersson i Häckenäs, Jonas, 2:48
-Andersson i Varpnäs, Jonas, 4:382
-Andersson i Ölsund, Jonas, 5:121
-Andersson i Ovanmyra, Jones Erik, 5:47
-Andersson i Fränninge, Jöns, 3:186
-Andersson i Örstorp, Jöns, 3:186
-Andersson i Björkäng, senare Lindesberg, Karl A, 4:471
-Andersson i Fiskebäckskil, senare Stockholm, Stocksund o Djursholm, Karl A, 4:57 
-Andersson i Eliantorp, Karl E, 2:48
-Andersson i Rixö, Karl H, 4:57 
-Andersson i Katrineholm, Karl T, 1:359 
-Andersson i Storfors, Karl-Gustav, 4:383 
-Andersson i Milsmaden, Karl Magnus, 4:304 
-Andersson i Nora, Lars, 4:472
-Andersson i Utterud, Lars D, 4:383 
-Andersson i Hedensbyn, Lars E, 5:400 
-Andersson i Halmstad, Lars P, 2:367, 3:104 
-Andersson i Södertälje, Lennart F H, 1:219 
-Andersson i Lindome, O Linus, 2:367 
-Andersson i Gripenberg, Magnus, 2:205 
+Q5554949,Andersson i Baggböle, N Johan, 5:339
+Q5554970,Andersson i Baltorp, Johannes, 4:303
+Q5554975,Andersson i Grude, Johannes, 4:202
+Q5554980,Andersson i Knarrevik, Johannes, 4:57
+Q5554984,Andersson i Lysvik, Johannes, 4:382
+Q5554987,Andersson i Ryssby, Johannes, 2:140
+Q5555007,Andersson i Alfredshem, K John B, 5:204
+Q5555060,Andersson i Hedsta, Jonas, 5:121
+Q5555055,Andersson i Hoberg, Jonas, 4:203
+Q5555065,Andersson i Häckenäs, Jonas, 2:48
+Q5555069,Andersson i Varpnäs, Jonas, 4:382
+Q5555073,Andersson i Ölsund, Jonas, 5:121
+Q5555074,Andersson i Ovanmyra, Jones Erik, 5:47
+Q5555087,Andersson i Fränninge, Jöns, 3:186
+Q5555091,Andersson i Örstorp, Jöns, 3:186
+Q5578035,Andersson i Björkäng, senare Lindesberg, Karl A, 4:471
+Q5555123,Andersson i Fiskebäckskil, senare Stockholm, Stocksund o Djursholm, Karl A, 4:57 
+Q5555130,Andersson i Eliantorp, Karl E, 2:48
+Q5555135,Andersson i Rixö, Karl H, 4:57 
+Q110617328,Andersson i Katrineholm, Karl T, 1:359 
+Q5555156,Andersson i Storfors, Karl-Gustav, 4:383 
+Q5555145,Andersson i Milsmaden, Karl Magnus, 4:304 
+Q5555276,Andersson i Nora, Lars, 4:472
+Q5555255,Andersson i Utterud, Lars D, 4:383 
+Q5555272,Andersson i Hedensbyn, Lars E, 5:400 
+Q5555267,Andersson i Halmstad, Lars P, 2:367, 3:104 
+Q5555345,Andersson i Södertälje, Lennart F H, 1:219 
+Q5555349,Andersson i Lindome, O Linus, 2:367 
+Q5555392,Andersson i Gripenberg, Magnus, 2:205 
 Q5555399,Andersson i Lövhult, Magnus, 2:205
 Q5555405,Andersson i Stigen, Magnus, 4:203
 Q5555443,Andersson i Igelboda, C W Martin, 1:219 
@@ -233,13 +233,13 @@ Q6224947,Andersson i Vigelsbo, senare Mamre, Sven J, 1:422
 Q953952,Andersson i Göteborg, senare Riksby, Bromma, Mariehäll o Sundbyberg, Sven O M, 1:360, 4:58
 Q5556133,Andersson i Ronneby, Thure G, 3:44
 Q16008322,Andersson i Brämhult, Torsten, 4:204
-Andersson i Köpinge, P Verner, 2:367
-Andersson i Bråborg, Wilhelm, 2:49
-Andersson i Resebo, A Wilhelm, 2:260
-Andersson i Mellanköpinge, Åke, 3:188
-Andreason i Nygård, J August, 4:205 
-Andreasson i Östra Ljungby, N Egon, 3:104
-Andreasson i Göteborg, G Olof, 4:58
+Q5556188,Andersson i Köpinge, P Verner, 2:367
+Q5556212,Andersson i Bråborg, Wilhelm, 2:49
+Q5556217,Andersson i Resebo, A Wilhelm, 2:260
+Q5556244,Andersson i Mellanköpinge, Åke, 3:188
+Q105026351,Andreason i Nygård, J August, 4:205 
+Q5348198,Andreasson i Östra Ljungby, N Egon, 3:104
+Q5556529,Andreasson i Göteborg, G Olof, 4:58
 Q5556551,Andreasson i Tunge, Pehr T, 4:58
 Q104918428,Andreasson i Tollered, Sven, 4:205
 Q5556596,Andrée i Lund, Torsten E, 3:189
@@ -328,7 +328,7 @@ Q5570095,Bengtsson i Boberg, Bengt, 2:370
 Q5570092,Bengtsson i Gunneby, Bengt, 4:386
 Q5570109,Bengtsson i Järnbrott, senare Västra Frölunda, Bengt E, 4:61
 Q5570127,Bengtsson i Össlöv Nästagård, Carl I, 2:206 
-Bengtsson i Örby Bosgård, Carl L, 4:207
+Q5570120,Bengtsson i Örby Bosgård, Carl L, 4:207
 Bengtsson i Kullen, C Emil, 4:305
 Bengtsson i Landskrona, Hugo V, 3:192
 Bengtsson i Varberg, S B Ingemund, 2:370 
@@ -423,26 +423,26 @@ Bergström i Finnshyttan, L Wilhelm, 4:389
 Bergvall i Stockholm, John H, 1:60
 Berlin i Stockholm, senare Umeå o åter Stockholm, Jakob, 5:341
 Berlin i Härnösand, Karl Henrik, 5:210
-Berlin i Lund, Nilsjohan, 3:194
-Berling i Helsingborg, Edwin B, 3:194
+Q5573776,Berlin i Lund, Nilsjohan, 3:194
+Q5573792,Berling i Helsingborg, Edwin B, 3:194
 Berndes i Stockholm, senare Jakobsberg, Gustaf F, 1:61
 Berndtsson i Bua, K Henry, 4:63
 Bernström i Djursholms Ösby, Erik A, 1:224
 Bernström i Stockholm, John P F, 1:224
 Berntson i Sveg, Olof, 5:293
 Q5574217,Beronius i Falun, Victor M, 5:50
-Beskow i Stockholm, Gustaf E, 1:61
-Beskow i Helsingborg, K Jakob, 3:195
-Bexelius i Stockholm, Anton, 1:61
-Bexelius i Mångbyn, Henrik, 5:341
-Bexell i Torstorp, E G Alfred D, 2:372
-Biesért i Lennartsfors, J Elof, 4:389
-Biesért i Töcksfors, J C Niklas, 4:390, 5:293
-Bildt i Stockholm, D A Gillis, 1:62
-Bildt i Stockholm, Knut G, 5:405
-Billing i Västerås, senare Lund, A Gottfrid L, 1:424, 4:209
-Billing i Stockholm, P C Walfrid, 1:62
-Billman i Karlskoga, Tore G, 4:63 
+Q5574697,Beskow i Stockholm, Gustaf E, 1:61
+Q5574702,Beskow i Helsingborg, K Jakob, 3:195
+Q5575089,Bexelius i Stockholm, Anton, 1:61
+Q5575098,Bexelius i Mångbyn, Henrik, 5:341
+Q5575104,Bexell i Torstorp, E G Alfred D, 2:372
+Q5575709,Biesért i Lennartsfors, J Elof, 4:389
+Q5575715,Biesért i Töcksfors, J C Niklas, 4:390, 5:293
+Q52960,Bildt i Stockholm, D A Gillis, 1:62
+Q5575914,Bildt i Stockholm, Knut G, 5:405
+Q330757,Billing i Västerås, senare Lund, A Gottfrid L, 1:424, 4:209
+Q5576126,Billing i Stockholm, P C Walfrid, 1:62
+Q5576164,Billman i Karlskoga, Tore G, 4:63 
 Billqvist i Skövde, Johan Wilhelm, 4:307 
 Billström i Röa, Janne E, 4:63
 Billström i Lund, Lars, 3:195
@@ -749,7 +749,7 @@ Dahn i Östra Grevie, Mårten M:son, 3:206
 Dalberg i Borlänge, Erik, 5:54
 Dalgren i Västervik, Lars E, 2:269
 Damström i Domnarvet, Karl A, 5:55 
-Danckwardt-Lillieström i Solberga, E G Axel, 2:57
+Q5616503,Danckwardt-Lillieström i Solberga, E G Axel, 2:57
 Dandenell i Blankaholm, Otto A, 2:269 
 Danielson i Dyestad, Anders P, 2:269 
 Danielsson i Långnäs, August, 5:412
@@ -852,8 +852,8 @@ Ekstedt i Skee, C Axel, 4:79
 Ekström i Alsterfors, S G Bernhard, 2:209
 Ekström i Jönköping, Carl H R, 2:148
 Ekström i Varvboholm, Magnus, 4:315
-Ekström i Säm, C Mauritz, 4:80
-Ekström i Djupdalen, K Ragnar, 1:366
+Q5707505,Ekström i Säm, C Mauritz, 4:80
+Q5707649,Ekström i Djupdalen, K Ragnar, 1:366
 Ekström i Iggesund, Sven E A, 5:129
 Ekströmer i Klavreström, C Ivar, 2:209
 Q5707706,Ekströmer i Fågelfors, J Melcher, 2:271
@@ -1169,28 +1169,28 @@ Grebäck i Knutby, Erik H, 1:237
 Green i Avesta, H Åke H, 5:64
 Grenander i Skövde, J M Alfred, 4:320 
 Grenholm i Stockholm, Erik Magnus, 5:298 
-Grevesmühl i Lycksta, Carl A, 1:434
-Grill i Mariedam, Andreas G, 4:484 
-Gripenstedt i Nynäs, J August, 1:92
-Gripenstedt i Nynäs, senare Revlinge, Carl G, 1:369
-Gripenstedt i Bysta, Johan T, 4:484
-Groll i Kalmar, V Lennart, 2:274
-Grubbström i Umeå, Karl I, 5:349
-Grundberg i Vänersborg, Leonard, 4:225 
-Grundell i Säve, Carl G, 4:85
-Grym i Svanstein, Jakob F, 5:415
-Gränebo i Gränebo, C Petrus V, 2:274 
-Grönkvist i Molkom, K Allan, 4:404 
-Gudmundson i Vastad, Anders Magnus, 2:378 
-Gudmundsson i Berte, Anders, 2:379 
-Guldbrandsson i Norra Ämterud, Olof, 4:404 
-Gullberg i Skövde, A Wilhelm, 4:320 
-Gullstrand i Öckerö, F Oskar, 4:86
-Gullström i Stockholm, Stellan J, 4:404 
-Gumaelius i Örebro, senare Stockholm, C Arvid, 1:92, 4:485
-Gumaelius i Örebro, G Wilhelm, 4:485
-Gummesson i Eringsboda, Peter, 3:53 
-Gunnarson i Björkmossa, Peter Magnus, 2:275 
+Q111649364,Grevesmühl i Lycksta, Carl A, 1:434
+Q5771737,Grill i Mariedam, Andreas G, 4:484 
+Q727985,Gripenstedt i Nynäs, J August, 1:92
+Q5867622,Gripenstedt i Nynäs, senare Revlinge, Carl G, 1:369
+Q5772288,Gripenstedt i Bysta, Johan T, 4:484
+Q5772563,Groll i Kalmar, V Lennart, 2:274
+Q5773342,Grubbström i Umeå, Karl I, 5:349
+Q5773583,Grundberg i Vänersborg, Leonard, 4:225 
+Q5773639,Grundell i Säve, Carl G, 4:85
+Q5773997,Grym i Svanstein, Jakob F, 5:415
+Q5774246,Gränebo i Gränebo, C Petrus V, 2:274 
+Q5774566,Grönkvist i Molkom, K Allan, 4:404 
+Q5775166,Gudmundson i Vastad, Anders Magnus, 2:378 
+Q5775203,Gudmundsson i Berte, Anders, 2:379 
+Q5776203,Guldbrandsson i Norra Ämterud, Olof, 4:404 
+Q5776342,Gullberg i Skövde, A Wilhelm, 4:320 
+Q111648829,Gullstrand i Öckerö, F Oskar, 4:86
+Q5776226,Gullström i Stockholm, Stellan J, 4:404 
+Q5776520,Gumælius i Örebro, senare Stockholm, C Arvid, 1:92, 4:485
+Q5776536,Gumælius i Örebro, G Wilhelm, 4:485
+Q105046913,Gummesson i Eringsboda, Peter, 3:53 
+Q104889131,Gunnarson i Björkmossa, Peter Magnus, 2:275 
 Gunnarsson i Nälden, O Algot, 5:298
 Gunnarsson i Axtorp, Aron Christoffer, 2:379
 Gunne i Göteborg, A Stina M, 4:167
@@ -1222,7 +1222,7 @@ Gustafsson i Barkarby, Lars I, 1:237
 Gustafsson i Brånsta, Lars Erik, 4:486
 Gustafsson i Byske, Nils-Eric, 5:350
 Gustafsson i Benestad, Per J, 2:213
-Gustafsson i Stockholm, Richard A, 1:94
+Q5778040,Gustafsson i Stockholm, Richard A, 1:94
 Gustafsson i Stenkyrka, C E Torsten, 2:337
 Gustavson i Sala, senare Västerås, David E, 1:434
 Gustavson i Guntorp, John A, 4:87
@@ -1261,7 +1261,7 @@ Hagman i Linköping, Josef, 2:71
 Hagman i Domnarvet, Lars Johan, 5:64
 Hagman i Kungsholms Villastad, senare Stockholm o Ulvsunda, E Oskar P:son, 1:96
 Hagnell i Enskede, senare Bandhagen o Vällingby, Hans, 1:97
-Hagström i Härnösand, A Julius, 5:222
+Q5782765,Hagström i Härnösand, A Julius, 5:222
 Hagström i Kyrktåsjö, H Leonard, 5:223
 Hagård i Borås, S A Alarik, 4:227
 Hahn i Örebro, Anton N, 4:486
@@ -1615,13 +1615,13 @@ Johanson i Gäre, Carl, 4:328
 Johanson i Hansjö, Carl, 5:70
 Johanson i Hörninge, Carl J E, 2:282
 Johanson i Stockholm, K Edvard, 1:115
-Johanson i Norrtälje, senare Grängesberg, Emil G, 1:242
-Johanson i Västervik, Eric W, 2:282
-Johanson i Vetlanda, J Fredrik, 2:160
-Johanson i Hallagården, Gustav A, 4:328
-Johanson i Tväråselet, Johan, 5:422
-Johanson i Valared, Johan, 4:238
-Johanson i Vännäs, Karl A, 5:357
+Q5885056,Johanson i Norrtälje, senare Grängesberg, Emil G, 1:242
+Q18243057,Johanson i Västervik, Eric W, 2:282
+Q111378200,Johanson i Vetlanda, J Fredrik, 2:160
+Q5621134,Johanson i Hallagården, Gustav A, 4:328
+Q5885074,Johanson i Tväråselet, Johan, 5:422
+Q5885067,Johanson i Valared, Johan, 4:238
+Q5885088,Johanson i Vännäs, Karl A, 5:357
 Q5885082,Johanson i Faleberg, Karl E, 4:329
 Q5885103,Johanson i Huskvarna, C Oscar, 2:161
 Johansson i Möllstorp, A Adolf, 2:283 
@@ -1831,8 +1831,8 @@ Kempe i Västerås, J Arvid, 1:441
 Kempe i Karlstad, Gösta A, 4:414
 Kennedy i Råbelöv, James T, 3:130
 Kerfstedt i Varberg, Ingemar, 2:388
-Key i Stockholm, E Axel H, 1:119
-Key i Sundsholm, C F E Emil, 2:287
+Q4218935,Key i Stockholm, E Axel H, 1:119
+Q5907317,Key i Sundsholm, C F E Emil, 2:287
 Kihlberg i Tierp, K Alfred, 1:318
 Kihlman i Göteborg, Karin, 4:103
 Kilbom i Stockholm, senare Ängby, Karl, 1:119 
@@ -2185,8 +2185,8 @@ Lundahl i Kristianstad, Jacob A, 3:134
 Lundbeck i Stockholm, Alice M, 1:139 
 Lundberg i Västerteg, Johan Peter, 5:363 
 Lundberg i Uppsala, John I, 1:321
-Lundberg i Eksjö, Karl, 2:169
-Lundberg i Falkenberg, A Magnus, 2:391
+Q111647422,Lundberg i Eksjö, Karl, 2:169
+Q5965982,Lundberg i Falkenberg, A Magnus, 2:391
 Lundberg i Malmö, Måns B:son, 3:236
 Lundberg i Sala, Otto V , 1:444
 Lundberg i Malmö, L E Roland, 3:237
@@ -2628,8 +2628,8 @@ Olsson i Kollungeröd, O Bernhard, 4:133
 Olsson i Järnsida, Carl A, 2:299
 Olsson i Mellerud, Carl P, 4:261
 Olsson i Norrhyttan, senare Golvvasta o Närlinge, Carl Gustaf, 1:326, 5:82
-Olsson i Rögle, senare Viken, Christian, 3:251
-Olsson i Eskilstorp, Christoffer, 3:251
+Q6026693,Olsson i Rögle, senare Viken, Christian, 3:251
+Q6026704,Olsson i Eskilstorp, Christoffer, 3:251
 Olsson i Berg, Cornelius, 4:133
 Olsson i Högby, P Edvard, 2:299
 Olsson i Hölö, Elvy E, 1:386
@@ -2879,7 +2879,7 @@ Prytz i Göteborg, Björn G, 4:138
 Pålsson i Anderslöv, Jöns, 3:264
 Pålsson i Hemmesdynge, Lars, 3:264
 Pålsson i Söre, P Olof, 5:310
-Raab i Stora Sickla, Adam C, 2:304 
+Q6060104,Raab i Stora Sickla, Adam C, 2:304 
 Raab i Åkerholm, Carl A J, 2:304
 Rabe i Stockholm, Pehr R, 1:163
 Rahmn i Göteborg, Gösta E A, 4:139 
@@ -3068,7 +3068,7 @@ Silfverstolpe i Göteborg, David Otto M, 4:149
 Silfverstolpe i Näs, C F Gustaf, 1:265
 Siljeström i Stockholm, E Gösta H, 1:169
 Siljeström i Göteborg, Jon G, 4:150
-Siljeström i Näsby, senare Stockholm, Per A, 1:265 
+Q6175996,Siljeström i Näsby, senare Stockholm, Per A, 1:265 
 Sjö i Malmö, N Anton, 3:269
 Q6177812,Sjö i Linneryd, J August, 2:237
 Sjöberg i Sävsjö, Carl F, 2:182
@@ -3251,7 +3251,7 @@ Ström i Lidköping, Torsten E, 4:352
 Strömberg i Trollhättan, senare Karlstad, Gustaf A, 4:274
 Strömberg i Tumba, Karl-Erik J, 1:268
 Strömberg i Österbybruk, senare Stockholm, Otto M, 1:332
-Strömberg i Strängnäs, A Thore, 1:395
+Q6193217,Strömberg i Strängnäs, A Thore, 1:395
 Strömfelt i Hylinge, F Knut H, 2:108
 Styffe i Stockholm, Knut, 1:175
 Styrlander i Sollefteå, A Wilhelm, 5:258 
@@ -3376,10 +3376,10 @@ Sällström i Nederkalix, Johan, 5:443
 Säve i Mariestad, J Adolf, 4:354
 Säve i Karlstad, Teofron A, 4:443
 Sävström i Bollnäs, August V, 5:175
-Sääf i Norrköping, Jöran R, 2:112
+Q6201401,Sääf i Norrköping, Jöran R, 2:112
 Q6201541,Söderberg i Stockholm, Ernst J, 1:178
-Söderberg i Rotebro, senare Norrviken, K Johan, 1:270 
-Söderberg i Rosendala, P Magnus, 2:188
+Q6201579,Söderberg i Rotebro, senare Norrviken, K Johan, 1:270 
+Q6201599,Söderberg i Rosendala, P Magnus, 2:188
 Q6201693,Söderberg i Hobborn, Samuel, 5:96
 Q6201706,Söderberg i Västerås, senare Dingtuna, Sten T R, 1:457
 Söderbergh i Karlshamn, S Frithiof E, 3:79 
@@ -3460,8 +3460,8 @@ Torbrink i Kalmar, Tekla J L, 2:313
 Torelius i Stockholm, P Gustaf, 4:277
 Torgén i Högfors, G Niclas, 5:314
 Tornegård, Oscar S, 2:313
-Tornérhjelm i Vrams Gunnarstorp, Gustaf D R, 3:281
-Tornérhjelm i Vrams Gunnarstorp o Helsingborg, Rudolf V, 3:281
+Q6213719,Tornérhjelm i Vrams Gunnarstorp, Gustaf D R, 3:281
+Q6213725,Tornérhjelm i Vrams Gunnarstorp o Helsingborg, Rudolf V, 3:281
 Torpadie i Kalmar, A Ludvig F, 2:313
 af Trampe i Mjölkeröd, J D Carl W, 4:163 
 Trana i Göteborg, Erik A, 4:163
@@ -3758,12 +3758,12 @@ Q6255065,Åkerberg i Knistad, F E Knut, 4:360
 Åkerhielm af Margretelund i Margretelund, J Gustaf N S, 1:278
 Åkerlind i Knutby, Allan J G, 1:279
 Åkerlind i Hässjö, Erik Gustaf, 5:268
-Åkerlindh i Storhult, N Gustaf, 4:451
+Q111645980,Åkerlindh i Storhult, N Gustaf, 4:451
 Q6255248,Åkerlund i Lovisedal, senare Norra Järsjö, Erik G H, 1:279
 Q6255268,Åkerlund i Lidingö, Henrik, 1:279
-Åkerlund i Druvefors, Peter A, 4:282
+Q105062126,Åkerlund i Druvefors, Peter A, 4:282
 Q6255333,Åkerman i Strömstad, senare Halmstad, Assar E, 1:404, 4:177
-Åkerman i Stockholm, senare Västerås, G R Joachim, 1:195
+Q6255378,Åkerman i Stockholm, senare Västerås, G R Joachim, 1:195
 Åkerman i Stockholm, A Richard, 4:451 
 Åkerström i Clemensnäs, E Oskar, 5:381
 Åkeson-Lundegård i Landskrona, J C Evald, 3:292
