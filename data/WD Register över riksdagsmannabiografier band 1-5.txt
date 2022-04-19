@@ -79,22 +79,22 @@ Q6086540,Anderson i Råstock, senare Björkbrotorp, Anders, 4:470
 Q5553446,Anderson i Bromma, senare Stockholm, Carl Albert, 1:51
 Q110765107,Anderson i Storegården, Carl Arvid, 4:301
 Q5553428,Anderson i Västanå, A August, 2:44
-Anderson i Knapasjö, C Edor, 4:200
-Anderson i Hägelåkra, S Erik, 2:259
-Anderson i Himmelsby, A Gustaf, 2:44
-Anderson i Linköping, senare Stockholm, A Ivar, 2:45
-Anderson i Arboga, G Iwar, 1:420
+Q5553482,Anderson i Knapasjö, C Edor, 4:200
+Q5553493,Anderson i Hägelåkra, S Erik, 2:259
+Q5553524,Anderson i Himmelsby, A Gustaf, 2:44
+Q5553542,Anderson i Linköping, senare Stockholm, A Ivar, 2:45
+Q5553550,Anderson i Arboga, G Iwar, 1:420
 Q5553568,Anderson i Hälla, Jan, 1:420
-Anderson i Tenhult, Johan, 2:138
+Q5553580,Anderson i Tenhult, Johan, 2:138
 Q5553576,Anderson i Säby, Johan Eric, 1:298
-Anderson i Sundsvall, John R, 5:202
+Q5553616,Anderson i Sundsvall, John R, 5:202
 Q5555287,Anderson i Landa, Lars, 4:379
-Anderson i Lydde, Nils A, 4:200
+Q105046520,Anderson i Lydde, Nils A, 4:200
 Q5553680,Anderson i Hasselbol, Olof, 4:380
-Anderson i Linköping, Otto, 2:45
-Anderson i Arvika, Per, 4:380
-Anderson i Lerum, Ruth M H, 4:200
-Andersson i Löbbo, K Abel M, 2:139
+Q111438695,Anderson i Linköping, Otto, 2:45
+Q5555763,Anderson i Arvika, Per, 4:380
+Q4935919,Anderson i Lerum, Ruth M H, 4:200
+Q5554662,Andersson i Löbbo, K Abel M, 2:139
 Andersson i Valnäs, J Albert, 1:298 
 Andersson i Myggenäs, J Albin, 4:55 
 Andersson i Essvik, Alf E, 5:202
@@ -363,8 +363,8 @@ Berg i Ekudden, J Volrath, 4:208
 Bergander i Nynäshamn, Lilly K, 1:223 
 Q5571488,Berge i Hagalund, N Adolf, 1:224 
 Bergegren i Norrköping, Astrid, 2:52 
-Bergendahl i Ryholm, C Gustaf A, 4:306
-Bergendahl i Växjö, Klas Hugo, 2:206
+Q5571534,Bergendahl i Ryholm, C Gustaf A, 4:306
+Q5571545,Bergendahl i Växjö, Klas Hugo, 2:206
 Berger i Håkanbol, Anders A, 4:387
 Berger i Klippan, Ossian, 2:262, 4:473 
 Berggren i Östmark, Claes Johan, 4:387
@@ -409,13 +409,13 @@ Bergstrand i Kolmårdssanatoriet, Paul J, 2:53
 Bergström i Bosjön, Albert, 4:388
 Bergström i Norrköping, P Albert, 2:53
 Bergström i Kristianstad, senare Stockholm o Örebro, P Axel, 1:58, 3:107, 4:475
-Bergström i Skidsta, Carl, 5:209
-Bergström i Stockholm, senare Stocksund o Djursholm, David K, 1:59, 2:54
-Bergström i Karlstad, P Erik, 4:389
-Bergström i Bubbetorp, Gustaf, 3:46
-Bergström i Björsbyn, Hans Fredrik, 5:405
-Bergström i Västerby, Johan, 5:49
-Bergström i Helsingborg, Karl A E, 3:194
+Q5573288,Bergström i Skidsta, Carl, 5:209
+Q5573300,Bergström i Stockholm, senare Stocksund o Djursholm, David K, 1:59, 2:54
+Q111655821,Bergström i Karlstad, P Erik, 4:389
+Q5573351,Bergström i Bubbetorp, Gustaf, 3:46
+Q5573383,Bergström i Björsbyn, Hans Fredrik, 5:405
+Q5573430,Bergström i Västerby, Johan, 5:49
+Q5573455,Bergström i Helsingborg, Karl A E, 3:194
 Bergström i Högsön, Kristoffer, 5:405
 Bergström i Bäckland, Petrus, 5:209
 Bergström i Stockholm, PerN, 1:60
@@ -1034,16 +1034,16 @@ Falkman i Malmö, August R, 3:211
 Falla i Falla, Gunnar, 4:506
 Fant i Södertälje, C Fredrik M, 1:234 
 Farup i Ljusnedal, William, 5:297 
-Fast i Nässjö, J Erik G, 2:152
-Faxe i Jönköping, Arvid G, 2:152
-Faxe i Malmö, Cornelius, 3:212
-Fehr i Stockholm, Martin N, 1:234
-Fehrman i Träslöv, Carl, 2:378
-Fischer i Stockholm, G Elis, 1:84
-Fjellman i Ystad, Jonny M, 3:212
-Fjällbäck i Stockholm, Johan A J:son, 1:85 
-Flach i Svensksund, Sixten A, 2:67
-Fleetwood i Odensviholm, Edvard, 2:273
+Q5726007,Fast i Nässjö, J Erik G, 2:152
+Q5726510,Faxe i Jönköping, Arvid G, 2:152
+Q5726518,Faxe i Malmö, Cornelius, 3:212
+Q5727078,Fehr i Stockholm, Martin N, 1:234
+Q5727115,Fehrman i Träslöv, Carl, 2:378
+Q5731455,Fischer i Stockholm, G Elis, 1:84
+Q5732323,Fjellman i Ystad, Jonny M, 3:212
+Q5732483,Fjällbäck i Stockholm, Johan A J:son, 1:85 
+Q5732551,Flach i Svensksund, Sixten A, 2:67
+Q5732911,Fleetwood i Odensviholm, Edvard, 2:273
 Fleetwood i Kasimirsborg, Victor, 2:273
 Fleming af Liebelitz i Stockholm, O Herman A, 2:67
 Flensburg i Ronneby, Ernst M B, 3:51
@@ -1481,7 +1481,7 @@ Holmberg i Stockholm, Yngve, 1:110
 Holmbäck i Uppsala, Åke E V, 1:314, 2:159, 4:408
 Holmdahl i Karlskrona, J Otto, 3:55
 Holmdahl i Stockholm, Otto S, 1:110
-Holmgren i Karlskrona, Björn F:son, 3:56
+Q5811441,Holmgren i Karlskrona, Björn F:son, 3:56
 Q5811461,Holmgren i Varnhem, senare Sörby, David, 4:325
 Holmgren i Stockholm, Israel F, 4:97
 Holmgren i Hillebola, Karl E, 1:315
@@ -2646,7 +2646,7 @@ Olsson i Frössvi, A Gustaf, 1:448
 Olsson i Broddbo, E Gustaf, 1:447
 Olsson i Skiftinge, Janne E, 1:387
 Olsson i Järvsö, Johan A., 5:162
-Olsson i Stockholm, John, 1:157
+Q6027185,Olsson i Stockholm, John, 1:157
 Olsson i Ullånger, Judith A S, 5:249
 Olsson i Kvarnbrodda, Jöns, 3:252
 Olsson i Nordanå, Jöns, 3:252
@@ -2727,7 +2727,7 @@ Pehrsson i Barkö, Pehr, 1:261
 Pehrsson i Höle, Pehr, 5:164
 Pehrsson i Norrsund, Pehr, 1:262
 Pehrsson i Åkarp, Pehr, 3:256
-Pehrsson i Österby, senare Göteborg, Per, 1:327, 4:136
+Q6039817,Pehrsson i Österby, senare Göteborg, Per, 1:327, 4:136
 Pehrsson-Bramstorp i Bramstorp, Axel A, 3:255 
 Perman i Fränsta, Olof, 5:250
 Permansson i Erikslund, Johan, 5:250
