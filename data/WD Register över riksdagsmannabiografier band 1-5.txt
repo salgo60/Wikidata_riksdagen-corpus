@@ -329,14 +329,14 @@ Q5570092,Bengtsson i Gunneby, Bengt, 4:386
 Q5570109,Bengtsson i Järnbrott, senare Västra Frölunda, Bengt E, 4:61
 Q5570127,Bengtsson i Össlöv Nästagård, Carl I, 2:206 
 Q5570120,Bengtsson i Örby Bosgård, Carl L, 4:207
-Bengtsson i Kullen, C Emil, 4:305
-Bengtsson i Landskrona, Hugo V, 3:192
-Bengtsson i Varberg, S B Ingemund, 2:370 
-Bengtsson i Bjärnalt, Johannes, 2:370
-Bengtsson i Öxared, Johannes, 2:371
+Q5570145,Bengtsson i Kullen, C Emil, 4:305
+Q5570215,Bengtsson i Landskrona, Hugo V, 3:192
+Q707581,Bengtsson i Varberg, S B Ingemund, 2:370 
+Q5570240,Bengtsson i Bjärnalt, Johannes, 2:370
+Q5570243.Bengtsson i Öxared, Johannes, 2:371
 Q5570257,Bengtsson i Gullåkra, Jöns, 3:193
-Bengtsson i Lilla Hyllinge, Jöns, 3:193
-Bengtsson i Göteborg, Magnus, 4:61
+Q5596510,Bengtsson i Lilla Hyllinge, Jöns, 3:193
+Q5570288,Bengtsson i Göteborg, Magnus, 4:61
 Q5570343,Bengtsson i Borås, Pål A, 4:207
 Q5570408,Bengtsson i Norup, Sven, 3:106
 Q5570422,Bengtsson i Halmstad, G Tore E, 2:371
@@ -355,30 +355,30 @@ Q5571271,Berg i Stockholm, K John, 1:56
 Q5571280,Berg i Luleå, senare Stockholm, Lars, 5:401
 Q111665991,Berg i Munkfors, Nils A:son, 4:386
 Q5571164,Berg i Stockholm, C Oscar, 1:57, 5:49
-Berg i Göteborg, F Oskar, 4:61
-Berg i Eksjö, Richard W T, 2:142
-Berg i Karlskrona, Robert W F, 3:45
-Berg i Nääs, J Theodor, 4:208
-Berg i Ekudden, J Volrath, 4:208
-Bergander i Nynäshamn, Lilly K, 1:223 
+Q5571323,Berg i Göteborg, F Oskar, 4:61
+Q5571357,Berg i Eksjö, Richard W T, 2:142
+Q5571360,Berg i Karlskrona, Robert W F, 3:45
+Q5571405,Berg i Nääs, J Theodor, 4:208
+Q5571424,Berg i Ekudden, J Volrath, 4:208
+Q4938333,Bergander i Nynäshamn, Lilly K, 1:223 
 Q5571488,Berge i Hagalund, N Adolf, 1:224 
-Bergegren i Norrköping, Astrid, 2:52 
+Q4938354,Bergegren i Norrköping, Astrid, 2:52 
 Q5571534,Bergendahl i Ryholm, C Gustaf A, 4:306
 Q5571545,Bergendahl i Växjö, Klas Hugo, 2:206
-Berger i Håkanbol, Anders A, 4:387
-Berger i Klippan, Ossian, 2:262, 4:473 
-Berggren i Östmark, Claes Johan, 4:387
-Berggren i Gammelstad, J Emil, 5:402
-Berggren i Sundsvall, Erik, 5:207
-Berggren i Nora, Erik N, 4:474
-Berggren i Växjö, Frans, 2:207
-Berggren i Karlskrona, J Henrik, 3:46 
-Bergh i Luleå, K Ragnar, 5:402
-Bergius i Jönköping, senare Landskrona, S Oscar G, 2:143, 3:193, 4:62
-Berglind i Fläckebo, Carl Wilhelm, 1:423 
-Berglund i Klovsta, Abraham, 5:207
-Berglind i Gimmene, Carl W L, 4:307
-Berglind i Strömnäs, Enar S H, 5:207
+Q5571682,Berger i Håkanbol, Anders A, 4:387
+Q5571772,Berger i Klippan, Ossian, 2:262, 4:473 
+Q5571894,Berggren i Östmark, Claes Johan, 4:387
+Q5571900,Berggren i Gammelstad, J Emil, 5:402
+Q5571913,Berggren i Sundsvall, Erik, 5:207
+Q5571910,Berggren i Nora, Erik N, 4:474
+Q5571916,Berggren i Växjö, Frans, 2:207
+Q5571938,Berggren i Karlskrona, J Henrik, 3:46 
+Q5572108,Bergh i Luleå, K Ragnar, 5:402
+Q5572222,Bergius i Jönköping, senare Landskrona, S Oscar G, 2:143, 3:193, 4:62
+Q104905221,Berglind i Fläckebo, Carl Wilhelm, 1:423 
+Q105065199,Berglund i Klovsta, Abraham, 5:207
+Q5039896,Berglund i Gimmene, Carl W L, 4:307
+Q5572363,Berglind i Strömnäs, Enar S H, 5:207
 Berglind i Luleå, senare Linköping, Fredrik, 2:52, 5:403
 Berglind i Luleå, Frida J, 5:403
 Berglind i Stockholm, J Helge, 1:57
