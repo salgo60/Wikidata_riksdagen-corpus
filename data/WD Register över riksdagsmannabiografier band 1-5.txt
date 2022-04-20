@@ -1,4 +1,4 @@
-** WD version 0.2 3815 records **
+** WD 3818 records **
 
 
 Q5540544,Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
@@ -95,37 +95,37 @@ Q111438695,Anderson i Linköping, Otto, 2:45
 Q5555763,Anderson i Arvika, Per, 4:380
 Q4935919,Anderson i Lerum, Ruth M H, 4:200
 Q5554662,Andersson i Löbbo, K Abel M, 2:139
-Andersson i Valnäs, J Albert, 1:298 
-Andersson i Myggenäs, J Albin, 4:55 
-Andersson i Essvik, Alf E, 5:202
-Andersson i Bussjö, Alfred, 3:184 
-Andersson i Munka-Ljungby, Alfred, 3:103 
-Andersson i Fallsberg, A Alfred, 2:46 
-Andersson i Tungelsta, J Allan, 1:218 
+Q4709637,Andersson i Valnäs, J Albert, 1:298 
+Q4712369,Andersson i Myggenäs, J Albin, 4:55 
+Q5553830,Andersson i Essvik, Alf E, 5:202
+Q5553840,Andersson i Bussjö, Alfred, 3:184 
+Q5553850,Andersson i Munka-Ljungby, Alfred, 3:103 
+Q5553846,Andersson i Fallsberg, A Alfred, 2:46 
+Q5553863,Andersson i Tungelsta, J Allan, 1:218 
 Q4737866, Andersson i Knäred, M Alvar, 2:366 
-Andersson i Backgården, Anders, 4:301 
-Andersson i Greby, Anders, 4:302
-Andersson i Hakarp, Anders, 2:139 
-Andersson i Intagan, Anders, 4:55
-Andersson i Lund, Anders, 5:119 
-Andersson i Markaryd, Anders, 2:205 
-Andersson i Nyckelby, Anders, 5:45 
-Andersson i Olsbenning, Anders, 1:420 
-Andersson i Smedbyn, Anders, 4:380 
-Andersson i Torp, Anders, 5:202 
-Andersson i Falkenberg, Anders B, 2:366 
+Q5553903,Andersson i Backgården, Anders, 4:301 
+Q5553949,Andersson i Greby, Anders, 4:302
+Q5553911,Andersson i Hakarp, Anders, 2:139 
+Q5553950,Andersson i Intagan, Anders, 4:55
+Q5553920,Andersson i Lund, Anders, 5:119 
+Q5553954,Andersson i Markaryd, Anders, 2:205 
+Q5553957,Andersson i Nyckelby, Anders, 5:45 
+Q5553924,Andersson i Olsbenning, Anders, 1:420 
+Q5553930,Andersson i Smedbyn, Anders, 4:380 
+Q5553934,Andersson i Torp, Anders, 5:202 
+Q5553942,Andersson i Falkenberg, Anders B, 2:366 
 Q5553964,Andersson i Helgesta, Anders Peter, 1:357
 Q5553974,Andersson i Gisselås, Andreas, 5:289 
-Andersson i Mosserudstorp, Andreas, 2:139, 4:381 
-Andersson i Saxtorp, G Arvid, 4:201
-Andersson i Ryggestad, N Arvid, 4:381
-Andersson i Kroken, Axel, 4:201
-Andersson i Österfärnebo, Axel E, 5:119 
-Andersson i Härrklättan, Axel K, 4:201 
-Andersson i Örnsköldsvik, M Axel J, 5:203 
-Andersson i Surahammar, K Bertil, 1:421
-Andersson i Tidaholm, A G Birger, 4:302 
-Andersson i Mejstad, Birger M G, 2:260
+Q5553978,Andersson i Mosserudstorp, Andreas, 2:139, 4:381 
+Q111664215,Andersson i Saxtorp, G Arvid, 4:201
+Q5554025,Andersson i Ryggestad, N Arvid, 4:381
+Q5554055,Andersson i Kroken, Axel, 4:201
+Q4830232,Andersson i Österfärnebo, Axel E, 5:119 
+Q111665128,Andersson i Härrklättan, Axel K, 4:201 
+Q5554059,Andersson i Örnsköldsvik, M Axel J, 5:203 
+Q5554157,Andersson i Surahammar, K Bertil, 1:421
+Q5554162,Andersson i Tidaholm, A G Birger, 4:302 
+Q111665305,Andersson i Mejstad, Birger M G, 2:260
 Q5554287,Andersson i Vallby, Carl, 4:302
 Andersson i Malmö, Carl August, 3:184 
 Andersson i Skeenda, Carl G, 1:358
