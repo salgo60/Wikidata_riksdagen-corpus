@@ -378,32 +378,32 @@ Q5572222,Bergius i Jönköping, senare Landskrona, S Oscar G, 2:143, 3:193, 4:62
 Q104905221,Berglind i Fläckebo, Carl Wilhelm, 1:423 
 Q105065199,Berglund i Klovsta, Abraham, 5:207
 Q5039896,Berglund i Gimmene, Carl W L, 4:307
-Q5572363,Berglind i Strömnäs, Enar S H, 5:207
-Berglind i Luleå, senare Linköping, Fredrik, 2:52, 5:403
-Berglind i Luleå, Frida J, 5:403
-Berglind i Stockholm, J Helge, 1:57
-Berglind i Enskede, Jan E, 1:58
-Berglind i Kramfors, senare Sollefteå, Johan Emil, 5:208
-Berglind i Askersund, O Matteus, 4:474
-Berglind i Forsed, Sten V V, 5:208
-Berglind i Arvidsjaur, J Valdemar, 5:403
-Berglöf i Ovansjö, P Elof, 5:123
-Berglöf i Söderhamn, senare Varberg, Frans J E, 2:371, 5:123
-Bergman i Visby, Carl Johan, 2:331
-Bergman i Bodträskfors, senare Gällivare, Carl Otto, 5:340
-Bergman i Stockholm, C Gustaf L, 1:58 
-Bergman i Tännäs, Ingebrikt, 5:292
-Bergman i Svärdsjö, Ingrid H, 5:49
-Bergman i Stockholm, Johan, 4:387
+Q5572363,Berglund i Strömnäs, Enar S H, 5:207
+Q5572383,Berglund i Luleå, senare Linköping, Fredrik, 2:52, 5:403
+Q4938512,Berglund i Luleå, Frida J, 5:403
+Q5572396,Berglund i Stockholm, J Helge, 1:57
+Q5572406,Berglund i Enskede, Jan E, 1:58
+Q111667664,Berglund i Kramfors, senare Sollefteå, Johan Emil, 5:208
+Q5572436,Berglund i Askersund, O Matteus, 4:474
+Q5572477,Berglund i Forsed, Sten V V, 5:208
+Q5572503,Berglund i Arvidsjaur, J Valdemar, 5:403
+Q5572511,Berglöf i Ovansjö, P Elof, 5:123
+Q5572519,Berglöf i Söderhamn, senare Varberg, Frans J E, 2:371, 5:123
+Q5572576,Bergman i Visby, Carl Johan, 2:331
+Q5572579,Bergman i Bodträskfors, senare Gällivare, Carl Otto, 5:340
+Q5572642,Bergman i Stockholm, C Gustaf L, 1:58 
+Q5572670,Bergman i Tännäs, Ingebrikt, 5:292
+Q4938559,Bergman i Svärdsjö, Ingrid H, 5:49
+Q5572691,Bergman i Stockholm, Johan, 4:387
 Q5572766,Bergman i Göteborg, Per R, 4:62
-Bergman i Luleå, Sven Peter, 5:404 
-Bergmanson i Sundsvall, G Ulrik, 5:209 
-Bergmark i Hedåker, Axel M, 4:307
-Bergmark i Alingsås, J Oscar, 4:209
-Bergquist i Västerås, senare Stockholm, Äppelviken o Växjö, Thorwald E N, 1:424 
-Bergqvist i Västra Frölunda, Jan G, 4:62 
-Bergqvist i Luleå, Olof, 5:404
-Bergstedt i Skrukarp, Carl Fredrik, 2:53 
+Q5572792,Bergman i Luleå, Sven Peter, 5:404 
+Q5572843,Bergmanson i Sundsvall, G Ulrik, 5:209 
+Q5572863,Bergmark i Hedåker, Axel M, 4:307
+Q5572872,Bergmark i Alingsås, J Oscar, 4:209
+Q5572966,Bergquist i Västerås, senare Stockholm, Äppelviken o Växjö, Thorwald E N, 1:424 
+Q5573006,Bergqvist i Västra Frölunda, Jan G, 4:62 
+Q5573026,Bergqvist i Luleå, Olof, 5:404
+Q5573088,Bergstedt i Skrukarp, Carl Fredrik, 2:53 
 Bergstrand i Avesta, E Gösta, 5:49
 Bergstrand i Kolmårdssanatoriet, Paul J, 2:53
 Bergström i Bosjön, Albert, 4:388
@@ -618,7 +618,7 @@ Bäckström i Håkansön, Fredrik Anshelm, 5:409
 Bäckström i Djursholm, Helge M, 1:228, 3:202
 Bäckström i Teg, J Magnus, 5:344
 Bäckström i Bjurholm, senare Teg, Werner, 5:344 
-Bärg i Katrineholm, A Johan, 1:364 
+Q5591837,Bärg i Katrineholm, A Johan, 1:364 
 Bäärnhielm i Kungälv, G Mauritz, 4:69 
 Bökelund i Kalmar, Axel C, 2:264 
 Börjesson i Kattunga, August, 4:212
@@ -1553,7 +1553,7 @@ Hörnlund i Borås, Gördis K, 4:236
 Hörnstén i Bjästa, Petrus J, 5:230 
 Hörstadius i Borås, Nils W, 4:236
 Höök i Edeby, Carl R, 1:316
-Ifvarsson i Ränneslöv, August, 2:384
+Q5822164,Ifvarsson i Ränneslöv, August, 2:384
 Ifvarsson i Värestorp, Carl, 2:384
 Igel i Getebol, senare Karud, Johan P, 4:409
 Indebetou i Forssa, Carl G, 1:373
@@ -3170,7 +3170,7 @@ Smedh i Bergkarlås, Herman D, 5:92
 Smith i Stockholm, Emil A, 1:171
 Smith i Ystad, J Gustaf, 3:273
 Smith i Stockholm, Lars O, 3:77
-von Sneidern i Berg, Axel W T, 4:271 
+Q6182451,von Sneidern i Berg, Axel W T, 4:271 
 Snoilsky i Göteborg, Gustaf F, 4:153 
 Snygg i Säter, J Gustaf E, 5:92
 Sommelius i Helsingborg, Malte J T, 3:273 
@@ -3723,9 +3723,10 @@ Wrangel von Brehmer i Hyby, J Wolmer, 3:292
 Wrede af Elimä i Kristianstad, F Casimir, 3:156
 Wrede af Elimä i Jönköping, E J L Henrik, 2:191
 Wretlind i Göteborg, senare Stockholm, E Wilhelm, 4:175
-Vult von Steyern i Sviestad, Henrik W, 2:118 
-Wåhlin i Arboga, Carl I, 1:461
-Wååg i Kristianstad, Nils Erik, 3:156 Wändahl i Ålsta, G Adolf, 5:267
+Q6227559,Vult von Steyern i Sviestad, Henrik W, 2:118 
+Q6248361,Wåhlin i Arboga, Carl I, 1:461
+Wååg i Kristianstad, Nils Erik, 3:156 
+Wändahl i Ålsta, G Adolf, 5:267
 Wärnberg i Opphem, Erik G, 2:118
 Västberg i Stockholm, R Disa, 1:193
 Västberg i Sundsvall, senare Åkeshov, J Mauritz, 5:267 
