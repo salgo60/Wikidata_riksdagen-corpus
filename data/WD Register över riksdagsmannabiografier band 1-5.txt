@@ -102,7 +102,7 @@ Q5553840,Andersson i Bussjö, Alfred, 3:184
 Q5553850,Andersson i Munka-Ljungby, Alfred, 3:103 
 Q5553846,Andersson i Fallsberg, A Alfred, 2:46 
 Q5553863,Andersson i Tungelsta, J Allan, 1:218 
-Q4737866, Andersson i Knäred, M Alvar, 2:366 
+Q4737866,Andersson i Knäred, M Alvar, 2:366 
 Q5553903,Andersson i Backgården, Anders, 4:301 
 Q5553949,Andersson i Greby, Anders, 4:302
 Q5553911,Andersson i Hakarp, Anders, 2:139 
@@ -443,9 +443,9 @@ Q5575914,Bildt i Stockholm, Knut G, 5:405
 Q330757,Billing i Västerås, senare Lund, A Gottfrid L, 1:424, 4:209
 Q5576126,Billing i Stockholm, P C Walfrid, 1:62
 Q5576164,Billman i Karlskoga, Tore G, 4:63 
-Billqvist i Skövde, Johan Wilhelm, 4:307 
-Billström i Röa, Janne E, 4:63
-Billström i Lund, Lars, 3:195
+Q110278693,Billqvist i Skövde, Johan Wilhelm, 4:307 
+Q5576219,Billström i Röa, Janne E, 4:63
+Q5576225,Billström i Lund, Lars, 3:195
 Birath i Stockholm, Bror K, 4:308
 Birke i Rönninge, G Emanuel, 1:225 
 Bissmark i Halmstad, Georg F, 2:372 
@@ -513,7 +513,7 @@ Bohman i Stockholm, B Gösta, 1:66
 Q5580824,Bohnstedt i Rinkesta, C Edvard L, 1:362
 Q5580827,Bohnstedt i Hjälmarsnäs, Knut E, 4:475
 Boija i Norrköping, K E Gustav, 2:55
-Bokström i Visby, C August, 2:333
+Q5581049,Bokström i Visby, C August, 2:333
 Bolander i Sala, Alfred, 1:426
 Bolin i Göksby, Gustaf, 1:302
 Boman i Malmö, Claes Eric, 3:198
@@ -779,7 +779,7 @@ Dickson i Kyleberg, Axel, 2:58
 Dickson i Göteborg, senare Stockholm, Charles, 4:75
 Dickson i Vikaryd, James I A, 4:217
 Dickson i Jönköping, senare Malmö, Robert, 2:146, 3:207
-Dieden i Malmö, Johan H E, 3:207
+Q5621707,Dieden i Malmö, Johan H E, 3:207
 Diesen i Hägersten, Ingrid E, 75
 Dockered i Sjövik, G Robert, 4:241
 Dofsén i Lima, Eric, 5:55
@@ -1140,10 +1140,10 @@ Gelin i Karlstad, Edvard V, 4:403
 Gelotte i Tranås, B Ernfrid, 2:154 
 Germundsson i Tannåker, Peter, 2:154 
 Gethe i Kalmar, Carl M F E, 2:274 
-Gezelius i Falun, L E Birger, 5:63
-Gezelius i Falun, L Emil, 5:63
-Gibson i Jonsered, J Jimmy, 4:85
-Gibson i Jonsered, William, 4:85
+Q5757569,Gezelius i Falun, L E Birger, 5:63
+Q5757573,Gezelius i Falun, L Emil, 5:63
+Q5864724,Gibson i Jonsered, J Jimmy, 4:85
+Q5864749,Gibson i Jonsered, William, 4:85
 Gilljam i Stockholm, Gustaf F, 1:91, 5:135 
 Gillner-Ringenson i Norrköping, Sigrid M F, 2:69
 Gillström i Sundsvall, senare Skönsberg, Anselm K, 5:221
@@ -1264,7 +1264,7 @@ Hagnell i Enskede, senare Bandhagen o Vällingby, Hans, 1:97
 Q5782765,Hagström i Härnösand, A Julius, 5:222
 Hagström i Kyrktåsjö, H Leonard, 5:223
 Hagård i Borås, S A Alarik, 4:227
-Hahn i Örebro, Anton N, 4:486
+Q5782935,Hahn i Örebro, Anton N, 4:486
 Hall i Västerås, senare Stockholm o åter Västerås, David E, 1:434
 Hallagård i Hallagården, Gustav A, 4:328 
 Hallberg i Falun, G Arvid, 5:65
@@ -1645,7 +1645,7 @@ Q110654970,Johansson i Rönna, Carl Eric, 1:439
 Q5885782,Johansson i Södertälje, Carl-Erik, 1:242 
 Johansson i Avlösa, Carl G, 2:161 
 Johansson i Uppmälby, Carl J, 1:374 
-Johansson i Olstorp, Carl Johan, 2:79 
+Q5885751,Johansson i Olstorp, Carl Johan, 2:79 
 Johansson i Sollefteå, Carl Oscar, 5:231
 Johansson i Häradsköp, J Edvard, 2:162
 Johansson i Rimforsa, G Edvin N, 2:80 
@@ -1844,8 +1844,8 @@ Kinberg i Stockholm, Edward G, 5:359
 Kinmanson i Stockholm, Henrik S, 1:120
 Kinmanson i Stockholm, C Leonard, 1:121
 Kinnman i Göteborg, Jean A, 4:104
-Kjellberg i Göteborg, Carl O, 4:105
-Kjellberg i Göteborg, Carl August, 4:105
+Q19380449,Kjellberg i Göteborg, Carl O, 4:105
+Q5911900,Kjellberg i Göteborg, Carl August, 4:105
 Kjellberg i Stockholm, Jonas H R C:son, 4:494
 Q5912025,Kjellberg i Stockholm, Knut E O, 1:121
 Kjellén i Älgabäck, Johan F, 2:166
@@ -2012,7 +2012,7 @@ Laurell i Skredsvik, Johannes D, 4:111
 Laurén i Eskilstuna, Erik, 1:380 
 Laurin i Sandarve, Arvid V T, 2:341 
 Laurin i Överby gård, Harald, 1:247
-de Laval i Stockholm, C Gustaf P, 1:129, 5:72 
+Q364270,de Laval i Stockholm, C Gustaf P, 1:129, 5:72 
 de Laval i Falun, Palne P J, 5:73
 Leander i Ystad, Axel, 3:231
 Leander i Grytgöl, B E Ingemar, 2:89
@@ -3317,7 +3317,7 @@ Svenning i Malmö, Eric A, 3:275
 Svensén i Lilla Sinnerstad, Carl Johan, 2:311 
 Svenson i Bossgården, Anders, 4:353
 Svenson i Edum, Anders, 4:353
-Swensson i Lösen, Anders, 3:78 
+Q6198243,Swensson i Lösen, Anders, 3:78 
 Svensson i Grösäter, Andreas, 4:275
 Svensson i Pershult, Anton E, 2:187
 Svensson i Högsjöhult, J A Anton, 2:187
@@ -3640,7 +3640,7 @@ Westrin i Kalmar, Adolf, 2:316
 Westrup i Lund, J Wilhelm M, 3:288
 Wetter i Göteborg, S Erik P:son, 4:169 
 Wetterström i Linköping, Karin H, 2:118 
-Wiberg i Malmö, J Åke T, 3:288
+Q6239641,Wiberg i Malmö, J Åke T, 3:288
 Wickman i Stockholm, Carl Gustaf T, 5:179
 Wickman i Solna, H Krister, 2:243
 Wickström i Östersund, V Hugo, 5:315
