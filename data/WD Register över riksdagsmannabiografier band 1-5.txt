@@ -1485,7 +1485,7 @@ Q5811441,Holmgren i Karlskrona, Björn F:son, 3:56
 Q5811461,Holmgren i Varnhem, senare Sörby, David, 4:325
 Holmgren i Stockholm, Israel F, 4:97
 Holmgren i Hillebola, Karl E, 1:315
-Q5811689,Holmlin i Norra Säm, Hans, 4:98
+Q5811689,Holmlin i Norra Säm, Hans, 4:98 
 Holmner i Gunnarn, F Emanuel, 5:354 
 Holmquist i Falun, C Fredrik, 5:68
 Q2345137,Holmqvist i Malmö, senare Kallhäll, Eric B, 3:220
