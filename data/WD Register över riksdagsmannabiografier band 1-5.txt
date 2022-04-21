@@ -446,12 +446,12 @@ Q5576164,Billman i Karlskoga, Tore G, 4:63
 Q110278693,Billqvist i Skövde, Johan Wilhelm, 4:307 
 Q5576219,Billström i Röa, Janne E, 4:63
 Q5576225,Billström i Lund, Lars, 3:195
-Birath i Stockholm, Bror K, 4:308
-Birke i Rönninge, G Emanuel, 1:225 
-Bissmark i Halmstad, Georg F, 2:372 
-Biörklund i Umeå, Henning T, 5:341 
-Bjerkander i Brismetorp, Gustaf, 4:308 
-Bjurström i Hedemora, T Emanuel, 5:50 
+Q111668422,Birath i Stockholm, Bror K, 4:308
+Q5576607,Birke i Rönninge, G Emanuel, 1:225 
+Q5576869,Bissmark i Halmstad, Georg F, 2:372 
+Q5577001,Biörklund i Umeå, Henning T, 5:341 
+Q5577085,Bjerkander i Brismetorp, Gustaf, 4:308 
+Q5577306,Bjurström i Hedemora, T Emanuel, 5:50 
 Björck i Göteborg, Albert W, 4:64
 Björck i Nässjö, Anders P-A, 2:143
 Björck i Tomelilla, Blenda W, 3:108
@@ -2619,7 +2619,7 @@ Olsson i Gävle, G Adolv, 5:161
 Olsson i Vittlanda, Allvar, 4:261
 Olsson i Bågeholm, Anders, 4:261
 Olsson i Morastrand, senare Mora, Anders, 5:82 
-Olsson i Mårdäng, Anders, 5:162 
+Q6026482,Olsson i Mårdäng, Anders, 5:162 
 Olsson i Ornakärr, senare Väsby, Anders, 3:250 
 Olsson i Tyllered, Anders, 2:397
 Olsson i Ingesgärde, Anders Petter, 2:94
@@ -3001,7 +3001,7 @@ Rylander i Önnarp, Johan O, 4:267
 Rylander i Brostorp, Olof P, 4:267
 Rylander i Västerås, senare Uppsala, A Olov E, 1:452 
 Råstock i Råstock, senare Björkbrotorp, Anders, 4:470
-Räf i Attarp, Erik A, 2:180
+Q6086241,Räf i Attarp, Erik A, 2:180
 Rääf i Forsnäs, Bengt L, 2:103
 Röhss i Munkeberg, Harald F C, 4:348
 Röing i Göteborg, Erik P W, 4:144
@@ -3291,7 +3291,7 @@ Sundström i Östansjö, Magnus, 5:174
 Sundström i Charlottenberg, J Oscar, 4:442
 Sundström i Brunne, senare Boda, J Rudolf, 5:260
 Sundström i Skövde, N Walter, 4:352
-Sundvik i Stora Kopparberg, Anders, 5:95 
+Q6196738,Sundvik i Stora Kopparberg, Anders, 5:95 
 Sunne i Mjölby, Johan A, 2:108
 Svallingson i Bönders gård, M Emanuel, 2:346 
 Svanberg i Stockholm, C Conrad T, 1:176, 4:274 
