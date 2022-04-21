@@ -1578,15 +1578,15 @@ Jacobsson i Vindeln, Per, 5:356
 Jadestig i Hallstahammar, Thure R, 1:438 
 Jakobson i Karlshult, Carl Jakob, 2:79
 Janson i Bråten, senare Kungsör, Adolf F, 1:438
-Janson i Hennickehammar, E Johan, 4:410 
-Janson i Karlshed, F Gustaf, 4:237
-Janson i Frändesta, Stig, 1:373
+Q104851791,Janson i Hennickehammar, E Johan, 4:410 
+Q5828357,Janson i Karlshed, F Gustaf, 4:237
+Q111672359,Janson i Frändesta, Stig, 1:373
 Jansson i Hällefors, senare Tumba, Axel F, 4:492
 Jansson i Bandhagen, K Axel, 1:114
 Jansson i Edsbäcken, senare Filipstad, Carl P, 4:410 
 Q5828662,Jansson i Solna, A Erik, 1:241
 Q111592730,Jansson i Örebro, Erik E, 4:492
-Jansson i Benestad, B Fridolf, 2:216
+Q5503582,Jansson i Benestad, B Fridolf, 2:216
 Jansson i Ljusterö, C Gottfrid, 1:242
 Jansson i Krakerud, Gustaf, 4:411
 Jansson i Hemmarö, J Gustaf, 1:242
@@ -3290,7 +3290,7 @@ Sundström i Luleå, Henrik Johan, 5:441
 Sundström i Östansjö, Magnus, 5:174
 Sundström i Charlottenberg, J Oscar, 4:442
 Sundström i Brunne, senare Boda, J Rudolf, 5:260
-Sundström i Skövde, N Walter, 4:352
+Q6196710,Sundström i Skövde, N Walter, 4:352
 Q6196738,Sundvik i Stora Kopparberg, Anders, 5:95 
 Sunne i Mjölby, Johan A, 2:108
 Svallingson i Bönders gård, M Emanuel, 2:346 
