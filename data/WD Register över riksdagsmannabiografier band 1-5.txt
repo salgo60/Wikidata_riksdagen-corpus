@@ -404,8 +404,8 @@ Q5572966,Bergquist i Västerås, senare Stockholm, Äppelviken o Växjö, Thorwa
 Q5573006,Bergqvist i Västra Frölunda, Jan G, 4:62 
 Q5573026,Bergqvist i Luleå, Olof, 5:404
 Q5573088,Bergstedt i Skrukarp, Carl Fredrik, 2:53 
-Bergstrand i Avesta, E Gösta, 5:49
-Bergstrand i Kolmårdssanatoriet, Paul J, 2:53
+Q111672483,Bergstrand i Avesta, E Gösta, 5:49
+Q5596960,Bergstrand i Kolmårdssanatoriet, Paul J, 2:53
 Bergström i Bosjön, Albert, 4:388
 Bergström i Norrköping, P Albert, 2:53
 Bergström i Kristianstad, senare Stockholm o Örebro, P Axel, 1:58, 3:107, 4:475
@@ -1581,14 +1581,14 @@ Janson i Bråten, senare Kungsör, Adolf F, 1:438
 Q104851791,Janson i Hennickehammar, E Johan, 4:410 
 Q5828357,Janson i Karlshed, F Gustaf, 4:237
 Q111672359,Janson i Frändesta, Stig, 1:373
-Jansson i Hällefors, senare Tumba, Axel F, 4:492
-Jansson i Bandhagen, K Axel, 1:114
-Jansson i Edsbäcken, senare Filipstad, Carl P, 4:410 
+Q5828585,Jansson i Hällefors, senare Tumba, Axel F, 4:492
+Q5828576,Jansson i Bandhagen, K Axel, 1:114
+Q5828619,Jansson i Edsbäcken, senare Filipstad, Carl P, 4:410 
 Q5828662,Jansson i Solna, A Erik, 1:241
 Q111592730,Jansson i Örebro, Erik E, 4:492
 Q5503582,Jansson i Benestad, B Fridolf, 2:216
-Jansson i Ljusterö, C Gottfrid, 1:242
-Jansson i Krakerud, Gustaf, 4:411
+Q5828686,Jansson i Ljusterö, C Gottfrid, 1:242
+Q5828721,Jansson i Krakerud, Gustaf, 4:411
 Jansson i Hemmarö, J Gustaf, 1:242
 Jansson i Kalix, B Ivar, 5:421
 Jansson i Odensbacken, J Ivar, 4:492
@@ -2509,7 +2509,7 @@ Nordgren i Trelleborg, Olivia L, 3:249
 Nordin i Hammerdal, Johan, 5:307
 Nordin i Sättna, Johan Eric, 5:245
 Nordkvist i Skara, Erik B, 4:341
-Nordkvist i Kalmar, N Sigfrid, 2:297
+Q6015492,Nordkvist i Kalmar, N Sigfrid, 2:297
 Nordlander i Stockholm, Daniel E N, 5:368 
 Nordqvist i Karlskoga, O Helmer, 4:504 
 Nordstrandh i Göteborg, Ove H, 4:129 
