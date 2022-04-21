@@ -406,9 +406,9 @@ Q5573026,Bergqvist i Luleå, Olof, 5:404
 Q5573088,Bergstedt i Skrukarp, Carl Fredrik, 2:53 
 Q111672483,Bergstrand i Avesta, E Gösta, 5:49
 Q5596960,Bergstrand i Kolmårdssanatoriet, Paul J, 2:53
-Bergström i Bosjön, Albert, 4:388
-Bergström i Norrköping, P Albert, 2:53
-Bergström i Kristianstad, senare Stockholm o Örebro, P Axel, 1:58, 3:107, 4:475
+Q5573237,Bergström i Bosjön, Albert, 4:388
+Q5573244,Bergström i Norrköping, P Albert, 2:53
+Q5573272,Bergström i Kristianstad, senare Stockholm o Örebro, P Axel, 1:58, 3:107, 4:475
 Q5573288,Bergström i Skidsta, Carl, 5:209
 Q5573300,Bergström i Stockholm, senare Stocksund o Djursholm, David K, 1:59, 2:54
 Q111655821,Bergström i Karlstad, P Erik, 4:389
@@ -452,15 +452,15 @@ Q5576869,Bissmark i Halmstad, Georg F, 2:372
 Q5577001,Biörklund i Umeå, Henning T, 5:341 
 Q5577085,Bjerkander i Brismetorp, Gustaf, 4:308 
 Q5577306,Bjurström i Hedemora, T Emanuel, 5:50 
-Björck i Göteborg, Albert W, 4:64
-Björck i Nässjö, Anders P-A, 2:143
-Björck i Tomelilla, Blenda W, 3:108
-Björck i Falkenberg, Carl H, 2:373
-Björck i Kristianstad, K O Emanuel, 3:108
-Björck i Stockholm, Frans G, 1:62
-Björck i Göteborg, Gustaf D, 4:64
-Björck i Borås, John T, 4:210
-Björck i Sundsvall, J F Rudolf, 5:210
+Q5577465,Björck i Göteborg, Albert W, 4:64
+Q490785,Björck i Nässjö, Anders P-A, 2:143
+Q4939247,Björck i Tomelilla, Blenda W, 3:108
+Q5577366,Björck i Falkenberg, Carl H, 2:373
+Q5577378,Björck i Kristianstad, K O Emanuel, 3:108
+Q5577394,Björck i Stockholm, Frans G, 1:62
+Q5577408,Björck i Göteborg, Gustaf D, 4:64
+Q5577424,Björck i Borås, John T, 4:210
+Q5577503,Björck i Sundsvall, J F Rudolf, 5:210
 Q5577444,Björck i Jönköping, senare Djursholm, K A Wilhelm, 1:362, 3:196, 4:64
 Q5577470,Björk i Jämtön, J Arvid, 5:406
 Q5577506,Björk i Skärholmen, senare Enebyberg, Kaj Å, 4:65
@@ -469,11 +469,11 @@ Q5577577,Björk i Påarp, Villiam E, 3:196
 Q5577602,Björkenstam i Strömsnäs, Knut W, 1:425 
 Q5577726,Björklund i Hässleholm, L Anton, 3:109
 Q5577709,Björklund i Stora Perstorp, J August, 4:308
-Björklund i Sund, senare Rörön, Olof, 5:210
-Björkman i Groeryd, Anders Gustaf, 2:207
-Björkman i Länghem, Carl Albin, 4:210
-Björkman i Stockholm, senare Äppelviken, Alexis, 1:426
-Björkman i Bromma, N G Folke, 1:63
+Q5577746,Björklund i Sund, senare Rörön, Olof, 5:210
+Q5577789,Björkman i Groeryd, Anders Gustaf, 2:207
+Q111678652,Björkman i Länghem, Carl Albin, 4:210
+Q5577778,Björkman i Stockholm, senare Äppelviken, Alexis, 1:426
+Q5577840,Björkman i Bromma, N G Folke, 1:63
 Q5577862,Björkman i Norrköping, Gustaf Adolf, 2:54
 Q5577857,Björkman i Sunne, P Gustaf, 4:390
 Q5577909,Björkman i Lötens gård, Karl G, 1:301
@@ -583,8 +583,8 @@ Brunberg i Tving, Otto Fredrik, 3:46
 Brundin i Göteborg, Paul S, 4:68
 Bruse i Långbanshyttan, senare Färjestad, Carl Gustaf 0:son, 4:392
 Brusewitz i Limmared, Fredrik L, 4:212 
-Bruzelius i Kristianstad, M Gundelach, 3:111
-Brusewitz i Gyllerup, A Sture, 3:111
+Q5599597,Bruzelius i Kristianstad, M Gundelach, 3:111
+Q5588689,Bruzelius i Gyllerup, A Sture, 3:111
 Brånstad i Karlskrona, J O Gunnar, 3:46 
 Brädefors i Notviken, Johan H, 5:407
 Bränholm i Mölnbacka, O Anton, 4:392 
@@ -2153,7 +2153,7 @@ Ljungberg i Kristianstad, Louis C O, 3:133
 Ljungberg i Norrköping, Martin S, 2:90
 Ljungdahl i Ingelstad, Vilmar S, 2:222 
 Ljunggren i Stockholm, senare Eskilstuna, August, 2:222
-Ljunggren i Kristianstad, Carl J F, 3:133 
+Q5961097,Ljunggren i Kristianstad, Carl J F, 3:133 
 Ljunggren i Örebro, Elof, 4:500
 Ljunggren i Uddevalla. Gustaf T, 4:118 
 Ljunggren i Kalmar, Nils P, 2:290
@@ -2181,7 +2181,7 @@ Q5964342,Lovén i Stockholm, P Sigurd, 1:139
 Q4963832,Ludvigsson i Torshälla, Ingrid M, 1:382 
 Q5965480,Lund i Västervik, A Axel W, 2:291
 Q5965552,Lund i Stockholm, F Magnus, 1:139 
-Lundahl i Kristianstad, Jacob A, 3:134 
+Q5965637,Lundahl i Kristianstad, Jacob A, 3:134 
 Lundbeck i Stockholm, Alice M, 1:139 
 Lundberg i Västerteg, Johan Peter, 5:363 
 Lundberg i Uppsala, John I, 1:321
@@ -3404,7 +3404,7 @@ Tamm i Fagersta, senare Ålsten, C Gustaf L H:son, 1:457
 Tamm i Söderfors, P Gustaf, 1:333
 Tamm i Malstanäs, Gösta, 1:398
 Q6203671,Tamm i Fånö, Hugo P P, 1:333, 5:313
-Taube i Stockholm, Carl O, 5:443
+Q6204633,Taube i Stockholm, Carl O, 5:443
 Tengdahl i Stockholm, senare Äppelviken, Knut A, 1:179, 4:444
 Tenger i Västervik, Carl F R, 2:312 
 Tengström i Göteborg, Carl F Gustav, 4:160 
