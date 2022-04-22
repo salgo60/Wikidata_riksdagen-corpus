@@ -154,7 +154,7 @@ Q5554635,Andersson i Sollebrunn, Gustaf, 4:202
 Q5554640,Andersson i Sundsvall, A Gustaf, 5:203
 Q5554616,Andersson i Eskilstuna, senare Nyköping, E Gustaf, 1:359
 Q1555406,Andersson i Rasjön, senare Falun, Gustaf H, 5:46
-Q5554662, Andersson i Södergården, senare Löbbo, Gustav E, 2:140
+Q5554662,Andersson i Södergården, senare Löbbo, Gustav E, 2:140
 Q5554686,Andersson i Luleå, E Gösta, 5:399
 Q110442451,Andersson i Kolstad, H Gösta, 2:47
 Q5554683,Andersson i Mölndal, Gösta L, 4:56
@@ -478,8 +478,8 @@ Q5577862,Björkman i Norrköping, Gustaf Adolf, 2:54
 Q5577857,Björkman i Sunne, P Gustaf, 4:390
 Q5577909,Björkman i Lötens gård, Karl G, 1:301
 Q5578035,Björkänge i Björkäng, senare Lindesberg, Karl A, 4:471
-Björlin i Visby, J Gustaf, 2:332
-Björling i Västra Hungvik, Carl J, 4:390
+Q5578043,Björlin i Visby, J Gustaf, 2:332
+Q5597697,Björling i Västra Hungvik, Carl J, 4:390
 Björling i Enskede, Johan, 1:63
 Björn i Stockholm, Carl G, 1:63
 Björnberg i Enköping, senare Uppsala, K Eric, 1:301
@@ -698,8 +698,8 @@ Q5605713,Cederström i Fredrikslund, Carl G R, 1:230
 Q96097384,Cederström i Högnalöv, Claes H, 2:208
 Q105162147,Celsing i Fräkentorp, L Arnold, 1:365 
 Q5605978,Centerwall i Söderhamn, Julius E, 5:127 
-Cervin i Sunne, August, 4:394
-Cervin i Risby, Johan Erik, 1:304
+Q5606084,Cervin i Sunne, August, 4:394
+Q5606101,Cervin i Risby, Johan Erik, 1:304
 Chenon i Krokfors, Axel W, 4:215 
 Christenson i Södertälje, J Birger, 1:230
 Christenson i Malmö, Carl, 3:203
