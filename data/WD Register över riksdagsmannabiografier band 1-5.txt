@@ -3814,9 +3814,9 @@ Q6257544,Östberg i Brantshammar senare Stockholm o Tureberg, G Fredrik, 1:280
 Österström i Härnösand, A Ivar E, 5:271 
 Östling i Ljusdal, John, 5:319
 Östling i Linköping, Nils, 2:121
-Östling i Valbo, Olof, 5:182
+Q6258086,Östling i Valbo, Olof, 5:182
 Q4691677,Östlund i Stockholm, Agda M, 1:198
-Östlund i Myckle, Carl, 5:381
-Östman i Ry, Per, 5:271 
-Östrand i Avesta, Erik L, 5:100
-Östrand i Söderhamn, P Olle, 5:182
+Q6258118,Östlund i Myckle, Carl, 5:381
+Q6258229,Östman i Ry, Per, 5:271 
+Q6258258,Östrand i Avesta, Erik L, 5:100
+Q6343965,Östrand i Söderhamn, P Olle, 5:182
