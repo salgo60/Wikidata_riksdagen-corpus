@@ -480,44 +480,44 @@ Q5577909,Björkman i Lötens gård, Karl G, 1:301
 Q5578035,Björkänge i Björkäng senare Lindesberg, Karl A, 4:471
 Q5578043,Björlin i Visby, J Gustaf, 2:332
 Q5597697,Björling i Västra Hungvik, Carl J, 4:390
-Björling i Enskede, Johan, 1:63
-Björn i Stockholm, Carl G, 1:63
-Björnberg i Enköping senare Uppsala, K Eric, 1:301
-Björnberg i Oskarshamn, Tor K E, 2:263 
-Björnsson i Borås, J Edvard, 4:211 
-Björnstjerna i Stockholm, Carl M L, 1:64
-Björnstjerna i Stockholm, J Magnus, 2:263
-Björnberg i Stockholm, Oscar M F, 1:64
-Bladh i Örsjö, Carl Johan, 2:263
-Bladh i Malmö, Eric H, 3:197
-Blanche i Stockholm, August T, 1:65 
-Blidberg i Söderköping, Pehr, 2:55 
-Blidfors i Lund, T E Johannes, 3:197
-Block i Stockholm, Fredrik E A, 1:65 
-Blom i Såtenäs, H G Lennart, 4:309 
-Blomberg i Härnösand, Carl Johan, 5:211
-Blomberg i Stockholm, Ernst F W, 1:65,5:124
-Blomberg i Uppsala, K Hugo, 5:51
-Blombäck i Kalix-Bredvik, Dan B, 5:406 
-Blomkvist i Lidköping, G Arne, 4:309 
-Blomquist i Växjö, J Herman, 2:208
-Blomquist i Lund, Per A B, 3:197
-Boberg i Stockholm senare Bistingsmåla o Kalmar, Carl G, 2:264
-Bodén i Hjo, Carl E, 4:309
-Bodin i Trangärd, Karl W, 4:391
-Bodin i Grausne, Lars G, 2:332
+Q111692454,Björling i Enskede, Johan, 1:63
+Q5578212,Björn i Stockholm, Carl G, 1:63
+Q5578265,Björnberg i Enköping senare Uppsala, K Eric, 1:301
+Q5578273,Björnberg i Oskarshamn, Tor K E, 2:263 
+Q5578351,Björnsson i Borås, J Edvard, 4:211 
+Q5578363,Björnstjerna i Stockholm, Carl M L, 1:64
+Q5578369,Björnstjerna i Stockholm, J Magnus, 2:263
+Q4355601,Björnstjerna i Stockholm, Oscar M F, 1:64
+Q5578534,Bladh i Örsjö, Carl Johan, 2:263
+Q5578540,Bladh i Malmö, Eric H, 3:197
+Q764239,Blanche i Stockholm, August T, 1:65 
+Q104841633,Blidberg i Söderköping, Pehr, 2:55 
+Q5579064,Blidfors i Lund, T E Johannes, 3:197
+Q110278976,Block i Stockholm, Fredrik E A, 1:65 
+Q5579356,Blom i Såtenäs, H G Lennart, 4:309 
+Q5579445,Blomberg i Härnösand, Carl Johan, 5:211
+Q5579458,Blomberg i Stockholm, Ernst F W, 1:65,5:124
+Q5579475,Blomberg i Uppsala, K Hugo, 5:51
+Q5579524,Blombäck i Kalix-Bredvik, Dan B, 5:406 
+Q5579584,Blomkvist i Lidköping, G Arne, 4:309 
+Q5579605,Blomquist i Växjö, J Herman, 2:208
+Q5579614,Blomquist i Lund, Per A B, 3:197
+Q3489146,Boberg i Stockholm senare Bistingsmåla o Kalmar, Carl G, 2:264
+Q5580297,Bodén i Hjo, Carl E, 4:309
+Q5580341,Bodin i Trangärd, Karl W, 4:391
+Q5580347,Bodin i Grausne, Lars G, 2:332
 Q5580519,Boëthius i Uppsala, Simon J, 1:302
-Bogren i Falköping senare Simonstorp o Sjömo, Oscar F, 4:309
-Boheman i Gränna, Erik C, 4:66
-Bohman i Stockholm, B Gösta, 1:66
+Q5580635,Bogren i Falköping senare Simonstorp o Sjömo, Oscar F, 4:309
+Q3424655,Boheman i Gränna, Erik C, 4:66
+Q263366,Bohman i Stockholm, B Gösta, 1:66
 Q5580824,Bohnstedt i Rinkesta, C Edvard L, 1:362
 Q5580827,Bohnstedt i Hjälmarsnäs, Knut E, 4:475
-Boija i Norrköping, K E Gustav, 2:55
+Q5580868,Boija i Norrköping, K E Gustav, 2:55
 Q5581049,Bokström i Visby, C August, 2:333
-Bolander i Sala, Alfred, 1:426
-Bolin i Göksby, Gustaf, 1:302
-Boman i Malmö, Claes Eric, 3:198
-Boman i Stafsund, C David A, 1:225
+Q5581074,Bolander i Sala, Alfred, 1:426
+Q5581167,Bolin i Göksby, Gustaf, 1:302
+Q5581360,Boman i Malmö, Claes Eric, 3:198
+Q5231532,Boman i Stafsund, C David A, 1:225
 Boman i Göteborg, Gustaf, 4:66
 Boman i Flatenberg, Johan, 5:51
 Boman i Prästholmen, Märta K, 5:406
@@ -634,7 +634,7 @@ Carlberg i Abrahamsgård senare Stockholm, Per M, 4:478
 Carlborg i Strömstad, Fredrik Daniel, 4:70 
 Carlén i Stockholm, Richard T, 1:70 
 Carleson i Stockholm, A O Conrad, 1:71
-Carleson i Stockholm, Eduard H, 2:265 
+Q1291317,Carleson i Stockholm, Eduard H, 2:265 
 Carlheim-Gyllensköld i Kristianstad, Carl S, 3:111
 Carlheim-Gyllensköld i Vallen, A Theodor, 2:374
 Carlqvist i Helsingborg, Ingeborg H, 3:202
@@ -782,8 +782,8 @@ Dickson i Jönköping senare Malmö, Robert, 2:146, 3:207
 Q5621707,Dieden i Malmö, Johan H E, 3:207
 Diesen i Hägersten, Ingrid E, 75
 Dockered i Sjövik, G Robert, 4:241
-Dofsén i Lima, Eric, 5:55
-Domeij i Örnsköldsvik, Jonas O, 5:213
+Q5623074,Dofsén i Lima, Eric, 5:55
+Q5623312,Domeij i Örnsköldsvik, Jonas O, 5:213
 Domö i Domö senare Eggby, Mariestad o åter
 Eggby, J Fritiof, 4:320
 Douglas i Linköping, Ludvig W A, 2:58
@@ -1191,10 +1191,10 @@ Q5776520,Gumælius i Örebro senare Stockholm, C Arvid, 1:92, 4:485
 Q5776536,Gumælius i Örebro, G Wilhelm, 4:485
 Q105046913,Gummesson i Eringsboda, Peter, 3:53 
 Q104889131,Gunnarson i Björkmossa, Peter Magnus, 2:275 
-Gunnarsson i Nälden, O Algot, 5:298
-Gunnarsson i Axtorp, Aron Christoffer, 2:379
-Gunne i Göteborg, A Stina M, 4:167
-Gussing i Ystad, Tage P, 3:214
+Q5776789,Gunnarsson i Nälden, O Algot, 5:298
+Q5776798,Gunnarsson i Axtorp, Aron Christoffer, 2:379
+Q4951427,Gunne i Göteborg, A Stina M, 4:167
+Q5777328,Gussing i Ystad, Tage P, 3:214
 Gustafson i Kasenberg, Arthur W, 4:226
 Gustafson i Vimmerby, Emil A, 2:275
 Gustafson i Järpås senare Domö, Eggby, Mariestad o åter Eggby, J Fritiof, 4:320
@@ -1654,7 +1654,7 @@ Johansson i Pryssgården, Elsa A, 2:80
 Johansson i Öckerö, Erik J, 4:100
 Johansson i Simrishamn, Erik V, 3:126
 Johansson i Lungvik, J Fridolf, 5:231
-Johansson i Kullerstad, E Gustaf, 2:80
+Q5885983,Johansson i Kullerstad, E Gustaf, 2:80
 Johansson i Stockholm, K Gustav, 1:115
 Johansson i Norrköping, E Harald, 2:80
 Johansson i Norrfors, J Helmer, 5:357
@@ -1726,11 +1726,11 @@ Jonsson i Mora, Anders E, 5:70
 Jonsson i Skedsbygd, C Arvid D, 2:285 
 Jonsson i Mörkhult, Carl Johan, 2:165 
 Jonsson i Skog, Carl Johan, 2:82
-Jonsson i Eskilstuna senare Västerås, P Conrad (Conke), 1:375
-Jonsson i Mörbylånga, K Einar E, 2:286 
-Jonsson i Skutskär, Einar W, 1:317
-Jonsson i Freluga, Eric, 5:143
-Jonsson i Fors, Erik, 5:143
+Q6140360,Jonsson i Eskilstuna senare Västerås, P Conrad (Conke), 1:375
+Q111692389,Jonsson i Mörbylånga, K Einar E, 2:286 
+Q5891513,Jonsson i Skutskär, Einar W, 1:317
+Q5891534,Jonsson i Freluga, Eric, 5:143
+Q5891546,Jonsson i Fors, Erik, 5:143
 Jonsson i Myre, Erik Petter, 5:232
 Jonsson i Lycksele, P Ewert A, 5:358
 Jonsson i Skeppnetorp, Gustaf, 2:286
@@ -3216,7 +3216,7 @@ Stenvall i Långnäs, Knut O, 5:438
 Stephens i Huseby, Joseph S F, 2:237
 Sterne i Mjölby, Axel J A:son, 2:106
 Sterne i Tranås, Gösta E V, 2:185
-Sterner i Linköping, Anders, 2:106
+Q6189754,Sterner i Linköping, Anders, 2:106
 Sternhagen i Göteborg, Harald F E, 4:154 
 Stjernspetz i Norra Freberga, P A Henrik, 2:185, 4:513
 Stiernstedt i Risberga, Lennart J V, 1:267 
@@ -3412,16 +3412,16 @@ Tengvall i Stilleryd, Axel O, 3:79
 Q6206359,Tersmeden i Ramnäs, Adolf, 1:458
 Q6206436,Tersmeden i Ramnäs, Wilhelm F, 1:458
 Q6206558,Testrup i Kristianstad, Erik M H G:son, 1:180 
-Tham i Stäholm, Henric S, 1:459
-Tham i Susegården, F A Sebastian, 2:403
-Tham i Huskvarna, G Wilhelm S, 2:189
-Tham i Söderhamn senare Stockholm, Volrath H S, 5:176
-Tham i Stockholm, Vollrath H S, 4:516
-Thäpper i Finspång, G Fridolf, 2:112 
+Q104836509,Tham i Stäholm, Henric S, 1:459
+Q6206825,Tham i Susegården, F A Sebastian, 2:403
+Q2575378,Tham i Huskvarna, G Wilhelm S, 2:189
+Q6206835,Tham i Söderhamn senare Stockholm, Volrath H S, 5:176
+Q6206830,Tham i Stockholm, Vollrath H S, 4:516
+Q6206899,Thapper i Finspång, G Fridolf, 2:112 
 Q6206951,Thavenius i Ulricehamn, Gottfried, 4:277 
 Q6207127,Thelin i Växjö, Arvid, 2:240
-Themptander i Stockholm, O Robert, 1:180, 3:152
-Thermaenius i Hallsberg, C Edvard, 4:517 
+Q52958,Themptander i Stockholm, O Robert, 1:180, 3:152
+Q6207468,Thermænius i Hallsberg, C Edvard, 4:517 
 Thestrup i Landskrona, J Gustaf, 3:278 
 Thomasson i Lund, Eskilander, 3:278
 Thomson i Lund senare Stockholm, Arthur N, 3:278
@@ -3434,7 +3434,7 @@ Thorell i Stolp-Ekeby, Edvard E, 1:271
 Thorell i Hökerum, Olof, 4:277
 Thorén i Växjö, Carl A, 2:241
 Thorsell i Getingeberg, J A Torsten, 4:517 
-Thorsson i Ystad, Fredrik W, 3:279
+Q6209474,Thorsson i Ystad, Fredrik W, 3:279
 Thorsson i Stockholm, Inga M, 1:181
 Thulin i Stocksund, J Einar O J, 2:113 
 Q6209752,Thun i Enköping, K Edvin, 1:334
@@ -3797,7 +3797,7 @@ Q6255378,Åkerman i Stockholm senare Västerås, G R Joachim, 1:195
 Öhman i Malmö, Ivar E, 3:294
 Öhman i Sundsvall, E Oscar, 5:270
 Öhman i Örebro senare Åkarp, J Viktor, 4:524
-Öhngren i Örnsköldsvik, Henric G P, 5:270 
+Q6256787,Öhngren i Örnsköldsvik, Henric G P, 5:270 
 Öhvall i Bergnäset, O Bertil, 5:446
 Ölander i Sundsvall, A Herman, 5:270 
 Öman i Stockholm, Ivar, 1:197
