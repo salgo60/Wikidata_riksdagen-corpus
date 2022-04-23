@@ -614,8 +614,8 @@ Bäckström i Porsnäs, Anders A, 5:408
 Bäckström i Sundsvall, J Edvin, 5:212
 Bäckström i Uttersberg, Carl Alfred, 1:427
 Q5591679,Bäckström i Harrbäcken, Eric Viktor, 5:409
-Bäckström i Håkansön, Fredrik Anshelm, 5:409
-Bäckström i Djursholm, Helge M, 1:228, 3:202
+Q5591682,Bäckström i Håkansön, Fredrik Anshelm, 5:409
+Q5591686,Bäckström i Djursholm, Helge M, 1:228, 3:202
 Q5591731,Bäckström i Teg, J Magnus, 5:344
 Q5591765,Bäckström i Bjurholm senare Teg, Werner, 5:344 
 Q5591837,Bärg i Katrineholm, A Johan, 1:364 
@@ -639,30 +639,30 @@ Q5602669,Carlheim-Gyllensköld i Kristianstad, Carl S, 3:111
 Q5602664,Carlheim-Gyllensköld i Vallen, A Theodor, 2:374
 Q4941887,Carlqvist i Helsingborg, Ingeborg H, 3:202
 Q5602814,Carlshamre i Kungälv, Nils O G, 4:70
-Carlson i Fridhem, Carl, 1:303
-Carlson i Jönköping, Claés Wilhelm, 2:144
+Q30230024,Carlson i Fridhem, Carl, 1:303
+Q104874870,Carlson i Jönköping, Claés Wilhelm, 2:144
 Carlson i Göteborg senare Stockholm, C F Ernst,4:71
 Q321521,Carlson i Stockholm, Fredrik F, 5:126
 Carlson i Herrljunga, Herman, 4:213
-Carlson i Falun, Sven, 5:53
+Q5603432,Carlson i Falun, Sven, 5:53
 Carlson i Stockholm, A Victor, 1:71
 Carlson i Karlshamn senare Alfhöjd o Mölndal, C Vilhelm, 3:47, 4:71
 Carlson i Stockholm, E Wilhelm, 1:72
-Carlsson i Gävle, K Arne I, 5:126
+Q5602997,Carlsson i Gävle, K Arne I, 5:126
 Carlsson i Hede senare Carlsro, C Axel, 4:213
-Carlsson i Gävle, Carl A, 5:127
-Carlsson i Ullvi, Carl Eric, 1:427
-Carlsson i Norra Smedstorp, Carl I, 2:266
+Q5603039,Carlsson i Gävle, Carl A, 5:127
+Q5603032,Carlsson i Ullvi, Carl Eric, 1:427
+Q16649068,Carlsson i Norra Smedstorp, Carl I, 2:266
 Carlsson i Bakeröd, Carl Olof, 4:71
-Carlsson i Stockholm, Carl Walfrid, 1:72 
+Q5603051,Carlsson i Stockholm, Carl Walfrid, 1:72 
 Carlsson i Vikmanshyttan, C Eric, 5:53
-Carlsson i Västerås, Eric R A, 1:428
+Q5603080,Carlsson i Västerås, Eric R A, 1:428
 Carlsson i Läperud, Erik W, 4:213
-Carlsson i Västervik, C Fredrik, 2:266
+Q5603036,Carlsson i Västervik, C Fredrik, 2:266
 Carlsson i Stora Arla, Georg, 1:428
-Carlsson i Göteborg, Gunnar A, 4:72
-Carlsson i Kröcklinge, A Gustaf, 1:428
-Carlsson i Tibro, Harry F, 4:313
+Q5603110,Carlsson i Göteborg, Gunnar A, 4:72
+Q104922412,Carlsson i Kröcklinge, A Gustaf, 1:428
+Q5603128,Carlsson i Tibro, Harry F, 4:313
 Carlsson i Huskvarna, Henning A N, 2:144
 Q111341522,Carlsson i Ystad, Hjalmar, 3:202
 Q53740,Carlsson i Tyresö, G Ingvar, 1:228
@@ -672,21 +672,21 @@ Q5603236,Carlsson i Fågelhem, Johan Fredrik, 2:266
 Q105714624,Carlsson i Ystad, Johan Gustaf, 3:47
 Q5603467,Carlsson i Malmberget senare Frosterud o Skåre, Lars Johan, 4:393, 5:410
 Q5603292,Carlsson i Börjelsbyn, U Lars Olof, 5:410
-Carlsson i Fittja, L Magnus, 1:229, 2:267
-Carlsson i Stockholm, Olof, 1:72, 3:48
-Carlsson i Säffle, Oscar A, 4:393
-Carlsson i Solberga, C Sigurd A, 2:267 
-Carlsson-Frosterud i Skåre, Lars Johan, 4:393, 5:410
-Carlstein i Borås, Rune A, 4:214 
+Q5603283,Carlsson i Fittja, L Magnus, 1:229, 2:267
+Q5603332,Carlsson i Stockholm, Olof, 1:72, 3:48
+Q5603335,Carlsson i Säffle, Oscar A, 4:393
+Q5603396,Carlsson i Solberga, C Sigurd A, 2:267 
+Q5603467,Carlsson-Frosterud i Skåre, Lars Johan, 4:393, 5:410
+Q5603482,Carlstein i Borås, Rune A, 4:214 
 Carlström i Övertorneå, Carl F, 5:411
-Carlström i Helgagård, Oscar L, 2:145
+Q5603515,Carlström i Helgagård, Oscar L, 2:145
 Carlsund i Motala senare Stockholm, Otto E, 2:56,4:214
 Casenberg i Kasenberg, Arthur W, 4:226 
 Q5604447,Casparsson i Brunna, C Edvard, 1:303 
 Caspersson i Borgholm, Johan Fredrik, 2:267 
-Cassel i Stjärnsund, Knut, 4:478
-Cassel i Gunnerud, Leif D, 4:394
-Cavalli i Malmö, P A Henrik, 3:203
+Q5604537,Cassel i Stjärnsund, Knut, 4:478
+Q5604541,Cassel i Gunnerud, Leif D, 4:394
+Q5605172,Cavalli i Malmö, P A Henrik, 3:203
 Cawallin i Timrå, G Frithiof, 5:213
 Cederberg i Umeå senare Stockholm o Saltsjöbaden, Axel F O, 5:345
 Cederborg i Stockholm, Allan, 1:73
