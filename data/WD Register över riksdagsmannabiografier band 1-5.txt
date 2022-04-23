@@ -417,17 +417,17 @@ Q5573383,Bergström i Björsbyn, Hans Fredrik, 5:405
 Q5573430,Bergström i Västerby, Johan, 5:49
 Q5573455,Bergström i Helsingborg, Karl A E, 3:194
 Q5573465,Bergström i Högsön, Kristoffer, 5:405
-Bergström i Bäckland, Petrus, 5:209
-Bergström i Stockholm, PerN, 1:60
+Q5573550,Bergström i Bäckland, Petrus, 5:209
+Q5573548,Bergström i Stockholm, Per N, 1:60
 Bergström i Finnshyttan, L Wilhelm, 4:389
 Bergvall i Stockholm, John H, 1:60
 Berlin i Stockholm senare Umeå o åter Stockholm, Jakob, 5:341
-Berlin i Härnösand, Karl Henrik, 5:210
+Q105025768,Berlin i Härnösand, Karl Henrik, 5:210
 Q5573776,Berlin i Lund, Nilsjohan, 3:194
 Q5573792,Berling i Helsingborg, Edwin B, 3:194
 Berndes i Stockholm senare Jakobsberg, Gustaf F, 1:61
 Berndtsson i Bua, K Henry, 4:63
-Bernström i Djursholms Ösby, Erik A, 1:224
+Q5574107,Bernström i Djursholms Ösby, Erik A, 1:224
 Bernström i Stockholm, John P F, 1:224
 Berntson i Sveg, Olof, 5:293
 Q5574217,Beronius i Falun, Victor M, 5:50
@@ -518,13 +518,13 @@ Q5581074,Bolander i Sala, Alfred, 1:426
 Q5581167,Bolin i Göksby, Gustaf, 1:302
 Q5581360,Boman i Malmö, Claes Eric, 3:198
 Q5231532,Boman i Stafsund, C David A, 1:225
-Boman i Göteborg, Gustaf, 4:66
-Boman i Flatenberg, Johan, 5:51
-Boman i Prästholmen, Märta K, 5:406
-Boman i Kieryd, K E Rudolf, 2:144
-Boman i Avesta, Sven B, 5:51
-Bonde i Gimmersta senare Ericsberg, Carl C:son, 1:363
-Bonde i Trolleholm, Carl J, 3:198
+Q5581369,Boman i Göteborg, Gustaf, 4:66
+Q105044852,Boman i Flatenberg, Johan, 5:51
+Q4939940,Boman i Prästholmen, Märta K, 5:406
+Q5581410,Boman i Kieryd, K E Rudolf, 2:144
+Q5598255,Boman i Avesta, Sven B, 5:51
+Q5581542,Bonde i Gimmersta senare Ericsberg, Carl C:son, 1:363
+Q6215663,Bonde i Trolleholm, Carl J, 3:198
 Bonde i Fållnäs, Knut P, 1:226
 Bondeson i Karlsnäs, Bonde, 3:198
 Bondeson i Svalöv, Lennart, 3:199
@@ -616,29 +616,29 @@ Bäckström i Uttersberg, Carl Alfred, 1:427
 Q5591679,Bäckström i Harrbäcken, Eric Viktor, 5:409
 Bäckström i Håkansön, Fredrik Anshelm, 5:409
 Bäckström i Djursholm, Helge M, 1:228, 3:202
-Bäckström i Teg, J Magnus, 5:344
-Bäckström i Bjurholm senare Teg, Werner, 5:344 
+Q5591731,Bäckström i Teg, J Magnus, 5:344
+Q5591765,Bäckström i Bjurholm senare Teg, Werner, 5:344 
 Q5591837,Bärg i Katrineholm, A Johan, 1:364 
-Bäärnhielm i Kungälv, G Mauritz, 4:69 
-Bökelund i Kalmar, Axel C, 2:264 
-Börjesson i Kattunga, August, 4:212
-Börjesson i Falköping, Bengt J, 4:312
-Börjesson i Glömminge, Fritz A, 2:265
-Börjesson i Vråen, Lars, 2:374
-Caap i Luleå, G Torsten, 5:410
+Q5591877,Bäärnhielm i Kungälv, G Mauritz, 4:69 
+Q5600385,Bökelund i Kalmar, Axel C, 2:264 
+Q5600469,Börjesson i Kattunga, August, 4:212
+Q4887786,Börjesson i Falköping, Bengt J, 4:312
+Q5600489,Börjesson i Glömminge, Fritz A, 2:265
+Q5600515,Börjesson i Vråen, Lars, 2:374
+Q5600648,Caap i Luleå, G Torsten, 5:410
 Q5601098,af Callerholm i Hedemora, G N Theodor, 5:52 
-Camitz i Sala, Ewert L, 1:427
-Canell i Koppoms bruk, P Fredrik, 4:392 
-Carbell i Stockholm, E Erland E, 1:70
-Carlberg i Abrahamsgård senare Stockholm, Per M, 4:478
-Carlborg i Strömstad, Fredrik Daniel, 4:70 
-Carlén i Stockholm, Richard T, 1:70 
-Carleson i Stockholm, A O Conrad, 1:71
+Q5601391,Camitz i Sala, Ewert L, 1:427
+Q111696386,Canell i Koppoms bruk, P Fredrik, 4:392 
+Q5602213,Carbell i Stockholm, E Erland E, 1:70
+Q5602498,Carlberg i Abrahamsgård senare Stockholm, Per M, 4:478
+Q5602525,Carlborg i Strömstad, Fredrik Daniel, 4:70 
+Q5602582,Carlén i Stockholm, Richard T, 1:70 
+Q5602596,Carleson i Stockholm, A O Conrad, 1:71
 Q1291317,Carleson i Stockholm, Eduard H, 2:265 
-Carlheim-Gyllensköld i Kristianstad, Carl S, 3:111
-Carlheim-Gyllensköld i Vallen, A Theodor, 2:374
-Carlqvist i Helsingborg, Ingeborg H, 3:202
-Carlshamre i Kungälv, Nils O G, 4:70
+Q5602669,Carlheim-Gyllensköld i Kristianstad, Carl S, 3:111
+Q5602664,Carlheim-Gyllensköld i Vallen, A Theodor, 2:374
+Q4941887,Carlqvist i Helsingborg, Ingeborg H, 3:202
+Q5602814,Carlshamre i Kungälv, Nils O G, 4:70
 Carlson i Fridhem, Carl, 1:303
 Carlson i Jönköping, Claés Wilhelm, 2:144
 Carlson i Göteborg senare Stockholm, C F Ernst,4:71
@@ -664,14 +664,14 @@ Carlsson i Göteborg, Gunnar A, 4:72
 Carlsson i Kröcklinge, A Gustaf, 1:428
 Carlsson i Tibro, Harry F, 4:313
 Carlsson i Huskvarna, Henning A N, 2:144
-Carlsson i Ystad, Hjalmar, 3:202
-Carlsson i Tyresö, G Ingvar, 1:228
-Carlsson i Hällsbäck, Johan, 4:392
-Carlsson i Nysäter, Johan, 5:212
-Carlsson i Fågelhem, Johan Fredrik, 2:266
-Carlsson i Ystad, Johan Gustaf, 3:47
-Carlsson i Malmberget senare Frosterud o Skåre, Lars Johan, 4:393, 5:410
-Carlsson i Börjelsbyn, U Lars Olof, 5:410
+Q111341522,Carlsson i Ystad, Hjalmar, 3:202
+Q53740,Carlsson i Tyresö, G Ingvar, 1:228
+Q5603231,Carlsson i Hällsbäck, Johan, 4:392
+Q105163872,Carlsson i Nysäter, Johan, 5:212
+Q5603236,Carlsson i Fågelhem, Johan Fredrik, 2:266
+Q105714624,Carlsson i Ystad, Johan Gustaf, 3:47
+Q5603467,Carlsson i Malmberget senare Frosterud o Skåre, Lars Johan, 4:393, 5:410
+Q5603292,Carlsson i Börjelsbyn, U Lars Olof, 5:410
 Carlsson i Fittja, L Magnus, 1:229, 2:267
 Carlsson i Stockholm, Olof, 1:72, 3:48
 Carlsson i Säffle, Oscar A, 4:393
@@ -1837,12 +1837,12 @@ Kihlberg i Tierp, K Alfred, 1:318
 Kihlman i Göteborg, Karin, 4:103
 Kilbom i Stockholm senare Ängby, Karl, 1:119 
 Killander i Göteborg, C F Knut, 4:104
-Kilman i Kastellegården, H Max, 4:104
-Kilsmo i Vingsleör senare Finstorp, Karl G, 1:377
-Kinander i Stockholm, C Emil, 1:120
-Kinberg i Stockholm, Edward G, 5:359 
-Kinmanson i Stockholm, Henrik S, 1:120
-Kinmanson i Stockholm, C Leonard, 1:121
+Q5909044,Kilman i Kastellegården, H Max, 4:104
+Q5909112,Kilsmo i Vingsleör senare Finstorp, Karl G, 1:377
+Q5909615,Kinander i Stockholm, C Emil, 1:120
+Q5909622,Kinberg i Stockholm, Edward G, 5:359 
+Q98266297,Kinmanson i Stockholm, Henrik S, 1:120
+Q5910313,Kinmanson i Stockholm, C Leonard, 1:121
 Kinnman i Göteborg, Jean A, 4:104
 Q19380449,Kjellberg i Göteborg, Carl O, 4:105
 Q5911900,Kjellberg i Göteborg, Carl August, 4:105
@@ -2666,12 +2666,12 @@ Olsson i Mosstakan, Olof, 4:431
 Olsson i Olebyn, Olof, 4:431
 Olsson i See, Olof, 5:163
 Q6158761,Olsson i Stockholm, Olof, 1:157
-Olsson i Heden senare Broberg, Oscar N, 4:134
-Olsson i Linköping senare Danderyd, Oscar U B, 2:94, 4:506
-Olsson i Åsak senare Fläsbro o Fiskeby, Per, 5:163 
-Olsson i Vallby, Peter, 3:70
-Olsson i Blädinge, Peter Magnus, 2:228
-Olsson i Helsingborg, Petter, 3:253
+Q6027698,Olsson i Heden senare Broberg, Oscar N, 4:134
+Q6027706,Olsson i Linköping senare Danderyd, Oscar U B, 2:94, 4:506
+Q6027782,Olsson i Åsak senare Fläsbro o Fiskeby, Per, 5:163 
+Q105072405,Olsson i Vallby, Peter, 3:70
+Q6027834,Olsson i Blädinge, Peter Magnus, 2:228
+Q1528357,Olsson i Helsingborg, Petter, 3:253
 Olsson i Österbo, J Rikard, 1:448
 Olsson i Älvdalsåsen, Smeds Lars, 5:83
 Olsson i Timrå, Stig E, 5:249
