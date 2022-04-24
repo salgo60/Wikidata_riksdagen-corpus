@@ -611,8 +611,8 @@ Q5591595,Bäcklin i Nyköping, Johan E, 1:364
 Q5591597,Bäcklund i Falköping-Ranten senare Falköping, Helge KV, 4:311
 Q5591628,Bäckman i Näsbyn, Per Albert, 5:408 
 Q5591643,Bäckström i Porsnäs, Anders A, 5:408
-Bäckström i Sundsvall, J Edvin, 5:212
-Bäckström i Uttersberg, Carl Alfred, 1:427
+Q5591673,Bäckström i Sundsvall, J Edvin, 5:212
+Q5591660,Bäckström i Uttersberg, Carl Alfred, 1:427
 Q5591679,Bäckström i Harrbäcken, Eric Viktor, 5:409
 Q5591682,Bäckström i Håkansön, Fredrik Anshelm, 5:409
 Q5591686,Bäckström i Djursholm, Helge M, 1:228, 3:202
@@ -680,10 +680,10 @@ Q5603467,Carlsson-Frosterud i Skåre, Lars Johan, 4:393, 5:410
 Q5603482,Carlstein i Borås, Rune A, 4:214 
 Q5603503,Carlström i Övertorneå, Carl F, 5:411
 Q5603515,Carlström i Helgagård, Oscar L, 2:145
-Carlsund i Motala senare Stockholm, Otto E, 2:56,4:214
-Casenberg i Kasenberg, Arthur W, 4:226 
+Q5603530,Carlsund i Motala senare Stockholm, Otto E, 2:56,4:214
+Q5777511,Casenberg i Kasenberg, Arthur W, 4:226 
 Q5604447,Casparsson i Brunna, C Edvard, 1:303 
-Caspersson i Borgholm, Johan Fredrik, 2:267 
+Q5604477,Caspersson i Borgholm, Johan Fredrik, 2:267 
 Q5604537,Cassel i Stjärnsund, Knut, 4:478
 Q5604541,Cassel i Gunnerud, Leif D, 4:394
 Q5605172,Cavalli i Malmö, P A Henrik, 3:203
@@ -727,7 +727,7 @@ Culin i Laholm, Anders Magnus, 2:375
 Cöster i Uddevalla, Fredrik L, 4:74
 Q5614917,Dahl i Kristianstad, P Adolf, 3:112
 Dahl i Uppsala, R Birgitta, 1:304
-Dahl i Uddevalla, Einar W R, 4:74
+Q20727,Dahl i Uddevalla, Einar W R, 4:74
 Dahl i Sölvesborg, Frans J W, 3:49, 4:215 
 Dahl i Filipstad, J Georg, 4:395
 Dahl i Göteborg, Jacob, 4:74
@@ -1237,8 +1237,8 @@ Gyllenram i Visby senare Karlstad, Henric G W, 2:337, 4:404
 Gyllenstierna af Lundholm i Bjärsgård, Eric, 3:121
 Gyllenstierna af i Bjärsgård, Johan, 3:121
 Gyllensvaan i Sund, J August, 4:87 
-Gyllensvärd i Fågelsång, A Gustaf, 2:379 
-Gädda i Svarteborg, Octo E, 4:88
+Q5779576,Gyllensvärd i Fågelsång, A Gustaf, 2:379 
+Q111709613,Gädda i Svarteborg, Octo E, 4:88
 Gärde i Stockholm, J Natanael, 1:95 
 Gärde Widemar i Stockholm, Ingrid, 1:95 
 Göransson i Åsen, Anders, 5:136
@@ -2310,7 +2310,7 @@ Martin i Södertälje, Anton F, 1:253
 Martin i Hillebola, T Bernhard A, 1:323 
 Martin i Stockholm, Erik D V, 1:144
 Martin i Oscar-Fredriksborg, Karl A M J:son, 1:253 
-Martin i Södertälje, Otto A, 1:254
+Q5977718,Martin i Södertälje, Otto A, 1:254
 Martin i Odenstad, P Roland, 4:422
 Martinsson i Sundsvall, Bo N O, 5:242
 Matsson i Gravås senare Arvika, Magnus, 4:422
@@ -2543,7 +2543,7 @@ Norsell i Karlstad, Anders, 4:429
 Norup i Norup, B Sam B:son, 3:143
 Nothin i Stockholm, Torsten K V, 1:386 
 Nyberg i Skurup, Jöns N:son, 3:249
-Nyberg i Karlskrona, J Olaus, 3:68
+Q6019228,Nyberg i Karlskrona, J Olaus, 3:68
 Nyblaeus i Stockholm, Gustaf, 1:152
 Nyblom i Hudiksvall, C Georg A, 5:158
 Nydahl i Härnösand senare Högsjö, Johan, 5:246
