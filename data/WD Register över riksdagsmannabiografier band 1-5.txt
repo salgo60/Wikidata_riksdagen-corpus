@@ -429,7 +429,7 @@ Q5573886,Berndes i Stockholm senare Jakobsberg, Gustaf F, 1:61
 Q5573908,Berndtsson i Bua, K Henry, 4:63
 Q5574107,Bernström i Djursholms Ösby, Erik A, 1:224
 Q5574112,Bernström i Stockholm, John P F, 1:224
-Berntson i Sveg, Olof, 5:293
+Q5574139,Berntson i Sveg, Olof, 5:293
 Q5574217,Beronius i Falun, Victor M, 5:50
 Q5574697,Beskow i Stockholm, Gustaf E, 1:61
 Q5574702,Beskow i Helsingborg, K Jakob, 3:195
@@ -525,29 +525,29 @@ Q5581410,Boman i Kieryd, K E Rudolf, 2:144
 Q5598255,Boman i Avesta, Sven B, 5:51
 Q5581542,Bonde i Gimmersta senare Ericsberg, Carl C:son, 1:363
 Q6215663,Bonde i Trolleholm, Carl J, 3:198
-Bonde i Fållnäs, Knut P, 1:226
-Bondeson i Karlsnäs, Bonde, 3:198
-Bondeson i Svalöv, Lennart, 3:199
-Bondeson i Strömsnäsbruk, Nils Anton, 2:208
+Q5581563,Bonde i Fållnäs, Knut P, 1:226
+Q5581603,Bondeson i Karlsnäs, Bonde, 3:198
+Q5581607,Bondeson i Svalöv, Lennart, 3:199
+Q5581611,Bondeson i Strömsnäsbruk, Nils Anton, 2:208
 Q5581616,Bondeson i Blomstermåla, Olof, 2:264
-Bondesson i Svalöv, Per, 3:199
-Boo i Borås, Fritiof 1, 4:211
-Boo i By, Karl G H, 5:52
-Borell i Saltsjö-Storängen, K G Theodor, 1:226 
+Q5581635,Bondesson i Svalöv, Per, 3:199
+Q5582044,Boo i Borås, Fritiof I, 4:211
+Q5582047,Boo i By, Karl G H, 5:52
+Q5582292,Borell i Saltsjö-Storängen, K G Theodor, 1:226 
 Q5582355,Borg i Helsingborg, Fredrik T, 3:200
 Q5582374,Borg i Södertälje, Johan, 1:226
 Q5582377,Borg i Harnäs, Karl A O:son, 1:302 
-Borge i Stockholm, Oscar F, 1:66
-Borggren i Ängelholm, Lars, 3:109 
-Borgström i Åsbo, Mårten, 3:110 
-Bosaeus i Uppsala, Nils W, 5:407 
-Bosson i Vinslöv, Per N:son, 3:110 
-Boström i Tynnelsö, Filip A, 1:363 
-Boström i Östanå, E Gustaf B, 1:227
-Boström i Simmatorp, N Johan, 4:310
-Boström i Sättna, Johan O, 5:211
+Q5582439,Borge i Stockholm, Oscar F, 1:66
+Q5582507,Borggren i Ängelholm, Lars, 3:109 
+Q5598486,Borgström i Åsbo, Mårten, 3:110 
+Q5582990,Bosæus i Uppsala, Nils W, 5:407 
+Q5583166,Bosson i Vinslöv, Per N:son, 3:110 
+Q5583226,Boström i Tynnelsö, Filip A, 1:363 
+Q52968,Boström i Östanå, E Gustaf B, 1:227
+Q5583260,Boström i Simmatorp, N Johan, 4:310
+Q5583240,Boström i Sättna, Johan O, 5:211
 Q5598581,Boström i Bodbyn, Nils, 5:342
-Bovin i Sala senare Hedemora, Johan A, 1:426 
+Q5583930,Bovin i Sala senare Hedemora, Johan A, 1:426 
 Q5584283,Braconier i Malmö, Jean, 3:200
 Q1353856,Brandt i Söderby, Erik G C, 5:52
 Q5584928,Brandt i Aspabruk, Erik R, 4:476
@@ -571,46 +571,46 @@ Q5587179,Brolin i Söderhamn, J Gustaf, 5:125
 Q5587193,Brolin i Istrum, Sven, 4:311
 Q110651954, Broman i Stockholm, J Wilhelm, 1:69
 Q5587303,Bromée i Billsta, Jöns, 5:293
-Broomé i Bårslöv senare Lidingö, L Gustaf, 3:201
-Broström i Göteborg, Dan, 4:67
-Broström i Kristinehamn, A Fredrik, 4:391
-Bruce i Stockholm, N Olof, 3:201
-Bruhn i Skepparslöv, O August, 3:110
-Bruhn i Vallda, Sven B, 2:373
-Brummer i Fröllinge, Fredric, 2:373
-Brun i Hudiksvall, J Julius, 5:125
-Brunberg i Tving, Otto Fredrik, 3:46
-Brundin i Göteborg, Paul S, 4:68
-Bruse i Långbanshyttan senare Färjestad, Carl Gustaf 0:son, 4:392
-Brusewitz i Limmared, Fredrik L, 4:212 
+Q5587500,Broomé i Bårslöv senare Lidingö, L Gustaf, 3:201
+Q4346188,Broström i Göteborg, Dan, 4:67
+Q5587578,Broström i Kristinehamn, A Fredrik, 4:391
+Q5588048,Bruce i Stockholm, N Olof, 3:201
+Q5588146,Bruhn i Skepparslöv, O August, 3:110
+Q5588155,Bruhn i Vallda, Sven B, 2:373
+Q5588185,Brummer i Fröllinge, Fredric, 2:373
+Q5588217,Brun i Hudiksvall, J Julius, 5:125
+Q104842860,Brunberg i Tving, Otto Fredrik, 3:46
+Q5588253,Brundin i Göteborg, Paul S, 4:68
+Q5588019,Bruse i Långbanshyttan senare Färjestad, Carl Gustaf 0:son, 4:392
+Q5588557,Brusewitz i Limmared, Fredrik L, 4:212 
 Q5599597,Bruzelius i Kristianstad, M Gundelach, 3:111
 Q5588689,Bruzelius i Gyllerup, A Sture, 3:111
-Brånstad i Karlskrona, J O Gunnar, 3:46 
-Brädefors i Notviken, Johan H, 5:407
-Bränholm i Mölnbacka, O Anton, 4:392 
-Brännberg i Lysekil, Carl M L, 4:69
-Brännström i Ljusvattnet senare Brännan, J Ludwig, 5:342
-Brännström i Burträsk, Nils A, 5:343
-Brännström i Skellefteå, Roland J, 5:343
-af Burén i Flemminge, Carl H P, 2:56
-af Burén i Boxholm, C Pontus, 3:47
-af Burén i Boxholm, D Pontus, 2:56
-Burenstam i Skyllberg, Axel A, 4:477
-Burenstam Linder i Djursholm, H M Staffan, 1:227
-Burman i Byske, A Fredrik, 5:344
-Burman i Merlo senare Erikssund o Gustavsberg, G Fredrik, 5:212
-Burman i Nedertorneå, E Gustaf, 5:408
-Burman i Haparanda, G Oskar, 5:408
-Busck i Trätteland, Rudolf Theodor C, 4:69 
-Bulow i Lund, J Christian, 3:201
+Q18237937,Brånstad i Karlskrona, J O Gunnar, 3:46 
+Q5588938,Brädefors i Notviken, Johan H, 5:407
+Q5588966,Bränholm i Mölnbacka, O Anton, 4:392 
+Q5588970,Brännberg i Lysekil, Carl M L, 4:69
+Q5589019,Brännström i Ljusvattnet senare Brännan, J Ludwig, 5:342
+Q5589026,Brännström i Burträsk, Nils A, 5:343
+Q5589038,Brännström i Skellefteå, Roland J, 5:343
+Q5590158,af Burén i Flemminge, Carl H P, 2:56
+Q5590180,af Burén i Boxholm, C Pontus, 3:47
+Q5590169,af Burén i Boxholm, D Pontus, 2:56
+Q5590200,Burenstam i Skyllberg, Axel A, 4:477
+Q5590197,Burenstam Linder i Djursholm, H M Staffan, 1:227
+Q5590421,Burman i Byske, A Fredrik, 5:344
+Q5590424,Burman i Merlo senare Erikssund o Gustavsberg, G Fredrik, 5:212
+Q5590427,Burman i Nedertorneå, E Gustaf, 5:408
+Q5590456,Burman i Haparanda, G Oskar, 5:408
+Q104845055,Busck i Trätteland, Rudolf Theodor C, 4:69 
+Q5591245,Bülow i Lund, J Christian, 3:201
 Q5591469,Bystedt i Sundsvall, August, 5:212
 Q5591493,Byström i Stockholm, Jakob J:son, 1:69 
-Bågenholm i Hasselfors, Axel, 4:477
-Bäckgren i Markebäck, C Gustaf, 4:477
-Bäcklin i Nyköping, Johan E, 1:364
-Bäcklund i Falköping-Ranten senare Falköping, Helge KV, 4:311
+Q5591891,Bågenholm i Hasselfors, Axel, 4:477
+Q5591592,Bäckgren i Markebäck, C Gustaf, 4:477
+Q5591595,Bäcklin i Nyköping, Johan E, 1:364
+Q5591597,Bäcklund i Falköping-Ranten senare Falköping, Helge KV, 4:311
 Q5591628,Bäckman i Näsbyn, Per Albert, 5:408 
-Bäckström i Porsnäs, Anders A, 5:408
+Q5591643,Bäckström i Porsnäs, Anders A, 5:408
 Bäckström i Sundsvall, J Edvin, 5:212
 Bäckström i Uttersberg, Carl Alfred, 1:427
 Q5591679,Bäckström i Harrbäcken, Eric Viktor, 5:409
@@ -655,15 +655,15 @@ Q5603032,Carlsson i Ullvi, Carl Eric, 1:427
 Q16649068,Carlsson i Norra Smedstorp, Carl I, 2:266
 Q5603047,Carlsson i Bakeröd, Carl Olof, 4:71
 Q5603051,Carlsson i Stockholm, Carl Walfrid, 1:72 
-Carlsson i Vikmanshyttan, C Eric, 5:53
+Q5603083,Carlsson i Vikmanshyttan, C Eric, 5:53
 Q5603080,Carlsson i Västerås, Eric R A, 1:428
-Carlsson i Läperud, Erik W, 4:213
+Q111701888,Carlsson i Läperud, Erik W, 4:213
 Q5603036,Carlsson i Västervik, C Fredrik, 2:266
-Carlsson i Stora Arla, Georg, 1:428
+Q5535667,Carlsson i Stora Arla, Georg, 1:428
 Q5603110,Carlsson i Göteborg, Gunnar A, 4:72
 Q104922412,Carlsson i Kröcklinge, A Gustaf, 1:428
 Q5603128,Carlsson i Tibro, Harry F, 4:313
-Carlsson i Huskvarna, Henning A N, 2:144
+Q5603137,Carlsson i Huskvarna, Henning A N, 2:144
 Q111341522,Carlsson i Ystad, Hjalmar, 3:202
 Q53740,Carlsson i Tyresö, G Ingvar, 1:228
 Q5603231,Carlsson i Hällsbäck, Johan, 4:392
@@ -678,7 +678,7 @@ Q5603335,Carlsson i Säffle, Oscar A, 4:393
 Q5603396,Carlsson i Solberga, C Sigurd A, 2:267 
 Q5603467,Carlsson-Frosterud i Skåre, Lars Johan, 4:393, 5:410
 Q5603482,Carlstein i Borås, Rune A, 4:214 
-Carlström i Övertorneå, Carl F, 5:411
+Q5603503,Carlström i Övertorneå, Carl F, 5:411
 Q5603515,Carlström i Helgagård, Oscar L, 2:145
 Carlsund i Motala senare Stockholm, Otto E, 2:56,4:214
 Casenberg i Kasenberg, Arthur W, 4:226 
