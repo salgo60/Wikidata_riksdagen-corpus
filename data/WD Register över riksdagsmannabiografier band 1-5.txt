@@ -690,30 +690,30 @@ Q5605172,Cavalli i Malmö, P A Henrik, 3:203
 Q5605319,Cawallin i Timrå, G Frithiof, 5:213
 Q5605428,Cederberg i Umeå senare Stockholm o Saltsjöbaden, Axel F O, 5:345
 Q5605465,Cederborg i Stockholm, Allan, 1:73
-Cedercrantz i Kalmar senare Kulltorp, O Conrad W, 2:267
-Cederschiöld i Stockholm, Staffan F R P, 1:73
-Cederström i Beatelund, Anders, 1:229
-Cederström i Sanda, Anders, 1:229
+Q5605497,Cedercrantz i Kalmar senare Kulltorp, O Conrad W, 2:267
+Q5605676,Cederschiöld i Stockholm, Staffan F R P, 1:73
+Q5605687,Cederström i Beatelund, Anders, 1:229
+Q5605691,Cederström i Sanda, Anders, 1:229
 Q5605713,Cederström i Fredrikslund, Carl G R, 1:230
 Q96097384,Cederström i Högnalöv, Claes H, 2:208
 Q105162147,Celsing i Fräkentorp, L Arnold, 1:365 
 Q5605978,Centerwall i Söderhamn, Julius E, 5:127 
 Q5606084,Cervin i Sunne, August, 4:394
 Q5606101,Cervin i Risby, Johan Erik, 1:304
-Chenon i Krokfors, Axel W, 4:215 
-Christenson i Södertälje, J Birger, 1:230
-Christenson i Malmö, Carl, 3:203
-Christenson i Fladevadsmölla, Christen, 3:204
-Christiernson i Helsingborg, Adolf C J, 3:204 
-Christiernsson i Helsingborg, Nils H, 3:205 
-Claeson i Leksand, O Hjalmar L, 5:54 
-Clairfelt i Kristianstad, C Eugéne M, 3:112 
-Clarkson i Helsingborg, Rolf A, 3:205
-Clason i Lund senare Stockholm, Sam, 1:429, 4:72
-Clemedtson i Hällegård, Jeppe, 3:48 
-Collander i Uddevalla, Carl W, 4:73 
-Colleen i Trollhättan, S Tycho, 4:215 
-Collvin i Skara, H Edvard, 4:313 
+Q5607471,Chenon i Krokfors, Axel W, 4:215 
+Q5608366,Christenson i Södertälje, J Birger, 1:230
+Q5608369,Christenson i Malmö, Carl, 3:203
+Q5608372,Christenson i Fladevadsmölla, Christen, 3:204
+Q5608541,Christiernson i Helsingborg, Adolf C J, 3:204 
+Q5608556,Christiernsson i Helsingborg, Nils H, 3:205 
+Q5609105.Claëson i Leksand, O Hjalmar L, 5:54 
+Q5609230,Clairfelt i Kristianstad, C Eugéne M, 3:112 
+Q5609574,Clarkson i Helsingborg, Rolf A, 3:205
+Q5609612,Clason i Lund senare Stockholm, Sam, 1:429, 4:72
+Q5609827,Clemedtson i Hällegård, Jeppe, 3:48 
+Q5610736,Collander i Uddevalla, Carl W, 4:73 
+Q5610761,Colleen i Trollhättan, S Tycho, 4:215 
+Q5611046,Collvin i Skara, H Edvard, 4:313 
 Corneliusson i Kyrkosund, Bernhard, 4:73 
 Crafoord i Karlskrona, Carl O L, 3:48
 Crafoord i Strömstad, Jacob G H G:son, 4:73 
@@ -772,7 +772,7 @@ De Geer af Leufsta i Lövstabruk, C Emanuel, 1:304
 Q5618683,De Geer af Leufsta i Frötuna, Louis, 4:217
 De la Gardie i Borrestad, Johan, 3:114
 De la Gardie i Maltesholm, Magnus G, 3:114
-De la Gardie i Silvåkra senare Linköping, Robert, 2:57, 3:206
+Q5618809,De la Gardie i Silvåkra senare Linköping, Robert, 2:57, 3:206
 De Maré i Ankarsrum, Alfred B, 2:270
 De Maré i Nygård, Gustaf, 2:270
 Dickson i Kyleberg, Axel, 2:58
@@ -1771,7 +1771,7 @@ Jönsson i Gärds Köpinge, Carl, 3:127
 Jönsson i Torsholm, Carl Aron, 2:387 
 Jönsson i Malmö, Eric L, 3:224
 Jönsson i Lund, Folke G, 3:225
-Jönsson i Mårarp, A Gustaf, 2:218
+Q5895745,Jönsson i Mårarp, A Gustaf, 2:218
 Jönsson i Arlöv, Hans E, 3:225
 Jönsson i Ingemarsgården, Elias I, 5:300 
 Jönsson i Axtorp, Johan, 3:127
@@ -1847,22 +1847,22 @@ Kjellberg i Stockholm, Jonas H R C:son, 4:494
 Q5912025,Kjellberg i Stockholm, Knut E O, 1:121
 Kjellén i Älgabäck, Johan F, 2:166
 Kjellén i Göteborg senare Uppsala, J Rudolf, 2:288, 4:106
-Kjellgren i Reijmyre, Bror H A, 2:83
-Kjellgren i Reijmyre, Josua H, 2:84
-Kjellman i Södra Strömhult, Carl Johan, 2:166 
-Kjellson i Hovmantorp, Johan F, 2:219 
+Q5912152,Kjellgren i Reijmyre, Bror H A, 2:83
+Q5912185,Kjellgren i Reijmyre, Josua H, 2:84
+Q5912269,Kjellman i Södra Strömhult, Carl Johan, 2:166 
+Q5912318,Kjellson i Hovmantorp, Johan F, 2:219 
 Q5913021,Klefbeck i Stockholm, Ernst A, 1:122 
-Klinckowström i Stafsund, Rudolf M, 4:242 
-Kling i Stockholm, E Herman, 1:122, 5:147
-Klingspor i Råbäck, Carl G A, 4:332 
-Klingspor i Ekenäs, Philip O L, 2:84
-af Klint i Linköping senare Helsingborg, Eric M, 2:85, 4:243
+Q5913839,Klinckowström i Stafsund, Rudolf M, 4:242 
+Q5913901,Kling i Stockholm, E Herman, 1:122, 5:147
+Q5914152,Klingspor i Råbäck, Carl G A, 4:332 
+Q5914189,Klingspor i Ekenäs, Philip O L, 2:84
+Q5914280,af Klint i Linköping senare Helsingborg, Eric M, 2:85, 4:243
 Q5914552,Kloo i Karlskrona, K Oskar W, 3:60 
 Q5915062,Knaust i Sundsvall, Gustaf O, 5:234 
-von Knorring i Skiringe, Ivan A, 1:377 
-Knutsson i Linköping, Carl K, 2:85 
-Kobb i Stockholm, Gustaf, 1:122, 4:243 
-Koch i Torp, Arthur M, 4:106
+Q5915513,von Knorring i Skiringe, Ivan A, 1:377 
+Q110620158,Knutsson i Linköping, Carl K, 2:85 
+Q5916306,Kobb i Stockholm, Gustaf, 1:122, 4:243 
+Q5916422,Koch i Torp, Arthur M, 4:106
 Q1511698,von Koch i Stockholm senare Djursholm, R G Halfred, 4:495
 Q5916602,von Koch i Augerum, Nils S, 3:60
 Q5916741,Kock i Malmö, Carl J, 3:227
@@ -2010,7 +2010,7 @@ Laurén i Eskilstuna, Erik, 1:380
 Laurin i Sandarve, Arvid V T, 2:341 
 Laurin i Överby gård, Harald, 1:247
 Q364270,de Laval i Stockholm, C Gustaf P, 1:129, 5:72 
-de Laval i Falun, Palne P J, 5:73
+Q5940973,de Laval i Falun, Palne P J, 5:73
 Leander i Ystad, Axel, 3:231
 Leander i Grytgöl, B E Ingemar, 2:89
 Q5942361,Leander i Karlskrona, Ulrik, 3:62
@@ -2579,16 +2579,16 @@ Odencrantz i Jönköping, Henning, 2:173
 Odhe i Lindärva senare Sävare o Skogsäng, Nils S, 4:342
 Q731379,Odhner i Stockholm, Clas T, 1:154
 Q6022711,Odqvist i Påtorp, Gustaf, 4:260
-von Oelreich i Växjö, Charles-Emile, 2:227 
-Ohlin i Stockholm, Bertil G, 1:155
-Ohlon i Göteborg, Sven J E, 4:131
-Ohlson i Rolfstorp, Anders, 2:396
+Q6022797,von Oelreich i Växjö, Charles-Emile, 2:227 
+Q179493,Ohlin i Stockholm, Bertil G, 1:155
+Q6023421,Ohlon i Göteborg, Sven J E, 4:131
+Q6023428,Ohlson i Rolfstorp, Anders, 2:396
 Q6023517,Ohlsson i Halmstad, J E Alfred, 2:396
-Ohlsson i Blädinge, O Ebbe M, 2:228
-Ohlsson i Växjö, A Frithiof, 2:228
-Ohlsson i Bårstad, Johan, 2:299
-Ohlsson i Stockholm, Johan, 1:155
-Ohlsson i Klagstorp, Lilly M O, 3:249
+Q6023561,Ohlsson i Blädinge, O Ebbe M, 2:228
+Q6023601,Ohlsson i Växjö, A Frithiof, 2:228
+Q6023636,Ohlsson i Bårstad, Johan, 2:299
+Q6158341,Ohlsson i Stockholm, Johan, 1:155
+Q111793135,Ohlsson i Klagstorp, Lilly M O, 3:249
 Q111722516,Ohlsson i Säljeröd, Nils, 3:250
 Q6023694,Ohlsson i Näsbygård, Ola, 3:143
 Q6023757,Ohlsson i Kastlösa, Sigvard V, 2:299
@@ -2657,9 +2657,9 @@ Olsson i Rödningsberg, Nils, 5:308
 Olsson i Ättersta, Nils, 1:387
 Olsson i Rösta, Nils O, 5:309
 Q6027629,Olsson i Maglehult, Ola B:son, 3:144
-Olsson i Göteborg senare Stockholm, Olof, 3:252
+Q6027656,Olsson i Göteborg senare Stockholm, Olof, 3:252
 Q6027664,Olsson i Kullenbergstorp, Olof, 3:253
-Olsson i Löräng, Olof, 5:163
+Q6027671,Olsson i Löräng, Olof, 5:163
 Olsson i Mosstakan, Olof, 4:431
 Q6027677,Olsson i Olebyn, Olof, 4:431
 Olsson i See, Olof, 5:163
@@ -2710,7 +2710,7 @@ Palmstierna i Stockholm senare Jönköping, N A Hjalmar, 1:160, 2:175
 Pantzarhielm i Landskrona, Hans F A, 3:254 
 Pauli i Karlstad senare Stockholm, Ivan H E, 2:176
 Paulsen i Arlöv, Anders O, 3:255
-Paulson i Ekeberga, Paul, 3:255
+Q6037950,Paulson i Ekeberga, Paul, 3:255
 Pegelow i Göteborg, Fritz W H, 4:135
 Pehrson i Törneryd, Pehr, 3:71
 Pehrsson i Bramstorp, Axel A, 3:255
@@ -2935,7 +2935,7 @@ Roos i Växjö senare Djursnäs, C J Adolf, 2:234
 Roos i Malmö, Axel B, 3:266
 Roos i Karlskrona senare Visby, Gustaf W A, 2:344, 3:74
 Roos i Stockholm, A Wilhelm, 5:434
-Rooth i Ljungby, Axel R, 2:235 
+Q6078530,Rooth i Ljungby, Axel R, 2:235 
 Rooth i Helsingborg, C J Fritz, 3:266
 Ros i Stockholm, Anders E, 5:250 
 Ros i Lesjöfors, Axel F, 4:434
@@ -3145,8 +3145,8 @@ Q6179276,Sjövall i Trelleborg, E Hjalmar, 3:270
 Skagerberg i Annefors, Gustaf, 5:91
 Skagerlund i Sörängen, Carl-David, 4:512
 Skagerlund i Dyltabruk, N C Gunnar, 4:512
-Skantz i Malmö, Anna Greta, 3:271
-Skantze i Karlskrona, Lars-Olof H, 3:76 
+Q4989732,Skantz i Malmö, Anna Greta, 3:271
+Q6179436,Skantze i Karlskrona, Lars-Olof H, 3:76 
 Q6179501,Skareen i Skövde, Karl Wilhelm A:son, 4:350 
 Q6179577,Skarstedt i Falun, C A Waldemar, 5:91 
 Q6180013,Skoglund i Umeå, Gösta T, 5:376
@@ -3323,9 +3323,9 @@ Q6198282,Svensson i Malmö, Axel E, 3:275
 Q6198337,Svensson i Skönsberg, Carl Alfred, 5:260
 Q20760558,Svensson i Nyköping senare Eskilstuna, Stockholm o Stocksund, Carl E, 1:396, 4:156 
 Q111721267,Svensson i Torlarp, Carl Oscar, 2:238
-Svensson i Karlskrona, Edward, 3:78
-Svensson i Landskrona, H Edvin, 3:275 
-Svensson i Västerås, J Erik O, 1:456
+Q6198406,Svensson i Karlskrona, Edward, 3:78
+Q111795764,Svensson i Landskrona, H Edvin, 3:275 
+Q111795971,Svensson i Västerås, J Erik O, 1:456
 Svensson i Eskhult, Ernst W, 4:354
 Svensson i Kungälv, Evert I, 4:157
 Svensson i Tomelilla, Gustaf, 3:151
