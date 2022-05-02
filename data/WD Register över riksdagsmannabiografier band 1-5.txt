@@ -714,35 +714,35 @@ Q5609827,Clemedtson i Hällegård, Jeppe, 3:48
 Q5610736,Collander i Uddevalla, Carl W, 4:73 
 Q5610761,Colleen i Trollhättan, S Tycho, 4:215 
 Q5611046,Collvin i Skara, H Edvard, 4:313 
-Corneliusson i Kyrkosund, Bernhard, 4:73 
-Crafoord i Karlskrona, Carl O L, 3:48
-Crafoord i Strömstad, Jacob G H G:son, 4:73 
-Cramér i Visby, Rudolf A C, 2:334 
+Q5612133,Corneliusson i Kyrkosund, Bernhard, 4:73 
+Q5612906,Crafoord i Karlskrona, Carl O L, 3:48
+Q5612921,Crafoord i Strömstad, Jacob G H G:son, 4:73 
+Q5612981,Cramér i Visby, Rudolf A C, 2:334 
 Q5613442,Croneborg i Sjöberg, H Hjalmar U, 4:313
-Croneborg i Älvsbacka, J U Wilhelm, 4:394
+Q5613446,Croneborg i Älvsbacka, J U Wilhelm, 4:394
 Q5613568,Cronstedt i Västerås, Fredrik J, 1:429
-Cruse i Stockholm, C Sigvard, 1:74
-Crusebjörn i Umeå senare Stockholm o åter Umeå, Jesper I, 5:346
-Culin i Laholm, Anders Magnus, 2:375 
-Cöster i Uddevalla, Fredrik L, 4:74
+Q5613767,Cruse i Stockholm, C Sigvard, 1:74
+Q5613770,Crusebjörn i Umeå senare Stockholm o åter Umeå, Jesper I, 5:346
+Q5614019,Culin i Laholm, Anders Magnus, 2:375 
+Q5700991,Cöster i Uddevalla, Fredrik L, 4:74
 Q5614917,Dahl i Kristianstad, P Adolf, 3:112
-Dahl i Uppsala, R Birgitta, 1:304
+Q4356302,Dahl i Uppsala, R Birgitta, 1:304
 Q20727,Dahl i Uddevalla, Einar W R, 4:74
-Dahl i Sölvesborg, Frans J W, 3:49, 4:215 
-Dahl i Filipstad, J Georg, 4:395
-Dahl i Göteborg, Jacob, 4:74
-Dahlberg i Bollstabruk, Johan P, 5:213
-Dahlberg i Mölndal, G Robert, 4:75
-Dahlberg i Gammelstad, K Thure, 5:411
-Dahlbäck i Jönköping, Oscar F, 2:145 
-Dahlén i Kiruna, Jonas P, 5:411
-Dahlbäck i Bromma senare Spånga, P Olle R, 1:74 
-Dahlgren i Valdemarsvik, P Anders B, 2:268 
-Dahlgren i Assarebyn, Bengt, 4:216
-Dahlgren i Ransäter, J B Edvard, 4:395
-Dahlgren i Göteborg, B Gunnar L, 4:75
-Dahlgren i Mantorp, Johan, 4:216
-Dahlstedt i Vilhelmina, Lars, 5:346 
+Q5614967,Dahl i Sölvesborg, Frans J W, 3:49, 4:215 
+Q5614977,Dahl i Filipstad, J Georg, 4:395
+Q105044672,Dahl i Göteborg, Jacob, 4:74
+Q5615201,Dahlberg i Bollstabruk, Johan P, 5:213
+Q111796971,Dahlberg i Mölndal, G Robert, 4:75
+Q5615281,Dahlberg i Gammelstad, K Thure, 5:411
+Q5615346,Dahlbäck i Jönköping, Oscar F, 2:145 
+Q4606585,Dahlén i Kiruna, Jonas P, 5:411
+Q5615380,Dahlén i Bromma senare Spånga, P Olle R, 1:74 
+Q4753755,Dahlgren i Valdemarsvik, P Anders B, 2:268 
+Q5615440,Dahlgren i Assarebyn, Bengt, 4:216
+Q5615454,Dahlgren i Ransäter, J B Edvard, 4:395
+Q111797206,Dahlgren i Göteborg, B Gunnar L, 4:75
+Q5615490,Dahlgren i Mantorp, Johan, 4:216
+Q5615733,Dahlstedt i Vilhelmina, Lars, 5:346 
 Dahlström i Knäppinge, Carl H, 1:365
 Dahm i Kalmar, O E Leonard, 2:268
 Dahn i Östra Grevie, Mårten M:son, 3:206 
@@ -1079,8 +1079,8 @@ Forssling i Dunker, J Oscar, 1:368
 Forssman i Stockholm, Lars A, 1:87
 Forssman i Roma, Per A, 2:335
 Fosser i Halleby, Niklas, 2:68
-Fraenkel i Göteborg, Ingegärd C E, 4:83 
-Frankenberg i Göteborg, J Evert K, 4:83 
+Q4988501,Fraenkel i Göteborg, Ingegärd C E, 4:83 
+Q111802611,Frankenberg i Göteborg, J Evert K, 4:83 
 Franzén i Karlstad, Karl G A, 4:402
 Franzén i Träkumla, Nils K H, 2:336
 Franzén i Motala, F Oscar, 2:68
@@ -2514,7 +2514,7 @@ Nordstrandh i Göteborg, Ove H, 4:129
 Nordström i Kramfors, K Axel, 5:245
 Nordström i Mölnerud senare Torsby, Herman E, 4:428 
 Nordström i Stockholm, Johan Jacob, 5:431
-Nordström i Karlstad, O M Kalixtus, 4:428
+Q111802667,Nordström i Karlstad, O M Kalixtus, 4:428
 Nordström i Johanneshov, Margareta, 1:151
 Nordström i Höglunda, Sten A C, 4:342
 Nordström i Stockholm senare Örebro, C F Theodor, 1:151
@@ -3043,7 +3043,7 @@ Segerdahl i Göteborg, Hugo A, 4:148
 Segerlind i Uddersrud, Carl Fedrik, 4:440 
 Segerstedt Wiberg i Göteborg, Ingrid, 4:148 
 Sehlin i Östersund senare Säbyholm o åter Östersund, Carl J, 5:311
-Sehlstedt i Eskilstuna senare Nyköping, Ossian A, 1:392
+Q6326219,Sehlstedt i Eskilstuna senare Nyköping, Ossian A, 1:392
 Selander i Stockholm, N Haqvin, 5:254 
 Selberg i Svartbyn, G Reinhold, 5:437 
 Selggren i Gävle, Jonas, 5:171
@@ -3539,7 +3539,7 @@ Wahlgren i Frändesta, Johan A S, 1:400
 Vahlin i Falun, O Valdemar, 5:99
 Wahlmark i Uppsala, C Primus, 1:336 
 Q6221082,Vahlquist i Skänninge, Conrad F, 2:115, 4:519 
-Vahlstedt i Sävare senare Hovby, Carl Otto, 4:355
+Q6221089,Vahlstedt i Sävare senare Hovby, Carl Otto, 4:355
 Wahlund i Stockholm senare Uppsala, Sten G W, 1:336,4:355
 Wahren i Norrköping, Carl J, 2:115 
 Wahrendorff i Höjens gård, J Harry A, 4:447 
