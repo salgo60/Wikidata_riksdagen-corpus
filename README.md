@@ -1,5 +1,5 @@
 # Wikidata / riksdagen-corpus
-**Status:** the WD cleaing activities are stalled
+
 
 repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) with the [Welfare State Analytics project](https://www.westac.se/en/)(sv. Välfärdsstaten analyserad) and the [riksdagen-corpus](https://github.com/welfare-state-analytics/riksdagen-corpus)
 
