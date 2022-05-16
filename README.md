@@ -1,9 +1,12 @@
 # Wikidata / riksdagen-corpus
+
+
 repository for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) with the [Welfare State Analytics project](https://www.westac.se/en/)(sv. Välfärdsstaten analyserad) and the [riksdagen-corpus](https://github.com/welfare-state-analytics/riksdagen-corpus)
 
 ![](https://lh3.googleusercontent.com/-z8P467ttHEk/Ybf9SpkK1pI/AAAAAAAA3bM/Kso3c_zmTMw_lSOoGPg_JKHL0MQ0WAjJQCNcBGAsYHQ/image.png)
 
 ## News 
+* **2022-04-04** connecting Wikidata to "Tvåkammar-riksdagen 1867-1970" see [issues/38](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38) 
 * **2022-02-21** connecting Wikidata to "Sveriges statskalender" see [issues/36](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/36) 
 * **2022-01-04** the special name form used for the Swedish PM is now decided to also be moved down to Wikidata and accessable as [SPARQL questions](https://w.wiki/4dqM) and a Wikipedia [template](https://sv.wikipedia.org/wiki/Mall:Iriksdagenkallad), primary source used in the beginning are the books ["Tvåkammar-riksdagen 1867-"](https://portrattarkiv.se/advancedsearch;facts=PortraitCatalog:Tv%C3%A5kammar-riksdagen%201867-)
    * [video](https://www.youtube.com/watch?v=ovrIeyC4gsk) how this is implemented
