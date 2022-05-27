@@ -1630,8 +1630,8 @@ Q5885317,Johansson i Stensjö, Anders Peter, 2:385
 Q5885438,Johansson i Kalmar, J August, 2:283
 Q5885419,Johansson i Trollhättan, August L, 4:238
 Johansson i Dingle, O August, 4:100
-Johansson i Lövholmen, August W, 4:329 
-Johansson i Djursnäs senare Örebro, Axel L, 4:493 
+Q5885446,Johansson i Lövholmen, August W, 4:329 
+Q112132365,Johansson i Djursnäs senare Örebro, Axel L, 4:493 
 Johansson i Växjö, N Bertil M, 2:216
 Johansson i Esset, Carl, 4:239 
 Johansson i Helsingborg, Carl, 3:223 
@@ -3247,7 +3247,7 @@ Ström i Övertorneå, Magnus, 5:440
 Ström i Lidköping, Torsten E, 4:352
 Strömberg i Trollhättan senare Karlstad, Gustaf A, 4:274
 Strömberg i Tumba, Karl-Erik J, 1:268
-Strömberg i Österbybruk senare Stockholm, Otto M, 1:332
+Q6193364,Strömberg i Österbybruk senare Stockholm, Otto M, 1:332
 Q6193217,Strömberg i Strängnäs, A Thore, 1:395
 Strömfelt i Hylinge, F Knut H, 2:108
 Styffe i Stockholm, Knut, 1:175
@@ -3665,7 +3665,7 @@ Wijkander i Göteborg, E A G August, 4:173
 Wijkander i Göteborg, A E Theodor, 4:173
 Wijkander i Karlstad, A L Theodor, 4:449
 Wijkmark i Torp, Knut, 4:358 
-Wijkström i Marieholm, Uno A, 2:317 
+Q6241097,Wijkström i Marieholm, Uno A, 2:317 
 Wikberg i Gåxsjö, J Axel, 5:317 
 Viklund i Oviken, J V Daniel, 5:317
 Viklund i Hortlax, Karl G, 5:445 
@@ -3754,7 +3754,7 @@ Q6255065,Åkerberg i Knistad, F E Knut, 4:360
 Åkerhielm af Margretelund i Landskrona, B C Alexander B, 3:292
 Åkerhielm af Margretelund i Örebro, J Carl, 4:522
 Åkerhielm af Margretelund i Margretelund, J Gustaf N S, 1:278
-Åkerlind i Knutby, Allan J G, 1:279
+Q6255205,Åkerlind i Knutby, Allan J G, 1:279
 Q6255212,Åkerlind i Hässjö, Erik Gustaf, 5:268
 Q111645980,Åkerlindh i Storhult, N Gustaf, 4:451
 Q6255248,Åkerlund i Lovisedal senare Norra Järsjö, Erik G H, 1:279
@@ -3762,13 +3762,13 @@ Q6255268,Åkerlund i Lidingö, Henrik, 1:279
 Q105062126,Åkerlund i Druvefors, Peter A, 4:282
 Q6255333,Åkerman i Strömstad senare Halmstad, Assar E, 1:404, 4:177
 Q6255378,Åkerman i Stockholm senare Västerås, G R Joachim, 1:195
-Åkerman i Stockholm, A Richard, 4:451 
-Åkerström i Clemensnäs, E Oskar, 5:381
-Åkeson-Lundegård i Landskrona, J C Evald, 3:292
-Åkesson i Göteborg, August E, 3:292
+Q6255431,Åkerman i Stockholm, A Richard, 4:451 
+Q112133202,Åkerström i Clemensnäs, E Oskar, 5:381
+Q6255508,Åkeson-Lundegård i Landskrona, J C Evald, 3:292
+Q6255534,Åkesson i Göteborg, August E, 3:292
 Q6255597,Åkesson i Raskarum, Johannes A, 3:157
-Åkesson i Stångby, Jöns, 3:293
-Åkesson i Rebbelberga, Nils, 3:157
+Q6255608,Åkesson i Stångby, Jöns, 3:293
+Q6255630,Åkesson i Rebbelberga, Nils, 3:157
 Q6255636,Åkesson i Södra Sandby, Nils, 3:293
 Q6255649,Åkesson i Raskarum, Sten R, 3:157
 Q104868044,Åman i Risingsbo, Fredrik V, 5:100
@@ -3779,11 +3779,11 @@ Q4991077,Åsbrink i Skara, Eva M T, 4:361
 Q6255943,Åslin i Holm, O Alfred, 5:268 
 Q6255950,Åsling i Trångsviken, Nils G, 5:318 
 Q111792528,Åslund i Hämra, Zakris, 5:269 
-Åstrand i Graby, Janne A, 2:120 
-Åström i Degerfors, Anders, 5:381
-Åström i Hagalund, Ernst V, 5:100
+Q104840074,Åstrand i Graby, Janne A, 2:120 
+Q6256023,Åström i Degerfors, Anders, 5:381
+Q6256046,Åström i Hagalund, Ernst V, 5:100
 Q6256173,Öberg i Domsjö, Carl Jonas, 5:269
-Öberg i Domsjö, Erik, 5:269
+Q6256173,Öberg i Domsjö, Erik, 5:269
 Q6256250,Öberg i Landskrona, Johan August, 3:293
 Q4991099,Öberg i Göteborg, Märta, 4:177
 Q6256437,Ödlund i Gävle, Jonas Otto, 5:181 
