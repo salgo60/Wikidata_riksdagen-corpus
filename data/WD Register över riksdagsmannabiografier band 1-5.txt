@@ -1752,34 +1752,34 @@ Josefsson i Halmstad, H Gösta A, 2:387
 de Jounge i Skärplinge, P Adolf, 1:317
 de Jounge i Slite, Arendt L A, 2:334 
 Juhlin i Stockholm, A Julius, 2:82
-Juhlin i Hagbyberga, J Malcolm, 1:376
-Juhlin Dannfelt i Stockholm, Herman J B:son, 5:359
-Julin i Åmberg, Fredrik E, 4:413
-Julin i Hjulsjöby, Gustaf A, 4:494
-Julin i Stockholm, J H Teodor, 1:243, 5:146
-Jungmarker i Österberga, Simeon, 4:331 
-Jungnell i Katrineholm, Algot E, 1:376 
-Jäderberg i Kiruna, Annie M, 5:422 
-Järte i Stockholm, Otto E F , 1:117 
-Jönson i Långenäs, Ernst B, 4:102 
-Jönsson i Bredgården, Anders, 4:242
-Jönsson i Yngsjö, Anders, 3:127
-Jönsson i Östmark, Arvid, 4:413
-Jönsson i Röinge, C Birger, 2:387
-Jönsson i Gärds Köpinge, Carl, 3:127 
-Jönsson i Torsholm, Carl Aron, 2:387 
-Jönsson i Malmö, Eric L, 3:224
-Jönsson i Lund, Folke G, 3:225
+Q5893699,Juhlin i Hagbyberga, J Malcolm, 1:376
+Q5893733,Juhlin Dannfelt i Stockholm, Herman J B:son, 5:359
+Q110467944,Julin i Åmberg, Fredrik E, 4:413
+Q113457547,Julin i Hjulsjöby, Gustaf A, 4:494
+Q5893939,Julin i Stockholm, J H Teodor, 1:243, 5:146
+Q6140724,Jungmarker i Österberga, Simeon, 4:331 
+Q110877467,Jungnell i Katrineholm, Algot E, 1:376 
+Q4957618,Jäderberg i Kiruna, Annie M, 5:422 
+Q5895466,Järte i Stockholm, Otto E F , 1:117 
+Q113444953,Jönson i Långenäs, Ernst B, 4:102 
+Q5895729,Jönsson i Bredgården, Anders, 4:242
+Q5895737,Jönsson i Yngsjö, Anders, 3:127
+Q5895755,Jönsson i Östmark, Arvid, 4:413
+Q6299729,Jönsson i Röinge, C Birger, 2:387
+Q5895976,Jönsson i Gärds Köpinge, Carl, 3:127 
+Q5895793,Jönsson i Torsholm, Carl Aron, 2:387 
+Q5895841,Jönsson i Malmö, Eric L, 3:224
+Q5895855,Jönsson i Lund, Folke G, 3:225
 Q5895745,Jönsson i Mårarp, A Gustaf, 2:218
-Jönsson i Arlöv, Hans E, 3:225
-Jönsson i Ingemarsgården, Elias I, 5:300 
-Jönsson i Axtorp, Johan, 3:127
-Jönsson i Revinge, Johan, 3:225
-Jönsson i Kristianstad, B Johan, 3:128 
-Jönsson i Boa, John, 3:58
-Jönsson i Slätåker, Jöns, 3:226
-Jönsson i Gärds Köpinge, Karl, 3:127
-Jönsson i Sandby, Lasse, 3:128
+Q5895894,Jönsson i Arlöv, Hans E, 3:225
+Q5895830,Jönsson i Ingemarsgården, Elias I, 5:300 
+Q5895931,Jönsson i Axtorp, Johan, 3:127
+Q5895936,Jönsson i Revinge, Johan, 3:225
+Q5895769,Jönsson i Kristianstad, B Johan, 3:128 
+Q5895945,Jönsson i Boa, John, 3:58
+Q5895957,Jönsson i Slätåker, Jöns, 3:226
+Q5895976,Jönsson i Gärds Köpinge, Karl, 3:127
+Q5896011,Jönsson i Sandby, Lasse, 3:128
 Q5896049,Jönsson i Gammalstorp, Nils, 3:59
 Q5896056,Jönsson i Kvarnberga, Nils, 3:226
 Q5895705,Jönsson i Rossbol, Nils O, 5:301
@@ -1798,15 +1798,15 @@ Q5900117,Kardell i Östersund, Sven J, 5:301
 Q5900997,Karlson i Västtomten, J Albert, 4:332 
 Q5901100,Karlsson i Surte, Anders, 4:242
 Q5901138,Karlsson i Granebo, Arvid S, 3:129 
-Karlsson i Tuve, K Edvin, 4:102
-Karlsson i Olofström, B Eric, 3:59
-Karlsson i Stuvsta senare Huddinge, B Erik A, 1:243 
-Karlsson i Helsingborg, Eva O, 3:227
-Karlsson i Nöttja, K Fritiof, 2:218
-Karlsson i Gillberga, J Gottfrid, 4:494
-Karlsson i Vadstena, O Gottfrid, 2:83 
-Karlsson i Munkedal, K Gustaf, 4:102 
-Karlsson i Huskvarna, F Göran, 2:165 
+Q5341399,Karlsson i Tuve, K Edvin, 4:102
+Q5901293,Karlsson i Olofström, B Eric, 3:59
+Q5901315,Karlsson i Stuvsta senare Huddinge, B Erik A, 1:243 
+Q4958136,Karlsson i Helsingborg, Eva O, 3:227
+Q5504803,Karlsson i Nöttja, K Fritiof, 2:218
+Q5901380,Karlsson i Gillberga, J Gottfrid, 4:494
+Q5901374,Karlsson i Vadstena, O Gottfrid, 2:83 
+Q5901397,Karlsson i Munkedal, K Gustaf, 4:102 
+Q2954414,Karlsson i Huskvarna, F Göran, 2:165 
 Q5901468,Karlsson i Ronneby, Helge G, 3:60
 Q5902186,Karlsson i Nynäshamn, S Johan, 1:244 
 Q5901593,Karlsson i Västerås, John O, 1:440
@@ -2596,39 +2596,39 @@ Olauson i Västerås, Daniel, 1:447
 Olausson i Lilldal, Carl L, 4:132
 Q6024736,Oléhn i Frillesås, C August, 2:397
 Olhede i Spånga, K Sven-Göran, 1:156 
-Olivecreutz i Ulricehamn, Wilhelm C, 4:261 
-Ollén i Stockholm, David L, 1:156
-Olofson i Kristianstad, O Christer, 3:144 
-Olofsson i Karstorp, Bengt, 4:343
-Olofsson i Åvik, Gustaf F, 4:505
-Olofsson i Digernäs, Johan, 5:307
+Q104845813,Olivecreutz i Ulricehamn, Wilhelm C, 4:261 
+Q6025297,Ollén i Stockholm, David L, 1:156
+Q6025555,Olofson i Kristianstad, O Christer, 3:144 
+Q6025602,Olofsson i Karstorp, Bengt, 4:343
+Q6025646,Olofsson i Åvik, Gustaf F, 4:505
+Q6025668,Olofsson i Digernäs, Johan, 5:307
 Q6025741,Olofsson i Ullevid, Olaus, 2:93
 Q6025765,Olofsson i Sveg, Per O, 5:308
-Olofsson i Lycksele, J Uno, 5:370
-Olofsson i Höganäs, Åke W, 3:250
-Olovson i Västerås, O Emil, 1:447
-Olsén i Kyrktåsjö, Carl U, 5:248 
-Olsén i Arvika, Gottfried, 4:429
-Olson i Göteborg, F Erik W, 4:132 
-Olson i Torsby, A Gustaf, 4:430
-Olson i Stensdalen, Olof, 4:430
-Olsson i Gävle, G Adolv, 5:161
-Olsson i Vittlanda, Allvar, 4:261
-Olsson i Bågeholm, Anders, 4:261
+Q6025835,Olofsson i Lycksele, J Uno, 5:370
+Q6025853,Olofsson i Höganäs, Åke W, 3:250
+Q6025864,Olovson i Västerås, O Emil, 1:447
+Q6025980,Olsén i Kyrktåsjö, Carl U, 5:248 
+Q6026026,Olsén i Arvika, Gottfried, 4:429
+Q6026229,Olson i Göteborg, F Erik W, 4:132 
+Q6026244,Olson i Torsby, A Gustaf, 4:430
+Q105046298,Olson i Stensdalen, Olof, 4:430
+Q6026379,Olsson i Gävle, G Adolv, 5:161
+Q6026405,Olsson i Vittlanda, Allvar, 4:261
+Q6026465,Olsson i Bågeholm, Anders, 4:261
 Q6026474,Olsson i Morastrand senare Mora, Anders, 5:82 
 Q6026482,Olsson i Mårdäng, Anders, 5:162 
 Q6026487,Olsson i Ornakärr senare Väsby, Anders, 3:250 
 Q6026493,Olsson i Tyllered, Anders, 2:397
 Q6026501,Olsson i Ingesgärde, Anders Petter, 2:94
-Olsson i Stockholm, E Arvid, 1:157
-Olsson i Kollungeröd, O Bernhard, 4:133
-Olsson i Järnsida, Carl A, 2:299
-Olsson i Mellerud, Carl P, 4:261
-Olsson i Norrhyttan senare Golvvasta o Närlinge, Carl Gustaf, 1:326, 5:82
+Q4802442,Olsson i Stockholm, E Arvid, 1:157
+Q6026566,Olsson i Kollungeröd, O Bernhard, 4:133
+Q6026651,Olsson i Järnsida, Carl A, 2:299
+Q6026660,Olsson i Mellerud, Carl P, 4:261
+Q6158007,Olsson i Norrhyttan senare Golvvasta o Närlinge, Carl Gustaf, 1:326, 5:82
 Q6026693,Olsson i Rögle senare Viken, Christian, 3:251
 Q6026704,Olsson i Eskilstorp, Christoffer, 3:251
-Olsson i Berg, Cornelius, 4:133
-Olsson i Högby, P Edvard, 2:299
+Q6026716,Olsson i Berg, Cornelius, 4:133
+Q112589711,Olsson i Högby, P Edvard, 2:299
 Q4971112,Olsson i Hölö, Elvy E, 1:386
 Q6026783,Olsson i Kyrkebol, O Emil, 4:430
 Q6026789,Olsson i Sånnersta, Eric, 4:505
