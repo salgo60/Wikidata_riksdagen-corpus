@@ -904,18 +904,18 @@ Q5714526,Erickzon i Skälsnäs senare Bjärsby, Johan, 2:149
 Q5714541,Ericson i Ransta, Adolf J, 1:431
 Q5714592,Ericson i Rånnum senare Skövde, Carl W, 4:221
 Q5714600,Ericson i Funäsdalen, Christian, 5:294
-Ericson i Karlskoga, J Eric, 4:480
-Ericson i Boxholm, Frans O, 2:63
+Q5714661,Ericson i Karlskoga, J Eric, 4:480
+Q5714670,Ericson i Boxholm, Frans O, 2:63
 Q5714707,Ericson i Stockholm, H Hans C, 3:50
-Ericson i Sandgärde senare Nygård o Östersund, John P, 4:222, 5:295
-Ericson i Oberga, K Oscar, 2:149
-Ericson i Örebro, Sture T, 4:480
-Ericson i Uddevalla, N Wemer, 4:81 
+Q5855197,Ericson i Sandgärde senare Nygård o Östersund, John P, 4:222, 5:295
+Q5714844,Ericson i Oberga, K Oscar, 2:149
+Q5714937,Ericson i Örebro, Sture T, 4:480
+Q23989264,Ericson i Uddevalla, N Wemer, 4:81 
 Q5714995 Ericsson i Gåvetorp, Aaby A W, 2:210 
-Ericsson i Malmö, Anders, 3:209
-Ericsson i Östra Kärne, Anders, 4:480
-Ericsson i Arboga, Carl Johan, 1:431
-Ericsson i Jönköping, Carl M, 2:150
+Q19976514,Ericsson i Malmö, Anders, 3:209
+Q5715009,Ericsson i Östra Kärne, Anders, 4:480
+Q113468854,Ericsson i Arboga, Carl Johan, 1:431
+Q5715031,Ericsson i Jönköping, Carl M, 2:150
 Ericsson i Åtvidaberg, J Elof, 2:63
 Ericsson i Sörbo, J Emil, 5:56
 Ericsson i Ålsten, C Eric, 4:81
@@ -1727,31 +1727,31 @@ Q111692389,Jonsson i Mörbylånga, K Einar E, 2:286
 Q5891513,Jonsson i Skutskär, Einar W, 1:317
 Q5891534,Jonsson i Freluga, Eric, 5:143
 Q5891546,Jonsson i Fors, Erik, 5:143
-Jonsson i Myre, Erik Petter, 5:232
-Jonsson i Lycksele, P Ewert A, 5:358
-Jonsson i Skeppnetorp, Gustaf, 2:286
-Jonsson i Hökhult, Johan August, 2:165 -
-Jonsson i Nybro, John W, 2:286 -
-Jonsson i Hertsjö, Jon, 5:144 -
-Jonsson i Källeräng, Jon, 5:144 -
-Jonsson i Mo, Jon, 5:144
-Jonsson i Fjäle, Jon N, 5:143
-Jonsson i Hå, Jonas, 5:144 -
-Jonsson i Haverö, Lars J, 5:232
-Jonsson i Vansäter, Magnus, 5:145 -
-Jonsson i Gumboda, Olof, 5:358
-Jonsson i Hov senare Stockholm o åter Hov, Olof, 5:145
-Jonsson i Risinge, Oscar M, 2:82
-Jonsson i Teg, Per, 5:358
-Jonsson i Malmgrava, Per H, 2:287
-Jonsson i Husum, S A Rune, 5:232
+Q5891561,Jonsson i Myre, Erik Petter, 5:232
+Q5891568,Jonsson i Lycksele, P Ewert A, 5:358
+Q5891592,Jonsson i Skeppnetorp, Gustaf, 2:286
+Q5891690,Jonsson i Hökhult, Johan August, 2:165
+Q5891697,Jonsson i Nybro, John W, 2:286
+Q5891720,Jonsson i Hertsjö, Jon, 5:144
+Q5891726,Jonsson i Källeräng, Jon, 5:144
+Q5891733,Jonsson i Mo, Jon, 5:144
+Q5891714,Jonsson i Fjäle, Jon N, 5:143
+Q5891755,Jonsson i Hå, Jonas, 5:144
+Q5891791,Jonsson i Haverö, Lars J, 5:232
+Q5891852,Jonsson i Vansäter, Magnus, 5:145
+Q5891901,Jonsson i Gumboda, Olof, 5:358
+Q5891896,Jonsson i Hov senare Stockholm o åter Hov, Olof, 5:145
+Q111135069,Jonsson i Risinge, Oscar M, 2:82
+Q105162968,Jonsson i Teg, Per, 5:358
+Q113461577,Jonsson i Malmgrava, Per H, 2:287
+Q5891990,Jonsson i Husum, S A Rune, 5:232
 Q5892004,Jonsson i Alsen senare Järvsand o Strömsund, J Sigfrid, 5:300
-Jonäng i Bollnäs, Gunnel M, 5:146
-Josefson i Arrie, Stig A, 3:224
-Josefsson i Halmstad, H Gösta A, 2:387 
-de Jounge i Skärplinge, P Adolf, 1:317
-de Jounge i Slite, Arendt L A, 2:334 
-Juhlin i Stockholm, A Julius, 2:82
+Q4957384,Jonäng i Bollnäs, Gunnel M, 5:146
+Q5892602,Josefson i Arrie, Stig A, 3:224
+Q5892646),Josefsson i Halmstad, H Gösta A, 2:387 
+Q5893034,de Jounge i Skärplinge, P Adolf, 1:317
+Q16649121,de Jounge i Slite, Arendt L A, 2:334 
+Q5893691,Juhlin i Stockholm, A Julius, 2:82
 Q5893699,Juhlin i Hagbyberga, J Malcolm, 1:376
 Q5893733,Juhlin Dannfelt i Stockholm, Herman J B:son, 5:359
 Q110467944,Julin i Åmberg, Fredrik E, 4:413
