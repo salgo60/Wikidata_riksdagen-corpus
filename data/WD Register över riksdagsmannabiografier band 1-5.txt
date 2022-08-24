@@ -975,29 +975,29 @@ Q4947061,Eriksson i Stockholm, Nancy M, 1:81
 Q5717066,Eriksson i Östanfors, Ollas Erik, 5:59 
 Q5717076,Eriksson i Ulfsbyn, Olle, 4:223
 Q5717143,Eriksson i Fanbyn, Per Olof, 5:296 
-Eriksson i Stockholm, Sigrid H E, 1:82 
-Eriksson i Yttermalung, Täpp Jonas, 5:59
-Eriksson i i Överbyn, J Valfrid, 4:399
-Erlander i Lund senare Stockholm, Bromma o åter Stockholm, Tage F, 1:82, 3:210 
-Erlansson i Främlinge, John, 3:119
-Ernfors i Björka, O August, 5:58
-Ernulf i Borås, T Gudmund, 4:82
-Eronn i Leksand, Rikard O E, 5:60
-Ersson i Buska senare Hede, Back Per, 5:60
+Q4946074,Eriksson i Stockholm, Sigrid H E, 1:82 
+Q5717466,Eriksson i Yttermalung, Täpp Jonas, 5:59
+Q5717504,Eriksson i Överbyn, J Valfrid, 4:399
+Q53707,Erlander i Lund senare Stockholm, Bromma o åter Stockholm, Tage F, 1:82, 3:210 
+Q5717854,Erlansson i Främlinge, John, 3:119
+Q5718128,Ernfors i Björka, O August, 5:58
+Q5718312,Ernulf i Borås, T Gudmund, 4:82
+Q5718333,Eronn i Leksand, Rikard O E, 5:60
+Q5718494,Ersson i Buska senare Hede, Back Per, 5:60
 Q5718571,Ersson i Östnor, Bälter Swen, 5:60
 Q5718504,Ersson i Surssa, Carl E, 1:367
-Ersson i Arnebo, Eric, 1:432
-Ersson i Sanne, Eric, 5:296
-Ersson i Vallsta, Eric, 5:132
-Ersson i Vik, Lars, 1:367
-Ersson i Västlandaholm, Per, 1:432
-Eskel i Karlstad, Arvid N, 4:400
+Q5718511,Ersson i Arnebo, Eric, 1:432
+Q5718519,Ersson i Sanne, Eric, 5:296
+Q5718524,Ersson i Vallsta, Eric, 5:132
+Q5718546,Ersson i Vik, Lars, 1:367
+Q5718564,Ersson i Västlandaholm, Per, 1:432
+Q5719102,Eskel i Karlstad, Arvid N, 4:400
 Q5394979,Eskhult i Eskhult, Ernst W, 4:354
 Q5719171, Eskilsson i Björsäter, Carl E, 2:65
-Eskilsson i Likenäs, E Gunnar F, 4:400
-Essén i Göteborg, Ludvig, 4:82
-von Essen i Kavlås senare Stockholm, Fredrik, 4:315
-von Essen i Ljunghem, Reinhold J, 4:316
+Q5719184,Eskilsson i Likenäs, E Gunnar F, 4:400
+Q5719647,Essén i Göteborg, Ludvig, 4:82
+Q5499548,von Essen i Kavlås senare Stockholm, Fredrik, 4:315
+Q5719666,von Essen i Ljunghem, Reinhold J, 4:316
 von Essen af Zellie i Änge, Carl J, 5:296
 Eurén i Jönköping, Axel H, 2:150
 Q5720571,Eurén i Edebo, Erik, 1:234
@@ -1535,11 +1535,11 @@ Hällgren i Hällevik, Elof W, 3:56
 Hällvik i Örebro, Oscar T H, 4:491
 Härdin i Norrköping, Carl A, 1:373
 Höglund i Strömstad senare Göteborg, Carl Wilhelm Oskar, 4:99
-Höglund i i Stockholm, C Fabian, 1:112
-Höglund i i Stockholm, Otto M, 1:112
-Höglund i i Stockholm senare Äppelviken, C Zeth K, 1:113
+Höglund i Stockholm, C Fabian, 1:112
+Höglund i Stockholm, Otto M, 1:112
+Höglund i Stockholm senare Äppelviken, C Zeth K, 1:113
 Högstedt i Helsingborg, J Gustaf O, 3:222 
-
+Högstedt i Hanåsa, P A Julius, 2:281
 Högström i Sandviken, Carl Johan, 5:141 
 Högström i Kramfors, Ivar, 5:229
 Höjer i Stockholm, Gerda, 1:113
