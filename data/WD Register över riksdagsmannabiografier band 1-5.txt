@@ -916,7 +916,7 @@ Q19976514,Ericsson i Malmö, Anders, 3:209
 Q5715009,Ericsson i Östra Kärne, Anders, 4:480
 Q113468854,Ericsson i Arboga, Carl Johan, 1:431
 Q5715031,Ericsson i Jönköping, Carl M, 2:150
-Ericsson i Åtvidaberg, J Elof, 2:63
+Q1333150,Ericsson i Åtvidaberg, J Elof, 2:63
 Ericsson i Sörbo, J Emil, 5:56
 Ericsson i Ålsten, C Eric, 4:81
 Q5715226,Ericsson i Väsby, J Eric, 4:481
@@ -1522,25 +1522,25 @@ Q5818643,Hygrell i Lycksele, August W, 5:355
 Q5818682,Hylander i Röe, Anders P, 4:98
 Q5818799,Hyltander i Töreboda, K Gunnar E, 4:326 
 Q5820037,Håkanson i Viskafors, A Edvin, 4:235
-Håkanson i Hässleholm, Ernst M, 3:124, 5:228
-Håkansson i Björstorp, Nils S, 3:125 
-Håkansson i Bäckenäs, Sven, 4:235
-Håstad i Stockholm senare Uppsala, Elis W, 1:111
-Håvik i Göteborg, I Doris H, 4:99
-Häckner i Saltsjöbaden, K J Yngve, 1:241 
-Hägglund i Hässjö, Erik, 5:228
-Häggström i Dalkarlså, Erik, 5:355
-Häll i Malmberget, Karl-Erik, 5:421
-Hällgren i Hällevik, Elof W, 3:56
-Hällvik i Örebro, Oscar T H, 4:491
-Härdin i Norrköping, Carl A, 1:373
-Höglund i Strömstad senare Göteborg, Carl Wilhelm Oskar, 4:99
-Höglund i Stockholm, C Fabian, 1:112
-Höglund i Stockholm, Otto M, 1:112
-Höglund i Stockholm senare Äppelviken, C Zeth K, 1:113
-Högstedt i Helsingborg, J Gustaf O, 3:222 
-Högstedt i Hanåsa, P A Julius, 2:281
-Högström i Sandviken, Carl Johan, 5:141 
+Q5819964,Håkanson i Hässleholm, Ernst M, 3:124, 5:228
+Q5820161,Håkansson i Björstorp, Nils S, 3:125 
+Q5820210,Håkansson i Bäckenäs, Sven, 4:235
+Q5820402,Håstad i Stockholm senare Uppsala, Elis W, 1:111
+Q4955378,Håvik i Göteborg, I Doris H, 4:99
+Q5819028,Häckner i Saltsjöbaden, K J Yngve, 1:241 
+Q5819272,Hägglund i Hässjö, Erik, 5:228
+Q5819424,Häggström i Dalkarlså, Erik, 5:355
+Q5819505,Häll i Malmberget, Karl-Erik, 5:421
+Q5819523,Hällgren i Hällevik, Elof W, 3:56
+Q113533458,Hällvik i Örebro, Oscar T H, 4:491
+Q5819706,Härdin i Norrköping, Carl A, 1:373
+Q5820675,Höglund i Strömstad senare Göteborg, Carl Wilhelm Oskar, 4:99
+Q5820694,Höglund i Stockholm, C Fabian, 1:112
+Q2039857,Höglund i Stockholm, Otto M, 1:112
+Q196860,Höglund i Stockholm senare Äppelviken, C Zeth K, 1:113
+Q5820888,Högstedt i Helsingborg, J Gustaf O, 3:222 
+Q5820900,Högstedt i Hanåsa, P A Julius, 2:281
+Q5820926,Högström i Sandviken, Carl Johan, 5:141 
 Högström i Kramfors, Ivar, 5:229
 Höjer i Stockholm, Gerda, 1:113
 Höjer i Stockholm, Magnus M, 1:114 
