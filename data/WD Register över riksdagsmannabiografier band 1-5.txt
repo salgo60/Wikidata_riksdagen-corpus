@@ -917,8 +917,8 @@ Q5715009,Ericsson i Östra Kärne, Anders, 4:480
 Q113468854,Ericsson i Arboga, Carl Johan, 1:431
 Q5715031,Ericsson i Jönköping, Carl M, 2:150
 Q1333150,Ericsson i Åtvidaberg, J Elof, 2:63
-Ericsson i Sörbo, J Emil, 5:56
-Ericsson i Ålsten, C Eric, 4:81
+Q113945878,Ericsson i Sörbo, J Emil, 5:56
+Q5715103,Ericsson i Ålsten, C Eric, 4:81
 Q5715226,Ericsson i Väsby, J Eric, 4:481
 Q5715109,Ericsson i Malung, J Erik, 5:57
 Q5715124,Ericsson i Sörsjön, Evald, 5:57
