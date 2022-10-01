@@ -923,22 +923,22 @@ Q5715226,Ericsson i Väsby, J Eric, 4:481
 Q5715109,Ericsson i Malung, J Erik, 5:57
 Q5715124,Ericsson i Sörsjön, Evald, 5:57
 Q5411103,Ericsson i Näs, S Gunnar E, 2:272
-Ericsson i Åtvidaberg, Gunnar L V, 2:64
-Ericsson i Stockholm, Gustaf, 1:79
+Q5618990,Ericsson i Åtvidaberg, Gunnar L V, 2:64
+Q5714980,Ericsson i Stockholm, Gustaf, 1:79
 Q5714986,Ericsson i Väsby, A Gustaf, 1:367
-Ericsson i Ramsberg, Harald M, 4:481
-Ericsson i Malmö, C Herman, 3:210
+Q5715170,Ericsson i Ramsberg, Harald M, 4:481
+Q5715185,Ericsson i Malmö, C Herman, 3:210
 Q4946953,Ericsson i Luleå, Hildur K, 5:412
-Ericsson i Norrby, Johan, 2:64
-Ericsson i Vallsta, Johan, 5:130
-Ericsson i Uppsala, Johan Apollonius, 2:150
-Ericsson i Alberga, Johan Eric, 1:308
+Q5715242,Ericsson i Norrby, Johan, 2:64
+Q5715248,Ericsson i Vallsta, Johan, 5:130
+Q5715212,Ericsson i Uppsala, Johan Apollonius, 2:150
+Q5715235,Ericsson i Alberga, Johan Eric, 1:308
 Q5714759,Ericsson i Borekulla, Johannes, 2:376
 Q5715273,Ericsson i Kinna senare Stockholm, John A, 4:222
-Ericsson i Åtvidaberg, E Josef N, 2:64
-Ericsson i Ovanmyra, Ollas Anders, 2:377, 5:57
-Ericsson i Vik, Pehr, 5:131
-Erikson i Stocksund, F Arvid, 1:233 
+Q16649189,Ericsson i Åtvidaberg, E Josef N, 2:64
+Q5715406,Ericsson i Ovanmyra, Ollas Anders, 2:377, 5:57
+Q5715419,Ericsson i Vik, Pehr, 5:131
+Q5715763,Erikson i Stocksund, F Arvid, 1:233 
 Q5715803,Erikson i Myckelgård, Gustaf, 5:295
 Erikson i Uppsala, J Henry, 1:308
 Erikson i Stockholm, P Jakob M, 1:80
