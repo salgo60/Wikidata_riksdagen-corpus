@@ -942,9 +942,9 @@ Q5715763,Erikson i Stocksund, F Arvid, 1:233
 Q5715803,Erikson i Myckelgård, Gustaf, 5:295
 Q111311453,Erikson i Uppsala, J Henry, 1:308
 Q5715812,Erikson i Stockholm, P Jakob M, 1:80
-Erikson i Rydboholm, Johannes, 4:223 
-Erikson i Övra Odensvi, Olof G, 4:482
-Ericson i Stockholm, G Oskar, 1:80 
+Q5715821,Erikson i Rydboholm, Johannes, 4:223 
+Q5715836,Erikson i Övra Odensvi, Olof G, 4:482
+Q114588905,Ericson i Stockholm, G Oskar, 1:80 
 Q5715925,Eriksson i Toftered, Albin, 2:377
 Q5715991,Eriksson i Rödsta, Anders August, 5:217
 Q5716008,Eriksson i Undrom, Anders W, 5:218
