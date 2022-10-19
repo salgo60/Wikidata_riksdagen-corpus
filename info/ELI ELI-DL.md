@@ -59,3 +59,4 @@ At the State level, it will also be applied to all legislation previously publis
 
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/14206509/196675719-67cf99df-b12f-42e4-bd8a-c89faa1d86e5.png">
 
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/14206509/196678256-831f255a-c759-4d9e-bf95-022db9174f24.png">
