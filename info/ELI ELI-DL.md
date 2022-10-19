@@ -44,3 +44,5 @@ At the State level, it will also be applied to all legislation previously publis
 * [eli:type_document para la normativa estatal y autonómica](https://www.elidata.es/mdr/authority/resource-type/1/)
 
 <img width="1206" alt="image" src="https://user-images.githubusercontent.com/14206509/196672562-6489fc02-7524-4398-b2ad-3151108d6e22.png">
+
+<img width="1206" alt="image" src="https://user-images.githubusercontent.com/14206509/196673130-cc3765cc-95aa-4da8-add5-3e36ebfa4bab.png">
