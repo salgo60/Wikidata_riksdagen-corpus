@@ -36,3 +36,7 @@ At the State level, it will also be applied to all legislation previously publis
   * [ELI in Spain](https://www.elidata.es/ELI_en_Espana.php) _ELI will be applied, at least, to State and Autonomic legislation published since 1978/12/29. At the State level, it will also be applied to all legislation previously published and having a consolidated version._ / 
  * [Ontologi](https://www.elidata.es/documentacion_tecnica/ontologia.php)
 ![image](https://user-images.githubusercontent.com/14206509/196671568-2704e6da-5dab-4180-9ea9-ed05a29d1962.png)
+##### Exempel Auktoritetstabell
+[elidata.es/mdr/authority/jurisdiction](https://www.elidata.es/mdr/authority/jurisdiction/2/)
+
+<img width="1206" alt="image" src="https://user-images.githubusercontent.com/14206509/196672288-ca8902a8-2839-4201-8fb1-404f812d5b20.png">
