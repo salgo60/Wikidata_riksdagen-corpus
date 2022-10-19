@@ -9,3 +9,22 @@
 ![](https://joinup.ec.europa.eu/sites/default/files/styles/wysiwyg_full_width/public/inline-images/BLSI_path_education.png?itok=b6_Q7utP)
 
 ![](https://joinup.ec.europa.eu/sites/default/files/inline-images/Tree%20validation.png)
+   
+   * **User case** EU ITEC "[Directorate-General for Innovation and Technological Support](https://the-secretary-general.europarl.europa.eu/en/directorates-general/itec)"
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/14206509/196665632-62131bdb-e2bd-4885-848f-beb87c7a588d.png">
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/14206509/196665461-d0da1b8f-8cbe-4838-b2aa-ef083fc25a6c.png">
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/14206509/196665328-d87b5ddf-2975-4120-9ffe-2ad1718ab958.png">
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/14206509/196665158-a988dab0-0324-4dd2-9405-666497158da7.png">
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/14206509/196664542-8c61a297-b167-431a-a52a-ad44134c5503.png">
+
+
+### ELI
+* [OM ELI](https://eur-lex.europa.eu/eli-register/about.html)
+* [Internationell översikt ELI]()
+* [Spanska projekt web:en](https://www.elidata.es/index.php?lang=en)
+  * [ELI in Spain](https://www.elidata.es/ELI_en_Espana.php) _ELI will be applied, at least, to State and Autonomic legislation published since 1978/12/29. At the State level, it will also be applied to all legislation previously published and having a consolidated version._
