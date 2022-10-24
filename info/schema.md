@@ -3,3 +3,4 @@
   * [Brasilian parlament](https://github.com/schemaorg/schemaorg/issues/1743#issuecomment-438768067)
   * Luxembourg
   
+![image](https://user-images.githubusercontent.com/14206509/197587329-2ee64058-cd20-4355-8e79-7f09a6bf8abc.png)
