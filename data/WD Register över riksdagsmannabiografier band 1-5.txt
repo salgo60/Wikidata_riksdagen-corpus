@@ -951,19 +951,19 @@ Q5716008,Eriksson i Undrom, Anders W, 5:218
 Q5718128,Eriksson i Björka, O August, 5:58
 Q4894168,Eriksson i Grängesberg senare Falun, J Bernhard, 5:58 
 Q5716080,Eriksson i Stockholm, C J Bertil, 1:80
-Eriksson i Ljusdal, Carl E, 5:131 
-Eriksson i Uppsala, J Einar, 1:309 
+Q5716147,Eriksson i Ljusdal, Carl E, 5:131 
+Q5716251,Eriksson i Uppsala, J Einar, 1:309 
 Q4947005,Eriksson i Hallstahammar, Elin S, 1:432 
-Eriksson i Böleå, Erik, 5:347 
-Eriksson i Kväcklingen, Erik, 5:218 
-Eriksson i Klaxås, Erik Gustaf, 4:398 
-Eriksson i Stockholm, Ernst G E , 1:81 
-Eriksson i Hökhuvud, Eskil F V, 1:233 
-Eriksson i Ängelholm, Etty D J A, 3:119 
-Eriksson i Mörviken, Gunnar, 5:296 
-Eriksson i Västbro, E Gustaf, 4:399
-Eriksson i Älgered, Halvar, 5:131 
-Eriksson i Jönköping, Johan Albert, 2:150 
+Q5716315,Eriksson i Böleå, Erik, 5:347 
+Q5716323,Eriksson i Kväcklingen, Erik, 5:218 
+Q5716309,Eriksson i Klaxås, Erik Gustaf, 4:398 
+Q5716335,Eriksson i Stockholm, Ernst G E , 1:81 
+Q5716350,Eriksson i Hökhuvud, Eskil F V, 1:233 
+Q4947009,Eriksson i Ängelholm, Etty D J A, 3:119 
+Q5716432,Eriksson i Mörviken, Gunnar, 5:296 
+Q5716447,Eriksson i Västbro, E Gustaf, 4:399
+Q5716466,Eriksson i Älgered, Halvar, 5:131 
+Q114632949,Eriksson i Jönköping, Johan Albert, 2:150 
 Q112150957,Eriksson i Ökna, Johan August, 4:223 
 Q5716662,Eriksson i Bäckmora, John E, 5:132 
 Q5716688,Eriksson i Lindehult, Jonas, 2:211 
@@ -998,8 +998,8 @@ Q5719184,Eskilsson i Likenäs, E Gunnar F, 4:400
 Q5719647,Essén i Göteborg, Ludvig, 4:82
 Q5499548,von Essen i Kavlås senare Stockholm, Fredrik, 4:315
 Q5719666,von Essen i Ljunghem, Reinhold J, 4:316
-von Essen af Zellie i Änge, Carl J, 5:296
-Eurén i Jönköping, Axel H, 2:150
+Q5719559,von Essen af Zellie i Änge, Carl J, 5:296
+Q109943335,Eurén i Jönköping, Axel H, 2:150
 Q5720571,Eurén i Edebo, Erik, 1:234
 Q4947351,Ewerlöf i Stockholm, Elsa H E J , 1:83
 Q5721610,Ewerlöf i Stockholm, Knut G, 1:83
@@ -1010,22 +1010,22 @@ Q5722612,Fager i Onsala, Charley A, 2:378
 Q105200990,Fagerholm i Vallnäs, Axel, 2:151
 Q5722697,Fagerholm i Stockholm senare Malmö, Per-Hjalmar, 1:84
 Q5722712,Fagerlin i Luleå, Axel E, 5:412 
-Fagerlund i Kalmar, C Adolph J, 2:272
-Fagerlund i Kosta, Bengt O H, 2:211
-Fagerlund i Ljusdal, C Emil, 5:133
-Fagerström i Boden, Lars E, 4:224
-Fahlander i Eskilstuna, Gustaf R, 1:368
-Fahlander i Bäck, Leonard J, 5:347
-Fahlbeck i Lund senare Djursholm, Pontus E, 4:82
-Fahlén i Dynäs senare Hullsta, A Hugo, 5:218
-Fahlén i Multrå, Johan, 5:219
-Fahlman i Helsingborg, Georg L, 3:211
-Falk i Jönköping, Carl B N, 2:151
-Falk i Stockholm, C Helmer, 4:400
-Falk i Kalmar, John L, 2:272
+Q5722752,Fagerlund i Kalmar, C Adolph J, 2:272
+Q5722759,Fagerlund i Kosta, Bengt O H, 2:211
+Q5722769,Fagerlund i Ljusdal, C Emil, 5:133
+Q5856420,Fagerström i Boden, Lars E, 4:224
+Q5723076,Fahlander i Eskilstuna, Gustaf R, 1:368
+Q5723085,Fahlander i Bäck, Leonard J, 5:347
+Q1388885,Fahlbeck i Lund senare Djursholm, Pontus E, 4:82
+Q5723186,Fahlén i Dynäs senare Hullsta, A Hugo, 5:218
+Q5723194,Fahlén i Multrå, Johan, 5:219
+Q5723243,Fahlman i Helsingborg, Georg L, 3:211
+Q5724038,Falk i Jönköping, Carl B N, 2:151
+Q5724137,Falk i Stockholm, C Helmer, 4:400
+Q5856613,Falk i Kalmar, John L, 2:272
 Q5724200,Falk i Åhagen, Karl H, 2:66
-Falk i Gravendal, Knut H, 5:61
-Falk i Karlstad, H Otto, 4:401
+Q5724207,Falk i Gravendal, Knut H, 5:61
+Q5724289,Falk i Karlstad, H Otto, 4:401
 Falk i Falun, Wilhelm, 5:61
 Falkenberg af Bålby i Brokind, Melker H G, 2:66 
 Falkenberg af Trystorp i Värmlands Säby, C Henrik, 4:401
