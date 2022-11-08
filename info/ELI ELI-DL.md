@@ -2,7 +2,7 @@
 * 2023 mars nästa konferans...
 
 * [video](https://www.youtube.com/watch?v=Nk5U2Vm3g54) Från möte 19 oct 2022 - "[The European Legislation Identifier (ELI and ELI-DL) – Use cases and implementations](https://op.europa.eu/en/web/endorse/follow-up-events?pk_campaign=ENDORSE_FollowUp&pk_medium=tw)" se även Riksdagens shadow backlog [punkt 15 att dagens data inte är 5-star data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
-  * **presentationer **
+  * **presentationer**
      * [ELI introduction](https://op.europa.eu/documents/10439539/10449524/ELI_1_introduction_John_Dann.pdf/00b3e4d8-039f-4c56-c00d-3acd7d5660f7?t=1666765318812)
      * [ELI + ELI-DL](https://op.europa.eu/documents/10439539/10449524/ELI_3_ELI-DL_Thomas_Francart.pptx/04eceb3c-5c8a-1121-07c5-aa2ffaa37fb3?t=1666767588783)
      * [ELI Luxembourg](https://op.europa.eu/documents/10439539/10449524/ELI_4_ELI_Luxembourg_John_Dann.pdf/cbc7a5b8-d45d-1cce-901d-3ec886cc3dba?t=1666767906897)
