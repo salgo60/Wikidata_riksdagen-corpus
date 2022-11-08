@@ -10,6 +10,8 @@
      * [ELI European Parliament](https://op.europa.eu/documents/10439539/10449524/ELI_6_ELI_EP_Christie_Damnet_Laura_Liudvinavi%C4%8Di%C5%ABt%C4%97.pptx/091291a1-7497-3a9a-6190-8b068d22b7f4?t=1666768356583)
 
   * dom har pratat med Sverige men ingen aktivitet jmf [ELI implementation  overview](https://eur-lex.europa.eu/eli-register/implementation.html)
+<img width="865" alt="image" src="https://user-images.githubusercontent.com/14206509/200526532-2a97ee36-b5ba-4391-9eb8-878c3979c622.png">
+
   * de har [identifierat behovet av att utbilda policy makers](https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation/blsi-learning-hub)
 
 ![](https://joinup.ec.europa.eu/sites/default/files/styles/wysiwyg_full_width/public/inline-images/BLSI_path_education.png?itok=b6_Q7utP)
@@ -79,4 +81,8 @@ At the State level, it will also be applied to all legislation previously publis
 
 ### Misc
 * "[Knowledge of the Law in the Big Data Age - The European Legislation Identifier](https://github.com/salgo60/Wikidata_riksdagen-corpus/raw/main/info/FAIA-317-FAIA190016%20-%20Knowledge%20of%20the%20Law%20in%20the%20Big%20Data%20Age%20-%20ELI.pdf)
-
+* [ELI website hosted on EUR-Lex](http://eur-lex.europa.eu/eli)
+* ELI guides (general and technical) in PDF, Print and ePub.(regularly updated)
+* [ELI Ontology: ELI 1.4](https://publications.europa.eu/en/web/eu-vocabularies/model/-
+/resource/dataset/eli)
+* [ELI-DL for Draft Legislation: released](https://joinup.ec.europa.eu/collection/eli-european-legislationidentifier/solution/eli-ontology-draft-legislation-eli-dl/release/v2)
