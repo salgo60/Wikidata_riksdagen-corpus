@@ -1,5 +1,10 @@
 ## The European Legislation Identifier (ELI and ELI-DL) – Use cases and implementations
-* 2023 mars nästa konferans...
+
+* [ELI implementation methodology](https://op.europa.eu/documents/2050822/2138819/ELI+Implementation+Methodology.pdf/#:~:text=The%20ELI%20approach%20aims%20to,unique%20legislative%20and%20legal%20tradition.)
+
+[<img width="309" alt="image" src="https://user-images.githubusercontent.com/14206509/200528359-f76caa3f-bd24-4582-8921-e21311add59d.png">](https://op.europa.eu/documents/2050822/2138819/ELI+Implementation+Methodology.pdf/#:~:text=The%20ELI%20approach%20aims%20to,unique%20legislative%20and%20legal%20tradition.)
+
+### 2023 mars nästa konferans...
 
 * [video](https://www.youtube.com/watch?v=Nk5U2Vm3g54) Från möte 19 oct 2022 - "[The European Legislation Identifier (ELI and ELI-DL) – Use cases and implementations](https://op.europa.eu/en/web/endorse/follow-up-events?pk_campaign=ENDORSE_FollowUp&pk_medium=tw)" se även Riksdagens shadow backlog [punkt 15 att dagens data inte är 5-star data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
   * **presentationer**
