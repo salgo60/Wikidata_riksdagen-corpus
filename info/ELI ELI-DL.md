@@ -48,7 +48,9 @@ At the State level, it will also be applied to all legislation previously publis
 <img width="1206" alt="image" src="https://user-images.githubusercontent.com/14206509/196673130-cc3765cc-95aa-4da8-add5-3e36ebfa4bab.png">
 
 ### [ELI technical guide](https://op.europa.eu/en/publication-detail/-/publication/8159b75d-5efc-11e8-ab9c-01aa75ed71a1)
-
+   * eli:is_about - indicates the subject of the legislation prefferable using the [Eurovoc Thesaurus](http://eurovoc.europa.eu)
+   * eli:transpose -  link to the ELI of a directive transposed by an act or an article. 
+   
 <img width="732" alt="image" src="https://user-images.githubusercontent.com/14206509/196673791-27533dc5-deba-4e83-b723-b29178a904b3.png">
 
 <img width="732" alt="image" src="https://user-images.githubusercontent.com/14206509/196674006-4d7969f3-9b0d-4b2c-a00f-35948c825d44.png">
