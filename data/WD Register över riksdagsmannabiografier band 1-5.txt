@@ -3707,10 +3707,10 @@ Witt i Helsingborg, Holjer A, 3:289
 Q111448420,Wittberg i Filipstad, C Ivar, 4:450 
 Q6245444,Witthoff i Araskoga, Nils A, 3:290 
 Wittrock i Stockholm, Veit B, 1:193 
-Wittsell i Örkelljunga, Carl H, 3:155 
-Witzell i Karlshamn, Hugo S, 3:85 
-Wohlin i Stocksund, Margit, 1:277
-Wohlin i Uppsala senare Stockholm, Nils R, 1:338, 2:317, 3:290, 4:521
+Q6245517,Wittsell i Örkelljunga, Carl H, 3:155 
+Q4990681,Witzell i Karlshamn, Hugo S, 3:85 
+Q4990681,Wohlin i Stocksund, Margit, 1:277
+Q1992475,Wohlin i Uppsala senare Stockholm, Nils R, 1:338, 2:317, 3:290, 4:521
 Wolgast i Bräkne-Hoby, Tor H, 3:85 Vougt i Malmö, Allan G F, 3:291, 4:450
 Wolgast i Nyköping, J Henric, 1:402
 Vrang i Falköping, Erik P:son, 4:360
