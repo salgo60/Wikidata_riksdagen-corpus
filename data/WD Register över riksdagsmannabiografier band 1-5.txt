@@ -3694,38 +3694,39 @@ Windahl i Falun, Gustaf J, 5:99
 Vinge i Nacka, Margit S C, 1:277 
 Winkler i Malmö, Nils, 3:289
 Winkrans i Göteborg, Carl Fredrik, 4:174 
-Wingqvist i Fritsla, Lars J, 4:282
-Virgin i Lundsbrunn, G Ivar, 4:359 
-Wirmark i Örebro, O Fridolf J, 4:520 
-Wirsell i Kastlösa, Karl E, 2:317 
-Wirtén i Mellösa, Karl-Gustaf S, 1:402
-Wirtén i Jönköping, Rolf G S, 2:191
-Wistelius i Örebro, P Leonard, 4:521 
+Q6244223,Wingqvist i Fritsla, Lars J, 4:282
+Q6225983,Virgin i Lundsbrunn, G Ivar, 4:359 
+Q6244837,Wirmark i Örebro, O Fridolf J, 4:520 
+Q6244843,Wirsell i Kastlösa, Karl E, 2:317 
+Q6244898,Wirtén i Mellösa, Karl-Gustaf S, 1:402
+Q6244910,Wirtén i Jönköping, Rolf G S, 2:191
+Q6245172,Wistelius i Örebro, P Leonard, 4:521 
 Q6340875,Wistrand i Stockholm, Karl K:son, 1:192 
-Witt i Karlskrona, Gustaf Carl, 3:85
-Witt i Helsingborg, Holjer A, 3:289 
+Q6245347,Witt i Karlskrona, Gustaf Carl, 3:85
+Q6245359,Witt i Helsingborg, Holjer A, 3:289 
 Q111448420,Wittberg i Filipstad, C Ivar, 4:450 
 Q6245444,Witthoff i Araskoga, Nils A, 3:290 
-Wittrock i Stockholm, Veit B, 1:193 
+Q640838,Wittrock i Stockholm, Veit B, 1:193 
 Q6245517,Wittsell i Örkelljunga, Carl H, 3:155 
 Q4990681,Witzell i Karlshamn, Hugo S, 3:85 
 Q4990681,Wohlin i Stocksund, Margit, 1:277
 Q1992475,Wohlin i Uppsala senare Stockholm, Nils R, 1:338, 2:317, 3:290, 4:521
-Wolgast i Bräkne-Hoby, Tor H, 3:85 Vougt i Malmö, Allan G F, 3:291, 4:450
-Wolgast i Nyköping, J Henric, 1:402
-Vrang i Falköping, Erik P:son, 4:360
-Wrangel i Stockholm, Herman G W, 3:86, 4:174 
-Wrangel von Brehmer i Toppeladugård, G Helmuth, 3:291
-Wrangel von Brehmer i Hyby, J Wolmer, 3:292
-Wrede af Elimä i Kristianstad, F Casimir, 3:156
-Wrede af Elimä i Jönköping, E J L Henrik, 2:191
-Wretlind i Göteborg senare Stockholm, E Wilhelm, 4:175
+Q6246072,Wolgast i Bräkne-Hoby, Tor H, 3:85 
+Q4731015,Vougt i Malmö, Allan G F, 3:291, 4:450
+Q6227277,Vougt i Nyköping, J Henric, 1:402
+Q6227324,Vrang i Falköping, Erik P:son, 4:360
+Q6247102,Wrangel i Stockholm, Herman G W, 3:86, 4:174 
+Q6246999,Wrangel von Brehmer i Toppeladugård, G Helmuth, 3:291
+Q6247005,Wrangel von Brehmer i Hyby, J Wolmer, 3:292
+Q6247175,Wrede af Elimä i Kristianstad, F Casimir, 3:156
+Q115527399,Wrede af Elimä i Jönköping, E J L Henrik, 2:191
+Q6247325,Wretlind i Göteborg senare Stockholm, E Wilhelm, 4:175
 Q6227559,Vult von Steyern i Sviestad, Henrik W, 2:118 
 Q6248361,Wåhlin i Arboga, Carl I, 1:461
-Wååg i Kristianstad, Nils Erik, 3:156 
-Wändahl i Ålsta, G Adolf, 5:267
-Wärnberg i Opphem, Erik G, 2:118
-Västberg i Stockholm, R Disa, 1:193
+Q6248447,Wååg i Kristianstad, Nils Erik, 3:156 
+Q6248172,Wändahl i Ålsta, G Adolf, 5:267
+Q6248237,Wärnberg i Opphem, Erik G, 2:118
+Q4984930,Västberg i Stockholm, R Disa, 1:193
 Västberg i Sundsvall senare Åkeshov, J Mauritz, 5:267 
 Wästfelt i Umeå senare Stockholm, Axel G, 5:380
 Zachrison i Vänersborg, J Mats G, 4:282 
