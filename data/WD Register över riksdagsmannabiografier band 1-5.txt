@@ -1085,25 +1085,25 @@ Franzén i Träkumla, Nils K H, 2:336
 Franzén i Motala, F Oscar, 2:68
 Franzon i Norrtälje, F Laur, 1:236 
 Fredberg i Finnerödja, G Manfred, 4:318 
-Fredenberg i Sala, Alarik, 1:433 
-Fredholm i Saleby, Elias G, 4:318
+Q5741409,Fredenberg i Sala, Alarik, 1:433 
+Q5741543,Fredholm i Saleby, Elias G, 4:318
 Q5741552,Fredholm i Stockholm, J Henrik G, 1:87 
-Fredholm i Malmö, Lars, 3:213
-Fredricson i Eklunda, Johan Fredrik, 1:309 
-Fredriksson i Grängesberg, K Torsten, 5:61 
-Friberg i Nyköping, P Gustaf, 1:368
-Frick i Karlskrona, Carl G, 3:51 
+Q115594483,Fredholm i Malmö, Lars, 3:213
+Q5741646,Fredricson i Eklunda, Johan Fredrik, 1:309 
+Q5742215,Fredriksson i Grängesberg, K Torsten, 5:61 
+Q5743300,Friberg i Nyköping, P Gustaf, 1:368
+Q5743497,Frick i Karlskrona, Carl G, 3:51 
 Q5743823,Fridolfsson i Vällingby, Filip W, 1:88
-Fridolfsson i Rödeby, A Nils U, 3:52
-von Friesen i Göteborg, O Bertil, 4:84
-von Friesen i Stockholm, Carl S, 1:88
+Q5743831,Fridolfsson i Rödeby, A Nils U, 3:52
+Q4895712,von Friesen i Göteborg, O Bertil, 4:84
+Q5744372,von Friesen i Stockholm, Carl S, 1:88
 Q5744409,von Friesen i Stockholm, Sixten G, 1:89
-Friggeråker i Friggeråker, Johan, 4:239
-Friman i Vara, Karl M, 4:318
-Frisk i Hudiksvall, Edvard, 5:134
-From i Skövde, J Gideon, 4:318
-Frost i Norrköping, Gustaf Filip, 2:69
-Frost i Bodum, Henrik V, 5:219
+Q5744512,Friggeråker i Friggeråker, Johan, 4:239
+Q5744748,Friman i Vara, Karl M, 4:318
+Q5745045,Frisk i Hudiksvall, Edvard, 5:134
+Q5745534,From i Skövde, J Gideon, 4:318
+Q5745712,Frost i Norrköping, Gustaf Filip, 2:69
+Q111488695,Frost i Bodum, Henrik V, 5:219
 Q5746220,Fränckel i Stockholm, Eduard, 1:89
 Q5746237,Frändén i Kälarne, Anders O, 5:297
 Q5746318,Fröberg i Härnösand, Christian A, 5:219 
@@ -1432,13 +1432,13 @@ Q5734425,Hermansson i Kvistljungby, Herbert E, 4:96
 Q5802585,Hermelin i Gripenberg, S Axel, 2:159
 Q5802617,Hermelin i Ulvåsa, Joseph, 2:75
 Q5802636,Hermelin i Fröllinge, C D Richard, 2:382
-Hernelius i Stockholm, J Allan, 1:106
-Hernlund i Stockholm, C Hugo, 1:107
-Herou i Stålbo, J Viktor, 5:139
-Herslow i Malmö, Carl C P. 3:218
-Hesselbom i Åmål, Knut E, 4:233
-Hesselgren i Stockholm, Kerstin, 1:107, 4:96 
-Hessle i Hjälmared, B Wolter, 4:233
+Q5802833,Hernelius i Stockholm, J Allan, 1:106
+Q5802878,Hernlund i Stockholm, C Hugo, 1:107
+Q5802988,Herou i Stålbo, J Viktor, 5:139
+Q5803390,Herslow i Malmö, Carl C P. 3:218
+Q5803936,Hesselbom i Åmål, Knut E, 4:233
+Q4953847,Hesselgren i Stockholm, Kerstin, 1:107, 4:96 
+Q5804073,Hessle i Hjälmared, B Wolter, 4:233
 Heurlin i Bromma, Dagmar, 1:108
 Heuman i Stockholm, Elis D, 2:383
 Heuman i Jönköping, Gustaf E, 2:159
