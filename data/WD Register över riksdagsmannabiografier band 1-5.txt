@@ -744,7 +744,7 @@ Q111797206,Dahlgren i Göteborg, B Gunnar L, 4:75
 Q5615490,Dahlgren i Mantorp, Johan, 4:216
 Q5615733,Dahlstedt i Vilhelmina, Lars, 5:346 
 Q5615773,Dahlström i Knäppinge, Carl H, 1:365
-Dahm i Kalmar, O E Leonard, 2:268
+Q5615862,Dahm i Kalmar, O E Leonard, 2:268
 Q5615889,Dahn i Östra Grevie, Mårten M:son, 3:206 
 Q18238280,Dalberg i Borlänge, Erik, 5:54
 Q5616069,Dalgren i Västervik, Lars E, 2:269
@@ -1054,16 +1054,16 @@ Q543409,Flyg i Saltsjö-Nacka, Nils S, 1:235
 Q5734641,Fock i Stockholm, Alfred H E, 1:85
 Q5734660,Fock i Falköping, Carl J F E, 4:316 
 Q5734704,Fock i Ruder, Nils G, 4:317
-Fogelin i Hintzegården, C Jakob, 4:317 
+Q5734900,Fogelin i Hintzegården, C Jakob, 4:317 
 Q5734929,Fogelmarck i Vall, J A Wilhelm, 5:133
-Folin i Storvik senare Stockholm, C E Victor, 5:133
+Q5735299,Folin i Storvik senare Stockholm, C E Victor, 5:133
 Q30064227,Fornander i Växjö, J Alfred U, 2:212 
-Forsberg i Nässjö, Anders O B, 2:153
-Forsberg i Stolpetorp, J Gustaf, 4:482 
-Forsberg i Nässjö, O Martin I, 2:153
-Forsell i Nora, G Albert, 4:483
-Forsell i Vänersborg, Tullius W, 4:224
-Forsling i Stockholm, Ruth L, 1:86 
+Q5736508,Forsberg i Nässjö, Anders O B, 2:153
+Q5736648,Forsberg i Stolpetorp, J Gustaf, 4:482 
+Q5736786,Forsberg i Nässjö, O Martin I, 2:153
+Q5736964,Forsell i Nora, G Albert, 4:483
+Q5737042,Forsell i Vänersborg, Tullius W, 4:224
+Q4948540,Forsling i Stockholm, Ruth L, 1:86 
 Forslund i Spånga, J Albert, 1:235 
 Forss i Falköping, Johan August, 4:317 
 Forssbeck i Duseborg, J Fredrik A, 2:67 
@@ -1120,16 +1120,16 @@ Q111722319,Gabrielsson i Norrby, Per M, 2:153
 Q5863281,Gadd i Uppsala, P E Arne, 1:310
 Q5749448,Gahn i Kåfalla senare Vikmanshyttan, Henric P W, 5:62
 Q110401403,Gansmoe i Hägersten senare Bandhagen, H G Ove, 1:90
-Gardell i Stenstugu, Arvid L J, 2:336
-Gardell i Gans, P Theodor, 2:336
-Gasslander i Karlskrona, Anders C, 3:52 
+Q5751782,Gardell i Stenstugu, Arvid L J, 2:336
+Q5751815,Gardell i Gans, P Theodor, 2:336
+Q5752978,Gasslander i Karlskrona, Anders C, 3:52 
 Q5753607,Gavelin i Gällivare, Johan-Olof, 5:413 
-Gavelius i Bollstabruk, Janne E, 5:221
-von Gegerfelt i Jönköping, Herman G, 2:153
-v Geijer i Bromma, K Arne, 1:236
-v Geijer i Föskeds bruk, Christofer W, 4:403
-v Geijer i Lindfors, Jakob Fredrik, 4:403
-v Geijer i Stockholm, J Lennart, 1:90
+Q5753625,Gavelius i Bollstabruk, Janne E, 5:221
+Q5754375,von Gegerfelt i Jönköping, Herman G, 2:153
+Q4794565,v Geijer i Bromma, K Arne, 1:236
+Q5754601,v Geijer i Föskeds bruk, Christofer W, 4:403
+Q5754647,v Geijer i Lindfors, Jakob Fredrik, 4:403
+Q2130664,v Geijer i Stockholm, J Lennart, 1:90
 v Geijer i Frändefors, J Oscar, 4:225
 von Geijer i Herrevadskloster, Bror B G, 3:120 
 von Geijer i Malmö, S Gottschalk, 3:213
@@ -1439,8 +1439,8 @@ Q5803390,Herslow i Malmö, Carl C P. 3:218
 Q5803936,Hesselbom i Åmål, Knut E, 4:233
 Q4953847,Hesselgren i Stockholm, Kerstin, 1:107, 4:96 
 Q5804073,Hessle i Hjälmared, B Wolter, 4:233
-Heurlin i Bromma, Dagmar, 1:108
-Heuman i Stockholm, Elis D, 2:383
+Q4953880,Heurlin i Bromma, Dagmar, 1:108
+Q5804623,Heuman i Stockholm, Elis D, 2:383
 Heuman i Jönköping, Gustaf E, 2:159
 Heyman i Vårgårda, Knut A, 4:234
 Hierta i Näsby, Carl Gösta, 1:240
