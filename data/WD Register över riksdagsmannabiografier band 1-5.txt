@@ -1,5 +1,15 @@
 ** WD 3818 records **
 
+Lista som hämtats via en PDF a boken Tvåkammar Riksdagen
+* om en check gjorts med WIkidata finns Qnumret där
+** tanken är att referera boken på ett enhetligt sätt
+** lägga till bilder/ parti/ tid i Riksdagem
+** mer på Task xx
+** mer om det HUMLAB projekt som startas som kom mer troligen att ta vid
+** och göra detta data bättre...
+*** https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38
+*** Om HUMLAB https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/84
+
 
 Q5540544,Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
 Q5540672,Aarnseth i Malung, Fredrik O, 5:45
@@ -1064,9 +1074,9 @@ Q5736786,Forsberg i Nässjö, O Martin I, 2:153
 Q5736964,Forsell i Nora, G Albert, 4:483
 Q5737042,Forsell i Vänersborg, Tullius W, 4:224
 Q4948540,Forsling i Stockholm, Ruth L, 1:86 
-Forslund i Spånga, J Albert, 1:235 
-Forss i Falköping, Johan August, 4:317 
-Forssbeck i Duseborg, J Fredrik A, 2:67 
+Q4710223,Forslund i Spånga, J Albert, 1:235 
+Q5737409,Forss i Falköping, Johan August, 4:317 
+Q5737435,Forssbeck i Duseborg, J Fredrik A, 2:67 
 Forssberg i Karlskrona, J Erik, 3:51 
 Forsselius i Ekeby, Eric, 1:368
 Forssell i Göteborg senare Stockholm, C Arne, 1:86
@@ -1129,15 +1139,15 @@ Q5754375,von Gegerfelt i Jönköping, Herman G, 2:153
 Q4794565,v Geijer i Bromma, K Arne, 1:236
 Q5754601,v Geijer i Föskeds bruk, Christofer W, 4:403
 Q5754647,v Geijer i Lindfors, Jakob Fredrik, 4:403
-Q2130664,v Geijer i Stockholm, J Lennart, 1:90
-v Geijer i Frändefors, J Oscar, 4:225
-von Geijer i Herrevadskloster, Bror B G, 3:120 
-von Geijer i Malmö, S Gottschalk, 3:213
-von Geijer i Trelleborg senare Stockholm, Knut E, 3:213
+Q2130664,Geijer i Stockholm, J Lennart, 1:90
+Q5754690,Geijer i Frändefors, J Oscar, 4:225
+Q5754594,von Geijer i Herrevadskloster, Bror B G, 3:120 
+Q5754722,von Geijer i Malmö, S Gottschalk, 3:213
+Q5754671,von Geijer i Trelleborg senare Stockholm, Knut E, 3:213
 Q5754752,af Geijerstam i Ribbingsfors, Carl Fredrik, 4:319
-Gelin i Karlstad, Edvard V, 4:403 
-Gelotte i Tranås, B Ernfrid, 2:154 
-Germundsson i Tannåker, Peter, 2:154 
+Q5755093,Gelin i Karlstad, Edvard V, 4:403 
+Q5755262,Gelotte i Tranås, B Ernfrid, 2:154 
+Q105086267,Germundsson i Tannåker, Peter, 2:154 
 Gethe i Kalmar, Carl M F E, 2:274 
 Q5757569,Gezelius i Falun, L E Birger, 5:63
 Q5757573,Gezelius i Falun, L Emil, 5:63
@@ -1316,7 +1326,7 @@ Hanson i Vällingby, Per-Olof, 1:99
 Hansson i Ravlunda, Anders, 3:123
 Hansson i Solberga, Anders, 5:66
 Hansson i Trollhättan, Anders E, 4:230 
-Hansson i Sölvesborg, Axel Hugo, 3:54 
+Q115869997,Hansson i Sölvesborg, Axel Hugo, 3:54 
 Hansson i Rubbestad senare Vrine, Axel L, 4:230 
 Hansson i Vännäs, Eric, 5:351
 Hansson i Bäck, Eskils Hans, 5:67
@@ -1462,21 +1472,21 @@ Q5809244,von Hofsten i Lidköping senare Borrud, C A Erland, 4:324
 von Hofsten i Sund, S Erland, 4:490
 Q5809268,von Hofsten i Kilagården, Nils E H, 4:325 
 Hollander i Borås, Anders Gustaf, 4:234 
-Hollertz i Ringarum, Sven P, 2:76
-Holm i Kvibille, Anders Reinhold, 2:384 
-Holm i Gällivare, O Einar, 5:420
-Holm i Björkdalen, Gustav E, 2:280
-Holm i Norbergsby, Per, 1:437
+Q115933078,Hollertz i Ringarum, Sven P, 2:76
+Q5810233,Holm i Kvibille, Anders Reinhold, 2:384 
+Q5810286,Holm i Gällivare, O Einar, 5:420
+Q5621108,Holm i Björkdalen, Gustav E, 2:280
+Q5810543,Holm i Norbergsby, Per, 1:437
 Q110440981,Holm i Jonsgård, J Ulrik, 5:299
-Holmberg i Växjö, Carl A, 2:214 
-Holmberg i Prästmon, H Elvira, 5:227 
-Holmberg i Linköping, Gustav A, 2:77 
-Holmberg i Luleå, J Helmer, 5:420
-Holmberg i Göteborg, Nils G, 4:97
-Holmberg i Stockholm, Yngve, 1:110
-Holmbäck i Uppsala, Åke E V, 1:314, 2:159, 4:408
-Holmdahl i Karlskrona, J Otto, 3:55
-Holmdahl i Stockholm, Otto S, 1:110
+Q5810812,Holmberg i Växjö, Carl A, 2:214 
+Q4954500,Holmberg i Prästmon, H Elvira, 5:227 
+Q5810880,Holmberg i Linköping, Gustav A, 2:77 
+Q5810894,Holmberg i Luleå, J Helmer, 5:420
+Q4574374,Holmberg i Göteborg, Nils G, 4:97
+Q3374305,Holmberg i Stockholm, Yngve, 1:110
+Q5811172,Holmbäck i Uppsala, Åke E V, 1:314, 2:159, 4:408
+Q5811211,Holmdahl i Karlskrona, J Otto, 3:55
+Q5811219,Holmdahl i Stockholm, Otto S, 1:110
 Q5811441,Holmgren i Karlskrona, Björn F:son, 3:56
 Q5811461,Holmgren i Varnhem senare Sörby, David, 4:325
 Holmgren i Stockholm, Israel F, 4:97
@@ -1697,7 +1707,7 @@ Q5887828,Johansson i Krogstorp, Sven A, 2:284
 Q5887855,Johansson i Lyckåsgård senare Skärstad, Sven A B, 2:163
 Q5887928,Johansson i Jönköping, N Tage, 2:163
 Q112155885,Johansson i Väcklinge, J G Theodor, 2:163 
-Johansson i Oja, Wilhelm, 1:375
+Q5888142,Johansson i Oja, Wilhelm, 1:375
 Q5888233,Johansson-Dahr i Jönköping, C Robert, 2:164 
 Q5889242,Johnson i Vetlanda, Samuel, 2:164
 Q111804160,Johnsson i Kalmar, Gustaf L, 2:285
@@ -1930,7 +1940,7 @@ Q5934839,Langenskiöld i Stockholm, B Karl J, 1:127
 Q110439181,Lantto i Stocksund, Johan Bernhard, 4:416 
 Lantz i Kristinehamn, Ernst August, 4:416 
 Larfors i Katrineholm, E V Tage, 1:379 
-Larsén i Halmstad, Gustaf Anton, 2:389
+Q5936294,Larsén i Halmstad, Gustaf Anton, 2:389
 Larson i Slättäng, August, 4:246 
 Larson i Tönnersa, Carl, 2:389
 Larson i Lerdala, V Edward, 4:334 
@@ -2214,7 +2224,7 @@ Lundh i Uppsala, Herbert T, 1:321
 Lundin i Karby, Johan, 1:251
 Lundin i Los, D Sigurd, 5:153
 Lundin i Karby, J Wilhelm, 1:252 
-Lundkvist i Eskilstuna, Bror K, 1:383 
+Q115933592,Lundkvist i Eskilstuna, Bror K, 1:383 
 Lundkvist i Eskilstuna, K Svante, 1:383 
 Lundmark i Lycksele, J Gunnar, 5:364 
 Lundquist i Ystad, Henric H, 3:238
@@ -2330,7 +2340,7 @@ Q5985507,Meurling i Kristdala, Charodotes, 2:296
 Q5985662,Meyer i Karlshamn, Edvard F, 3:65
 Q1358123,Meyer i Karlshamn, Ernst F W, 3:66
 Meyerhöffer i Boden, Alf R D, 5:429
-Moberg i Karlstad, Carl O, 4:423
+Q5989821,Moberg i Karlstad, Carl O, 4:423
 Moberger i Visby, Elias V, 2:342
 Modig i Eskilstuna, Axel S N, 1:383
 Mogren i Bollstabruk, Sixten J A, 5:242
@@ -3405,7 +3415,7 @@ Q6204633,Taube i Stockholm, Carl O, 5:443
 Tengdahl i Stockholm senare Äppelviken, Knut A, 1:179, 4:444
 Tenger i Västervik, Carl F R, 2:312 
 Tengström i Göteborg, Carl F Gustav, 4:160 
-Tengvall i Stilleryd, Axel O, 3:79
+Q115869391,Tengvall i Stilleryd, Axel O, 3:79
 Q6206359,Tersmeden i Ramnäs, Adolf, 1:458
 Q6206436,Tersmeden i Ramnäs, Wilhelm F, 1:458
 Q6206558,Testrup i Kristianstad, Erik M H G:son, 1:180 
@@ -3516,14 +3526,14 @@ Unger i Nora, E Magnus, 4:519
 Uppström i Härnösand, Carl-David T, 5:263 
 Utbult i Öckerö, K Birger, 4:165
 Wachtmeister af Johannishus i Vanås, Axel F, 3:153
-Wachtmeister af Johannishus i Wambåsa, Axel H E A:son, 3:81 
+Q115869997,Wachtmeister af Johannishus i Wambåsa, Axel H E A:son, 3:81 
 Wachtmeister af Johannishus i Karlskrona, Axel H:son, 3:81
 Wachtmeister af Johannishus i Trolle-Ljungby, Axel K, 3:154
 Wachtmeister af Johannishus i Tistad, A Fredrik C:son, 1:400 
 Wachtmeister af Johannishus i Kristineholm, C Fredrik, 1:399
 Wachtmeister af Johannishus i Johannishus, Hans, 3:82
 Wachtmeister af Johannishus i Stockholm, Hans H:son, 3:82
-Wachtmeister af Johannishus i Wambåsa senare Johannishus, Hans W, 3:83
+Q19898774,Wachtmeister af Johannishus i Wambåsa senare Johannishus, Hans W, 3:83
 Wachtmeister af Johannishus i Strömsbergs bruk, E Henning, 1:335 
 Wachtmeister af Johannishus i Johannishus senare Västeråkra, Hugo H:son, 3:83
 Waern i Göteborg senare Stockholm o Steneby, Carl F, 4:165
@@ -3648,8 +3658,8 @@ Widén i Nyköping senare Östersund, Johan, 1:402, 5:316
 Widén i Härnösand, Jonas, 5:266
 Widén i Östersund, A Martin, 5:316
 Widlund i Jönköping, C A Thure, 2:190 
-Widmark i Luleå senare Karlstad, H Adolf, 5:444
-Widmark i Ljusdal senare Falun, C Olof, 5:180
+Q6240343,Widmark i Luleå senare Karlstad, H Adolf, 5:444
+Q6240370,Widmark i Ljusdal senare Falun, C Olof, 5:180
 Widner i Kolsva, Gustafv, 1:460
 Widström i Stockholm, C Ulric, 1:190 
 Wieselgren i Göteborg senare Stockholm, P Sigfrid, 4:170
