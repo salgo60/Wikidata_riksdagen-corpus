@@ -2053,14 +2053,14 @@ Lidström i Häxmo, Petrus A, 5:237
 Liedberg i Assmåsa, C Gösta, 3:232
 Liedberg i Oja, Pehr O, 3:233
 Lif i Hofors, Anders G, 5:149
-Lilienberg i Ronneby, Albert A, 3:63
-Liljedahl i Gävle, Edith V, 5:149
+Q5951340,Lilienberg i Ronneby, Albert A, 3:63
+Q4962152,Liljedahl i Gävle, Edith V, 5:149
 Q5951594,Liljedahl i Tranås senare Linköping, Ernst T S, 2:167 
-Liljeholm i Göteborg, Anders Fredrik, 4:113 
+Q5951720,Liljeholm i Göteborg, Anders Fredrik, 4:113 
 Q5951786,Liljencrantz i Stockholm, Johan, 1:130 
-Liljenmark i Svärdsjö, Carl, 5:74
-Liljenroth i Göteborg, Georg, 4:113
-Liljesköld i Arvika, Karl A, 4:418
+Q5944901,Liljenmark i Svärdsjö, Carl, 5:74
+Q5951819,Liljenroth i Göteborg, Georg, 4:113
+Q5951895,Liljesköld i Arvika, Karl A, 4:418
 Lilliecreutz i Jönköping, S H Fabian, 2:168
 Lilliehöök af Fårdala i Sällerhög, Erik G, 4:250 
 Lilliehöök af Gälared o Kolbäck i Karlskrona, H Hugo, 3:63
