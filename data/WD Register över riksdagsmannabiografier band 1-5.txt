@@ -1511,8 +1511,8 @@ Hugosson i Göteborg, Kurt I, 4:98
 Huldt i Umeå, Christopher N, 5:354 
 Q5816342,Hult i Kolbäck, Adam J, 1:437
 Q5816360,Hult i Staby, Carl Gustaf, 2:280 
-Hult i Vargön, John G, 4:234
-Hultberg i Falun, Herman W, 5:68 
+Q116057307,Hult i Vargön, John G, 4:234
+Q5816429,Hultberg i Falun, Herman W, 5:68 
 Hultell i Stockholm, E Mary E, 1:111 
 Hulting i Herrljunga, E Hjalmar, 4:235 
 Q5816706,Hultkrantz i Björnö, Karl J E, 4:408 
@@ -3449,24 +3449,24 @@ Thun i Åkersberga, Fritiof V, 1:271
 Thunborg i Skärholmen, Carsten W, 1:182 
 Thunvall i Ramsjö, Gunbjörg M, 5:177 
 Thylander i Malmö senare Stockholm, Anders, 3:280
-Thylén i Göteborg, Bengt-Olof, 4:162 
-Thyrén i Lund, Johan C W, 1:334, 3:280 
-Thüring i Göteborg, Nelly M, 4:162 
-Thyselius i Stockholm, Carl Johan, 2:241 
-Thörnberg i Ronneby, R Wiktor, 3:80 
-Tillberg i Nygård, Knut H R, 2:312 
-Tisell i Örebro, C Gustaf, 4:517
-Tistad i Kungälv, Eskil G D, 4:162 
-Tjernlund i Västanbäck, Per, 5:261 
-Tjällgren i Tjäll, O Leonard, 5:261
-Tobé i Uppsala, Erik I, 1:335
-Toll i Hedemora, Carl F, 5:96
-Toll i Helsingborg, J L Osvald, 3:280
-Tonning i Hammarlöv, Olof, 3:281
-Torbrink i Kalmar, Tekla J L, 2:313
-Torelius i Stockholm, P Gustaf, 4:277
-Torgén i Högfors, G Niclas, 5:314
-Tornegård, Oscar S, 2:313
+Q6210134,Thylén i Göteborg, Bengt-Olof, 4:162 
+Q6210181,Thyrén i Lund, Johan C W, 1:334, 3:280 
+Q4982770,Thüring i Göteborg, Nelly M, 4:162 
+Q52956,Thyselius i Stockholm, Carl Johan, 2:241 
+Q116146163,Thörnberg i Ronneby, R Wiktor, 3:80 
+Q6211046,Tillberg i Nygård, Knut H R, 2:312 
+Q6211603,Tisell i Örebro, C Gustaf, 4:517
+Q6211635,Tistad i Kungälv, Eskil G D, 4:162 
+Q6211896,Tjernlund i Västanbäck, Per, 5:261 
+Q6212098,Tjällgren i Tjäll, O Leonard, 5:261
+Q6212168,Tobé i Uppsala, Erik I, 1:335
+Q6212615,Toll i Hedemora, Carl F, 5:96
+Q24018260,Toll i Helsingborg, J L Osvald, 3:280
+Q96210772,Tonning i Hammarlöv, Olof, 3:281
+Q4983117,Torbrink i Kalmar, Tekla J L, 2:313
+Q6213407,Torelius i Stockholm, P Gustaf, 4:277
+Q6213484,Torgén i Högfors, G Niclas, 5:314
+Q6213695,Tornegård, Oscar S, 2:313
 Q6213719,Tornérhjelm i Vrams Gunnarstorp, Gustaf D R, 3:281
 Q6213725,Tornérhjelm i Vrams Gunnarstorp o Helsingborg, Rudolf V, 3:281
 Torpadie i Kalmar, A Ludvig F, 2:313
