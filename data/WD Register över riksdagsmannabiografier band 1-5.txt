@@ -10,7 +10,7 @@ Lista som hämtats via en PDF a boken Tvåkammar Riksdagen
 *** https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38
 *** Om HUMLAB https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/84
 ***
-
+ 
 Q5540544,Aaby-Ericsson i Dansjö, Ragnar B, 2:205 
 Q5540672,Aarnseth i Malung, Fredrik O, 5:45
 Q5540748,Aastrup i Stockholm, Nils G E, 1:47
