@@ -1344,7 +1344,7 @@ Hansson i Önnerup, Måns, 3:216
 Hansson i Ormastorp, Nils, 3:123
 Hansson i Ronneby, Nils B, 3:54
 Hansson i Skegrie, Nils G, 3:216
-Hansson i Stockholm senare Ålsten, Per Albin, 1:99 
+Q53660,Hansson i Stockholm senare Ålsten, Per Albin, 1:99 
 Hansson i Vallberga, Peter, 2:380
 Hansson i Lilla Essingen senare Stockholm o Äppelviken, Sigfrid, 4:91
 Hansson i Önnarp, Stig F, 3:217 
@@ -1377,7 +1377,7 @@ Q5795740,Hederstierna i Stockholm senare Västerås, Fredrik L S, 1:436, 2:158,4
 Q5795804,Hedgren i Göteborg, Berndt V, 4:92
 Q4582704,Hedin i Stockholm, S Adolf, 1:103
 Hedin i i Bergshammar, Carl Erik, 1:371
-Hedin i i Torp, Edvard L M, 4:489
+Q5795864,Hedin i Torp, Edvard L M, 4:489
 Hedin i i Mariestad, John E, 4:323
 Q514209,Hedlund i Rådom, Gunnar, 5:224
 Hedlund i Göteborg, Henrik, 4:93
@@ -1463,7 +1463,7 @@ Hillgård i Halmstad, Karl, 2:383
 Hjalmarson i Stora Essingen senare Lidingö, Jarl H, 1:109
 Q5807293,Hjalmarsson i Malmö, Anton, 3:219
 Hjelm i Hänlunda, Carl Erik, 5:354
-Hjelmérus i Mjärdevid, Johan, 2:76 
+Q5807410,Hjelmérus i Mjärdevid, Johan, 2:76 
 Hjelm-Wallén i Sala, Lena B, 1:437
 Hjorth i Dannemora senare Österbybruk, Nils T, 1:313
 Q1959642,Hjärne i Uppsala, Harald G, 1:313, 5:226 
@@ -1849,7 +1849,7 @@ Q5909615,Kinander i Stockholm, C Emil, 1:120
 Q5909622,Kinberg i Stockholm, Edward G, 5:359 
 Q98266297,Kinmanson i Stockholm, Henrik S, 1:120
 Q5910313,Kinmanson i Stockholm, C Leonard, 1:121
-Kinnman i Göteborg, Jean A, 4:104
+Q5910405,Kinnman i Göteborg, Jean A, 4:104
 Q19380449,Kjellberg i Göteborg, Carl O, 4:105
 Q5911900,Kjellberg i Göteborg, Carl August, 4:105
 Kjellberg i Stockholm, Jonas H R C:son, 4:494
@@ -1931,7 +1931,7 @@ Lamberg i Ystad, Peter C, 3:228
 Lamm i Stockholm, Herman F, 1:126
 von der Lancken i Kristianstad, C Ehrenfried, 3:131
 Landberg i Norrköping, Maj-Lis H A, 2:87 
-Landelius i Lysekil, P Fredrik, 4:109 
+Q5933577,Landelius i Lysekil, P Fredrik, 4:109 
 Landgren i Bjäresjö, Axel H, 3:229
 Landgren i Delsbo, Lars, 5:147
 Q5934034,Landström i Vänersborg, A Jakob, 4:246 
@@ -2553,7 +2553,7 @@ Q112030392,Nyberg i Skurup, Jöns N:son, 3:249
 Q6019228,Nyberg i Karlskrona, J Olaus, 3:68
 Q15956417,Nyblaeus i Stockholm, Gustaf, 1:152
 Nyblom i Hudiksvall, C Georg A, 5:158
-Nydahl i Härnösand senare Högsjö, Johan, 5:246
+Q6019416,Nydahl i Härnösand senare Högsjö, Johan, 5:246
 Nygren i Umeå, Arne J, 5:369
 Nygren i Stockholm senare Bromma, Erik W, 1:152 
 Q4970543,Nygren i Gävle senare Stockholm, Hildur K, 5:159
@@ -2834,7 +2834,7 @@ Pettersson i Sibbarp, Anders F, 3:260
 Q6046613,Pettersson i Dahl, Anders P, 2:399
 Q6046628,Pettersson i Västerås, P Anton, 1:450, 3:73
 Pettersson i Malmö, S Arne, 3:261
-Pettersson i Österhaninge, August T, 1:263
+Q6161282,Pettersson i Österhaninge, August T, 1:263
 Pettersson i Köping, August Wilhelm, 1:451
 Pettersson i Sundborn, Carl F, 5:87
 Pettersson i Åby, Carl Johan, 2:98
