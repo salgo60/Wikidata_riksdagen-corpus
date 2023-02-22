@@ -1219,13 +1219,13 @@ Q5777585,Gustafsson i Mjölby, Carl H, 2:71
 Q5777596,Gustafsson i Stålberga, Carl Peter, 2:276
 Q5777636,Gustafsson i Bogla, F Edvin, 2:155
 Q5349634,Gustafsson i Kårby, G Einar, 2:71
-Gustafsson i Uddevalla, M Gunnar, 4:86
-Gustafsson i Norrköping, Gustaf, 2:276
-Gustafsson i Vi, Gustaf, 1:369
-Gustafsson i Älvsered, Gustaf Adolf, 4:227
+Q5777671,Gustafsson i Uddevalla, M Gunnar, 4:86
+Q5777677,Gustafsson i Norrköping, Gustaf, 2:276
+Q5777681,Gustafsson i Vi, Gustaf, 1:369
+Q5777686,Gustafsson i Älvsered, Gustaf Adolf, 4:227
 Gustafsson i Stockholm, Hans L, 1:94
 Gustafsson i Skellefteå, G Henning, 5:349
-Gustafsson i Välsnäs, John, 2:276
+Q5777808,Gustafsson i Välsnäs, John, 2:276
 Q5777827,Gustafsson i Stensholm, Karl Johan A, 2:155
 Gustafsson i Barkarby, Lars I, 1:237
 Gustafsson i Brånsta, Lars Erik, 4:486
@@ -2120,12 +2120,12 @@ Lindkvist i Vällingby, Oskar W, 1:134
 Lindley i Stockholm senare Äppelviken, Charles G, 1:134
 Lindley i Söderhamn, Ernst I, 5:151
 Q53294,Lindman i Stockholm, S Arvid A, 1:134, 4:251, 5:151
-Lindmark i Drängsmark, Carl V, 5:362
+Q5957148,Lindmark i Drängsmark, Carl V, 5:362
 Q5957167,Lindmark i Drängsmark, Ewald E, 5:362
 Q5957154,Lindmark i Stockholm, C Gustaf, 1:135
-Lindqvist i Kosta senare Halmstad, Axel A, 2:221
-Lindqvist i Stockholm, Fritz L, 5:238
-Lindqvist i Stockholm, A Herman, 1:136
+Q5957397,Lindqvist i Kosta senare Halmstad, Axel A, 2:221
+Q5957464,Lindqvist i Stockholm, Fritz L, 5:238
+Q3893038,Lindqvist i Stockholm, A Herman, 1:136
 Lindqvist i Örnsköldsvik, John, 5:238 
 Lindqvist-Pettersson i Östersund, Anna E, 5:305
 Lindskog i Lund, Claes, 3:235
@@ -2136,8 +2136,8 @@ Lindstedt i Öregrund, Magnus, 1:249
 Lindstrand i Valdemarsvik, Nils, 2:90 
 Q5958323, Lindström i Långnäs, Alfred, 5:426
 Lindström i Råneå, Axel, 5:426
-Lindström i Mörby, P Elof, 1:249
-Lindström i Bollnäs, C Erik R, 5:152
+Q5958468,Lindström i Mörby, P Elof, 1:249
+Q5958475,Lindström i Bollnäs, C Erik R, 5:152
 Q5958560,Lindström i Lockne, Helge B, 5:306
 Q5958632,Lindström i Göteborg, B Julius, 4:116
 Q5477483,Lindström i Stockholm senare Göteborg o åter Stockholm, K A Rickard, 1:250,4:116 
@@ -2247,7 +2247,7 @@ Q5967999,Lundström i Göteborg, K J Vilhelm, 4:121
 Luterkort i Sundsvall, Salli, 5:240
 Lubeck i Stockholm, Sven EJ, 1:140
 Lybeck i Vindö, Carl U S, 2:292
-Lyberg i Falun senare Stockholm, Ernst E, 5:76 
+Q5968584,Lyberg i Falun senare Stockholm, Ernst E, 5:76 
 Q5968645,Lyckholm i Wilhelmsdal, D Melcher, 4:122
 Q5968638,Lyckholm i Wilhelmsdal, J Wilhelm, 4:122
 Lyth i Burs, Anton Julius, 2:342
@@ -2269,8 +2269,8 @@ Löwegren i Malmö, A Gunnar H, 3:240
 Löwenhielm i Härnösand, Brita, 5:241
 Q5970161,Löwenhielm i Kristinehamn, Severin, 4:420
 Lövgren i Nyborg senare Boden o Luleå, Oscar W, 5:428
-Maechel i Karlstad, Frans F, 4:421
-Maechel i Västervik, Gustaf C, 2:292
+Q5999833,Maechel i Karlstad, Frans F, 4:421
+Q5999840,Maechel i Västervik, Gustaf C, 2:292
 Q6014609,Magnell i Kristinehamn, Johan Jakob, 4:421 
 Magni i Hunna, Carl, 2:223
 Magnuson i Stockholm, Paul K, 1:142
@@ -2303,7 +2303,7 @@ Q1039038,Malmsten i Mariestad, Carl J, 4:340
 Malmström i Vissefjärda, P Alfred L, 2:294 
 Malmström i Vissefjärda, T Alfred, 2:294 
 Q4993034,Manderström i Stockholm, C R Ludvig, 5:241 
-Mankell i Stockholm, Julius, 1:144, 2:224 
+Q1712821,Mankell i Stockholm, Julius, 1:144, 2:224 
 Q5975035,Mannerskantz i Värnanäs, Axel F, 2:294
 Q5975041,Mannerskantz i Värnanäs, Carl Axel, 2:295
 Mannheimer i Göteborg, Otto S, 4:123 
@@ -2696,21 +2696,21 @@ Osberg i Åseby, Oscar, 4:135
 Oscarson i Halmstad, K F Gunnar, 2:397 
 Ossbahr i Stockholm, Carl P, 1:158
 Osterman i Sundsvall, Einar G E, 5:249
-Osvald i Uppsala senare Knivsta, K Hugo, 1:388
-Osvald i Brogård senare Stockholm, Ingrid M, 1:326
+Q5934313,Osvald i Uppsala senare Knivsta, K Hugo, 1:388
+Q4971459,Osvald i Brogård senare Stockholm, Ingrid M, 1:326
 Q52969,von Otter i Karlskrona, Fredrik W, 3:70
 Q6030845,von Otter i Holmsgård, Carl S, 2:174
 Q6030891,von Otter i Sofiedal, OscarS, 5:164
 Otterborg i Skogsryd senare Borås, C Gustaf, 4:263
-Otterström i Varola, Jakob, 4:343
-Otto i Kristinehamn, Karl O, 4:431 
-Ottosson i Anderstorp, C E Holge, 2:174
-Palander i Karlskrona, A K Folke A:son, 3:71 
-Palm i Vaxholm senare Stockholm, Carl L, 1:260
-Palm i Malmö, A Sixten B, 3:254 
+Q6030927,Otterström i Varola, Jakob, 4:343
+Q6031056,Otto i Kristinehamn, Karl O, 4:431 
+Q6031148,Ottosson i Anderstorp, C E Holge, 2:174
+Q6032844,Palander i Karlskrona, A K Folke A:son, 3:71 
+Q6033160,Palm i Vaxholm senare Stockholm, Carl L, 1:260
+Q6033266,Palm i Malmö, A Sixten B, 3:254 
 Q6033276,Palm i Sollentuna, N Sture, 1:260
-Palmaer i Forsvik, C Wilhelm, 4:344 
-Palme i Vällingby, S Olof J, 1:158, 2:174
+Q6033361,Palmaer i Forsvik, C Wilhelm, 4:344 
+Q53713,Palme i Vällingby, S Olof J, 1:158, 2:174
 Palme i Stockholm, Sven T, 1:159
 Palmgren i Eskilstuna, Sven, 1:388
 Q1807154,Palmstierna i Stockholm, Erik K, 1:159
@@ -2720,7 +2720,7 @@ Pantzarhielm i Landskrona, Hans F A, 3:254
 Pauli i Karlstad senare Stockholm, Ivan H E, 2:176
 Paulsen i Arlöv, Anders O, 3:255
 Q6037950,Paulson i Ekeberga, Paul, 3:255
-Pegelow i Göteborg, Fritz W H, 4:135
+Q6039625,Pegelow i Göteborg, Fritz W H, 4:135
 Q6039716,Pehrson i Törneryd, Pehr, 3:71
 Pehrsson i Bramstorp, Axel A, 3:255
 Pehrsson i Hedvigsdal senare Marklunda, John, 3:145 
@@ -3094,10 +3094,10 @@ Sandqvist i Hudiksvall, Svante J, 5:169
 Sandstedt i Knävelsby, Anders Johan, 2:181
 Sandstedt i Eknaholm, Johan, 2:237
 Sandstedt i Malmberget, Karl Ludvig, 5:436
-Sandström i Gävle, Gustaf, 5:170
+Q6093202,Sandström i Gävle, Gustaf, 5:170
 Q6093290,Sandström i Stockholm, K Gustaf A, 1:167
 Q6093220,Sandström i Överluleå, A Hugo, 5:436
-Sandström i Nyland senare Härnösand, Nils V, 5:253 
+Q6093334,Sandström i Nyland senare Härnösand, Nils V, 5:253 
 Q6093360,Sandström i Luleå, Pontus, 5:436
 Sandström i Teg, Ragnhild M A, 5:374 
 Q6093477,Sandwall i Borås, J Alfred, 4:269
@@ -3193,8 +3193,8 @@ Spånberg i Norrahammar, C Emil B, 2:184
 Spånberg i Spånhult, J Wilhelm, 2:185
 Q4820820,Spångberg i Charlottenberg, August K F, 4:440 
 Staaff i Stockholm, Albert W, 1:171
-Staaff i Stockholm, Karl A, 1:171
-Staaff i Hudiksvall, Pehr, 5:172
+Q53292,Staaff i Stockholm, Karl A, 1:171
+Q6186314,Staaff i Hudiksvall, Pehr, 5:172
 Q6186410,Stackelberg i Stockholm, B Oscar, 1:172 
 Q6186446,Städener i Ystad, N Sam, 3:274
 Q6186483,Stadling i Fränsta, J Otto V, 5:257
@@ -3393,22 +3393,22 @@ Q6201809,Söderblom i Eskilstuna, L Knut, 1:397
 Q6201849,Söderbom i Surte, Julius F L, 4:444
 Q111660706,Söderbom i Gröndal, A Vilhelm, 4:355
 Q6201867,Söderdahl i Visby, Karl F, 2:347 
-Söderhielm i Stockholm, K Erik W, 1:178
-Söderhielm i Långvind, Wilhelm A, 5:175 
-Söderkvist i Alnö, J L Vemer, 5:261 
-Söderquist i Solna, Martin, 1:270 
-Söderström i Stockholm, Carl C, 1:178
-Söderström i Norrköping, Kurt I W, 2:112 
+Q18246424,Söderhielm i Stockholm, K Erik W, 1:178
+Q6201926,Söderhielm i Långvind, Wilhelm A, 5:175 
+Q6201981,Söderkvist i Alnö, J L Vemer, 5:261 
+Q6202203,Söderquist i Solna, Martin, 1:270 
+Q6202293,Söderström i Stockholm, Carl C, 1:178
+Q6202348,Söderström i Norrköping, Kurt I W, 2:112 
 Sörenson i Älvsjö, Joel, 1:179
 Sörenson i Göteborg, Lars-Ingvar, 4:160 
 Sörensson i Frillestad, Per, 3:277 
 Sörlin i Åsele, Thore, 5:378
 Tamm i Fogelstad, C August, 1:398
 Tamm i Fogelstad, Elisabeth, 1:398
-Tamm i Österby senare Stockholm, C Gustaf A, 1:332, 5:176
-Tamm i Fagersta senare Ålsten, C Gustaf L H:son, 1:457
-Tamm i Söderfors, P Gustaf, 1:333
-Tamm i Malstanäs, Gösta, 1:398
+Q6203642,Tamm i Österby senare Stockholm, C Gustaf A, 1:332, 5:176
+Q6203654,Tamm i Fagersta senare Ålsten, C Gustaf L H:son, 1:457
+Q6203708,Tamm i Söderfors, P Gustaf, 1:333
+Q6203659,Tamm i Malstanäs, Gösta, 1:398
 Q6203671,Tamm i Fånö, Hugo P P, 1:333, 5:313
 Q6204633,Taube i Stockholm, Carl O, 5:443
 Q6205893,Tengdahl i Stockholm senare Äppelviken, Knut A, 1:179, 4:444
@@ -3428,8 +3428,8 @@ Q6206951,Thavenius i Ulricehamn, Gottfried, 4:277
 Q6207127,Thelin i Växjö, Arvid, 2:240
 Q52958,Themptander i Stockholm, O Robert, 1:180, 3:152
 Q6207468,Thermænius i Hallsberg, C Edvard, 4:517 
-Thestrup i Landskrona, J Gustaf, 3:278 
-Thomasson i Lund, Eskilander, 3:278
+Q6207546,Thestrup i Landskrona, J Gustaf, 3:278 
+Q6208470,Thomasson i Lund, Eskilander, 3:278
 Thomson i Lund senare Stockholm, Arthur N, 3:278
 Thor i Nedansjö, C Gustaf, 5:261 
 Thorberg i Stockholm, J Arvid J, 1:181 
