@@ -1,4 +1,5 @@
 ** WD 3818 records **
+https://github.com/salgo60/Wikidata_riksdagen-corpus/commits/main/data/WD%20Register%20%C3%B6ver%20riksdagsmannabiografier%20band%201-5.txt
 
 Lista som hämtats via en PDF a boken Tvåkammar Riksdagen
 * om en check gjorts med WIkidata finns Qnumret där
