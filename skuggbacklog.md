@@ -3,7 +3,7 @@
 * [Myndigheten DIGG](https://github.com/salgo60/DiggUptime/issues/47)
 * projekt [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)
 * [RAÄ](https://github.com/salgo60/SamlaLibris/issues/10)
-* [Riksarkivet]([sss](https://github.com/salgo60/Svenskaforsamlingar/issues/2))
+* [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
 * Kungliga biblioteket TBD
 * Lagrummet.se och [överklagan till Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/3)
 * ...
