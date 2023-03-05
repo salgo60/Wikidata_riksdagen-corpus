@@ -4,7 +4,7 @@
 * projekt [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)
 * [RAÄ](https://github.com/salgo60/SamlaLibris/issues/10)
 * [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
-* Kungliga biblioteket TBD
+* [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
 * Lagrummet.se och [överklagan till Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/3)
 * ...
 
