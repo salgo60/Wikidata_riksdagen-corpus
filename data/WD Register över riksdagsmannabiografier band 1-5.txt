@@ -1291,10 +1291,10 @@ Hallin i Rydboholm, Olof P, 4:228
 Hallqvist i Ryda, August, 4:229
 von Hallwyl i Stockholm, Walter, 5:137 
 Q5785420,Halvarsson i Hamra, Hjalmar, 5:137
-Hamberg i Härnösand, Svante J, 5:223 
+Q5785596,Hamberg i Härnösand, Svante J, 5:223 
 Q5785886,Hamilton i Hedensberg, M Alexander H, 1:435 
-Hamilton i Kviberg, Carl B, 4:89
-Hamilton i Hjälmsäter, W Gilbert, 4:322
+Q5785989,Hamilton i Kviberg, Carl B, 4:89
+Q5786064,Hamilton i Hjälmsäter, W Gilbert, 4:322
 Q3054681,Hamilton i Hedenlunda, Henning L H, 1:370
 Hamilton i Blomberg, B Hugo A, 4:323
 Hamilton i Stockholm senare Gävle o åter Stockholm, Hugo EG, 1:98,4:229, 5:138
@@ -1730,9 +1730,9 @@ Jonson i Göteborg, T Richard J, 4:102
 Q5891360,Jonsson i Lycksele, Alfred, 5:357 
 Jonsson i Sundsbyn, Anders, 4:412
 Jonsson i Mora, Anders E, 5:70
-Jonsson i Skedsbygd, C Arvid D, 2:285 
-Jonsson i Mörkhult, Carl Johan, 2:165 
-Jonsson i Skog, Carl Johan, 2:82
+Q4802427,Jonsson i Skedsbygd, C Arvid D, 2:285 
+Q6140353,Jonsson i Mörkhult, Carl Johan, 2:165 
+Q5891463,Jonsson i Skog, Carl Johan, 2:82
 Q6140360,Jonsson i Eskilstuna senare Västerås, P Conrad (Conke), 1:375
 Q111692389,Jonsson i Mörbylånga, K Einar E, 2:286 
 Q5891513,Jonsson i Skutskär, Einar W, 1:317
