@@ -1291,7 +1291,7 @@ Hallin i Rydboholm, Olof P, 4:228
 Hallqvist i Ryda, August, 4:229
 von Hallwyl i Stockholm, Walter, 5:137 
 Q5785420,Halvarsson i Hamra, Hjalmar, 5:137
-Hamberg i Härnösand, Svante J, 5:223 
+Q5785596,Hamberg i Härnösand, Svante J, 5:223 
 Q5785886,Hamilton i Hedensberg, M Alexander H, 1:435 
 Hamilton i Kviberg, Carl B, 4:89
 Hamilton i Hjälmsäter, W Gilbert, 4:322
