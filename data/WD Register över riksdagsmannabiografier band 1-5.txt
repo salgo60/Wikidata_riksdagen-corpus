@@ -1171,12 +1171,12 @@ Q5767122,Grafström i Stockholm, T Frithiof, 5:348
 Q5767860,Granath i Hudiksvall, Per, 5:135
 Q5768473,Granlund i Harads, Johan Erik, 5:413
 Q5768483,Granlund i Gränna, Johan Gustaf, 2:154
-Granström i Vivstavarv senare Sundsbruk, A Josef, 5:222
-Grape i Björknäs, Johan, 5:414
-Grape i Haparanda, Zacharias, 5:414 
-Grapenson i Gällivare, P Jöran, 5:414 
-Grebäck i Knutby, Erik H, 1:237
-Green i Avesta, H Åke H, 5:64 
+Q5768642,Granström i Vivstavarv senare Sundsbruk, A Josef, 5:222
+Q5768895,Grape i Björknäs, Johan, 5:414
+Q5768918,Grape i Haparanda, Zacharias, 5:414 
+Q5768933,Grapenson i Gällivare, P Jöran, 5:414 
+Q5388602,Grebäck i Knutby, Erik H, 1:237
+Q5770090,Green i Avesta, H Åke H, 5:64 
 Q5770994,Grenander i Skövde, J M Alfred, 4:320 
 Q5771035,Grenholm i Stockholm, Erik Magnus, 5:298 
 Q111649364,Grevesmühl i Lycksta, Carl A, 1:434
@@ -1249,12 +1249,12 @@ Gyllenstierna af i Bjärsgård, Johan, 3:121
 Gyllensvaan i Sund, J August, 4:87 
 Q5779576,Gyllensvärd i Fågelsång, A Gustaf, 2:379 
 Q111709613,Gädda i Svarteborg, Octo E, 4:88
-Gärde i Stockholm, J Natanael, 1:95 
-Gärde Widemar i Stockholm, Ingrid, 1:95 
-Göransson i Åsen, Anders, 5:136
-Göransson i Falla, Ernst, 2:156
-Göransson i Stockholm, Hardy P, 3:53
-Göransson i Arboga, J Olle, 1:434
+Q5779975,Gärde i Stockholm, J Natanael, 1:95 
+Q406819,Gärde Widemar i Stockholm, Ingrid, 1:95 
+Q5780280,Göransson i Åsen, Anders, 5:136
+Q117011372,Göransson i Falla, Ernst, 2:156
+Q5780366,Göransson i Stockholm, Hardy P, 3:53
+Q5780429,Göransson i Arboga, J Olle, 1:434
 Q5780663,Göthberg i Munkfors, Anders Henrik, 4:405
 Hagermarck i Särsta, Hans, 5:136 
 Haeggblom i Slakmöre, E Einar, 2:276 
@@ -3400,10 +3400,10 @@ Q6201981,Söderkvist i Alnö, J L Vemer, 5:261
 Q6202203,Söderquist i Solna, Martin, 1:270 
 Q6202293,Söderström i Stockholm, Carl C, 1:178
 Q6202348,Söderström i Norrköping, Kurt I W, 2:112 
-Sörenson i Älvsjö, Joel, 1:179
-Sörenson i Göteborg, Lars-Ingvar, 4:160 
-Sörensson i Frillestad, Per, 3:277 
-Sörlin i Åsele, Thore, 5:378
+Q6202601,Sörenson i Älvsjö, Joel, 1:179
+Q6202605,Sörenson i Göteborg, Lars-Ingvar, 4:160 
+Q6202617,Sörensson i Frillestad, Per, 3:277 
+Q6202629,Sörlin i Åsele, Thore, 5:378
 Tamm i Fogelstad, C August, 1:398
 Tamm i Fogelstad, Elisabeth, 1:398
 Q6203642,Tamm i Österby senare Stockholm, C Gustaf A, 1:332, 5:176
