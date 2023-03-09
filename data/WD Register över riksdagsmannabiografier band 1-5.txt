@@ -1229,14 +1229,14 @@ Q5777728,Gustafsson i Skellefteå, G Henning, 5:349
 Q5777808,Gustafsson i Välsnäs, John, 2:276
 Q5777827,Gustafsson i Stensholm, Karl Johan A, 2:155
 Q5777857,Gustafsson i Barkarby, Lars I, 1:237
-Gustafsson i Brånsta, Lars Erik, 4:486
-Gustafsson i Byske, Nils-Eric, 5:350
-Gustafsson i Benestad, Per J, 2:213
+Q5886669,Gustafsson i Brånsta, Lars Erik, 4:486
+Q5777943,Gustafsson i Byske, Nils-Eric, 5:350
+Q5777989,Gustafsson i Benestad, Per J, 2:213
 Q5778040,Gustafsson i Stockholm, Richard A, 1:94
-Gustafsson i Stenkyrka, C E Torsten, 2:337
-Gustavson i Sala senare Västerås, David E, 1:434
+Q6131173,Gustafsson i Stenkyrka, C E Torsten, 2:337
+Q117035450,Gustavson i Sala senare Västerås, David E, 1:434
 Gustavson i Guntorp, John A, 4:87
-Gustavsson i Eskilstuna, Bengt T, 1:369 
+Q5778281,Gustavsson i Eskilstuna, Bengt T, 1:369 
 Gustavsson i Ängelholm, Gusti L A, 3:120
 Gustavsson i Alvesta, K Rune, 2:213
 Gustavsson i Nässjö, Åke E G, 2:156
