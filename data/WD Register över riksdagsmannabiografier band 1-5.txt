@@ -1288,20 +1288,20 @@ Hallin i Tofta gård, Eric A, 4:88
 Hallin i Viskafors, Hjalmar S, 4:228
 Hallin i Stockholm, Olof F, 5:65
 Hallin i Rydboholm, Olof P, 4:228
-Hallqvist i Ryda, August, 4:229 
-von Hallwyl i Stockholm, Walter, 5:137 
+Q105046846,Hallqvist i Ryda, August, 4:229 
+Q5785251,von Hallwyl i Stockholm, Walter, 5:137 
 Q5785420,Halvarsson i Hamra, Hjalmar, 5:137
 Q5785596,Hamberg i Härnösand, Svante J, 5:223 
 Q5785886,Hamilton i Hedensberg, M Alexander H, 1:435 
 Q5785989,Hamilton i Kviberg, Carl B, 4:89
 Q5786064,Hamilton i Hjälmsäter, W Gilbert, 4:322
 Q3054681,Hamilton i Hedenlunda, Henning L H, 1:370
-Hamilton i Blomberg, B Hugo A, 4:323
-Hamilton i Stockholm senare Gävle o åter Stockholm, Hugo EG, 1:98,4:229, 5:138
+Q5786130,Hamilton i Blomberg, B Hugo A, 4:323
+Q5786143,Hamilton i Stockholm senare Gävle o åter Stockholm, Hugo EG, 1:98,4:229, 5:138
 Q5786333,Hamilton i Ovesholm, Raoul G, 3:122
 Q5785833,Hamilton af Hageby i Hjortkvarn, H J Fredrik Adolf, 4:487
 Q5786123,Hamilton af Hageby i Boo, Hugo A, 4:487
-Hamilton af Hageby i Boo, Hugo J, 4:488
+Q5786136,Hamilton af Hageby i Boo, Hugo J, 4:488
 Hammar i Öringe, Carl M, 2:380
 Q5786592,Hammar i Sjövik, A Olof, 5:66
 Hammarberg i Göteborg, Peter, 4:89
