@@ -1176,7 +1176,7 @@ Grape i Björknäs, Johan, 5:414
 Grape i Haparanda, Zacharias, 5:414 
 Grapenson i Gällivare, P Jöran, 5:414 
 Grebäck i Knutby, Erik H, 1:237
-Green i Avesta, H Åke H, 5:64
+Green i Avesta, H Åke H, 5:64 
 Q5770994,Grenander i Skövde, J M Alfred, 4:320 
 Q5771035,Grenholm i Stockholm, Erik Magnus, 5:298 
 Q111649364,Grevesmühl i Lycksta, Carl A, 1:434
