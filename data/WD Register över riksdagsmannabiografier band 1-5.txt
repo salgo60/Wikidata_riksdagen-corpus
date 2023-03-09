@@ -1177,8 +1177,8 @@ Grape i Haparanda, Zacharias, 5:414
 Grapenson i Gällivare, P Jöran, 5:414 
 Grebäck i Knutby, Erik H, 1:237
 Green i Avesta, H Åke H, 5:64
-Grenander i Skövde, J M Alfred, 4:320 
-Grenholm i Stockholm, Erik Magnus, 5:298 
+Q5770994,Grenander i Skövde, J M Alfred, 4:320 
+Q5771035,Grenholm i Stockholm, Erik Magnus, 5:298 
 Q111649364,Grevesmühl i Lycksta, Carl A, 1:434
 Q5771737,Grill i Mariedam, Andreas G, 4:484 
 Q727985,Gripenstedt i Nynäs, J August, 1:92
@@ -1235,7 +1235,7 @@ Q5777989,Gustafsson i Benestad, Per J, 2:213
 Q5778040,Gustafsson i Stockholm, Richard A, 1:94
 Q6131173,Gustafsson i Stenkyrka, C E Torsten, 2:337
 Q117035450,Gustavson i Sala senare Västerås, David E, 1:434
-Gustavson i Guntorp, John A, 4:87
+Q5778234,Gustavson i Guntorp, John A, 4:87
 Q5778281,Gustavsson i Eskilstuna, Bengt T, 1:369 
 Gustavsson i Ängelholm, Gusti L A, 3:120
 Gustavsson i Alvesta, K Rune, 2:213
