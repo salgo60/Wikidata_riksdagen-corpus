@@ -1288,7 +1288,7 @@ Hallin i Tofta gård, Eric A, 4:88
 Hallin i Viskafors, Hjalmar S, 4:228
 Hallin i Stockholm, Olof F, 5:65
 Hallin i Rydboholm, Olof P, 4:228
-Hallqvist i Ryda, August, 4:229
+Hallqvist i Ryda, August, 4:229 
 von Hallwyl i Stockholm, Walter, 5:137 
 Q5785420,Halvarsson i Hamra, Hjalmar, 5:137
 Q5785596,Hamberg i Härnösand, Svante J, 5:223 
