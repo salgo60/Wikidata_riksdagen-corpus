@@ -1237,13 +1237,13 @@ Q6131173,Gustafsson i Stenkyrka, C E Torsten, 2:337
 Q117035450,Gustavson i Sala senare Västerås, David E, 1:434
 Q5778234,Gustavson i Guntorp, John A, 4:87
 Q5778281,Gustavsson i Eskilstuna, Bengt T, 1:369 
-Gustavsson i Ängelholm, Gusti L A, 3:120
-Gustavsson i Alvesta, K Rune, 2:213
-Gustavsson i Nässjö, Åke E G, 2:156
-Gylfe i Krylbo, Axel E, 5:64
-Gyllenhaal af Härlingstorp i Härlingstorp, L Herman, 4:322
-Gyllenkrook i Sinclairsholm, Fredric G, 3:121 
-Gyllenram i Visby senare Karlstad, Henric G W, 2:337, 4:404
+Q5778331,Gustavsson i Ängelholm, Gusti L A, 3:120
+Q5778433,Gustavsson i Alvesta, K Rune, 2:213
+Q5778494,Gustavsson i Nässjö, Åke E G, 2:156
+Q5779149,Gylfe i Krylbo, Axel E, 5:64
+Q104850932,Gyllenhaal af Härlingstorp i Härlingstorp, L Herman, 4:322
+Q5779398,Gyllenkrook i Sinclairsholm, Fredric G, 3:121 
+Q5779404,Gyllenram i Visby senare Karlstad, Henric G W, 2:337, 4:404
 Gyllenstierna af Lundholm i Bjärsgård, Eric, 3:121
 Gyllenstierna af i Bjärsgård, Johan, 3:121
 Gyllensvaan i Sund, J August, 4:87 
