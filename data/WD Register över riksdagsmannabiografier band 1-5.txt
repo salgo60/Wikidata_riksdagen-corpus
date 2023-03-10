@@ -1302,11 +1302,11 @@ Q5786333,Hamilton i Ovesholm, Raoul G, 3:122
 Q5785833,Hamilton af Hageby i Hjortkvarn, H J Fredrik Adolf, 4:487
 Q5786123,Hamilton af Hageby i Boo, Hugo A, 4:487
 Q5786136,Hamilton af Hageby i Boo, Hugo J, 4:488
-Hammar i Öringe, Carl M, 2:380
+Q5786502,Hammar i Öringe, Carl M, 2:380
 Q5786592,Hammar i Sjövik, A Olof, 5:66
-Hammarberg i Göteborg, Peter, 4:89
-Hammarberg i Västerås, Sven O, 1:435
-Hammarhjelm i Nynäs, Carl, 4:405 
+Q5786648,Hammarberg i Göteborg, Peter, 4:89
+Q5786657,Hammarberg i Västerås, Sven O, 1:435
+Q5786712Hammarhjelm i Nynäs, Carl, 4:405 
 Q5786752,Hammarlund i Stockholm, Emil, 1:98
 Hammarlund i Errarp, Nestor L, 3:122
 Hammarskjöld i Uppsala, Carl G, 1:310
