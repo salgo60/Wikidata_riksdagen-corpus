@@ -2778,38 +2778,38 @@ Q6043605,Persson i Norrby, Per, 5:165
 Q6043613,Persson i Trången, Per, 5:309
 Persson i Tofta, Perjohan, 2:398
 Persson i Undersvik senare Tomterna, Per L, 5:165 
-Persson i Hult, J Peter, 2:230
-Persson i Stora Isie, Petter, 3:260
-Persson i Vinberg, Ragnar V, 2:398
-Persson i Stockholm, Set E, 1:161
-Persson i Fritorp, Swen, 3:147
-Persson i Stockholm senare Norrköping, Sven, 1:161, 2:95
-Persson i Appuna, Sven G F, 2:96
-Persson i Romna, Yngve B, 3:260
-Persson i Stockholm, E Yngve, 1:162
-af Petersens i Sävsjöström, Gösta H, 2:230 
-Peterson i Hasselstad, August, 3:71
+Q6043107,Persson i Hult, J Peter, 2:230
+Q6043666,Persson i Stora Isie, Petter, 3:260
+Q117039333,Persson i Vinberg, Ragnar V, 2:398
+Q4574312,Persson i Stockholm, Set E, 1:161
+Q6043830,Persson i Fritorp, Swen, 3:147
+Q6043805,Persson i Stockholm senare Norrköping, Sven, 1:161, 2:95
+Q6043780,Persson i Appuna, Sven G F, 2:96
+Q117039161,Persson i Romna, Yngve B, 3:260
+Q6043923,Persson i Stockholm, E Yngve, 1:162
+Q6044875,af Petersens i Sävsjöström, Gösta H, 2:230 
+Q6044908,Peterson i Hasselstad, August, 3:71
 Q6045007,Peterson i Karlskrona, P H Gustaf, 3:72 
 Q116969964,Peterson i Kvissberg, Johan Alfred, 2:96
 Q6045216,Petersson i Lidingö villastad, G Albert, 1:262 
-Petersson i Gärestad, H Alfred, 3:72
+Q117039047,Petersson i Gärestad, H Alfred, 3:72
 Q4723287,Petersson i Påboda, P Alfred, 1:262, 2:301, 5:166
-Petersson i Tuna, C August, 2:96
+Q6045247,Petersson i Tuna, C August, 2:96
 Q6045254,Petersson i Hamra, Axel E, 2:97
 Q6044930,Petersson i Nybro, G Å Bertil, 2:301
 Q6045269,Petersson i Lerbäcksbyn, A Birger, 4:264 
 Q6045299,Petersson i Dänningelanda, Carl F, 2:231 
 Q6045314,Petersson i Eksebo, Carl Johan, 2:301
 Q115870509,Petersson i Storegården, J Edvard, 3:72 
-Petersson i Karlskrona, Emil, 3:73
+Q6045329,Petersson i Karlskrona, Emil, 3:73
 Q6044972,Petersson i Gäddvik, P Emil, 5:433
-Petersson i Linköping, Eric G H, 2:97
+Q6044981,Petersson i Linköping, Eric G H, 2:97
 Q6045351,Petersson i Alvesta, Erik F T, 2:231
 Q6045550,Petersson i Ugglekull, A Fredrik, 2:232 
-Petersson i Möllstorp, O Fredrik, 2:302 
-Petersson i Röstånga, Hans E, 3:260
-Petersson i Boestad, Johan, 2:232
-Petersson i Borås, Johannes, 4:264
+Q6161303,Petersson i Möllstorp, O Fredrik, 2:302 
+Q6045408,Petersson i Röstånga, Hans E, 3:260
+Q6045435,Petersson i Boestad, Johan, 2:232
+Q6045442,Petersson i Borås, Johannes, 4:264
 Q6045449,Petersson i Göteborg, Knut Z, 4:137
 Q6045461,Petersson i Leksand, E Lorents, 5:86
 Q6045471,Petersson i Broaryd, M Lucas, 2:176
@@ -2824,12 +2824,12 @@ Q6045585,Petersson i Snällebo, Sven Magnus, 2:303
 Q6045804,Petre i Hofors, K Casimir, 5:166
 Q6161169,Petre i Hofors, H Hjalmar, 5:167
 Q6045814,Petre i Gävle, Janne W, 5:167
-Petrén i Stockholm senare Uppsala, D Alfred, 5:86
-Petrén i Kristianstad senare Stockholm o Ystad, Bror A, 3:147
-Petrén i Västerås, B E Folke, 1:450
+Q6045861,Petrén i Stockholm senare Uppsala, D Alfred, 5:86
+Q6045870,Petrén i Kristianstad senare Stockholm o Ystad, Bror A, 3:147
+Q6045901,Petrén i Västerås, B E Folke, 1:450
 Q6046007,Petri i Eksjö, E Axel, 2:176
-Petterson i Degerfors, K Göran, 4:507 
-Petterson i Fållinge Ågård, S Malkolm, 2:177 
+Q6046847,Petterson i Degerfors, K Göran, 4:507 
+Q6047190,Petterson i Fållinge Ågård, S Malkolm, 2:177 
 Q111043917,Pettersson i Vråtsered, Alfred, 4:264 
 Pettersson i Sibbarp, Anders F, 3:260
 Q6046613,Pettersson i Dahl, Anders P, 2:399
