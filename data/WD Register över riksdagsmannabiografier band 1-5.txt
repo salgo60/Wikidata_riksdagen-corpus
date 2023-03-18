@@ -179,7 +179,7 @@ Q111665806,Andersson i Skurup, O Ingvar, 3:186
 Q111665825,Andersson i Fredriksberg, Ivar, 5:47
 Q5554851,Andersson i Jönvik, Jan, 5:47
 Q5554945,Andersson i Altofta, Johan, 2:140
-Q5554956,Andersson i Raklösen, Johan 1:298
+Q5554956,Andersson i Raklösen, Johan, 1:298
 Q5593837,Andersson i Stärte, Johan, 1:421
 Q5554953,Andersson i Gävle, A Johan, 5:120
 Q5554960,Andersson i Sjöberg, L Johan, 4:303
@@ -1333,7 +1333,7 @@ Q5789075,Hansson i Vännäs, Eric, 5:351
 Q5789080,Hansson i Bäck, Eskils Hans, 5:67
 Q5789087,Hansson i Hönö, Frans E, 4:90
 Q5789103,Hansson i Göteborg, Gustaf Henry, 4:90
-Q117085828,Hansson i Örebro, Gustav A. 4:488
+Q117085828,Hansson i Örebro, Gustav A, 4:488
 Q5789110,Hansson i Gårda, Gustav W, 4:91
 Q116690088,Hansson i Rättvik, Hans, 5:67
 Q5650123,Hansson i Stocksäter, Hans, 5:139
@@ -1446,7 +1446,7 @@ Q5802636,Hermelin i Fröllinge, C D Richard, 2:382
 Q5802833,Hernelius i Stockholm, J Allan, 1:106
 Q5802878,Hernlund i Stockholm, C Hugo, 1:107
 Q5802988,Herou i Stålbo, J Viktor, 5:139
-Q5803390,Herslow i Malmö, Carl C P. 3:218
+Q5803390,Herslow i Malmö, Carl C P, 3:218
 Q5803936,Hesselbom i Åmål, Knut E, 4:233
 Q4953847,Hesselgren i Stockholm, Kerstin, 1:107, 4:96 
 Q5804073,Hessle i Hjälmared, B Wolter, 4:233
@@ -1822,7 +1822,7 @@ Q5901468,Karlsson i Ronneby, Helge G, 3:60
 Q5902186,Karlsson i Nynäshamn, S Johan, 1:244 
 Q5901593,Karlsson i Västerås, John O, 1:440
 Q5901685,Karlsson i Mo, Karl, 5:302
-Q5901662,Karlsson i Stockholm, Karl A 1:118
+Q5901662,Karlsson i Stockholm, Karl A, 1:118
 Q5901677,Karlsson i Göteborg, Karl G, 4:103
 Q5901692,Karlsson i Sandviken, Karl Johan, 5:146
 Q5901347,Karlsson i Råby, F Otto, 1:441
