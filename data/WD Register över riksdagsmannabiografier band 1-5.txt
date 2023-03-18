@@ -717,8 +717,8 @@ Q5608369,Christenson i Malmö, Carl, 3:203
 Q5608372,Christenson i Fladevadsmölla, Christen, 3:204
 Q5608541,Christiernson i Helsingborg, Adolf C J, 3:204 
 Q5608556,Christiernsson i Helsingborg, Nils H, 3:205 
-Q5609105.Claëson i Leksand, O Hjalmar L, 5:54 
 Q5609230,Clairfelt i Kristianstad, C Eugéne M, 3:112 
+Q5609105,Claëson i Leksand, O Hjalmar L, 5:54
 Q5609574,Clarkson i Helsingborg, Rolf A, 3:205
 Q5609612,Clason i Lund senare Stockholm, Sam, 1:429, 4:72
 Q5609827,Clemedtson i Hällegård, Jeppe, 3:48 
@@ -922,7 +922,7 @@ Q5855197,Ericson i Sandgärde senare Nygård o Östersund, John P, 4:222, 5:295
 Q5714844,Ericson i Oberga, K Oscar, 2:149
 Q5714937,Ericson i Örebro, Sture T, 4:480
 Q23989264,Ericson i Uddevalla, N Wemer, 4:81 
-Q5714995 Ericsson i Gåvetorp, Aaby A W, 2:210 
+Q5714995,Ericsson i Gåvetorp, Aaby A W, 2:210
 Q19976514,Ericsson i Malmö, Anders, 3:209
 Q5715009,Ericsson i Östra Kärne, Anders, 4:480
 Q113468854,Ericsson i Arboga, Carl Johan, 1:431
