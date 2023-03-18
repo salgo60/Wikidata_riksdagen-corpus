@@ -1728,10 +1728,10 @@ Q5891272,Jonson i Fröstorp, Johannes, 4:331
 Jonson i Remröd, J Oskar, 1:375
 Jonson i Göteborg, T Richard J, 4:102
 Q5891360,Jonsson i Lycksele, Alfred, 5:357 
-Q5891393 Jonsson i Sundsbyn, Anders, 4:412
-Q5891385 Jonsson i Mora, Anders E, 5:70
 Q4802427,Jonsson i Skedsbygd, C Arvid D, 2:285 
 Q6140353,Jonsson i Mörkhult, Carl Johan, 2:165 
+Q5891393,Jonsson i Sundsbyn, Anders, 4:412
+Q5891385,Jonsson i Mora, Anders E, 5:70
 Q5891463,Jonsson i Skog, Carl Johan, 2:82
 Q6140360,Jonsson i Eskilstuna senare Västerås, P Conrad (Conke), 1:375
 Q111692389,Jonsson i Mörbylånga, K Einar E, 2:286 
