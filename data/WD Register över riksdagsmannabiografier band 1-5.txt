@@ -3581,8 +3581,8 @@ Q10540434,Wallin i Midsommarkransen, Johan A, 1:274
 Q6231275,Wallin i Sätra bruk, J E Wilhelm, 4:357
 Q6231327,Wallis i Stockholm, Curt, 1:187 
 Q6231399,Wallmark i Södertälje, Gunnar S, 1:274
-Wallis i Smedsbyn, Nils, 5:444
-Wallis i Selånger, Nils Petter, 5:263
+Q6231420,Wallmark i Smedsbyn, Nils, 5:444
+Q6231427,Wallmark i Selånger, Nils Petter, 5:263
 Q6338311,Walter i Mörsil, Olof, 5:314
 Q6232151,Wangson i Göteborg, Otto R, 4:168
 Q6232158,Wanhainen i Erkheikki, Y Lennart, 5:444 
