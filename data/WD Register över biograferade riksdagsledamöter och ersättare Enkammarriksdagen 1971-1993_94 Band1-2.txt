@@ -21,7 +21,7 @@ Q4935587,Anderberg i Säter, Christel M, 2:327
 Q20906993,Anderlund i Bunkeflostrand, S Ingegerd, 1:455 
 Q4935919,Anderson i Lerum, Ruth M H, 2:159 
 Q4737866,Andersson i Knäred, M Alvar, 2:49
-Q21567824,Andersson i Västerfärnebo, Anders, 2:299,Andersson i Gustafs, A Arne, 2:327Q21544238,Andersson i Gamleby, J Arne L, 1:368Q5553993,Andersson i Ljung, L Arne, 2:159Q5554046,Andersson i Norrsundet, E Axel, 2:359Q4935739,Andersson i Österbybruk, Barbro C ö:dotter, 1:215Q5554160,Andersson i Sala, T Birger, 2:300Q5554395,Andersson i Edsbro, Elis G, 1:135Q5368089,Andersson i Viganseröd, J Elving A, 2:127Q5554537,Andersson i Lycksele, Georg L, 2:445Q97971278,Andersson i Arvika, I Gunilla, 2:237Q16165736,Andersson i Nybro, A Gösta J, 1:368Q5554702,Andersson i Ludvika, Hans T, 2:327Q98837514,Andersson i Handen, Hans-Eric, 1:135Q21567761,Andersson i Finspång, K Hugo S, 1:275Q4935815,Andersson i Bålsta, Ingrid M, 1:216Q98555891,Andersson i Visböle, Ingrid S M, 1:369Q1681577,Andersson i Helsingborg, Jan T, 1:456Q5555011,Andersson i Dorotea, John 0,2:445Q5555156,Andersson i Storfors, Karl-Gustav, 2:237Q1727737,Andersson i Stockholm, Karin E, 1:53Q16165766,Andersson i Hjärtum, senare Trollhättan, Kerstin G, 2:160Q97039609,Andersson i Kumla, Kerstin V, 2:270Q109971639,Andersson i Eskilstuna, Lars G, 1:245Q5555243,Andersson i Haninge, senare Tyresö, J Lars C, 2:270Q5555345,Andersson i Södertälje, Lennart F H, 1:136Q4935892,Andersson i Vårgårda, A Marianne, 2:160Q21795365,Andersson i Gislaved, B Marianne, 1:316Q4935905,Andersson i Stockholm, G E Monica, 1:54Q97065045,Andersson i Halmstad, Rolf B, 2:49Q5555982,Andersson i Stockholm, B Sivert, 1:55Q5556026,Andersson i Malmö, Sten C, 1:456Q1346478,Andersson i Enskede, Sten S, 1:55Q98667808,Andersson i Täby, Stina S, 1:136Q5556063,Andersson i Billingsfors, Sven A H, 2:161Q5556070,Andersson i Örebro, Sven G, 2:270Q953952,Andersson i Göteborg, senare Stockholm och Sundby berg, Sven O M, 1:246Q5556206,Andersson i Falun, senare Hassela, A Widar, 2:360
+Q21567824,Andersson i Västerfärnebo, Anders, 2:299Q117314043,Andersson i Gustafs, A Arne, 2:327Q21544238,Andersson i Gamleby, J Arne L, 1:368Q5553993,Andersson i Ljung, L Arne, 2:159Q5554046,Andersson i Norrsundet, E Axel, 2:359Q4935739,Andersson i Österbybruk, Barbro C ö:dotter, 1:215Q5554160,Andersson i Sala, T Birger, 2:300Q5554395,Andersson i Edsbro, Elis G, 1:135Q5368089,Andersson i Viganseröd, J Elving A, 2:127Q5554537,Andersson i Lycksele, Georg L, 2:445Q97971278,Andersson i Arvika, I Gunilla, 2:237Q16165736,Andersson i Nybro, A Gösta J, 1:368Q5554702,Andersson i Ludvika, Hans T, 2:327Q98837514,Andersson i Handen, Hans-Eric, 1:135Q21567761,Andersson i Finspång, K Hugo S, 1:275Q4935815,Andersson i Bålsta, Ingrid M, 1:216Q98555891,Andersson i Visböle, Ingrid S M, 1:369Q1681577,Andersson i Helsingborg, Jan T, 1:456Q5555011,Andersson i Dorotea, John 0,2:445Q5555156,Andersson i Storfors, Karl-Gustav, 2:237Q1727737,Andersson i Stockholm, Karin E, 1:53Q16165766,Andersson i Hjärtum, senare Trollhättan, Kerstin G, 2:160Q97039609,Andersson i Kumla, Kerstin V, 2:270Q109971639,Andersson i Eskilstuna, Lars G, 1:245Q5555243,Andersson i Haninge, senare Tyresö, J Lars C, 2:270Q5555345,Andersson i Södertälje, Lennart F H, 1:136Q4935892,Andersson i Vårgårda, A Marianne, 2:160Q21795365,Andersson i Gislaved, B Marianne, 1:316Q4935905,Andersson i Stockholm, G E Monica, 1:54Q97065045,Andersson i Halmstad, Rolf B, 2:49Q5555982,Andersson i Stockholm, B Sivert, 1:55Q5556026,Andersson i Malmö, Sten C, 1:456Q1346478,Andersson i Enskede, Sten S, 1:55Q98667808,Andersson i Täby, Stina S, 1:136Q5556063,Andersson i Billingsfors, Sven A H, 2:161Q5556070,Andersson i Örebro, Sven G, 2:270Q953952,Andersson i Göteborg, senare Stockholm och Sundby berg, Sven O M, 1:246Q5556206,Andersson i Falun, senare Hassela, A Widar, 2:360
 Q4891887,Andnor i Östersund, Berit, 2:425 
 Q4935981,André i Mariestad, Gunilla K, 2:207 
 Q5348198,Andreasson i Östra Ljungby, N Egon, 1:427Q5556543,Andreasson i Falkenberg, A Owe 1,2:50 
@@ -161,292 +161,292 @@ Q5737254,Forslund i Sundsbruk, Bo E, 2:394
 Q4988501,Fraenkel i Göteborg, Ingegärd C E, 2:88 
 Q5739826,Franck i Solna, Hans Göran H, 1:150 
 Q5859296,Frank i Växjö, Bo C G, 1:347 
-,Fransson i Landsbro, Arne A E, 1:320,Fransson i Mariestad, Jan A A, 2:209 
-,Franzén i Göteborg, Elisabet K, 2:89
-,Franzén i Kungsbacka, Ivar H E, 2:55,Franzén i Skruv, Jan-Olof B, 1:348,Franzén i Motala, F Oscar, 1:281,Franzén i Farsta, senare Vällingby, J Tommy, 1:72,Franzén i Enebyberg, Vivianne M, 1:150 
-,Frebran i Örebro, I Rose-Marie, 2:274 
-,Fredgardh i Kämpinge, K Sonja I, 1:500 
-,Fredrikson i Svanesund, Märta E B, 2:132 
-,Fredriksson i Grängesberg, K Torsten, 2:334 
-,Fremling i Borlänge, B Lennart, 2:334 
-,Frick i Hjo, Carl E G, 2:210,Fridén i Göteborg, H Lennart K, 2:89 
-,Fridolfsson i Vällingby, Filip W, 1:73,Fridolfsson i Rödeby, A Nils U, 1:407 
-,Friggebo i Stockholm, Birgit IG, 1:73
-,Frändås i Årås, S G Berit, 2:189 
-,Furubjelke i Söderköping, M Viola E, 1:281 
-,Furustrand i Eskilstuna, Reynoldh K A, 1:249 
-,Fågelsbo i Sala, E Anton, 2:303,Fälldin i Ramvik, N O Thorbjörn, 2:394
-,Gadd i Uppsala, P E Arne, 1:219 
-,Gahrton i Lund, senare Nacka och Hörby, C Per G, 1:463,Gard i Ludvika, Margareta A, 2:335 
-,Gardner i Åkersberga, K Ingela, 1:151 
-,Geijer i Bromma, K Arne, 1:151,Geijer i Stockholm, J Lennart, 1:74 
-,Gellerman i Floda, Kerstin I, 2:165 
-,Gennser i Malmö, S Margit, 1:464 
-,Gernandt i Arboga, Anders K S, 2:304 
-,Gillström i Gävle, K Åke, 2:366
-,Glimnér i Arkösund, J Erik, 1:282,Godin i Sundsvall, N Sigge, 2:395,Goés i Härnösand, Eva C, 1:152,Grabo i Stockholm, Paul E, 1:75,Gradin i Vällingby, senare Bromma, Anita 1,1:76,Graf i Halmstad, Carl Fredrik A, 2:56,Grahn i Falköping, E Olle, 2:210,Granstedt i Järna, Pär E, 1:153,Granström i Ludvika, Per Erik, 2:336,Grauers i Partille, Stig B, 2:132,Grebäck i Knutby, Erik H, 1:154,Green i Avesta, H Åke H, 2:336,Grönhagen i Kramfors, Nils-Olof, 2:396,Grönvall i Onsala, Nic E, 2:56,Gustafson i Göteborg, Sven H, 2:90,Gustafsson i Säffle, K G Allan, 2: 243
-,Gustafsson i Brunsbo, Anne-Marie, 2:211,Gustafsson i Uddevalla, M Gunnar, 2:133,Gustafsson i Göteborg, E Gösta, 2:90,Gustafsson i Kallinge, Hans I, 1:408,Gustafsson i Götene, Holger O, 2:211,Gustafsson i Barkarby, Lars 1,1:155,Gustafsson i Byske, Nils-Eric, 2:449,Gustafsson i Svenstavik, Nils-Olof, 2:426,Gustafsson i Bromma, Stig G, 1:77,Gustafsson i Stenkyrka, C E Torsten, 1:393,Gustafsson i Borås, K G Wilhelm, 2:190 
-,Gustavsson i Eskilstuna, Bengt T, 1:250,Gustavsson i Ängelholm, Gusti L A, 1:432,Gustavsson i Alvesta, K Rune, 1:348,Gustavsson i Ryssby, Stina E L, 1:349,Gustavsson i Nässjö, Åke E G, 1:320
-,Gårdestig i Forserum, Märtha I, 1:321 
-,Göransson i Farsta, Bengt G I, 2:91,Göransson i Arboga, J Olle, 2:305 
-,Göthberg i Västerås, Kerstin V, 2:305
-,Hagberg i Örebro, Helge M H, 2:275,Hagberg i Borlänge, Lars-Ove, 2:337 
-,Hagel i Göteborg, Rolf, 2:91 
-,Haglund i Kumla, Ann-Cathrine, 2:276,Haglund i Gävle, F Anders, 2:366,Hagnell i Stockholm, senare Gävle, Hans, 1:78 
-,Hagström i Sandviken, Karl G, 2:367 
-,Hagård i Vadstena, A Birger, 1:283 
-,Hallenius i Saleby, G Ingemar, 2:212 
-,Hallgren i Göteborg, Karl A E, 2:92 
-,Halvarsson i Kristinehamn, Isa A-M, 2:243
-,Hambraeus i Orsa, S Birgitta, 2:337 
-,Hamilton i Täby, Carl P B, 1:156 
-,Hammar i Stockholm, Bo L, 1:79 
-,Hammarbacken i Hallsberg, Britta K M, 2:276 
-,Hammarberg i Västerås, Sven 0,2:306 
-,Hamrin i Kalmar, Mac T P, 1:371 
-,Hansson i Gamleby, E Agne A, 1:372,Hansson i Göteborg, J Bertil, 2:92,Hansson i Hällåkra, U Håkan, 1:500,Hansson i Gävle, Ing-Marie, 2:367,Hansson i Umeå, Lilly E, 2:450,Hansson i Skegrie, Nils G, 1:501,Hasselström Nyvall i Nybro, Ingrid B, 1:373 
-,Hed i Malmköping, S Maria, 1:251 
-,Hedberg i Halmstad, Evert S, 2:57 
-,Hedfors i Markaryd, Lars R, 1:349 
-,Hedin i Bergshammar, Carl Eric, 1:251 
-,Hedkvist Petersen i Luleå, Ewa M, 2:476 
-,Hedlund i Rådom, senare Lidingö, Gunnar, 1:79, 2:397
-,Hedquist i Uppsala, K J Lennart, 1:219 
-,Hedström i Harads, T Uno V E, 2:477 
-,Hedvall i Tullinge, Yvonne M, 1:156 
-,Hegeland i Göteborg, Hugo O, 2:93 
-,Heister i Danderyd, G Chris, 1:157 
-,Helén i Saltsjö-Duvnäs, senare Växjö, N Gunnar, 1:80 
-,Hellström i Stockholm, Mats J, 1:81 
-,Hemmingsson i Östersund, Ingrid J M, 2:427,Hemmingsson i Västerås, G Margareta, 2:307,Henmark i Hässleholm, Martin R C:son, 1:432 
-,Henningsson i Helsingborg, H Einar G M, 1:465 
-,Henricsson i Hoting, Sven R, 2:398 
-,Henrikson i Linköping, Lars G, 1:283 
-,Henriksson i Hallstahammar, Birgit K, 2:307 
-,Hermansson i Stockholm, Carl-Henrik, 1:82,Hermansson i Malmberget, K Ivar, 2:477 
-,Hernelius i Stockholm, J Allan, 1:83 
-,Hestvik i Borlänge, Inger D M, 2:338 
-,Heyman i Västra Frölunda, Tom, 2:94 
-,Hjalmarsson i Säter, Birgit, 2:339
-,Hjelm-Wallén i Sala, Lena B, 2:308 
-,Hjelmström i Stockholm, I Eva K, 1:84 
-,Hjertén i Tidaholm, Lars E, 2:213 
-,Hjorth i Österbybruk, Nils T, 1:220 
-,Hjortzberg-Nordlund i Särö, Hans G V, 2:58 
-,Holmberg i Härnösand, Bo L, 2:398,Holmberg i Uppsala, Håkan 0,1:221
-,Holmberg i Stockholm, Yngve, 1:84 
-,Holmkvist i Luleå, J Erik, 2:478,Holmqvist i Malmö, senare Kallhäll, Eric B, 1:465,Holmqvist i Svalöv, A Mary S, 1:502 
-,Holmsten i Bergsjö, H Lennart, 2:368 
-,Horn af Rantzien i Solna, Anna B S, 1:158 
-,Hovhammar i Lindshammar, senare Växjö, L Erik E, 1:350 
-,Hugosson i Göteborg, Kurt I, 2:95 
-,Hulterström i Göteborg, Sven Å, 2:96 
-,Hulthén i Göteborg, Anneli M, 2:97 
-,Hurtig i Piteå, Bengt V, 2:478 
-,Husing i Lycksele, A Eivor I, 2:451 
-,Hyltander i Töreboda, K Gunnar E, 2:213 
-,Hyttring i Karlstad, Jan E, 2:244 
-,Håkansson i Rönneberga, Alfred L, 1:466
-,Håkansson i Karlskrona, Margot I, 1:409,Håkansson i Trelleborg, Per Olof, 1:502 
-,Håvik i Göteborg, I Doris H, 2:97 
-,Hägelmark i Ängelholm, S Eric L, 1:433 
-,Hägglund i Bankeryd, B Göran, 1:322 
-,Häggmark i Skärhamn, Siri I K, 2:134 
-,Häggroth i Kiruna, Sören 1, 2:479 
-,Häll i Malmberget, Karl-Erik, 2:479 
-,Högmark i Växjö, Anders G, 1:351 
-,Högström i Kramfors, Ivar, 2:399 
-,Hökmark i Stockholm, A Gunnar, 1:158 
-,Hörberg i Göteborg, Nils A, 2:98 
-,Hörlén i Jönköping, E Linnea, 1:322 
-,Hörnlund i Skellefteå, O Börje, 2:451,Hörnlund i Borås, Gördis K, 2:190
-,Ingvar-Svensson i Svalöv, Inger M, 1:503 
-,Ingvardsson i Sundbyberg, Margo, 1:85 
-,Irhammar i Ängelholm, Ingbritt M, 1:434 
-,Israelsson i Gargnäs, Karin B, 2:452,Israelsson i Västerås, G Margareta, 2:307,Israelsson i Karlskoga, Per J, 2:277
-,Jacobsson i Åkarp, Egon O, 1:504,Jacobsson i Helsingborg, senare Stockholm, Ulla 1,1:467 
-,Jadestig i Hallstahammar, Thure R, 2:309 
-,Janson i Säffle, K Erik J, 2:245,Jansson i Hudiksvall, Arne F, 2:246,Jansson i Moholm, Paul G, 2:214 
-,Jenevall i Älvängen, Bo G, 1:86 
-,Jennehag i Söråker, Jan B, 2:400
-,Johanson i Västervik, Eric W, 1:373 
-,Johansson i Nacka, S Anita, 1:159,Johansson i Holstorp, N Bertil M, 1:352,Johansson i Tidaholm, Birgitta K, 2:215,Johansson i Simrishamn, Erik V, 1:434,Johansson i Hållsta, J Erik, 1:159,Johansson i Upplands Väsby, Eva M, 1:160,Johansson i Holmgården, N Filip, 2:480,Johansson i Vrångebäck, Gunnar A, 2:135,Johansson i Trollhättan, K Hilding, 2:167,Johansson i Angered, Inga-Britt B, 2:98,Johansson i Hälleved, Kersti I S, 1:323,Johansson i Mariefred, Kjell J1,1:252,Johansson i Johanneshov, senare Stockholm, Knut B M, 1:86,Johansson i Tygelsjö, Kurt Ove, 1:467
-,Johansson i Ålberga, Larz A, 1:253,Johansson i Backa, Marie-Ann, 2:99,Johansson i Vällingby, senare Stockholm, S Olof H, 1:87,Johansson i Dockered, senare, Sjövik, G Robert, 2:164,Johansson i Åmål, Rune, 2:168,Johansson i Ljungby, senare Stockholm, Rune B, 1:352,Johansson i Norrköping, N Rune, 1:284,Johansson i Arvika, Sune G, 2:246,Johansson i Skärstad, Sven A B, 1:323,Johansson i Jönköping, N Tage, 1:324,Johansson i Uddevalla, Tyra A S, 2:136,Johansson i Hovmantorp, Ulla S, 1:353,Johansson i Tumba, Ylva J M, 1:88,Johnsson i Holm, senare Kvibille, Ella I, 2:58,Johnsson i Trollhättan, Ingvar Å R, 2:168,Johnsson i Blentarp, John E, 1:504,Johnsson i Mölndal, Rune S G, 2:136
-,Jonasson i Ekshärad, J E Bertil, 2:247 
-,Jonnergård i Södertälje, Gustaf H, 1:160 
-,Jonsson i Mora, Anders E, 2:339,Jonsson i Alingsås, Elver A D, 2:169,Jonsson i Kaxholmen, Göte E V, 1:324,Jonsson i Husum, S A Rune, 2:401 
-,Jonäng i Bollnäs, Gunnel M, 2:368 
-,Jordan i Rönninge, Kerstin R, 1:161 
-,Josefson i Arrie, Stig A, 1:505 
-,Josefsson i Halmstad, H Gösta A, 2:59,Josefsson i Stavared, Inger A-L, 2:191,Jousma i Åkers styckebruk, L Robert, 1:222 
-,Järrel i Stockholm, Henrik S, 1:88 
-,Jönsson i Lomma, S Anita, 1:506,Jönsson i Malmö, Eric L, 1:468
-,Jönsson i Arlöv, Hans E, 1:506,Jönsson i Degerhamn, J Marianne, 1:374
-,Kaaling i Uppsala, Björn L, 1:222 
-,Karlehagen i Örebro, Sigvard H, 2:278 
-,Karlsson i Skara, Bert W, 1:285,Karlsson i Huskvarna, F Göran, 1:325,Karlsson i Mariefred, K Gösta, 1:254,Karlsson i Hallsberg, Hans T 1,2:278,Karlsson i Ronneby, Helge G, 1:409,Karlsson i Bengtsfors, K Ingvar, 2:170,Karlsson i Skänninge, Marianne E, 1:285,Karlsson i Grillby, Mats 0,1:223,Karlsson i Granbergsdal, E Ola, 2:279,Karlsson i Malungsfors, K Ove, 2:340,Karlsson i Skelleftehamn, E Rinaldo, 2:453,Karlsson i Motala, Sonia C, 1:285,Karlsson i Motala, Torsten A, 1:286
-,Keen i Göteborg, Kerstin, 2:100 
-,Kempe i Västra Frölunda, Maj, 2:100 
-,Kenneryd i Unnaryd, Rolf E, 2:59 
-,Kihlberg i Göteborg, S Stefan T, 2:340 
-,Kindbom i Stenstorp, Bengt M L, 2:216 
-,Kjörnsberg i Borås, K Arne, 2:191 
-,Klevenås i Alingsås, Lena R M, 2:170 
-,Kling i Skara, Peter S G, 1:469 
-,Klingvall i Norrköping, E Maj-Inger, 1:286 
-,Klöver i Värnamo, A Helge M, 1:326 
-,Knutson i Karlstad, Göthe K L, 2:248 
-,Knöös-Franzén i Växjö, I A Kristina, 1:354 
-,Koch i Täby, Inger B, 1:161,Komstedt i Brösarp, P L Wiggo, 1:435 
-,Konradsson i Hällefors, senare Örebro, B Ingemar, 2:279
-,Korpås i Uppsala, B G Sture, 1:223 
-,Kristenson i Göteborg, E Valter, 2:101 
-,Kristensson i Stockholm, senare Väderstad, Astrid M, 1:89 
-,Kristersson i Stockholm, Ulf H, 1:90 
-,Kristiansson i Harplinge, N Axel, 2:60,Kristiansson i Örkelljunga, Svante A, 1:435 
-,Kronblad i Kalmar, Bengt W, 1:374 
-,Kronmark i Södra Vi, Eric A, 1:375 
-,Källstad i Göteborg, E Thorvald, 2:101 
-,Körlof i Falun, Björn H B, 2:341
-,Laag i Indal, Ann-Mari, 2:401 
-,Lagergren i Linköping, A Maria, 1:287
-,Landberg i Norrköping, Maj-Lis H A, 1:288 
-,Lander i Torsby, Jarl, 2:249 
-,Landerholm i Strängnäs, C Henrik J, 1:254 
-,Lange i Stockholm, N Gunnar, 1:507 
-,Lantz i Skogås, W Inga B, 1:162,Lantz i Helsingborg, N Kenneth I, 1:469 
-,Larfors i Katrineholm, E V Tage, 1:255 
-,Larsson i Saltsjö-Boo, Allan Y G, 1:326,Larsson i Borrby, K Einar A, 1:436,Larsson i Öskeviksby, Erik, 2:280,Larsson i Luttra, Gunnar KV, 2:216,Larsson i Vänersborg, K Herbert, 2:171,Larsson i Tomelilla, Kaj E 1,1:437,Larsson i Lotorp, Lars E, 1:288,Larsson i Vänersborg, Lars-Åke G, 2:171,Larsson i Ljungsbro, K B Roland, 1:289,Larsson i Umeå, K S Sigvard, 2:454,Larsson i Staffanstorp, L Thorsten, 1:507,Larsson i Göteborg, L Torgny, 2:102,Larsson i Karlskoga, K Åke, 2:280,Leander i Grytgöl, senare Finspång, B E Ingemar, 1:290,Lében i Kristinehamn, B Roland, 2:249 
-,Leghammar i Torup, Hans L, 2:61 
-,Leijon i Järfälla, Anna-Greta M, 1:162 
-,Leijonborg i Solna, senare Stockholm, Lars E A, 1:163
-,Leissner i Stockholm, A Maria, 1:90 
-,Lekberg i Södertälje, Sören 0,1:164 
-,Lennmarker i Nacka, R Göran, 1:165 
-,Lestander i Arjeplog, S Paul, 2:481 
-,Leuchovius i Värsås, senare Skövde, Karl G W, 2:217,Lewén-Eliasson i Huddinge, Anna-Lisa, 1:165 
-,Levin i Lund, Karl-Axel, 1:470 
-,Lidbom i Stockholm, Carl G, 1:290 
-,Lidgård i Stockholm, senare Falsterbo och Lund, H Bertil 1,1:90 
-,Liliedahl i Danderyd, Simon, 2:103 
-,Liljegren i Södertälje, Gunnel, 1:166 
-,Lindahl i Lidingö, Essen HG, 1:166,Lindahl i Hamburgsund, Torkel R N, 2:137 
-,Lindberg i Kalix, O Arne, 2:481,Lindberg i Umeå, Mats I A, 2: 454,Lindberg i Hammarstrand, Sven J, 2:427,Lindberg i Frövi, M Sylvia, 2:281 
-,Lindblad i Karlstad, Gullan B K, 2:250,Lindblad i Gävle, Hans B, 2:369
-,Lindblom i Västervik, K Christer, 1:376 
-,Linderholm i Stockholm, Christina, 1:91 
-,Lindgren i Bromma, Jill E E, 1:92,Lindgren i Stockholm, A Sylvia, 1:92,Lindh i Uppsala, senare Grillby, Y Anna M, 1:224 
-,Lindkvist i Vällingby, Oskar W, 1:93 
-,Lindquist i Göteborg, Inger G, 2:103 
-,Lindqvist i Tyresö, Bengt O L, 1:94 
-,Lindström i Boden, R Olle A, 2:482,Lindström i Karlskrona, Ralf E, 1:410 
-,Littmarck i Bromma, Blenda M W, 1:94 
-,Ljungberg i Uppsala, Blenda M, 1:225,Ljungberg i Ingmarsö, Lars S, 1:167 
-,Lorentzon i Kramfors, B Gustav L, 2:402,Lorentzon i Ätran, Sven Eric, 2:61
-,Lothigius i Örserumsbrunn, Carl-Wilhelm, 1:327,Ludvigsson i Torshälla, Ingrid M, 1:256 
-,Luksep i Farsta, Peeter, 1:95 
-,Lundberg i Skellefteå, Carin 1,2:455,Lundberg i Örebro, Inger, 2:282,Lundberg i Uppsala, John I, 1:225,Lundberg i Sollefteå, Sven G, 2:402 
-,Lundblad i Helsingborg, Grethe, 1:470 
-,Lundgren i Kristianstad, Bo A M, 1:437,Lundgren i Rosersberg, A Carl-Eric, 1:167,Lundgren i Skärhamn, Kent R, 2:137 
-,Lundkvist i Eskilstuna, K Svante, 1:256 
-,Lyngå i Furulund, L Gösta, 1:508 
-,Löfberg i Stockholm, Bertil A F, 2:370 
-,Löfgreen i Norsholm, Pehr H H, 1:291 
-,Löfgren i Malmö, N Sigfrid J, 1:471 
-,Löfstedt i Linköping, Berit K, 1:291 
-,Lönnqvist i Tyresö, Ulf R, 1:168 
-,Lönnroth i Göteborg, Johan M, 2:103 
-,Lövdén i Malmö, Lars-Erik, 1:471
-,Lövenborg i Luleå, Alf A, 2:482 
-,Lööw i Mariefred, Maj-Lis H, 1:257
-,Magnusson i Jönköping, senare Nennesholm, S Arne E, 1:328,Magnusson i Köping, K E Göran 2:310,Magnusson i Kristinehamn, John A, 2:251,Magnusson i Grebbestad, Nils B, 2:138,Magnusson i Borås, A Tage, 2:192 
-,Marcusson i Västerås, Eric R, 2:311 
-,Marklund i Kiruna, Eivor I, 2:483,Marklund i Lillpite, Leif, 2:483
-,Martinger i Huddinge, D Jerry C, 1:169 
-,Mathsson i Fagersta, Karl-Gustaf, 2:311 
-,Mattson i Göteborg, senare Vendelsö, Handen och åter Göteborg, Lisa, 2:104 
-,Mattsson i Skee, Kjell A, 2:138,Mattsson i Lane-Herrestad, S M Lennart, 2:139 
-,Melin i Värnamo, Ulf S, 1:329 
-,Mellqvist i Falun, S Arne V, 2:342,Mellqvist i Korsnäs, senare Falun och Vika, Sven A, 2:342 
-,Messing i Söderhamn, Ulrica A I, 2:371 
-,Mikaelsson i Vännäs, Maggi K M, 2:455 
-,Moberg i Vällingby, Sven T, 2:282,Modin i Vällingby, Anita, 1:96 
-,Mogård i Tullinge, senare Ösmo, Britt E T, 1:169 
-,Molén i Sundsvall, Per-Richard, 2:403 
-,Molin i Göteborg, Björn A, 2:105 
-,Montalvo i Bålsta, Max U L, 2:312 
-,Moquist i Trekanten, A Lars O, 2:218 
-,Mossberg i Munkfors, K Holger, 2:251 
-,Mossberger i Getinge, Eric G V, 2:61 
-,Mundebo i Lidingö, K A Ingemar, 1:170 
-,Munke i Asmundtorp, Sven Y, 1:472 
-,Måbrink i Gävle, Bertil U, 2:371 
-,Mårtensson i Ystad, Alvar G G, 1:509
-,Mårtensson i Brännö, Ingela B, 2:106,Mårtensson i Färila, A Iris, 2:372,Möller i Göteborg, S A Birger, 2:107,Möller i Västervik, Ewy L, 1:376,Möller i Gävle, Yngve A, 2:373 
-,Mörck i Förslöv, Margareta, 1:438
-,Nelander i Trelleborg, Eric M, 1:509 
-,Nettelbrandt i Solna, A Cecilia, 1:171 
-,Nilson i Sveg, Eivor B, 2:428 
-,Nilson i Lund, Rolf L, 1:473 
-,Nilsson i Kvänum, Anders, 2:218,Nilsson i Hammarslund, senare Kristianstad, Anna- Lisa, 1:439,Nilsson i Örnsköldsvik, Barbro, 2:404,Nilsson i Visby, Barbro I, 1:96,Nilsson i Kalmar, Bernt I, 1:377,Nilsson i Östersund, E Birger, 2:429,Nilsson i Landskrona, Bo L, 1:473,Nilsson i Kristianstad, K Börje, 1:439,Nilsson i Höstbäck, Carl G, 1:292,Nilsson i Norrköping, H Christer, 1:292,Nilsson i Sunne, Elvy 1,2:252,Nilsson i Stockholm, Gunnar E, 1:172
-,Nilsson i Eslöv, N Gunnar A, 1:510,Nilsson i Tvärålund, Jan-Ivan N, 2:456,Nilsson i Ängelholm, Kaj I, 1:440,Nilsson i Övertorneå, R Kerstin, 2:484,Nilsson i Växjö, Kjell O H, 1:354,Nilsson i Uddevalla, K Lennart, 2:140,Nilsson i Gislaved, J Martin H, 1:329,Nilsson i Visby, Per-Axel E, 1:394,Nilsson i Agnäs, Tore U, 2:457,Nilsson i Stockholm, H Torsten L, 1:97,Nilsson i Trobro, N Yngve, 1:440
-,Nisser i Karlstad, Per-Erik C, 2:252 
-,Norberg i Glanshammar, Gudrun B, 2:283,Norberg i Vrångö, Lars A, 1:293 
-,Nordberg i Trångsund, S Ivar, 1:173 
-,Nordgren i Söderhamn, Hans P W, 2:373 
-,Nordh i Norrahammar, Nils G, 1:330 
-,Nordin i Skorped, senare Sollefteå, Sven-Eric, 2:404,Nordlander i Johanneshov, A Karin M, 1:97 
-,Nordlund i Vännäsby, Sven-Olof, 2:457 
-,Nordstrandh i Göteborg, Ove H, 2:107 
-,Nordström i Skara, Kjell A E, 2:219,Nordström i Lund, Marie C, 1:474,Norinder i Kilafors, Patrik R:son, 2:374 
-,Norling i Sollentuna, Bengt O, 2:484 
-,Normark i Boliden, Hagar M, 2:458 
-,Norrby i Gunnarskog, Karl-Eric, 2:253
-,Norrby i Åkersberga, J Sören, 1:174 
-,Nygren i Umeå, Arne J, 2:459,Nygren i Kungälv, Ing-Britt, 2:141 
-,Nygårds i Bromma, Sven-Åke, 1:98 
-,Nyhage i Kinna, Hans B, 2:193 
-,Nyquist i Uppsala, P Ola G B, 1:226,Nyquist i Grangärde, S Yngve, 2:343 
-,Näslund i Billdal, Ingrid S K, 2:108
-,Odell i Vallentuna, Mats C J, 1:175 
-,Odelsparr i Alnö, Margit E, 2:405 
-,Odenberg i Stockholm, Mikael Lson, 1:99 
-,Ohlin i Kvibille, T Maja, 2:62 
-,Olhede i Stockholm, K Sven-Göran, 2:141 
-,Ollén i Malmö, R Joakim, 1:474 
-,Olson i Kristianstad, Bengt Harding, 1:441 
-,Olsson i Helsingborg, Alma L, 1:475,Olsson i Kil, E Billy, 2:254,Olsson i Hölö, Elvy E, 1:175,Olsson i Sollefteå, K Erik, 2:406
-,Olsson i Edane, M Gunnar, 2:254,Olsson i Järvsö, Johan A, 2:375,Olsson i Sösdala, Karl Erik T, 1:442,Olsson i Lysekil, Kent B L, 2:142,Olsson i Brastad, Leif E H, 2:142,Olsson i Sundsvall, N Martin, 2:406,Olsson i Asarum, Mats GG, 1:410,Olsson i Timrå, Stig E, 2:407,Olsson i Stockholm, B B Sune, 1:99 
-,Orring i Umeå, Ulla B, 2:459 
-,Oscarsson i Arboga, J L Berit K, 2:312 
-,Oskarson i Halmstad, K F Gunnar, 2:63 
-,Oskarsson i Ankarsrum, O Gunnar, 1:377,Oskarsson i Grimslöv, Ingegärd J, 1:354 
-,Ottosson i Liden, Roy E M, 2:408
-,Palm i Sollentuna, N Sture, 1:176,Palm i Tanumshede, R E Sverre, 2:143 
-,Palme i Stockholm, S Olof J, 1:100 
-,Palmerlund i Bromma, Barbro E, 1:71 
-,Palmqvist i Tumba, I Margareta, 1:177 
-,Paterson i Lerum, Sten Sture, 2:172 
-,Pehrsson i Hyssna, Maj R, 2:194 
-,Persson i Tystberga, Anita T E, 1:258,Persson i Heden, N Arne, 2:194,Persson i Bocksjöby, E K Elisabeth, 1:294,Persson i Malmö, S E Bertil, 1:475,Persson i Köping, Carl Olov G, 2:313,Persson i Uppsala, Gustav B, 1:227,Persson i Katrineholm, senare Malmö, H Göran, 1:258,Persson i Kopparberg, Karl-Erik, 2:284,Persson i Stockholm, I Kristina, 1:101,Persson i Idre, K Leo, 2:344,Persson i Karlstad, H Magnus W, 2:255
-,Persson i Bromma, E Margareta, 1:101,Persson i Västra Frölunda, M L My, 2:108,Persson i Landskrona, P O Sigvard, 1:476,Persson i Höganäs, Siw M, 1:511,Persson i Appuna, senare Skänninge, Sven G F, 1:294,Persson i Stockholm, E Yngve, 1:102,Persson i Landskrona, P Åke A, 1:476 
-,Peterson i Linköping, Eric G H, 1:295,Peterson i Karlskrona, Göte R, 1:411,Peterson i Nacka, Thage EG, 1:177 
-,Petersson i Nybro, G Å Bertil, 1:378,Petersson i Värnamo, Esse A S, 1:330,Petersson i Hallstahammar, Hans E, 2:313,Petersson i Röstånga, Hans E, 1:511
-,Petersson i Ronneby, Karl-Anders P, 1:411,Petersson i Gäddvik, Per M, 2:485,Petersson i Torhamn, Sven-Olof H, 1:412 
-,Pettersson i Malmö, Alf S, 1:477,Pettersson i Malmö, S Arne, 1:477,Pettersson i Vätö, Christina L B, 1:178,Pettersson i Visby, A Georg, 1:395,Pettersson i örebro, A Georg, 2:284,Pettersson i Luleå, Göte J, 2:486,Pettersson i Helsingborg, Hans A, 1:478,Pettersson i Kvänum, Harald AI, 2:220,Pettersson i Lund, N Lennart, 1:479,Pettersson i Västerås, Rune V, 2:314,Pettersson i Stockholm, Sixten G, 1:102,Pettersson i Vallentuna, Sylvia BE, 1:179,Pettersson i Visby, Ulla G K, 1:395 
-,Pilsäter i Tullinge, A Karin, 1:179 
-,Pohanka i Borlänge, Ragnhild L M, 2:345 
-,Polstam i Linköping, K Åke S, 1:295 
-,Poromaa i Kiruna, Bruno 0, 2:486 
-,Prytz i Göteborg, Jan L, 2:109 
-,Påhlsson i Ånge, Tage L, 2:408 
-,Pålsson i Fliseryd, Chatrine B L, 1:378
-,Radesjö i Surte, G Wivi-Anne, 2:172 
-,Raneskog i Alingsås, O Gunde, 2:173 
-,Ragnarsson i Norberg, Jan-Olof K, 2:314 
-,Rask i Berdaryd, Karl A, 1:331 
-,Regnéll i Lund, Carl Göran, 1:480 
-,Reinfeldt i Täby, J Fredrik, 1:180 
+Q96982125,Fransson i Landsbro, Arne A E, 1:320Q5740624,Fransson i Mariestad, Jan A A, 2:209 
+Q21570585,Franzén i Göteborg, Elisabet K, 2:89
+Q5740872,Franzén i Kungsbacka, Ivar H E, 2:55Q5740878,Franzén i Skruv, Jan-Olof B, 1:348Q5740956,Franzén i Motala, F Oscar, 1:281Q5741003,Franzén i Farsta, senare Vällingby, J Tommy, 1:72Q4948781,Franzén i Enebyberg, Vivianne M, 1:150 
+Q4948794,Frebran i Örebro, I Rose-Marie, 2:274 
+Q97013129,Fredgardh i Kämpinge, K Sonja I, 1:500 
+Q97013163,Fredrikson i Svanesund, Märta E B, 2:132 
+Q5742215,Fredriksson i Grängesberg, K Torsten, 2:334 
+Q5742656,Fremling i Borlänge, B Lennart, 2:334 
+Q5743490,Frick i Hjo, Carl E G, 2:210Q5743710,Fridén i Göteborg, H Lennart K, 2:89 
+Q5743823,Fridolfsson i Vällingby, Filip W, 1:73Q5743831,Fridolfsson i Rödeby, A Nils U, 1:407 
+Q4916267,Friggebo i Stockholm, Birgit IG, 1:73
+Q98556674,Frändås i Årås, S G Berit, 2:189 
+Q4949277,Furubjelke i Söderköping, M Viola E, 1:281 
+Q5747727,Furustrand i Eskilstuna, Reynoldh K A, 1:249 
+Q96983205,Fågelsbo i Sala, E Anton, 2:303Q53721,Fälldin i Ramvik, N O Thorbjörn, 2:394
+Q5863281,Gadd i Uppsala, P E Arne, 1:219 
+Q980319,Gahrton i Lund, senare Nacka och Hörby, C Per G, 1:463Q4949486,Gard i Ludvika, Margareta A, 2:335 
+Q4949515,Gardner i Åkersberga, K Ingela, 1:151 
+Q4794565,Geijer i Bromma, K Arne, 1:151Q2130664,Geijer i Stockholm, J Lennart, 1:74 
+Q4949761,Gellerman i Floda, Kerstin I, 2:165 
+Q4949792,Gennser i Malmö, S Margit, 1:464 
+Q4753781,Gernandt i Arboga, Anders K S, 2:304 
+Q5759675,Gillström i Gävle, K Åke, 2:366
+Q5388596,Glimnér i Arkösund, J Erik, 1:282Q10667542,Godin i Sundsvall, N Sigge, 2:395Q4950339,Goés i Härnösand, Eva C, 1:152Q5766619,Grabo i Stockholm, Paul E, 1:75Q459226,Gradin i Vällingby, senare Bromma, Anita 1,1:76Q5766898,Graf i Halmstad, Carl Fredrik A, 2:56Q5767496,Grahn i Falköping, E Olle, 2:210Q5768614,Granstedt i Järna, Pär E, 1:153Q5768681,Granström i Ludvika, Per Erik, 2:336Q5769170,Grauers i Partille, Stig B, 2:132Q5388602,Grebäck i Knutby, Erik H, 1:154Q5770090,Green i Avesta, H Åke H, 2:336Q97065645,Grönhagen i Kramfors, Nils-Olof, 2:396Q5774706,Grönvall i Onsala, Nic E, 2:56Q5777440,Gustafson i Göteborg, Sven H, 2:90Q96982951,Gustafsson i Säffle, K G Allan, 2: 243
+Q98538756,Gustafsson i Brunsbo, Anne-Marie, 2:211Q5777671,Gustafsson i Uddevalla, M Gunnar, 2:133Q97039437,Gustafsson i Göteborg, E Gösta, 2:90Q5777699,Gustafsson i Kallinge, Hans I, 1:408Q5777750,Gustafsson i Götene, Holger O, 2:211Q5777857,Gustafsson i Barkarby, Lars 1,1:155Q5777943,Gustafsson i Byske, Nils-Eric, 2:449Q5777951,Gustafsson i Svenstavik, Nils-Olof, 2:426Q21567756,Gustafsson i Bromma, Stig G, 1:77Q6131173,Gustafsson i Stenkyrka, C E Torsten, 1:393Q5778140,Gustafsson i Borås, K G Wilhelm, 2:190 
+Q5778281,Gustavsson i Eskilstuna, Bengt T, 1:250Q5778331,Gustavsson i Ängelholm, Gusti L A, 1:432Q5778433,Gustavsson i Alvesta, K Rune, 1:348Q4951588,Gustavsson i Ryssby, Stina E L, 1:349Q5778494,Gustavsson i Nässjö, Åke E G, 1:320
+Q97971276,Gårdestig i Forserum, Märtha I, 1:321 
+Q5780291,Göransson i Farsta, Bengt G I, 2:91Q5780429,Göransson i Arboga, J Olle, 2:305 
+Q21567827,Göthberg i Västerås, Kerstin V, 2:305
+Q21572124,Hagberg i Örebro, Helge M H, 2:275Q5781951,Hagberg i Borlänge, Lars-Ove, 2:337 
+Q5420791,Hagel i Göteborg, Rolf, 2:91 
+Q4951954,Haglund i Kumla, Ann-Cathrine, 2:276Q5782529,Haglund i Gävle, F Anders, 2:366Q5782706,Hagnell i Stockholm, senare Gävle, Hans, 1:78 
+Q5782782,Hagström i Sandviken, Karl G, 2:367 
+Q5782917,Hagård i Vadstena, A Birger, 1:283 
+Q97013187,Hallenius i Saleby, G Ingemar, 2:212 
+Q96980120,Hallgren i Göteborg, Karl A E, 2:92 
+Q4952263,Halvarsson i Kristinehamn, Isa A-M, 2:243
+Q4952297,Hambraeus i Orsa, S Birgitta, 2:337 
+Q5785982,Hamilton i Täby, Carl P B, 1:156 
+Q5786495,Hammar i Stockholm, Bo L, 1:79 
+Q21578743,Hammarbacken i Hallsberg, Britta K M, 2:276 
+Q5786657,Hammarberg i Västerås, Sven 0,2:306 
+Q5787435,Hamrin i Kalmar, Mac T P, 1:371 
+Q4692974,Hansson i Gamleby, E Agne A, 1:372Q5788984,Hansson i Göteborg, J Bertil, 2:92Q19521136,Hansson i Hällåkra, U Håkan, 1:500Q4952607,Hansson i Gävle, Ing-Marie, 2:367Q4952624,Hansson i Umeå, Lilly E, 2:450Q5789491,Hansson i Skegrie, Nils G, 1:501Q4952898,Hasselström Nyvall i Nybro, Ingrid B, 1:373 
+Q97971262,Hed i Malmköping, S Maria, 1:251 
+Q5795147,Hedberg i Halmstad, Evert S, 2:57 
+Q5795789,Hedfors i Markaryd, Lars R, 1:349 
+Q5795851,Hedin i Bergshammar, Carl Eric, 1:251 
+Q4972614,Hedkvist Petersen i Luleå, Ewa M, 2:476 
+Q514209,Hedlund i Rådom, senare Lidingö, Gunnar, 1:79, 2:397
+Q5796375,Hedquist i Uppsala, K J Lennart, 1:219 
+Q5796614,Hedström i Harads, T Uno V E, 2:477 
+Q98668809,Hedvall i Tullinge, Yvonne M, 1:156 
+Q1635136,Hegeland i Göteborg, Hugo O, 2:93 
+Q4953330,Heister i Danderyd, G Chris, 1:157 
+Q376484,Helén i Saltsjö-Duvnäs, senare Växjö, N Gunnar, 1:80 
+Q5799722,Hellström i Stockholm, Mats J, 1:81 
+Q4953552,Hemmingsson i Östersund, Ingrid J M, 2:427Q4955985,Hemmingsson i Västerås, G Margareta, 2:307Q5800743,Henmark i Hässleholm, Martin R C:son, 1:432 
+Q5800971,Henningsson i Helsingborg, H Einar G M, 1:465 
+Q97097226,Henricsson i Hoting, Sven R, 2:398 
+Q5801307,Henrikson i Linköping, Lars G, 1:283 
+Q4953630,Henriksson i Hallstahammar, Birgit K, 2:307 
+Q441891,Hermansson i Stockholm, Carl-Henrik, 1:82Q96981405,Hermansson i Malmberget, K Ivar, 2:477 
+Q5802833,Hernelius i Stockholm, J Allan, 1:83 
+Q4953866,Hestvik i Borlänge, Inger D M, 2:338 
+Q5804686,Heyman i Västra Frölunda, Tom, 2:94 
+Q98539326,Hjalmarsson i Säter, Birgit, 2:339
+Q460919,Hjelm-Wallén i Sala, Lena B, 2:308 
+Q97040428,Hjelmström i Stockholm, I Eva K, 1:84 
+Q5807574,Hjertén i Tidaholm, Lars E, 2:213 
+Q5807811,Hjorth i Österbybruk, Nils T, 1:220 
+Q5807875,Hjortzberg-Nordlund i Särö, Hans G V, 2:58 
+Q887398,Holmberg i Härnösand, Bo L, 2:398Q5810917,Holmberg i Uppsala, Håkan 0,1:221
+Q3374305,Holmberg i Stockholm, Yngve, 1:84 
+Q5811663,Holmkvist i Luleå, J Erik, 2:478Q2345137,Holmqvist i Malmö, senare Kallhäll, Eric B, 1:465Q4954609,Holmqvist i Svalöv, A Mary S, 1:502 
+Q5812045,Holmsten i Bergsjö, H Lennart, 2:368 
+Q4954776,Horn af Rantzien i Solna, Anna B S, 1:158 
+Q5814651,Hovhammar i Lindshammar, senare Växjö, L Erik E, 1:350 
+Q5816085,Hugosson i Göteborg, Kurt I, 2:95 
+Q5816531,Hulterström i Göteborg, Sven Å, 2:96 
+Q4768957,Hulthén i Göteborg, Anneli M, 2:97 
+Q5817672,Hurtig i Piteå, Bengt V, 2:478 
+Q21544243,Husing i Lycksele, A Eivor I, 2:451 
+Q5818799,Hyltander i Töreboda, K Gunnar E, 2:213 
+Q21567861,Hyttring i Karlstad, Jan E, 2:244 
+Q96982420,Håkansson i Rönneberga, Alfred L, 1:466
+Q4955350,Håkansson i Karlskrona, Margot I, 1:409Q5820191,Håkansson i Trelleborg, Per Olof, 1:502 
+Q4955378,Håvik i Göteborg, I Doris H, 2:97 
+Q5819040,Hägelmark i Ängelholm, S Eric L, 1:433 
+Q918261,Hägglund i Bankeryd, B Göran, 1:322 
+Q4955284,Häggmark i Skärhamn, Siri I K, 2:134 
+Q5819406,Häggroth i Kiruna, Sören 1, 2:479 
+Q5819505,Häll i Malmberget, Karl-Erik, 2:479 
+Q4753779,Högmark i Växjö, Anders G, 1:351 
+Q5820937,Högström i Kramfors, Ivar, 2:399 
+Q1357206,Hökmark i Stockholm, A Gunnar, 1:158 
+Q5821272,Hörberg i Göteborg, Nils A, 2:98 
+Q4955495,Hörlén i Jönköping, E Linnea, 1:322 
+Q5005171,Hörnlund i Skellefteå, O Börje, 2:451Q4955515,Hörnlund i Borås, Gördis K, 2:190
+Q97029523,Ingvar-Svensson i Svalöv, Inger M, 1:503 
+Q4955783,Ingvardsson i Sundbyberg, Margo, 1:85 
+Q4955842,Irhammar i Ängelholm, Ingbritt M, 1:434 
+Q4955982,Israelsson i Gargnäs, Karin B, 2:452Q4955985,Israelsson i Västerås, G Margareta, 2:307Q96981306,Israelsson i Karlskoga, Per J, 2:277
+Q97065459,Jacobsson i Åkarp, Egon O, 1:504Q52677515,Jacobsson i Helsingborg, senare Stockholm, Ulla 1,1:467 
+Q5826817,Jadestig i Hallstahammar, Thure R, 2:309 
+Q21578771,Janson i Säffle, K Erik J, 2:245Q5828563,Jansson i Hudiksvall, Arne F, 2:246Q5879815,Jansson i Moholm, Paul G, 2:214 
+Q5881540,Jenevall i Älvängen, Bo G, 1:86 
+Q5881641,Jennehag i Söråker, Jan B, 2:400
+Q18243057,Johanson i Västervik, Eric W, 1:373 
+Q4765556,Johansson i Nacka, S Anita, 1:159Q4895688,Johansson i Holstorp, N Bertil M, 1:352Q4956917,Johansson i Tidaholm, Birgitta K, 2:215Q5885967,Johansson i Simrishamn, Erik V, 1:434Q97013026,Johansson i Hållsta, J Erik, 1:159Q4956970,Johansson i Upplands Väsby, Eva M, 1:160Q96983325,Johansson i Holmgården, N Filip, 2:480Q97012521,Johansson i Vrångebäck, Gunnar A, 2:135Q5886301,Johansson i Trollhättan, K Hilding, 2:167Q4956996,Johansson i Angered, Inga-Britt B, 2:98Q4957018,Johansson i Hälleved, Kersti I S, 1:323Q5886806,Johansson i Mariefred, Kjell J1,1:252Q16649506,Johansson i Johanneshov, senare Stockholm, Knut B M, 1:86Q5886858,Johansson i Tygelsjö, Kurt Ove, 1:467
+Q5886933,Johansson i Ålberga, Larz A, 1:253Q4957065,Johansson i Backa, Marie-Ann, 2:99Q2021126,Johansson i Vällingby, senare Stockholm, S Olof H, 1:87Q5887544,Johansson i Dockered, senare, Sjövik, G Robert, 2:164Q17426180,Johansson i Åmål, Rune, 2:168Q5887636,Johansson i Ljungby, senare Stockholm, Rune B, 1:352Q5887630,Johansson i Norrköping, N Rune, 1:284Q97061977,Johansson i Arvika, Sune G, 2:246Q5887855,Johansson i Skärstad, Sven A B, 1:323Q5887928,Johansson i Jönköping, N Tage, 1:324Q97030883,Johansson i Uddevalla, Tyra A S, 2:136Q21567811,Johansson i Hovmantorp, Ulla S, 1:353Q3369258,Johansson i Tumba, Ylva J M, 1:88Q97045791,Johnsson i Holm, senare Kvibille, Ella I, 2:58Q5889482,Johnsson i Trollhättan, Ingvar Å R, 2:168Q5889525,Johnsson i Blentarp, John E, 1:504Q97046134,Johnsson i Mölndal, Rune S G, 2:136
+Q5890277,Jonasson i Ekshärad, J E Bertil, 2:247 
+Q5891144,Jonnergård i Södertälje, Gustaf H, 1:160 
+Q5891385,Jonsson i Mora, Anders E, 2:339Q5891526,Jonsson i Alingsås, Elver A D, 2:169Q5891616,Jonsson i Kaxholmen, Göte E V, 1:324Q5891990,Jonsson i Husum, S A Rune, 2:401 
+Q4957384,Jonäng i Bollnäs, Gunnel M, 2:368 
+Q98556529,Jordan i Rönninge, Kerstin R, 1:161 
+Q5892602,Josefson i Arrie, Stig A, 1:505 
+Q5892646,Josefsson i Halmstad, H Gösta A, 2:59Q97251912,Josefsson i Stavared, Inger A-L, 2:191Q5893076,Jousma i Åkers styckebruk, L Robert, 1:222 
+Q5716511,Järrel i Stockholm, Henrik S, 1:88 
+Q4765559,Jönsson i Lomma, S Anita, 1:506Q5895841,Jönsson i Malmö, Eric L, 1:468
+Q5895894,Jönsson i Arlöv, Hans E, 1:506Q4957716,Jönsson i Degerhamn, J Marianne, 1:374
+Q5896499,Kaaling i Uppsala, Björn L, 1:222 
+Q97013194,Karlehagen i Örebro, Sigvard H, 2:278 
+Q352831,Karlsson i Skara, Bert W, 1:285Q2954414,Karlsson i Huskvarna, F Göran, 1:325Q96775449,Karlsson i Mariefred, K Gösta, 1:254Q5901060,Karlsson i Hallsberg, Hans T 1,2:278Q5901468,Karlsson i Ronneby, Helge G, 1:409Q5901520,Karlsson i Bengtsfors, K Ingvar, 2:170Q21733290,Karlsson i Skänninge, Marianne E, 1:285Q98937482,Karlsson i Grillby, Mats 0,1:223Q5901914,Karlsson i Granbergsdal, E Ola, 2:279Q5901935,Karlsson i Malungsfors, K Ove, 2:340Q5902036,Karlsson i Skelleftehamn, E Rinaldo, 2:453Q4958180,Karlsson i Motala, Sonia C, 1:285Q21567818,Karlsson i Motala, Torsten A, 1:286
+Q4958448,Keen i Göteborg, Kerstin, 2:100 
+Q116149882,Kempe i Västra Frölunda, Maj, 2:100 
+Q5906383,Kenneryd i Unnaryd, Rolf E, 2:59 
+Q5908653,Kihlberg i Göteborg, S Stefan T, 2:340 
+Q5909746,Kindbom i Stenstorp, Bengt M L, 2:216 
+Q4794608,Kjörnsberg i Borås, K Arne, 2:191 
+Q4959099,Klevenås i Alingsås, Lena R M, 2:170 
+Q5913938,Kling i Skara, Peter S G, 1:469 
+Q4959140,Klingvall i Norrköping, E Maj-Inger, 1:286 
+Q21558213,Klöver i Värnamo, A Helge M, 1:326 
+Q5915963,Knutson i Karlstad, Göthe K L, 2:248 
+Q21558212,Knöös-Franzén i Växjö, I A Kristina, 1:354 
+Q4959318,Koch i Täby, Inger B, 1:161Q5918403,Komstedt i Brösarp, P L Wiggo, 1:435 
+Q21567800,Konradsson i Hällefors, senare Örebro, B Ingemar, 2:279
+Q96775409,Korpås i Uppsala, B G Sture, 1:223 
+Q5923238,Kristenson i Göteborg, E Valter, 2:101 
+Q4959880,Kristensson i Stockholm, senare Väderstad, Astrid M, 1:89 
+Q1780398,Kristersson i Stockholm, Ulf H, 1:90 
+Q4830309,Kristiansson i Harplinge, N Axel, 2:60Q5923374,Kristiansson i Örkelljunga, Svante A, 1:435 
+Q5923998,Kronblad i Kalmar, Bengt W, 1:374 
+Q5925133,Kronmark i Södra Vi, Eric A, 1:375 
+Q5928428,Källstad i Göteborg, E Thorvald, 2:101 
+Q5929222,Körlof i Falun, Björn H B, 2:341
+Q97031152,Laag i Indal, Ann-Mari, 2:401 
+Q97065131,Lagergren i Linköping, A Maria, 1:287
+Q4960703,Landberg i Norrköping, Maj-Lis H A, 1:288 
+Q5933636,Lander i Torsby, Jarl, 2:249 
+Q6146756,Landerholm i Strängnäs, C Henrik J, 1:254 
+Q6146893,Lange i Stockholm, N Gunnar, 1:507 
+Q21567757,Lantz i Skogås, W Inga B, 1:162Q5935536,Lantz i Helsingborg, N Kenneth I, 1:469 
+Q5935863,Larfors i Katrineholm, E V Tage, 1:255 
+Q4730772,Larsson i Saltsjö-Boo, Allan Y G, 1:326Q5937280,Larsson i Borrby, K Einar A, 1:436Q5388685,Larsson i Öskeviksby, Erik, 2:280Q5619070,Larsson i Luttra, Gunnar KV, 2:216Q5937667,Larsson i Vänersborg, K Herbert, 2:171Q5937869,Larsson i Tomelilla, Kaj E 1,1:437Q5937997,Larsson i Lotorp, Lars E, 1:288Q97039443,Larsson i Vänersborg, Lars-Åke G, 2:171Q5938612,Larsson i Ljungsbro, K B Roland, 1:289Q5938690,Larsson i Umeå, K S Sigvard, 2:454Q5938913,Larsson i Staffanstorp, L Thorsten, 1:507Q5938964,Larsson i Göteborg, L Torgny, 2:102Q5939077,Larsson i Karlskoga, K Åke, 2:280Q5942309,Leander i Grytgöl, senare Finspång, B E Ingemar, 1:290Q5942609,Lében i Kristinehamn, B Roland, 2:249 
+Q5944151,Leghammar i Torup, Hans L, 2:61 
+Q1796120,Leijon i Järfälla, Anna-Greta M, 1:162 
+Q946818,Leijonborg i Solna, senare Stockholm, Lars E A, 1:163
+Q4961647,Leissner i Stockholm, A Maria, 1:90 
+Q5945618,Lekberg i Södertälje, Sören 0,1:164 
+Q4411204,Lennmarker i Nacka, R Göran, 1:165 
+Q5947788,Lestander i Arjeplog, S Paul, 2:481 
+Q96984479,Leuchovius i Värsås, senare Skövde, Karl G W, 2:217Q4961902,Lewén-Eliasson i Huddinge, Anna-Lisa, 1:165 
+Q5948576,Levin i Lund, Karl-Axel, 1:470 
+Q5950208,Lidbom i Stockholm, Carl G, 1:290 
+Q5950329,Lidgård i Stockholm, senare Falsterbo och Lund, H Bertil 1,1:90 
+Q5951320,Liliedahl i Danderyd, Simon, 2:103 
+Q4962158,Liljegren i Södertälje, Gunnel, 1:166 
+Q5953083,Lindahl i Lidingö, Essen HG, 1:166Q5953246,Lindahl i Hamburgsund, Torkel R N, 2:137 
+Q5953373,Lindberg i Kalix, O Arne, 2:481Q16633210,Lindberg i Umeå, Mats I A, 2: 454Q5954016,Lindberg i Hammarstrand, Sven J, 2:427Q4989071,Lindberg i Frövi, M Sylvia, 2:281 
+Q4962481,Lindblad i Karlstad, Gullan B K, 2:250Q5954195,Lindblad i Gävle, Hans B, 2:369
+Q5954333,Lindblom i Västervik, K Christer, 1:376 
+Q97971279,Linderholm i Stockholm, Christina, 1:91 
+Q4962758,Lindgren i Bromma, Jill E E, 1:92Q4962783,Lindgren i Stockholm, A Sylvia, 1:92Q208591,Lindh i Uppsala, senare Grillby, Y Anna M, 1:224 
+Q5956968,Lindkvist i Vällingby, Oskar W, 1:93 
+Q4962867,Lindquist i Göteborg, Inger G, 2:103 
+Q5957403,Lindqvist i Tyresö, Bengt O L, 1:94 
+Q5958748,Lindström i Boden, R Olle A, 2:482Q21558216,Lindström i Karlskrona, Ralf E, 1:410 
+Q4963176,Littmarck i Bromma, Blenda M W, 1:94 
+Q406161,Ljungberg i Uppsala, Blenda M, 1:225Q98538739,Ljungberg i Ingmarsö, Lars S, 1:167 
+Q5963514,Lorentzon i Kramfors, B Gustav L, 2:402Q5963543,Lorentzon i Ätran, Sven Eric, 2:61
+Q5963832,Lothigius i Örserumsbrunn, Carl-Wilhelm, 1:327Q4963832,Ludvigsson i Torshälla, Ingrid M, 1:256 
+Q5965375,Luksep i Farsta, Peeter, 1:95 
+Q4963953,Lundberg i Skellefteå, Carin 1,2:455Q4963957,Lundberg i Örebro, Inger, 2:282Q5965908,Lundberg i Uppsala, John I, 1:225Q5966052,Lundberg i Sollefteå, Sven G, 2:402 
+Q4964010,Lundblad i Helsingborg, Grethe, 1:470 
+Q2448370,Lundgren i Kristianstad, Bo A M, 1:437Q98538782,Lundgren i Rosersberg, A Carl-Eric, 1:167Q21745498,Lundgren i Skärhamn, Kent R, 2:137 
+Q5967249,Lundkvist i Eskilstuna, K Svante, 1:256 
+Q21731075,Lyngå i Furulund, L Gösta, 1:508 
+Q5969341,Löfberg i Stockholm, Bertil A F, 2:370 
+Q5969402,Löfgreen i Norsholm, Pehr H H, 1:291 
+Q5969487,Löfgren i Malmö, N Sigfrid J, 1:471 
+Q4964571,Löfstedt i Linköping, Berit K, 1:291 
+Q5969868,Lönnqvist i Tyresö, Ulf R, 1:168 
+Q5969883,Lönnroth i Göteborg, Johan M, 2:103 
+Q3218127,Lövdén i Malmö, Lars-Erik, 1:471
+Q5969972,Lövenborg i Luleå, Alf A, 2:482 
+Q4964703,Lööw i Mariefred, Maj-Lis H, 1:257
+Q5971917,Magnusson i Jönköping, senare Nennesholm, S Arne E, 1:328Q5972016,Magnusson i Köping, K E Göran 2:310Q96980907,Magnusson i Kristinehamn, John A, 2:251Q5972104,Magnusson i Grebbestad, Nils B, 2:138Q5972180,Magnusson i Borås, A Tage, 2:192 
+Q5976015,Marcusson i Västerås, Eric R, 2:311 
+Q4966043,Marklund i Kiruna, Eivor I, 2:483Q5976928,Marklund i Lillpite, Leif, 2:483
+Q5978301,Martinger i Huddinge, D Jerry C, 1:169 
+Q97065567,Mathsson i Fagersta, Karl-Gustaf, 2:311 
+Q4966432,Mattson i Göteborg, senare Vendelsö, Handen och åter Göteborg, Lisa, 2:104 
+Q5980017,Mattsson i Skee, Kjell A, 2:138Q5980025,Mattsson i Lane-Herrestad, S M Lennart, 2:139 
+Q5983926,Melin i Värnamo, Ulf S, 1:329 
+Q21572126,Mellqvist i Falun, S Arne V, 2:342Q5984109,Mellqvist i Korsnäs, senare Falun och Vika, Sven A, 2:342 
+Q4967115,Messing i Söderhamn, Ulrica A I, 2:371 
+Q4967270,Mikaelsson i Vännäs, Maggi K M, 2:455 
+Q5989925,Moberg i Vällingby, Sven T, 2:282Q4967716,Modin i Vällingby, Anita, 1:96 
+Q4967758,Mogård i Tullinge, senare Ösmo, Britt E T, 1:169 
+Q5991010,Molén i Sundsvall, Per-Richard, 2:403 
+Q5991041,Molin i Göteborg, Björn A, 2:105 
+Q5991911,Montalvo i Bålsta, Max U L, 2:312 
+Q5992996,Moquist i Trekanten, A Lars O, 2:218 
+Q5995156,Mossberg i Munkfors, K Holger, 2:251 
+Q5995172,Mossberger i Getinge, Eric G V, 2:61 
+Q5996964,Mundebo i Lidingö, K A Ingemar, 1:170 
+Q21731260,Munke i Asmundtorp, Sven Y, 1:472 
+Q6000064,Måbrink i Gävle, Bertil U, 2:371 
+Q6000480,Mårtensson i Ystad, Alvar G G, 1:509
+Q4968703,Mårtensson i Brännö, Ingela B, 2:106Q4968706,Mårtensson i Färila, A Iris, 2:372Q6000869,Möller i Göteborg, S A Birger, 2:107Q21567799,Möller i Västervik, Ewy L, 1:376Q6001307,Möller i Gävle, Yngve A, 2:373 
+Q4968791,Mörck i Förslöv, Margareta, 1:438
+Q6004883,Nelander i Trelleborg, Eric M, 1:509 
+Q4969234,Nettelbrandt i Solna, A Cecilia, 1:171 
+Q98556497,Nilson i Sveg, Eivor B, 2:428 
+Q6009395,Nilson i Lund, Rolf L, 1:473 
+Q6009605,Nilsson i Kvänum, Anders, 2:218Q4969559,Nilsson i Hammarslund, senare Kristianstad, Anna- Lisa, 1:439Q97258376,Nilsson i Örnsköldsvik, Barbro, 2:404Q97119947,Nilsson i Visby, Barbro I, 1:96Q6009809,Nilsson i Kalmar, Bernt I, 1:377Q6009843,Nilsson i Östersund, E Birger, 2:429Q6009898,Nilsson i Landskrona, Bo L, 1:473Q6009920,Nilsson i Kristianstad, K Börje, 1:439Q6009961,Nilsson i Höstbäck, Carl G, 1:292Q18244622,Nilsson i Norrköping, H Christer, 1:292Q96983918,Nilsson i Sunne, Elvy 1,2:252Q5619091,Nilsson i Stockholm, Gunnar E, 1:172
+Q6010314,Nilsson i Eslöv, N Gunnar A, 1:510Q6010633,Nilsson i Tvärålund, Jan-Ivan N, 2:456Q6010812,Nilsson i Ängelholm, Kaj I, 1:440Q97097194,Nilsson i Övertorneå, R Kerstin, 2:484Q6010899,Nilsson i Växjö, Kjell O H, 1:354Q6011035,Nilsson i Uddevalla, K Lennart, 2:140Q6011182,Nilsson i Gislaved, J Martin H, 1:329Q97030392,Nilsson i Visby, Per-Axel E, 1:394Q6012116,Nilsson i Agnäs, Tore U, 2:457Q241035,Nilsson i Stockholm, H Torsten L, 1:97Q6012223,Nilsson i Trobro, N Yngve, 1:440
+Q6012742,Nisser i Karlstad, Per-Erik C, 2:252 
+Q4989365,Norberg i Glanshammar, Gudrun B, 2:283Q6013871,Norberg i Vrångö, Lars A, 1:293 
+Q6014287,Nordberg i Trångsund, S Ivar, 1:173 
+Q6157349,Nordgren i Söderhamn, Hans P W, 2:373 
+Q6157362,Nordh i Norrahammar, Nils G, 1:330 
+Q97029691,Nordin i Skorped, senare Sollefteå, Sven-Eric, 2:404Q4970068,Nordlander i Johanneshov, A Karin M, 1:97 
+Q98271441,Nordlund i Vännäsby, Sven-Olof, 2:457 
+Q6016028,Nordstrandh i Göteborg, Ove H, 2:107 
+Q6016190,Nordström i Skara, Kjell A E, 2:219Q4970175,Nordström i Lund, Marie C, 1:474Q6016840,Norinder i Kilafors, Patrik R:son, 2:374 
+Q6017016,Norling i Sollentuna, Bengt O, 2:484 
+Q4970289,Normark i Boliden, Hagar M, 2:458 
+Q6017373,Norrby i Gunnarskog, Karl-Eric, 2:253
+Q6017415,Norrby i Åkersberga, J Sören, 1:174 
+Q6019483,Nygren i Umeå, Arne J, 2:459Q21567755,Nygren i Kungälv, Ing-Britt, 2:141 
+Q6019721,Nygårds i Bromma, Sven-Åke, 1:98 
+Q6019726,Nyhage i Kinna, Hans B, 2:193 
+Q6020260,Nyquist i Uppsala, P Ola G B, 1:226Q6020275,Nyquist i Grangärde, S Yngve, 2:343 
+Q4970689,Näslund i Billdal, Ingrid S K, 2:108
+Q571725,Odell i Vallentuna, Mats C J, 1:175 
+Q97050936,Odelsparr i Alnö, Margit E, 2:405 
+Q719015,Odenberg i Stockholm, Mikael Lson, 1:99 
+Q97065480,Ohlin i Kvibille, T Maja, 2:62 
+Q6024791,Olhede i Stockholm, K Sven-Göran, 2:141 
+Q6025320,Ollén i Malmö, R Joakim, 1:474 
+Q6026206,Olson i Kristianstad, Bengt Harding, 1:441 
+Q96982284,Olsson i Helsingborg, Alma L, 1:475Q6026596,Olsson i Kil, E Billy, 2:254Q4971112,Olsson i Hölö, Elvy E, 1:175Q97263333,Olsson i Sollefteå, K Erik, 2:406
+Q97061982,Olsson i Edane, M Gunnar, 2:254Q6027171,Olsson i Järvsö, Johan A, 2:375Q6027273,Olsson i Sösdala, Karl Erik T, 1:442Q6027303,Olsson i Lysekil, Kent B L, 2:142Q6027374,Olsson i Brastad, Leif E H, 2:142Q6027471,Olsson i Sundsvall, N Martin, 2:406Q96983715,Olsson i Asarum, Mats GG, 1:410Q6027994,Olsson i Timrå, Stig E, 2:407Q96774944,Olsson i Stockholm, B B Sune, 1:99 
+Q4971355,Orring i Umeå, Ulla B, 2:459 
+Q4971402,Oscarsson i Arboga, J L Berit K, 2:312 
+Q6030099,Oskarson i Halmstad, K F Gunnar, 2:63 
+Q110129747,Oskarsson i Ankarsrum, O Gunnar, 1:377Q57304579,Oskarsson i Grimslöv, Ingegärd J, 1:354 
+Q6068448,Ottosson i Liden, Roy E M, 2:408
+Q6033276,Palm i Sollentuna, N Sture, 1:176Q6033286,Palm i Tanumshede, R E Sverre, 2:143 
+Q53713,Palme i Stockholm, S Olof J, 1:100 
+Q4971770,Palmerlund i Bromma, Barbro E, 1:71 
+Q4971799,Palmqvist i Tumba, I Margareta, 1:177 
+Q21578772,Paterson i Lerum, Sten Sture, 2:172 
+Q96982763,Pehrsson i Hyssna, Maj R, 2:194 
+Q4972450,Persson i Tystberga, Anita T E, 1:258Q6042620,Persson i Heden, N Arne, 2:194Q4972485,Persson i Bocksjöby, E K Elisabeth, 1:294Q6042676,Persson i Malmö, S E Bertil, 1:475Q6042706,Persson i Köping, Carl Olov G, 2:313Q21694233,Persson i Uppsala, Gustav B, 1:227Q53747,Persson i Katrineholm, senare Malmö, H Göran, 1:258Q6043198,Persson i Kopparberg, Karl-Erik, 2:284Q4972535,Persson i Stockholm, I Kristina, 1:101Q6043314,Persson i Idre, K Leo, 2:344Q6043337,Persson i Karlstad, H Magnus W, 2:255
+Q26211952,Persson i Bromma, E Margareta, 1:101Q4972558,Persson i Västra Frölunda, M L My, 2:108Q97156005,Persson i Landskrona, P O Sigvard, 1:476Q4972566,Persson i Höganäs, Siw M, 1:511Q6043780,Persson i Appuna, senare Skänninge, Sven G F, 1:294Q6043923,Persson i Stockholm, E Yngve, 1:102Q6043931,Persson i Landskrona, P Åke A, 1:476 
+Q6044981,Peterson i Linköping, Eric G H, 1:295Q96983571,Peterson i Karlskrona, Göte R, 1:411Q2408431,Peterson i Nacka, Thage EG, 1:177 
+Q6044930,Petersson i Nybro, G Å Bertil, 1:378Q6045358,Petersson i Värnamo, Esse A S, 1:330Q21544248,Petersson i Hallstahammar, Hans E, 2:313Q6045408,Petersson i Röstånga, Hans E, 1:511
+Q21733239,Petersson i Ronneby, Karl-Anders P, 1:411Q6045525,Petersson i Gäddvik, Per M, 2:485Q6045607,Petersson i Torhamn, Sven-Olof H, 1:412 
+Q6046583,Pettersson i Malmö, Alf S, 1:477Q6161277,Pettersson i Malmö, S Arne, 1:477Q4972727,Pettersson i Vätö, Christina L B, 1:178Q6046795,Pettersson i Visby, A Georg, 1:395Q6161310,Pettersson i örebro, A Georg, 2:284Q6046869,Pettersson i Luleå, Göte J, 2:486Q21544254,Pettersson i Helsingborg, Hans A, 1:478Q6046890,Pettersson i Kvänum, Harald AI, 2:220Q6161344,Pettersson i Lund, N Lennart, 1:479Q97012473,Pettersson i Västerås, Rune V, 2:314Q6047368,Pettersson i Stockholm, Sixten G, 1:102Q21614203,Pettersson i Vallentuna, Sylvia BE, 1:179Q4972780,Pettersson i Visby, Ulla G K, 1:395 
+Q4972961,Pilsäter i Tullinge, A Karin, 1:179 
+Q4973156,Pohanka i Borlänge, Ragnhild L M, 2:345 
+Q6052911,Polstam i Linköping, K Åke S, 1:295 
+Q6053983,Poromaa i Kiruna, Bruno 0, 2:486 
+Q97097168,Prytz i Göteborg, Jan L, 2:109 
+Q97971232,Påhlsson i Ånge, Tage L, 2:408 
+Q4973700,Pålsson i Fliseryd, Chatrine B L, 1:378
+Q21578741,Radesjö i Surte, G Wivi-Anne, 2:172 
+Q97013183,Raneskog i Alingsås, O Gunde, 2:173 
+Q97971237,Ragnarsson i Norberg, Jan-Olof K, 2:314 
+Q6063791,Rask i Berdaryd, Karl A, 1:331 
+Q6066319,Regnéll i Lund, Carl Göran, 1:480 
+Q52920,Reinfeldt i Täby, J Fredrik, 1:180 
 ,Rejdnell i Oskarshamn, Eric H, 1:379 
 ,Rembo i Göteborg, Sonja M H, 2:109 
 ,Remgård i Falkenberg, Arne K-E, 2:63 
