@@ -1141,7 +1141,7 @@ Q5757569,Gezelius i Falun, L E Birger, 5:63
 Q5757573,Gezelius i Falun, L Emil, 5:63
 Q5864724,Gibson i Jonsered, J Jimmy, 4:85
 Q5864749,Gibson i Jonsered, William, 4:85
-Q116199773,Gilljam i Stockholm, Gustaf F, 1:91, 5:135 
+Q5759618,Gilljam i Stockholm, Gustaf F, 1:91, 5:135 
 Q4950085,Gillner-Ringenson i Norrköping, Sigrid M F, 2:69
 Q5759661,Gillström i Sundsvall senare Skönsberg, Anselm K, 5:221
 Q5760576,Giöbel i Harge senare Stockholm, C Albert, 4:484
