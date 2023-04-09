@@ -7,6 +7,7 @@
   * [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
 * [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
 * Lagrummet.se och [överklagan till Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/3)
+* Projektet Välfärden analyseras
 * ...
 
 * [Projektkyrkogården](https://github.com/salgo60/DiggUptime/issues/77)
