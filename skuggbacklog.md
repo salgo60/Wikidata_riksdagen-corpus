@@ -12,5 +12,5 @@
 * Välfärden analyseras - kör själva för allt [https://github.com/welfare-state-analytics/riksdagen-corpus/issues?q=is%3Aissue+ GITHUB issues] 
 * [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3) - finns lite spretigt på [https://gitlab.com/groups/sarskilt-viktiga-datamangder/-/issues GITLAB]
 * ...
-
+### Misc
 * [Projektkyrkogården](https://github.com/salgo60/DiggUptime/issues/77)
