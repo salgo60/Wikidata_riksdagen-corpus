@@ -1,7 +1,7 @@
 # Wikidata / riksdagen-corpus
 
 * [Riksdagens Öppna data skuggbacklog](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
-* [Sveriges Riksdag 1867–2022: Ett ekosystem av länkad öppen data](https://www.umu.se/nyheter/5-miljoner-till-forskning-om-lankad-parlamentariska-data_11678700/))
+* [Sveriges Riksdag 1867–2022: Ett ekosystem av länkad öppen data](https://www.umu.se/nyheter/5-miljoner-till-forskning-om-lankad-parlamentariska-data_11678700)
 
 repository also for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) with the [Welfare State Analytics project](https://www.westac.se/en/)(sv. Välfärdsstaten analyserad) and the [riksdagen-corpus](https://github.com/welfare-state-analytics/riksdagen-corpus)
 
