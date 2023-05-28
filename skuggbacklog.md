@@ -15,7 +15,7 @@ Tanken med skuggbackloggar är att då informationsägaren inte kan hantera en p
 
 [![image](https://github.com/salgo60/Wikidata_riksdagen-corpus/assets/14206509/581fd162-a733-4acf-8ec7-614a16ad825c)](https://forum.jobtechdev.se/t/har-ni-input-till-varens-meetups/263/3?u=salgo60)
 
-### Myndigheter
+### Myndigheter et al där vi startat skapa en skuggbacklog
 * [Riksdagens Öppna data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
 * [Myndigheten DIGG](https://github.com/salgo60/DiggUptime/issues/47)
 * [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)
