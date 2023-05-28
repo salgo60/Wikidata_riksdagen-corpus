@@ -1,4 +1,10 @@
 ## Skuggbackloggar
+
+Tanken med skuggvackloggar är att då informationsögaren inte kan hantera en publik prioriterad backlog så skapar vi "detta" med en skuggbacklog med saker vi ser saknas jmf [design pattern proxy](https://refactoring.guru/design-patterns/proxy)
+
+ ![image](https://github.com/salgo60/Wikidata_riksdagen-corpus/assets/14206509/44e76a1b-ed61-49cf-8308-1d657c2aa826)
+
+
 ### Myndigheter
 * [Riksdagens Öppna data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
 * [Myndigheten DIGG](https://github.com/salgo60/DiggUptime/issues/47)
