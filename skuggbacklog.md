@@ -1,3 +1,12 @@
+
+* [Riksdagens Öppna data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
+* [Myndigheten DIGG](https://github.com/salgo60/DiggUptime/issues/47)
+* [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)
+* [RAÄ](https://github.com/salgo60/SamlaLibris/issues/10)
+* [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
+  * [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
+* [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
+
 ## Skuggbackloggar
 
 Tanken med skuggbackloggar är att då informationsägaren inte kan hantera en publik prioriterad backlog så skapar vi "detta" med en skuggbacklog med saker vi ser saknas jmf [design pattern proxy](https://refactoring.guru/design-patterns/proxy)
