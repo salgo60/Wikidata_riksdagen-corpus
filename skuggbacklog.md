@@ -6,6 +6,8 @@
 * [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
   * [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
 * [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
+* Välfärdsstaten analyserad / riksdagen-corpus [feedback](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164)
+
 
 ## Skuggbackloggar
 
