@@ -8,7 +8,7 @@
 * [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
 * Välfärdsstaten analyserad / riksdagen-corpus [feedback](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164) - forskningsprojekt som skapar bra data
    * största problemet att inga persisteta identifierare skapats okt 2023 [#269](https://github.com/welfare-state-analytics/riksdagen-corpus/issues/269) det skulle ha skapats dag 0 - min tro digital omognad att jobba med källor och brist på ett ekosystem, vi ser samma brist på ett eget wikidata med KB:s Tidningsarkiv [#133](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/153)
-* Regeringskansliet och Domstolsverket har haft sedan 1999 på sig att skapa ett Rättsinformation SFS 1999:175 men idag 2023 har inget levererats se [dialog med Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/5) mer [om projektet](https://github.com/salgo60/LagrummetLight)
+* Regeringskansliet och Domstolsverket har haft sedan 1999 på sig att skapa ett Rättsinformation [SFS 1999:175](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/rattsinformationsforordning-1999175_sfs-1999-175/) men idag 2023 har inget levererats se [dialog med Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/5) mer [om projektet](https://github.com/salgo60/LagrummetLight)
 
 
 ## Skuggbackloggar
