@@ -6,7 +6,8 @@
 * [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
   * [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
 * [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
-* Välfärdsstaten analyserad / riksdagen-corpus [feedback](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164)
+* Välfärdsstaten analyserad / riksdagen-corpus [feedback](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164) - forskningsprojekt som skapar bra data
+* Regeringskansliet och Domstolsverket har haft sedan 1999 på sig att skapa ett Rättsinformation SFS 1999:175 men idag 2023 har inget levererats se [dialog med Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/5) mer [om projektet](https://github.com/salgo60/LagrummetLight)
 
 
 ## Skuggbackloggar
