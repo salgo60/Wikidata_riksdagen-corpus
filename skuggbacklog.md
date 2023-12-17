@@ -1,3 +1,16 @@
+
+* [Riksdagens Öppna data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
+* [Myndigheten DIGG](https://github.com/salgo60/DiggUptime/issues/47)
+* [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)
+* [RAÄ](https://github.com/salgo60/SamlaLibris/issues/10)
+* [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
+  * [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
+* [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
+* Välfärdsstaten analyserad / riksdagen-corpus [feedback](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164) - forskningsprojekt som skapar bra data
+   * största problemet att inga persisteta identifierare skapats okt 2023 [#269](https://github.com/welfare-state-analytics/riksdagen-corpus/issues/269) det skulle ha skapats dag 0 - min tro digital omognad att jobba med källor och brist på ett ekosystem, vi ser samma brist på ett eget wikidata med KB:s Tidningsarkiv [#133](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/153)
+* Regeringskansliet och Domstolsverket har haft sedan 1999 på sig att skapa ett Rättsinformation [SFS 1999:175](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/rattsinformationsforordning-1999175_sfs-1999-175/) men idag 2023 har inget levererats se [dialog med Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/5) mer [om projektet](https://github.com/salgo60/LagrummetLight)
+
+
 ## Skuggbackloggar
 
 Tanken med skuggbackloggar är att då informationsägaren inte kan hantera en publik prioriterad backlog så skapar vi "detta" med en skuggbacklog med saker vi ser saknas jmf [design pattern proxy](https://refactoring.guru/design-patterns/proxy)
@@ -21,7 +34,7 @@ Tanken med skuggbackloggar är att då informationsägaren inte kan hantera en p
 [<img width="1365" alt="image" src="https://github.com/salgo60/Wikidata_riksdagen-corpus/assets/14206509/ff321034-2d65-419f-98bf-e99e4dd46abd">](https://js.histropedia.com/apps/query-timeline/index.html?q=SELECT%20distinct%20?person%20?personLabel%20(SAMPLE(?SPA)%20AS%20?SPA)%20%20(sample(?bild)%20AS%20?bild)%20%0A?birth%20?death%20?partyLabel%20WHERE%20%7B%0A%0A%20%20VALUES%20?member%20%7B%0A%20%20%20%20wd:Q33071890%20%0A%20%20%20%20wd:Q81531912%20%0A%20%20%20%20wd:Q82697153%20%0A%20%20%20%20wd:Q10655178%20%0A%20%20%7D%0A%20%20?person%20wdt:P39%20?member;%0A%20%20%20%20wdt:P1343%20?source.%0A%20%20?person%20p:P1343%20?pTva.%0A%20%20OPTIONAL%7B?person%20wdt:P102%20?party%7D%0A%20%20OPTIONAL%7B?person%20wdt:P569%20?birth%7D%0A%20%20OPTIONAL%7B?person%20wdt:P570%20?death%7D%0A%20%20OPTIONAL%20%7B?pTva%20ps:P1343%20wd:Q110346241.%0A%20%20?pTva%20prov:wasDerivedFrom%20%5B%20pr:P4819%20?SPAid%20%5D.%7D%0A%0A%20%20OPTIONAL%20%7B?person%20wdt:P18%20?bild%7D.%0A%20%0A%20%20BIND(URI(CONCAT(%22https://portrattarkiv.se/details/%22,?SPAid))%20AS%20?SPA)%0A%0A%20%20SERVICE%20wikibase:label%20%7B%20bd:serviceParam%20wikibase:language%20%22sv,en%22.%20%7D%0A%7D%20GROUP%20BY%20%20?person%20?personLabel%20%20?death%20?birth%20?partyLabel%0Aorder%20by%20?partyLabel&md=true&g=article&l=SPA&t=personLabel&s=birth&e=death&i=bild&d=0&c=partyLabel&f=partyLabel&v=t)
 
 
-### Myndigheter et al där vi startat skapa en skuggbacklog
+### Myndigheter et al där vi har en skuggbacklog
 * [Riksdagens Öppna data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
 * [Myndigheten DIGG](https://github.com/salgo60/DiggUptime/issues/47)
 * [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)

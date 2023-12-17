@@ -2,6 +2,8 @@
 
 * [Riksdagens Öppna data skuggbacklog](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
 * [Sveriges Riksdag 1867–2022: Ett ekosystem av länkad öppen data](https://www.umu.se/nyheter/5-miljoner-till-forskning-om-lankad-parlamentariska-data_11678700)
+   * [Malmö Universitet - Sveriges Riksdag 1867–2022: Ett ekosystem av länkad öppen data](https://mau.se/forskning/projekt/sveriges-riksdag-ett-ekosystem-av-lankad-oppen-data/)
+   * [Party formations and party splits in the Swedish Riksdag 1867–1970](https://swerik-project.github.io/blog/2023/Party-formations-and-party-splits-in-the-Swedish-Riksdag-1867-1970/)
 
 repository also for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) with the [Welfare State Analytics project](https://www.westac.se/en/)(sv. Välfärdsstaten analyserad) and the [riksdagen-corpus](https://github.com/welfare-state-analytics/riksdagen-corpus)
 
