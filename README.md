@@ -11,6 +11,7 @@ repository also for matching [Wikidata](https://www.youtube.com/watch?v=m_9_23jX
 
 ## News 
 * **2023-12** last edit on wikipedia - [stat salgo60](https://wikidata.wikiscan.org/user/Salgo60)
+* **2023-12** [feedback researchproject Riksdagens Corpus #164](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164)
 * **2022-10-1** added a backlog of problems we see in the Swedish Riksdagens Open Data se [#50](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
 * **2022-04-04** connecting Wikidata to "Tvåkammar-riksdagen 1867-1970" see [issues/38](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38) 
 * **2022-02-21** connecting Wikidata to "Sveriges statskalender" see [issues/36](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/36) 
