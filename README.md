@@ -1,3 +1,5 @@
+DOI: [10.5281/zenodo.11183634](https://zenodo.org/doi/10.5281/zenodo.11183633)
+
 # Wikidata / riksdagen-corpus
 
 * [Riksdagens Öppna data skuggbacklog](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
