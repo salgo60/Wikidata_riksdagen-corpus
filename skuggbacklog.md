@@ -13,7 +13,7 @@
 * Regeringskansliet och Domstolsverket har haft sedan 1999 på sig att skapa ett Rättsinformation [SFS 1999:175](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/rattsinformationsforordning-1999175_sfs-1999-175/) men idag 2024 har inget levererats se [dialog med Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/5) mer [om projektet](https://github.com/salgo60/LagrummetLight)
 
 
-## Skuggbackloggar
+## Skuggbackloggar - varför behövs dom?
 
 Tanken med skuggbackloggar är att då informationsägaren inte kan hantera en publik prioriterad backlog så skapar vi "detta" med en skuggbacklog med saker vi ser saknas jmf [design pattern proxy](https://refactoring.guru/design-patterns/proxy)
 
