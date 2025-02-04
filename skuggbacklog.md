@@ -17,7 +17,7 @@
 
 Tanken med skuggbackloggar är att då informationsägaren inte kan hantera en publik prioriterad backlog så skapar vi "detta" med en skuggbacklog med saker vi ser saknas jmf [design pattern proxy](https://refactoring.guru/design-patterns/proxy)
 
-* **NÄR** nedanstående organisationer börjar jobba agilt kan vi skicka in vår skuggbacklog till deras backlog och förhoppningsvis få en feedback vad som kommer att göras eller ej se video "[Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)"
+* **NÄR** organisationer börjar jobba agilt kan vi skicka in vår skuggbacklog till deras backlog och förhoppningsvis få en feedback vad som kommer att göras eller ej se video "[Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)"
 
  ![image](https://github.com/salgo60/Wikidata_riksdagen-corpus/assets/14206509/44e76a1b-ed61-49cf-8308-1d657c2aa826)
 
