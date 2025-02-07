@@ -1,7 +1,9 @@
+# Skuggbackloggar - listor med issues som borde adresseras
 * [DIGG](https://github.com/salgo60/DiggUptime/issues/47)
 * [ESV](https://github.com/salgo60/ESV-skuggbacklog/issues/1)
 * [Kungliga biblioteket LibrisXL](https://github.com/salgo60/spa2Commons/issues/15)
-* [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)
+* Kommunernas data - tamt försök av skattebetalda externa konsulter [Nationell dataverkstad](https://github.com/salgo60/Anslagstavla/issues/3)
+  * försök få ordning på mycket enkel data om [kommunala badplatser](https://github.com/salgo60/Svenskabadplatser) och [kommuners utegym](https://github.com/salgo60/ProjectOutdoorGyms/issues?q=is%3Aissue) 
 * [RAÄ](https://github.com/salgo60/SamlaLibris/issues/10)
 * [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
   * [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
@@ -9,14 +11,14 @@
 * Välfärdsstaten analyserad / riksdagen-corpus [feedback](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164) - forskningsprojekt som skapar bra data
    * största problemet att inga persistenta identifierare skapats okt 2023 [#269](https://github.com/welfare-state-analytics/riksdagen-corpus/issues/269) det skulle ha skapats dag 0 - min tro digital omognad att jobba med källor och brist på ett ekosystem, vi ser samma brist på ett eget wikidata med KB:s Tidningsarkiv [#133](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/153)
    * vi ser även att forskarna jobbar i **datasilos** och vekar inte våga ställa krav på varandra. Extremt klantigt är att ett [projekt får pengar för att ange politikers platser i Riksdagen](https://github.com/welfare-state-analytics/riksdagen-corpus/issues/450#issuecomment-1904195910) men gör "egna namn" på vilken politiker man syftar på och sedan går det åt massa resurser att städa skitdatat = en sund organisation ställer tydliga krav på varandra och jobbar ihop känns inte som dom är rädda om våra skattepengar...
-* Regeringskansliet och Domstolsverket har haft sedan 1999 på sig att skapa ett Rättsinformation [SFS 1999:175](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/rattsinformationsforordning-1999175_sfs-1999-175/) men idag 2024 har inget levererats se [dialog med Regeringskansliet](https://github.com/salgo60/LagrummetLight/issues/5) mer [om projektet](https://github.com/salgo60/LagrummetLight)
+* Regeringskansliet och Domstolsverket har haft sedan 1999 på sig att skapa Rättsinformation beslutat i [SFS 1999:175](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/rattsinformationsforordning-1999175_sfs-1999-175/) men idag 2025 har inget levererats se [dialog med Regeringskansliet 2022](https://github.com/salgo60/LagrummetLight/issues/5) mer [om projektet](https://github.com/salgo60/LagrummetLight)
 
 
-## Skuggbackloggar
+## Skuggbackloggar - varför behövs dom?
 
 Tanken med skuggbackloggar är att då informationsägaren inte kan hantera en publik prioriterad backlog så skapar vi "detta" med en skuggbacklog med saker vi ser saknas jmf [design pattern proxy](https://refactoring.guru/design-patterns/proxy)
 
-* **NÄR** nedanstående organisationer börjar jobba agilt kan vi skicka in vår skuggbacklog till deras backlog och förhoppningsvis få en feedback vad som kommer att göras eller ej se video "[Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)"
+* **NÄR** organisationer börjar jobba agilt kan vi skicka in vår skuggbacklog till deras backlog och förhoppningsvis få en feedback vad som kommer att göras eller ej se video "[Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)"
 
  ![image](https://github.com/salgo60/Wikidata_riksdagen-corpus/assets/14206509/44e76a1b-ed61-49cf-8308-1d657c2aa826)
 
