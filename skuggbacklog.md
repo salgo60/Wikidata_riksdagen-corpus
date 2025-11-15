@@ -9,6 +9,7 @@
 * [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2)
   * [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
 * [Riksdagens Öppna data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50)
+* [SCB](https://github.com/salgo60/SCB-Wikidata/issues/1)
 * Välfärdsstaten analyserad / riksdagen-corpus [feedback](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/164) - forskningsprojekt som skapar bra data
    * största problemet att inga persistenta identifierare skapats okt 2023 [#269](https://github.com/welfare-state-analytics/riksdagen-corpus/issues/269) det skulle ha skapats dag 0 - min tro digital omognad att jobba med källor och brist på ett ekosystem, vi ser samma brist på ett eget wikidata med KB:s Tidningsarkiv [#133](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/153)
    * vi ser även att forskarna jobbar i **datasilos** och vekar inte våga ställa krav på varandra. Extremt klantigt är att ett [projekt får pengar för att ange politikers platser i Riksdagen](https://github.com/welfare-state-analytics/riksdagen-corpus/issues/450#issuecomment-1904195910) men gör "egna namn" på vilken politiker man syftar på och sedan går det åt massa resurser att städa skitdatat = en sund organisation ställer tydliga krav på varandra och jobbar ihop känns inte som dom är rädda om våra skattepengar...
