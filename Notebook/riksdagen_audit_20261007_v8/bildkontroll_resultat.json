@@ -2280,12 +2280,17 @@
     "kandidater": [],
     "epost": "hanna.scholander@riksdagen.se",
     "mejl_amne": "Porträttbild till Wikipedia under fri licens",
-    "mejl_text": "Hej Hanna Schölander,\n\nJag bidrar till Wikipedia och vill gärna att artikeln om dig ska kunna illustreras med en aktuell porträttbild. Skulle du kunna hjälpa oss genom att ladda upp en bild till Wikimedia Commons under en fri licens, exempelvis CC BY 4.0?\n\nHär finns Wikipedia-artiklarna om dig:\n- sv: Hanna Schölander – https://sv.wikipedia.org/wiki/Hanna_Sch%C3%B6lander\n\nDet kräver att fotografen eller den som äger rättigheterna godkänner licensen. Fotografen anges vid användning, och bilden får återanvändas och bearbetas, även i kommersiella sammanhang.\n\nDigg och PRV rekommenderar öppna licenser för offentlig information, som ett komplement till EU öppna data-direktiv från 2019 (https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32019L1024). Riksdagens nuvarande bildvillkor anger däremot ingen sådan tydlig fri licens för ledamöternas porträtt trots begäran om det.\n\nEn bild från dig vore ett konkret steg framåt. Jag hjälper gärna till med uppladdningen och uppgifter om fotograf och licens.\nDu får också gärna lyfta frågan inom riksdagen: varför inte publicera ledamöternas porträtt som ett samlat dataset med tydliga fria licenser?\nHjälp oss att komma vidare och göra våra folkvalda lättare att presentera på Wikipedia.\n\nVänliga hälsningar,\n<ange ditt namn>",
+    "mejl_text": "Hej Hanna Schölander,\n\nJag bidrar till Wikipedia och vill gärna att artikeln om dig ska kunna illustreras med en aktuell porträttbild. Skulle du kunna hjälpa oss genom att ladda upp en bild till Wikimedia Commons under en fri licens, exempelvis CC BY 4.0?\n\nHär finns Wikipedia-artiklarna om dig:\n- sv: Hanna Schölander – https://sv.wikipedia.org/wiki/Hanna_Sch%C3%B6lander\n- en: Hanna Schölander – https://en.wikipedia.org/wiki/Hanna_Sch%C3%B6lander\n\nDet kräver att fotografen eller den som äger rättigheterna godkänner licensen. Fotografen anges vid användning, och bilden får återanvändas och bearbetas, även i kommersiella sammanhang.\n\nDigg och PRV rekommenderar öppna licenser för offentlig information, som ett komplement till EU öppna data-direktiv från 2019 (https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32019L1024). Riksdagens nuvarande bildvillkor anger däremot ingen sådan tydlig fri licens för ledamöternas porträtt trots begäran om det.\n\nEn bild från dig vore ett konkret steg framåt. Jag hjälper gärna till med uppladdningen och uppgifter om fotograf och licens.\nDu får också gärna lyfta frågan inom riksdagen: varför inte publicera ledamöternas porträtt som ett samlat dataset med tydliga fria licenser?\nHjälp oss att komma vidare och göra våra folkvalda lättare att presentera på Wikipedia.\n\nVänliga hälsningar,\n<ange ditt namn>",
     "wikipedia": [
       {
         "sprak": "sv",
         "titel": "Hanna Schölander",
         "url": "https://sv.wikipedia.org/wiki/Hanna_Sch%C3%B6lander"
+      },
+      {
+        "sprak": "en",
+        "titel": "Hanna Schölander",
+        "url": "https://en.wikipedia.org/wiki/Hanna_Sch%C3%B6lander"
       }
     ],
     "sv_wikipedia": "ja",
