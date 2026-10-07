@@ -1,0 +1,12 @@
+{
+  "rapport_genererad_utc": "2026-10-07T11:28:50.171360+00:00",
+  "riksdagen_systemdatum": "2026-10-07 13:13:28",
+  "antal_personer": 349,
+  "status": {
+    "Saknar bild (P18)": 148,
+    "Har bild (P18)": 155,
+    "Ingen identifierarmatchning – kontrollera Wikidata": 45,
+    "Hittad via P1214 – saknar P8388": 1
+  },
+  "live_refresh": false
+}
