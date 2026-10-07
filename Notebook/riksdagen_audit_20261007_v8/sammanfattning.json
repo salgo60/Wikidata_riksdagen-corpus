@@ -1,12 +1,12 @@
 {
-  "rapport_genererad_utc": "2026-10-07T17:15:02.173434+00:00",
-  "riksdagen_systemdatum": "2026-10-07 16:20:41",
+  "rapport_genererad_utc": "2026-10-07T18:31:24.188510+00:00",
+  "riksdagen_systemdatum": "2026-10-07 20:28:26",
   "antal_personer": 349,
   "status": {
     "Saknar bild (P18)": 182,
     "Har bild (P18)": 167
   },
-  "live_refresh": false,
+  "live_refresh": true,
   "commons_statistik": {
     "parti": [
       {
