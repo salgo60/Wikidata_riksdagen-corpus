@@ -1,21 +1,21 @@
 {
-  "rapport_genererad_utc": "2026-10-08T05:55:26.832059+00:00",
-  "riksdagen_systemdatum": "2026-10-07 16:20:41",
+  "rapport_genererad_utc": "2026-10-08T06:58:00.927229+00:00",
+  "riksdagen_systemdatum": "2026-10-08 08:55:01",
   "antal_personer": 349,
   "status": {
-    "Saknar bild (P18)": 182,
-    "Har bild (P18)": 167
+    "Saknar bild (P18)": 180,
+    "Har bild (P18)": 169
   },
-  "live_refresh": false,
+  "live_refresh": true,
   "commons_statistik": {
     "parti": [
       {
         "grupp": "C",
         "antal_personer": 25,
-        "med_fri_commons_bild": 11,
-        "utan_commons_bild": 14,
+        "med_fri_commons_bild": 12,
+        "utan_commons_bild": 13,
         "licens_okand": 0,
-        "andel_procent": 44.0
+        "andel_procent": 48.0
       },
       {
         "grupp": "KD",
@@ -60,10 +60,10 @@
       {
         "grupp": "SD",
         "antal_personer": 62,
-        "med_fri_commons_bild": 33,
-        "utan_commons_bild": 29,
+        "med_fri_commons_bild": 34,
+        "utan_commons_bild": 28,
         "licens_okand": 0,
-        "andel_procent": 53.2
+        "andel_procent": 54.8
       },
       {
         "grupp": "V",
@@ -158,10 +158,10 @@
       {
         "grupp": "Skåne län",
         "antal_personer": 48,
-        "med_fri_commons_bild": 23,
-        "utan_commons_bild": 25,
+        "med_fri_commons_bild": 24,
+        "utan_commons_bild": 24,
         "licens_okand": 0,
-        "andel_procent": 47.9
+        "andel_procent": 50.0
       },
       {
         "grupp": "Stockholms län",
@@ -190,10 +190,10 @@
       {
         "grupp": "Värmlands län",
         "antal_personer": 10,
-        "med_fri_commons_bild": 3,
-        "utan_commons_bild": 7,
+        "med_fri_commons_bild": 4,
+        "utan_commons_bild": 6,
         "licens_okand": 0,
-        "andel_procent": 30.0
+        "andel_procent": 40.0
       },
       {
         "grupp": "Västerbottens län",

@@ -1,0 +1,297 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 47876356,
+        "ns": 6,
+        "title": "File:Mikael Eskilandersson.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Mikael_Eskilandersson.jpg/250px-Mikael_Eskilandersson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 289,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Mikael_Eskilandersson.jpg/500px-Mikael_Eskilandersson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Mikael_Eskilandersson.jpg/250px-Mikael_Eskilandersson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 289,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Mikael_Eskilandersson.jpg/500px-Mikael_Eskilandersson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mikael_Eskilandersson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mikael_Eskilandersson.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47876356",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/72178663@N06/9014340984/in/photolist-eJyRw9\">https://www.flickr.com/photos/72178663@N06/9014340984/in/photolist-eJyRw9</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Mikael Eskilandersson SD distrikt Syd",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 71500450,
+        "ns": 6,
+        "title": "File:Mauricio Rojas Mullor (official portrait).png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Mauricio_Rojas_Mullor_%28official_portrait%29.png/250px-Mauricio_Rojas_Mullor_%28official_portrait%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mauricio_Rojas_Mullor_%28official_portrait%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Mauricio_Rojas_Mullor_%28official_portrait%29.png/250px-Mauricio_Rojas_Mullor_%28official_portrait%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mauricio_Rojas_Mullor_%28official_portrait%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mauricio_Rojas_Mullor_%28official_portrait%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mauricio_Rojas_Mullor_(official_portrait).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71500450",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cultura.gob.cl/ministro-culturas/\">http://www.cultura.gob.cl/ministro-culturas/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Ministerio de las Culturas, Las Artes y el Patrimonio, Gobierno de Chile.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 cl",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 cl",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Estado de Chile",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/cl/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 122465176,
+        "ns": 6,
+        "title": "File:Mikael Dahlqvist.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Mikael_Dahlqvist.jpg/250px-Mikael_Dahlqvist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 288,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Mikael_Dahlqvist.jpg/500px-Mikael_Dahlqvist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Mikael_Dahlqvist.jpg/250px-Mikael_Dahlqvist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 288,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Mikael_Dahlqvist.jpg/500px-Mikael_Dahlqvist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Mikael_Dahlqvist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mikael_Dahlqvist.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122465176",
+            "extmetadata": {
+              "Credit": {
+                "value": "Sveriges socialdemokratiska arbetareparti (SAP)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Andreas Ericsson / Socialdemokratiska arbetarepartiet",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 186344015,
+        "ns": 6,
+        "title": "File:Member of European Parliament Ilan de Basso.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Member_of_European_Parliament_Ilan_de_Basso.jpg/250px-Member_of_European_Parliament_Ilan_de_Basso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 281,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Member_of_European_Parliament_Ilan_de_Basso.jpg/500px-Member_of_European_Parliament_Ilan_de_Basso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Member_of_European_Parliament_Ilan_de_Basso.jpg/250px-Member_of_European_Parliament_Ilan_de_Basso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 281,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Member_of_European_Parliament_Ilan_de_Basso.jpg/500px-Member_of_European_Parliament_Ilan_de_Basso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Member_of_European_Parliament_Ilan_de_Basso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Member_of_European_Parliament_Ilan_de_Basso.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186344015",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://multimedia.europarl.europa.eu/en/photo/ilan-de-basso-official-portrait-9th-parliamentary-term_20211214_EP-123730A_Ilan_DeBasso_122-2\">https://multimedia.europarl.europa.eu/en/photo/ilan-de-basso-official-portrait-9th-parliamentary-term_20211214_EP-123730A_Ilan_DeBasso_122-2</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "© European Union, 1998 – 2026",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "European Parliament",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "European Parliament",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "© European Union",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.europarl.europa.eu/legal-notice/",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 186344154,
+        "ns": 6,
+        "title": "File:Member of the European Parliament Jytte Gunlög Elisabeth Bengtsson Guteland.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg/250px-Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 279,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg/500px-Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg/250px-Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 279,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg/500px-Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Member_of_the_European_Parliament_Jytte_Gunl%C3%B6g_Elisabeth_Bengtsson_Guteland.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186344154",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://multimedia.europarl.europa.eu/en/photo/jytte-guteland-official-portrait-9th-parliamentary-term_20190606_GUTELAND_Jytte_SE_6\">https://multimedia.europarl.europa.eu/en/photo/jytte-guteland-official-portrait-9th-parliamentary-term_20190606_GUTELAND_Jytte_SE_6</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "© European Union, 1998 – 2026",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "European Parliament",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "European Parliament",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "© European Union",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.europarl.europa.eu/legal-notice/",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 73443620,
+        "ns": 6,
+        "title": "File:Lars Püss i valrörelsen 2018.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg/250px-Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 196,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg/500px-Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg/250px-Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 196,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg/500px-Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lars_P%C3%BCss_i_valr%C3%B6relsen_2018.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73443620",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gomanden&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gomanden (page does not exist)\">Gomanden</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 101836260,
+        "ns": 6,
+        "title": "File:Lawen2021.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lawen2021.jpg/250px-Lawen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 269,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lawen2021.jpg/500px-Lawen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lawen2021.jpg/250px-Lawen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 269,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lawen2021.jpg/500px-Lawen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lawen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lawen2021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101836260",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Riddartorget&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Riddartorget (page does not exist)\">Socialdemokraterna</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 120185585,
+        "ns": 6,
+        "title": "File:Leif Nysmed 2021.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Leif_Nysmed_2021.jpg/250px-Leif_Nysmed_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 199,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Leif_Nysmed_2021.jpg/500px-Leif_Nysmed_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Leif_Nysmed_2021.jpg/250px-Leif_Nysmed_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 199,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Leif_Nysmed_2021.jpg/500px-Leif_Nysmed_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Leif_Nysmed_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leif_Nysmed_2021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120185585",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Agj1998&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Agj1998 (page does not exist)\">Agj1998</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 133785022,
+        "ns": 6,
+        "title": "File:Lina Nordquist.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lina_Nordquist.jpg/250px-Lina_Nordquist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 255,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lina_Nordquist.jpg/500px-Lina_Nordquist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lina_Nordquist.jpg/250px-Lina_Nordquist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 255,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lina_Nordquist.jpg/500px-Lina_Nordquist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Lina_Nordquist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lina_Nordquist.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133785022",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josefine_Hellroth_Larsson_(WMSE)\" title=\"User:Josefine Hellroth Larsson (WMSE)\">Josefine Hellroth Larsson (WMSE)</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 199437811,
+        "ns": 6,
+        "title": "File:Linda Lindberg (SD) 2026.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Linda_Lindberg_%28SD%29_2026.jpg/250px-Linda_Lindberg_%28SD%29_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 198,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Linda_Lindberg_%28SD%29_2026.jpg/500px-Linda_Lindberg_%28SD%29_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Linda_Lindberg_%28SD%29_2026.jpg/250px-Linda_Lindberg_%28SD%29_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 198,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Linda_Lindberg_%28SD%29_2026.jpg/500px-Linda_Lindberg_%28SD%29_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Linda_Lindberg_%28SD%29_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Linda_Lindberg_(SD)_2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199437811",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:DIFFswe\" title=\"User:DIFFswe\">Frankie Fouganthin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

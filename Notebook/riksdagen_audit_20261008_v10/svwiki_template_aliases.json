@@ -1,1 +1,15 @@
-{"batchcomplete": true, "query": {"pages": [{"pageid": 1642633, "ns": 10, "title": "Mall:Illustrationsbehov-svensk politiker"}]}, "limits": {"redirects": 500}}
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1642633,
+        "ns": 10,
+        "title": "Mall:Illustrationsbehov-svensk politiker"
+      }
+    ]
+  },
+  "limits": {
+    "redirects": 500
+  }
+}
