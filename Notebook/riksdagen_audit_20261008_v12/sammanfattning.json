@@ -1,0 +1,248 @@
+{
+  "rapport_genererad_utc": "2026-10-08T10:43:39.920830+00:00",
+  "riksdagen_systemdatum": "2026-10-08 12:40:34",
+  "antal_personer": 349,
+  "status": {
+    "Saknar bild (P18)": 180,
+    "Har bild (P18)": 169
+  },
+  "live_refresh": true,
+  "commons_statistik": {
+    "parti": [
+      {
+        "grupp": "C",
+        "antal_personer": 25,
+        "med_fri_commons_bild": 12,
+        "utan_commons_bild": 13,
+        "licens_okand": 0,
+        "andel_procent": 48.0
+      },
+      {
+        "grupp": "KD",
+        "antal_personer": 22,
+        "med_fri_commons_bild": 10,
+        "utan_commons_bild": 12,
+        "licens_okand": 0,
+        "andel_procent": 45.5
+      },
+      {
+        "grupp": "L",
+        "antal_personer": 19,
+        "med_fri_commons_bild": 6,
+        "utan_commons_bild": 13,
+        "licens_okand": 0,
+        "andel_procent": 31.6
+      },
+      {
+        "grupp": "M",
+        "antal_personer": 70,
+        "med_fri_commons_bild": 26,
+        "utan_commons_bild": 44,
+        "licens_okand": 0,
+        "andel_procent": 37.1
+      },
+      {
+        "grupp": "MP",
+        "antal_personer": 22,
+        "med_fri_commons_bild": 12,
+        "utan_commons_bild": 10,
+        "licens_okand": 0,
+        "andel_procent": 54.5
+      },
+      {
+        "grupp": "S",
+        "antal_personer": 99,
+        "med_fri_commons_bild": 59,
+        "utan_commons_bild": 40,
+        "licens_okand": 0,
+        "andel_procent": 59.6
+      },
+      {
+        "grupp": "SD",
+        "antal_personer": 62,
+        "med_fri_commons_bild": 34,
+        "utan_commons_bild": 28,
+        "licens_okand": 0,
+        "andel_procent": 54.8
+      },
+      {
+        "grupp": "V",
+        "antal_personer": 30,
+        "med_fri_commons_bild": 10,
+        "utan_commons_bild": 20,
+        "licens_okand": 0,
+        "andel_procent": 33.3
+      }
+    ],
+    "lan": [
+      {
+        "grupp": "Blekinge län",
+        "antal_personer": 5,
+        "med_fri_commons_bild": 4,
+        "utan_commons_bild": 1,
+        "licens_okand": 0,
+        "andel_procent": 80.0
+      },
+      {
+        "grupp": "Dalarnas län",
+        "antal_personer": 11,
+        "med_fri_commons_bild": 4,
+        "utan_commons_bild": 7,
+        "licens_okand": 0,
+        "andel_procent": 36.4
+      },
+      {
+        "grupp": "Gotlands län",
+        "antal_personer": 2,
+        "med_fri_commons_bild": 1,
+        "utan_commons_bild": 1,
+        "licens_okand": 0,
+        "andel_procent": 50.0
+      },
+      {
+        "grupp": "Gävleborgs län",
+        "antal_personer": 10,
+        "med_fri_commons_bild": 5,
+        "utan_commons_bild": 5,
+        "licens_okand": 0,
+        "andel_procent": 50.0
+      },
+      {
+        "grupp": "Hallands län",
+        "antal_personer": 13,
+        "med_fri_commons_bild": 5,
+        "utan_commons_bild": 8,
+        "licens_okand": 0,
+        "andel_procent": 38.5
+      },
+      {
+        "grupp": "Jämtlands län",
+        "antal_personer": 4,
+        "med_fri_commons_bild": 2,
+        "utan_commons_bild": 2,
+        "licens_okand": 0,
+        "andel_procent": 50.0
+      },
+      {
+        "grupp": "Jönköpings län",
+        "antal_personer": 14,
+        "med_fri_commons_bild": 6,
+        "utan_commons_bild": 8,
+        "licens_okand": 0,
+        "andel_procent": 42.9
+      },
+      {
+        "grupp": "Kalmar län",
+        "antal_personer": 8,
+        "med_fri_commons_bild": 3,
+        "utan_commons_bild": 5,
+        "licens_okand": 0,
+        "andel_procent": 37.5
+      },
+      {
+        "grupp": "Kronobergs län",
+        "antal_personer": 6,
+        "med_fri_commons_bild": 3,
+        "utan_commons_bild": 3,
+        "licens_okand": 0,
+        "andel_procent": 50.0
+      },
+      {
+        "grupp": "Norrbottens län",
+        "antal_personer": 8,
+        "med_fri_commons_bild": 3,
+        "utan_commons_bild": 5,
+        "licens_okand": 0,
+        "andel_procent": 37.5
+      },
+      {
+        "grupp": "Skåne län",
+        "antal_personer": 48,
+        "med_fri_commons_bild": 24,
+        "utan_commons_bild": 24,
+        "licens_okand": 0,
+        "andel_procent": 50.0
+      },
+      {
+        "grupp": "Stockholms län",
+        "antal_personer": 77,
+        "med_fri_commons_bild": 47,
+        "utan_commons_bild": 30,
+        "licens_okand": 0,
+        "andel_procent": 61.0
+      },
+      {
+        "grupp": "Södermanlands län",
+        "antal_personer": 11,
+        "med_fri_commons_bild": 5,
+        "utan_commons_bild": 6,
+        "licens_okand": 0,
+        "andel_procent": 45.5
+      },
+      {
+        "grupp": "Uppsala län",
+        "antal_personer": 13,
+        "med_fri_commons_bild": 6,
+        "utan_commons_bild": 7,
+        "licens_okand": 0,
+        "andel_procent": 46.2
+      },
+      {
+        "grupp": "Värmlands län",
+        "antal_personer": 10,
+        "med_fri_commons_bild": 4,
+        "utan_commons_bild": 6,
+        "licens_okand": 0,
+        "andel_procent": 40.0
+      },
+      {
+        "grupp": "Västerbottens län",
+        "antal_personer": 9,
+        "med_fri_commons_bild": 3,
+        "utan_commons_bild": 6,
+        "licens_okand": 0,
+        "andel_procent": 33.3
+      },
+      {
+        "grupp": "Västernorrlands län",
+        "antal_personer": 8,
+        "med_fri_commons_bild": 4,
+        "utan_commons_bild": 4,
+        "licens_okand": 0,
+        "andel_procent": 50.0
+      },
+      {
+        "grupp": "Västmanlands län",
+        "antal_personer": 9,
+        "med_fri_commons_bild": 3,
+        "utan_commons_bild": 6,
+        "licens_okand": 0,
+        "andel_procent": 33.3
+      },
+      {
+        "grupp": "Västra Götalands län",
+        "antal_personer": 57,
+        "med_fri_commons_bild": 22,
+        "utan_commons_bild": 35,
+        "licens_okand": 0,
+        "andel_procent": 38.6
+      },
+      {
+        "grupp": "Örebro län",
+        "antal_personer": 11,
+        "med_fri_commons_bild": 4,
+        "utan_commons_bild": 7,
+        "licens_okand": 0,
+        "andel_procent": 36.4
+      },
+      {
+        "grupp": "Östergötlands län",
+        "antal_personer": 15,
+        "med_fri_commons_bild": 11,
+        "utan_commons_bild": 4,
+        "licens_okand": 0,
+        "andel_procent": 73.3
+      }
+    ]
+  }
+}
