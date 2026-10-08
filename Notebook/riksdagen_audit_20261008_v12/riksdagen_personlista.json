@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2026-10-08 12:40:34",
+    "@systemdatum": "2026-10-08 20:53:22",
     "@hits": "349",
     "person": [
       {
@@ -154003,78 +154003,6 @@
         }
       },
       {
-        "hangar_guid": "c9076cfe-dda3-4adb-bb15-b75a76c34ae4",
-        "sourceid": "c0e3b421-f14c-4593-80d0-275d3f3a26cf",
-        "intressent_id": "0677609280627",
-        "hangar_id": "5146721",
-        "fodd_ar": "1984",
-        "kon": "man",
-        "efternamn": "Reinhag",
-        "tilltalsnamn": "Filip",
-        "sorteringsnamn": "Reinhag,Filip",
-        "iort": "",
-        "parti": "S",
-        "valkrets": "Gotlands län",
-        "status": "Tjänstgörande riksdagsledamot",
-        "person_url_xml": "https://data.riksdagen.se/person/c0e3b421-f14c-4593-80d0-275d3f3a26cf",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "93",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2026-10-06 11:21:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "filip.reinhag[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721"
-            },
-            {
-              "kod": "KandiderarINastaVal",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "val",
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721"
-            }
-          ]
-        }
-      },
-      {
         "hangar_guid": "b6e0ec58-ec51-4dc9-b132-8427284b5363",
         "sourceid": "8166bd73-bf10-4ef8-8e01-1975ca921c12",
         "intressent_id": "0983984918111",
@@ -155042,6 +154970,78 @@
               "typ": "val",
               "intressent_id": "0983984918111",
               "hangar_id": "2343543"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "c9076cfe-dda3-4adb-bb15-b75a76c34ae4",
+        "sourceid": "c0e3b421-f14c-4593-80d0-275d3f3a26cf",
+        "intressent_id": "0677609280627",
+        "hangar_id": "5146721",
+        "fodd_ar": "1984",
+        "kon": "man",
+        "efternamn": "Reinhag",
+        "tilltalsnamn": "Filip",
+        "sorteringsnamn": "Reinhag,Filip",
+        "iort": "",
+        "parti": "S",
+        "valkrets": "Gotlands län",
+        "status": "Tjänstgörande riksdagsledamot",
+        "person_url_xml": "https://data.riksdagen.se/person/c0e3b421-f14c-4593-80d0-275d3f3a26cf",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "93",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2026-10-06 11:21:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "filip.reinhag[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721"
+            },
+            {
+              "kod": "KandiderarINastaVal",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "val",
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721"
             }
           ]
         }
