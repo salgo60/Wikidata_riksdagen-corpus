@@ -1,0 +1,154 @@
+{
+  "batchcomplete": true,
+  "curtimestamp": "2026-10-08T09:30:43Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 1681323,
+        "ns": 0,
+        "title": "Tony Ring",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8601093,
+        "ns": 0,
+        "title": "Yasmine Eriksson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8690253,
+        "ns": 0,
+        "title": "Ulrika Liljeberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8691348,
+        "ns": 0,
+        "title": "Thomas Ragnarsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8732589,
+        "ns": 0,
+        "title": "Zinaida Kajevic",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8804663,
+        "ns": 0,
+        "title": "Tobias Smedberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9053367,
+        "ns": 0,
+        "title": "Willhelm Sundman",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9055832,
+        "ns": 0,
+        "title": "Umihana Rasovic",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9055935,
+        "ns": 0,
+        "title": "Veronica Kerr",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9055957,
+        "ns": 0,
+        "title": "Terje Skaarnes",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9055959,
+        "ns": 0,
+        "title": "Tomas Brandberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9055965,
+        "ns": 0,
+        "title": "Ylva Stadell",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9058111,
+        "ns": 0,
+        "title": "Tony Rahm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "templates": 500
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 4799102,
+        "ns": 10,
+        "title": "Mall:Auktoritetsdata",
+        "redirects": [
+          {
+            "pageid": 4868876,
+            "ns": 10,
+            "title": "Mall:Katalogreferenser"
+          },
+          {
+            "pageid": 6330179,
+            "ns": 10,
+            "title": "Mall:Authority control"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "redirects": 500
+  }
+}

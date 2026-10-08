@@ -1,0 +1,287 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 21511631,
+        "ns": 6,
+        "title": "File:Rickard Nordin.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Rickard_Nordin.jpg/250px-Rickard_Nordin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 264,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Rickard_Nordin.jpg/500px-Rickard_Nordin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Rickard_Nordin.jpg/250px-Rickard_Nordin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 264,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Rickard_Nordin.jpg/500px-Rickard_Nordin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rickard_Nordin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rickard_Nordin.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21511631",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Esquilo\" title=\"User:Esquilo\">Esquilo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Johan Fredriksson",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 134311227,
+        "ns": 6,
+        "title": "File:Rasmus-Elfström.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rasmus-Elfstr%C3%B6m.jpg/250px-Rasmus-Elfstr%C3%B6m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 128,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rasmus-Elfstr%C3%B6m.jpg/500px-Rasmus-Elfstr%C3%B6m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rasmus-Elfstr%C3%B6m.jpg/250px-Rasmus-Elfstr%C3%B6m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 128,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rasmus-Elfstr%C3%B6m.jpg/500px-Rasmus-Elfstr%C3%B6m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rasmus-Elfstr%C3%B6m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rasmus-Elfstr%C3%B6m.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134311227",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gammalgumma&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gammalgumma (page does not exist)\">Gammalgumma</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 145419241,
+        "ns": 6,
+        "title": "File:Rebecka LM (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Rebecka_LM_%28cropped%29.jpg/250px-Rebecka_LM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 223,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Rebecka_LM_%28cropped%29.jpg/500px-Rebecka_LM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Rebecka_LM_%28cropped%29.jpg/250px-Rebecka_LM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 223,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Rebecka_LM_%28cropped%29.jpg/500px-Rebecka_LM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rebecka_LM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rebecka_LM_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145419241",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Alekseri&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Alekseri (page does not exist)\">Alekseri</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 194764610,
+        "ns": 6,
+        "title": "File:Petter Löberg (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Petter_L%C3%B6berg_%28cropped%29.jpg/250px-Petter_L%C3%B6berg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 256,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Petter_L%C3%B6berg_%28cropped%29.jpg/500px-Petter_L%C3%B6berg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Petter_L%C3%B6berg_%28cropped%29.jpg/250px-Petter_L%C3%B6berg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 256,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Petter_L%C3%B6berg_%28cropped%29.jpg/500px-Petter_L%C3%B6berg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Petter_L%C3%B6berg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petter_L%C3%B6berg_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194764610",
+            "extmetadata": {
+              "Credit": {
+                "value": "Sveriges socialdemokratiska arbetareparti (SAP)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Andreas Ericsson / Socialdemokratiska arbetarepartiet",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 199081544,
+        "ns": 6,
+        "title": "File:Rasmus Giertz (SD), Sveriges riksdag.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg/250px-Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 256,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg/500px-Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg/250px-Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 256,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg/500px-Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rasmus_Giertz_%28SD%29%2C_Sveriges_riksdag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rasmus_Giertz_(SD),_Sveriges_riksdag.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199081544",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/rasmus-giertz_bab0f33c-507a-4e6f-a3f7-7239c46732a2/\">https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/rasmus-giertz_bab0f33c-507a-4e6f-a3f7-7239c46732a2/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Sveriges riksdag",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
