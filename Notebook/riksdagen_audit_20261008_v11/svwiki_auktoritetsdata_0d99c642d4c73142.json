@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-08T09:33:40Z",
+  "curtimestamp": "2026-10-08T09:57:23Z",
   "query": {
     "pages": [
       {
@@ -160,7 +160,13 @@
       {
         "pageid": 3939818,
         "ns": 0,
-        "title": "Malin Björk (vänsterpartist)"
+        "title": "Malin Björk (vänsterpartist)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 4832288,
@@ -253,7 +259,13 @@
       {
         "pageid": 8354243,
         "ns": 0,
-        "title": "Malin Malm"
+        "title": "Malin Malm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8375195,
@@ -280,7 +292,13 @@
       {
         "pageid": 8502314,
         "ns": 0,
-        "title": "Matilda Ekeblad"
+        "title": "Matilda Ekeblad",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8511837,
@@ -340,7 +358,13 @@
       {
         "pageid": 8601087,
         "ns": 0,
-        "title": "Matheus Enholm"
+        "title": "Matheus Enholm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8681923,
@@ -444,12 +468,24 @@
       {
         "pageid": 8803320,
         "ns": 0,
-        "title": "Marcus Friberg"
+        "title": "Marcus Friberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8884061,
         "ns": 0,
-        "title": "Mats Hellhoff"
+        "title": "Mats Hellhoff",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8925593,

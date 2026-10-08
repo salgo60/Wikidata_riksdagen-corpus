@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-08T09:33:39Z",
+  "curtimestamp": "2026-10-08T09:57:23Z",
   "query": {
     "pages": [
       {
@@ -435,7 +435,13 @@
       {
         "pageid": 8988576,
         "ns": 0,
-        "title": "Katarina Berggren"
+        "title": "Katarina Berggren",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 9055667,

@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-08T09:33:38Z",
+  "curtimestamp": "2026-10-08T09:57:22Z",
   "query": {
     "pages": [
       {
@@ -380,12 +380,24 @@
       {
         "pageid": 8884063,
         "ns": 0,
-        "title": "Arber Gashi"
+        "title": "Arber Gashi",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8899269,
         "ns": 0,
-        "title": "Andrea Kronvall"
+        "title": "Andrea Kronvall",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 9054062,

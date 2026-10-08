@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-08T09:33:40Z",
+  "curtimestamp": "2026-10-08T09:57:23Z",
   "query": {
     "pages": [
       {
@@ -402,7 +402,13 @@
       {
         "pageid": 8744358,
         "ns": 0,
-        "title": "Sandra Sönnergren"
+        "title": "Sandra Sönnergren",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8837009,
@@ -418,7 +424,13 @@
       {
         "pageid": 8899474,
         "ns": 0,
-        "title": "Nils Seye Larsen"
+        "title": "Nils Seye Larsen",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8935667,

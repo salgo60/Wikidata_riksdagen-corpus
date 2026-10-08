@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-08T09:33:38Z",
+  "curtimestamp": "2026-10-08T09:57:22Z",
   "query": {
     "pages": [
       {
@@ -83,7 +83,13 @@
       {
         "pageid": 1487166,
         "ns": 0,
-        "title": "Charlotte Broberg"
+        "title": "Charlotte Broberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 3959408,
@@ -132,7 +138,13 @@
       {
         "pageid": 5150890,
         "ns": 0,
-        "title": "Daniel Bernmar"
+        "title": "Daniel Bernmar",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 6141216,
@@ -379,12 +391,24 @@
       {
         "pageid": 8847874,
         "ns": 0,
-        "title": "Emil Eneblad"
+        "title": "Emil Eneblad",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8847886,
         "ns": 0,
-        "title": "Denice Westerberg"
+        "title": "Denice Westerberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8999017,

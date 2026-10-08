@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-08T09:33:40Z",
+  "curtimestamp": "2026-10-08T09:57:23Z",
   "query": {
     "pages": [
       {
@@ -83,7 +83,13 @@
       {
         "pageid": 1681323,
         "ns": 0,
-        "title": "Tony Ring"
+        "title": "Tony Ring",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 4526744,
@@ -143,7 +149,13 @@
       {
         "pageid": 8256149,
         "ns": 0,
-        "title": "Susanne Wahlström"
+        "title": "Susanne Wahlström",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 8594194,
@@ -335,7 +347,13 @@
       {
         "pageid": 9058111,
         "ns": 0,
-        "title": "Tony Rahm"
+        "title": "Tony Rahm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       }
     ]
   },

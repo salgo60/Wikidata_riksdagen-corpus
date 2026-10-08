@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-08T09:33:39Z",
+  "curtimestamp": "2026-10-08T09:57:22Z",
   "query": {
     "pages": [
       {
@@ -105,7 +105,13 @@
       {
         "pageid": 2788217,
         "ns": 0,
-        "title": "Ilan De Basso"
+        "title": "Ilan De Basso",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 4862821,
@@ -187,7 +193,13 @@
       {
         "pageid": 6287218,
         "ns": 0,
-        "title": "Jimmy Jansson (politiker)"
+        "title": "Jimmy Jansson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 7179409,
@@ -423,7 +435,13 @@
       {
         "pageid": 8919557,
         "ns": 0,
-        "title": "Hanna Lindqvist (politiker)"
+        "title": "Hanna Lindqvist (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
       },
       {
         "pageid": 9053611,
