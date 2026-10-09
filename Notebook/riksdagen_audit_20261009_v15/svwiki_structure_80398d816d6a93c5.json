@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T10:05:51Z",
+  "curtimestamp": "2026-10-09T12:24:26Z",
   "query": {
     "pages": [
       {
@@ -330,6 +330,12 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
           }
         ]
       },

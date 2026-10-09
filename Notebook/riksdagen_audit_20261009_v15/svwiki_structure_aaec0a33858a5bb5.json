@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T10:05:50Z",
+  "curtimestamp": "2026-10-09T12:24:25Z",
   "query": {
     "pages": [
       {
@@ -165,6 +165,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -301,6 +305,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Kristdemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -586,7 +594,13 @@
       {
         "pageid": 8999017,
         "ns": 0,
-        "title": "Carl-Wiktor Svensson"
+        "title": "Carl-Wiktor Svensson",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
       },
       {
         "pageid": 9052056,
