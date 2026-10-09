@@ -1,6 +1,6 @@
 {
-  "rapport_genererad_utc": "2026-10-09T13:50:44.488671+00:00",
-  "riksdagen_systemdatum": "2026-10-09 15:46:34",
+  "rapport_genererad_utc": "2026-10-09T19:40:28.258490+00:00",
+  "riksdagen_systemdatum": "2026-10-09 21:37:01",
   "antal_personer": 349,
   "status": {
     "Saknar bild (P18)": 180,
@@ -8,8 +8,8 @@
   },
   "live_refresh": true,
   "p39_20260928": {
-    "finns": 319,
-    "saknas": 30
+    "finns": 320,
+    "saknas": 29
   },
   "commons_statistik": {
     "parti": [

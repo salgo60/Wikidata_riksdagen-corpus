@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T13:49:17Z",
+  "curtimestamp": "2026-10-09T19:39:22Z",
   "query": {
     "pages": [
       {
@@ -662,6 +662,12 @@
         "pageid": 9055667,
         "ns": 0,
         "title": "Jonas Lindberg (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -673,6 +679,12 @@
         "pageid": 9055833,
         "ns": 0,
         "title": "Linnea Bengtsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

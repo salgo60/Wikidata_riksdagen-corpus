@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T13:49:17Z",
+  "curtimestamp": "2026-10-09T19:39:22Z",
   "query": {
     "pages": [
       {
@@ -129,7 +129,13 @@
       {
         "pageid": 1880261,
         "ns": 0,
-        "title": "Gurgîn Bakircioglu"
+        "title": "Gurgîn Bakircioglu",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 2788217,
@@ -150,6 +156,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -361,6 +371,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -512,6 +526,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -529,6 +547,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -635,6 +657,16 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Miljöpartiet"
           }
         ]
       },
@@ -663,6 +695,12 @@
         "pageid": 9053642,
         "ns": 0,
         "title": "Ilyas Hassan",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -674,6 +712,12 @@
         "pageid": 9054725,
         "ns": 0,
         "title": "Jennifer Merelaid Hankins",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

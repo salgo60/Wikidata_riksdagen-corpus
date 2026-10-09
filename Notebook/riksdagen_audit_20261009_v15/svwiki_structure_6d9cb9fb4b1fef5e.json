@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T13:49:17Z",
+  "curtimestamp": "2026-10-09T19:39:22Z",
   "query": {
     "pages": [
       {
@@ -506,6 +506,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -615,6 +619,12 @@
         "pageid": 8899474,
         "ns": 0,
         "title": "Nils Seye Larsen",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -664,6 +674,12 @@
         "pageid": 9053798,
         "ns": 0,
         "title": "Nila Vikhe Patil",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -675,6 +691,12 @@
         "pageid": 9055843,
         "ns": 0,
         "title": "Mursal Isa",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

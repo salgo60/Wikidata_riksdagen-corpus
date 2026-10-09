@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T13:49:16Z",
+  "curtimestamp": "2026-10-09T19:39:21Z",
   "query": {
     "pages": [
       {
@@ -235,6 +235,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
           }
         ],
         "categories": [

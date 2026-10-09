@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T13:49:17Z",
+  "curtimestamp": "2026-10-09T19:39:22Z",
   "query": {
     "pages": [
       {
@@ -217,6 +217,16 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
           }
         ]
       },
@@ -492,7 +502,13 @@
       {
         "pageid": 8681923,
         "ns": 0,
-        "title": "Maria Forsberg"
+        "title": "Maria Forsberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 8691036,
@@ -637,7 +653,19 @@
       {
         "pageid": 8803320,
         "ns": 0,
-        "title": "Marcus Friberg"
+        "title": "Marcus Friberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Miljöpartiet"
+          }
+        ]
       },
       {
         "pageid": 8884061,
@@ -664,6 +692,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
           }
         ],
         "categories": [

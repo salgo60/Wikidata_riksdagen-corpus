@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-09T13:49:34Z",
+  "curtimestamp": "2026-10-09T19:39:32Z",
   "entities": {
     "Q20652878": {
       "type": "item",
@@ -1656,25 +1656,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -1742,7 +1723,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -4812,25 +4792,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -4898,7 +4859,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -7789,25 +7749,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -7875,7 +7816,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -13391,25 +13331,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -13477,7 +13398,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -14138,25 +14058,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -14224,7 +14125,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -16399,25 +16299,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -16485,7 +16366,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -17417,25 +17297,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -17503,7 +17364,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -19555,25 +19415,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -19641,7 +19482,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -21314,25 +21154,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -21400,7 +21221,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -25426,25 +25246,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -25512,7 +25313,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -28415,25 +28215,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -28501,7 +28282,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -29973,25 +29753,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -30059,7 +29820,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -32496,25 +32256,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -32582,7 +32323,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -34349,25 +34089,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -34435,7 +34156,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -36826,25 +36546,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -36912,7 +36613,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -40282,25 +39982,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -40368,7 +40049,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -44450,25 +44130,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -44536,7 +44197,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -46530,25 +46190,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -46616,7 +46257,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -48078,25 +47718,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -48164,7 +47785,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -49411,25 +49031,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -49497,7 +49098,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -51903,25 +51503,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -51989,7 +51570,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -54328,25 +53908,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -54414,7 +53975,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -56707,25 +56267,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -56793,7 +56334,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -58286,25 +57826,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -58372,7 +57893,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -61874,25 +61394,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -61960,7 +61461,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -66848,25 +66348,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -66934,7 +66415,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -71923,25 +71403,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -72009,7 +71470,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -76178,25 +75638,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -76264,7 +75705,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -81814,25 +81254,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -81900,7 +81321,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -86962,25 +86382,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -87048,7 +86449,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -93582,25 +92982,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -93668,7 +93049,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -94668,25 +94048,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -94754,7 +94115,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -96823,25 +96183,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -96909,7 +96250,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -101388,25 +100728,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -101474,7 +100795,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -106304,25 +105624,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -106390,7 +105691,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -107762,25 +107062,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -107848,7 +107129,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -110407,25 +109687,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -110493,7 +109754,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -114394,25 +113654,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -114480,7 +113721,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -119753,25 +118993,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -119839,7 +119060,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -124561,25 +123781,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -124647,7 +123848,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -126208,25 +125408,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -126294,7 +125475,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -128084,25 +127264,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -128170,7 +127331,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -136227,6 +135387,199 @@
                   "P1810",
                   "P813"
                 ]
+              },
+              {
+                "hash": "7c76f59a4e24e1c4d815f0f7add048e44fc639b3",
+                "snaks": {
+                  "P1214": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1214",
+                      "hash": "adc61246423781e5be0f3bc4dd2ba6ada6060be0",
+                      "datavalue": {
+                        "value": "0155487380917",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "66ce5a7106c003ccf3c7f532289fc3eb65d088e8",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-07-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P1214",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P39",
+              "hash": "3793cafe1f186c807c8242e5dd2b160090abac7d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 10655178,
+                  "id": "Q10655178"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "6d107b9d8d7c1b0c278dc0da29f3634d1b8f7d5e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-09-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P4100": [
+                {
+                  "snaktype": "value",
+                  "property": "P4100",
+                  "hash": "3022897cb7e0f593f5d755dd5e2b05c10887d74f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 110832,
+                      "id": "Q110832"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P2715": [
+                {
+                  "snaktype": "value",
+                  "property": "P2715",
+                  "hash": "0c1d6107f6cd1b58003ff5ed4f1e8c8e09987abd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 113639313,
+                      "id": "Q113639313"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P768": [
+                {
+                  "snaktype": "value",
+                  "property": "P768",
+                  "hash": "05a9d0767facbf16a08d7f1741578da797fec0b2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 10680613,
+                      "id": "Q10680613"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P2937": [
+                {
+                  "snaktype": "value",
+                  "property": "P2937",
+                  "hash": "2057a9444e409912afbe1a834bed89031d42d94a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 141519861,
+                      "id": "Q141519861"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P4100",
+              "P2715",
+              "P768",
+              "P2937"
+            ],
+            "id": "Q4964100$081E1791-E970-428F-90F9-552D131B677C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d6c08266ee727b78c67538f443286aa1182f2377",
+                "snaks": {
+                  "P1214": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1214",
+                      "hash": "adc61246423781e5be0f3bc4dd2ba6ada6060be0",
+                      "datavalue": {
+                        "value": "0155487380917",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "812f34c6c16c1ac545f9dfb9497dcf0ecfea83a1",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P1214",
+                  "P813"
+                ]
               }
             ]
           }
@@ -137534,25 +136887,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -137620,7 +136954,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -139501,25 +138834,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -139587,7 +138901,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
@@ -141670,25 +140983,6 @@
                   "datatype": "time"
                 }
               ],
-              "P582": [
-                {
-                  "snaktype": "value",
-                  "property": "P582",
-                  "hash": "d944c2471272b03cf27862918da9a29aa105fffb",
-                  "datavalue": {
-                    "value": {
-                      "time": "+2030-09-23T00:00:00Z",
-                      "timezone": 0,
-                      "before": 0,
-                      "after": 0,
-                      "precision": 11,
-                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                    },
-                    "type": "time"
-                  },
-                  "datatype": "time"
-                }
-              ],
               "P4100": [
                 {
                   "snaktype": "value",
@@ -141756,7 +141050,6 @@
             },
             "qualifiers-order": [
               "P580",
-              "P582",
               "P4100",
               "P2715",
               "P768",
