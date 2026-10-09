@@ -1,0 +1,87 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1155076,
+        "ns": 10,
+        "title": "Mall:Infobox politiker",
+        "redirects": [
+          {
+            "pageid": 179467,
+            "ns": 10,
+            "title": "Mall:President/USA/död"
+          },
+          {
+            "pageid": 179605,
+            "ns": 10,
+            "title": "Mall:Regeringsperson/USA"
+          },
+          {
+            "pageid": 210983,
+            "ns": 10,
+            "title": "Mall:Regeringschef/död"
+          },
+          {
+            "pageid": 211040,
+            "ns": 10,
+            "title": "Mall:President/död"
+          },
+          {
+            "pageid": 211041,
+            "ns": 10,
+            "title": "Mall:President"
+          },
+          {
+            "pageid": 309162,
+            "ns": 10,
+            "title": "Mall:FRegent"
+          },
+          {
+            "pageid": 516601,
+            "ns": 10,
+            "title": "Mall:Person WW2"
+          },
+          {
+            "pageid": 956402,
+            "ns": 10,
+            "title": "Mall:Vice-president/minister/USA"
+          },
+          {
+            "pageid": 964641,
+            "ns": 10,
+            "title": "Mall:Vice-president/USA"
+          },
+          {
+            "pageid": 1018543,
+            "ns": 10,
+            "title": "Mall:President/USA"
+          },
+          {
+            "pageid": 1026512,
+            "ns": 10,
+            "title": "Mall:Regeringsperson/Sverige"
+          },
+          {
+            "pageid": 1089894,
+            "ns": 10,
+            "title": "Mall:Regeringschef"
+          },
+          {
+            "pageid": 1387991,
+            "ns": 10,
+            "title": "Mall:Infobox befattningshavare"
+          },
+          {
+            "pageid": 1387992,
+            "ns": 10,
+            "title": "Mall:Faktaruta befattningshavare"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "redirects": 500
+  }
+}

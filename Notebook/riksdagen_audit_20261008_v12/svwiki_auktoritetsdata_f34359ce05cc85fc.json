@@ -1,0 +1,561 @@
+{
+  "batchcomplete": true,
+  "curtimestamp": "2026-10-09T06:26:15Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 20905,
+        "ns": 0,
+        "title": "Jimmie Åkesson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 215239,
+        "ns": 0,
+        "title": "Ida Gabrielsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 238656,
+        "ns": 0,
+        "title": "Hans Eklind",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 330009,
+        "ns": 0,
+        "title": "Fredrik Olovsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 444476,
+        "ns": 0,
+        "title": "Fredrik Lundh Sammeli",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 909306,
+        "ns": 0,
+        "title": "Jennie Nilsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 1254950,
+        "ns": 0,
+        "title": "Isak From",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 1880261,
+        "ns": 0,
+        "title": "Gurgîn Bakircioglu",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 2788217,
+        "ns": 0,
+        "title": "Ilan De Basso",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 4862821,
+        "ns": 0,
+        "title": "Håkan Svenneling",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 4864784,
+        "ns": 0,
+        "title": "Ida Drougge",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 4865647,
+        "ns": 0,
+        "title": "Janine Alm Ericson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 4875677,
+        "ns": 0,
+        "title": "Ida Karkiainen",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 4901486,
+        "ns": 0,
+        "title": "Jesper Skalberg Karlsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 4957169,
+        "ns": 0,
+        "title": "Erik Ottoson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 6287218,
+        "ns": 0,
+        "title": "Jimmy Jansson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 6925554,
+        "ns": 0,
+        "title": "Erik Ezelius",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8049966,
+        "ns": 0,
+        "title": "Gustaf Lantz",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8082281,
+        "ns": 0,
+        "title": "Fredrik Ahlstedt (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8208828,
+        "ns": 0,
+        "title": "Henrik Vinge",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8231088,
+        "ns": 0,
+        "title": "Joakim Sandell",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8231197,
+        "ns": 0,
+        "title": "Helena Vilhelmsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8231910,
+        "ns": 0,
+        "title": "Hanna Gunnarsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8232856,
+        "ns": 0,
+        "title": "Eva Lindh",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8232863,
+        "ns": 0,
+        "title": "Heléne Björklund",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8237151,
+        "ns": 0,
+        "title": "Joakim Järrebring",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8304998,
+        "ns": 0,
+        "title": "Jessica Stegrud",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8478266,
+        "ns": 0,
+        "title": "Ingemar Kihlström",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8487014,
+        "ns": 0,
+        "title": "Fredrik Kärrholm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8601352,
+        "ns": 0,
+        "title": "Fredrik Lindahl (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8601945,
+        "ns": 0,
+        "title": "Eric Westroth",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8691275,
+        "ns": 0,
+        "title": "Jan Riise",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8691279,
+        "ns": 0,
+        "title": "Jacob Risberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8691308,
+        "ns": 0,
+        "title": "Gustaf Göthberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8691809,
+        "ns": 0,
+        "title": "Ewa Pihl Krabbe",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8691833,
+        "ns": 0,
+        "title": "Jessica Rodén",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8718059,
+        "ns": 0,
+        "title": "Frida Tånghag",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8728376,
+        "ns": 0,
+        "title": "Joanna Lewerentz",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 8919557,
+        "ns": 0,
+        "title": "Hanna Lindqvist (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9053611,
+        "ns": 0,
+        "title": "Gunilla Gomér",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9053642,
+        "ns": 0,
+        "title": "Ilyas Hassan",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9054725,
+        "ns": 0,
+        "title": "Jennifer Merelaid Hankins",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9054959,
+        "ns": 0,
+        "title": "Hanna Schölander",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9054962,
+        "ns": 0,
+        "title": "Erik Nygårds",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9055669,
+        "ns": 0,
+        "title": "Ida Kors",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9055831,
+        "ns": 0,
+        "title": "Hawar Asaiesh",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9055937,
+        "ns": 0,
+        "title": "Hanna Netterberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9055962,
+        "ns": 0,
+        "title": "Jennie Bergius Eriksson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9058451,
+        "ns": 0,
+        "title": "Ingrid Andreae",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      },
+      {
+        "pageid": 9058458,
+        "ns": 0,
+        "title": "Filip Reinhag",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Auktoritetsdata"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "templates": 500
+  }
+}

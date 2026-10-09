@@ -1,0 +1,66 @@
+{
+  "batchcomplete": true,
+  "curtimestamp": "2026-10-09T06:55:56Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 8601093,
+        "ns": 0,
+        "title": "Yasmine Eriksson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8732589,
+        "ns": 0,
+        "title": "Zinaida Kajevic",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9053367,
+        "ns": 0,
+        "title": "Willhelm Sundman",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9055965,
+        "ns": 0,
+        "title": "Ylva Stadell",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9058439,
+        "ns": 0,
+        "title": "Åsa Andersson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "templates": 500
+  }
+}

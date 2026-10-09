@@ -1,0 +1,826 @@
+{
+  "batchcomplete": true,
+  "curtimestamp": "2026-10-09T06:56:01Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 18141,
+        "ns": 0,
+        "title": "Morgan Johansson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 22319,
+        "ns": 0,
+        "title": "Mikael Damberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 58036,
+        "ns": 0,
+        "title": "Richard Jomshof",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 96466,
+        "ns": 0,
+        "title": "Mauricio Rojas",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
+          }
+        ]
+      },
+      {
+        "pageid": 178063,
+        "ns": 0,
+        "title": "Mattias Vepsä",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 330003,
+        "ns": 0,
+        "title": "Mikael Oscarsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 595657,
+        "ns": 0,
+        "title": "Peter Hultqvist",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 725442,
+        "ns": 0,
+        "title": "Pär Gustafsson"
+      },
+      {
+        "pageid": 752918,
+        "ns": 0,
+        "title": "Mattias Karlsson (sverigedemokrat)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 1139871,
+        "ns": 0,
+        "title": "Petter Löberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 1257545,
+        "ns": 0,
+        "title": "Patrick Reslow",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          },
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 1449529,
+        "ns": 0,
+        "title": "Muharrem Demirok",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Centerpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 2792374,
+        "ns": 0,
+        "title": "Niklas Karlsson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4862810,
+        "ns": 0,
+        "title": "Nooshi Dadgostar",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 4863184,
+        "ns": 0,
+        "title": "Oscar Sjöstedt",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4863204,
+        "ns": 0,
+        "title": "Mikael Eskilandersson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4863208,
+        "ns": 0,
+        "title": "Patrik Jönsson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4865143,
+        "ns": 0,
+        "title": "Monica Haider",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4887705,
+        "ns": 0,
+        "title": "Mikael Dahlqvist",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4900462,
+        "ns": 0,
+        "title": "Pontus Andersson Garpvall",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4901311,
+        "ns": 0,
+        "title": "Ola Möller (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4987251,
+        "ns": 0,
+        "title": "Per-Arne Håkansson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4987253,
+        "ns": 0,
+        "title": "Patrik Lundqvist",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8230231,
+        "ns": 0,
+        "title": "Rebecka Le Moine",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Miljöpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 8293543,
+        "ns": 0,
+        "title": "Niels Paarup-Petersen",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Centerpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 8371688,
+        "ns": 0,
+        "title": "Oliver Rosengren",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8598072,
+        "ns": 0,
+        "title": "Mikael Damsgaard",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8601944,
+        "ns": 0,
+        "title": "Per Söderlund",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8688207,
+        "ns": 0,
+        "title": "Mirja Räihä",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8688280,
+        "ns": 0,
+        "title": "Nadja Awad",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 8689701,
+        "ns": 0,
+        "title": "Peter Ollén",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8689949,
+        "ns": 0,
+        "title": "Oskar Svärd (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8691674,
+        "ns": 0,
+        "title": "Peter Hedberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8693395,
+        "ns": 0,
+        "title": "Rasmus Giertz",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8726010,
+        "ns": 0,
+        "title": "Merit Frost Lindberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8837009,
+        "ns": 0,
+        "title": "Patrik Karlson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8899474,
+        "ns": 0,
+        "title": "Nils Seye Larsen",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Miljöpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 8935667,
+        "ns": 0,
+        "title": "Rasmus Elfström",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9053671,
+        "ns": 0,
+        "title": "Mohamed Abdukardir Ali",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 9053798,
+        "ns": 0,
+        "title": "Nila Vikhe Patil",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Miljöpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 9055843,
+        "ns": 0,
+        "title": "Mursal Isa",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Miljöpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 9055933,
+        "ns": 0,
+        "title": "Paul Sabo",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9055967,
+        "ns": 0,
+        "title": "Olle Olson",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058213,
+        "ns": 0,
+        "title": "My Rosell",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058354,
+        "ns": 0,
+        "title": "Niclas Nilsson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058366,
+        "ns": 0,
+        "title": "Peter Eriksson (sverigedemokrat)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058370,
+        "ns": 0,
+        "title": "Mikael Strömberg (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058453,
+        "ns": 0,
+        "title": "Peter Söderström",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058454,
+        "ns": 0,
+        "title": "Michael Melby",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058463,
+        "ns": 0,
+        "title": "Mohamed Abdukani",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Miljöpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Miljöpartiet"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "templates": 500,
+    "categories": 500
+  }
+}

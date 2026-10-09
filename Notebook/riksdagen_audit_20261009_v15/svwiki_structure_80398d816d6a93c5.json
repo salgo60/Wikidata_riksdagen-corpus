@@ -1,0 +1,756 @@
+{
+  "batchcomplete": true,
+  "curtimestamp": "2026-10-09T07:07:10Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 219778,
+        "ns": 0,
+        "title": "Martin Melin (polis)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 238645,
+        "ns": 0,
+        "title": "Magnus Berntsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 261826,
+        "ns": 0,
+        "title": "Martin Kinnunen",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 330149,
+        "ns": 0,
+        "title": "Matilda Ernkrans",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 462184,
+        "ns": 0,
+        "title": "Mats Sander",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 727423,
+        "ns": 0,
+        "title": "Mattias Jonsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 861941,
+        "ns": 0,
+        "title": "Martin Ådahl",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Centerpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 909620,
+        "ns": 0,
+        "title": "Magnus Jacobsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 964629,
+        "ns": 0,
+        "title": "Liza-Maria Norlin",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 1092903,
+        "ns": 0,
+        "title": "Maria Stockhaus",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 1614084,
+        "ns": 0,
+        "title": "Magdalena Andersson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 1795322,
+        "ns": 0,
+        "title": "Mattias Bäckström Johansson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 3939818,
+        "ns": 0,
+        "title": "Malin Björk (vänsterpartist)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 4832288,
+        "ns": 0,
+        "title": "Mats Green",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4862920,
+        "ns": 0,
+        "title": "Magnus Persson (sverigedemokrat)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 4863260,
+        "ns": 0,
+        "title": "Magnus Oscarsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 6775949,
+        "ns": 0,
+        "title": "Mathias Tegnér",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8230494,
+        "ns": 0,
+        "title": "Louise Meijer",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8232867,
+        "ns": 0,
+        "title": "Malin Larsson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8253654,
+        "ns": 0,
+        "title": "Martin Hallander",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8354243,
+        "ns": 0,
+        "title": "Malin Malm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8375195,
+        "ns": 0,
+        "title": "Markus Selin",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8382527,
+        "ns": 0,
+        "title": "Martina Johansson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Centerpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 8502314,
+        "ns": 0,
+        "title": "Matilda Ekeblad",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8511837,
+        "ns": 0,
+        "title": "Marie-Louise Hänel Sandström",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8541221,
+        "ns": 0,
+        "title": "Markus Kallifatides",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8543899,
+        "ns": 0,
+        "title": "Ludvig Aspling",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8588378,
+        "ns": 0,
+        "title": "Marie Olsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8598310,
+        "ns": 0,
+        "title": "Mattias Karlsson (moderat)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8601087,
+        "ns": 0,
+        "title": "Matheus Enholm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8681923,
+        "ns": 0,
+        "title": "Maria Forsberg"
+      },
+      {
+        "pageid": 8691036,
+        "ns": 0,
+        "title": "Mathias Bengtsson (kristdemokrat)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Kristdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8691343,
+        "ns": 0,
+        "title": "Marie Nicholson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8692017,
+        "ns": 0,
+        "title": "Louise Thunström",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8692959,
+        "ns": 0,
+        "title": "Mattias Eriksson Falk",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8704637,
+        "ns": 0,
+        "title": "Magnus Johansson (socialdemokrat)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8708931,
+        "ns": 0,
+        "title": "Magnus Resare",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8710376,
+        "ns": 0,
+        "title": "Marcus Andersson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8710742,
+        "ns": 0,
+        "title": "Martin Westmont",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8803320,
+        "ns": 0,
+        "title": "Marcus Friberg"
+      },
+      {
+        "pageid": 8884061,
+        "ns": 0,
+        "title": "Mats Hellhoff",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 8925593,
+        "ns": 0,
+        "title": "Malin Östh",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 9055678,
+        "ns": 0,
+        "title": "Magdalena Hermelin",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9055808,
+        "ns": 0,
+        "title": "Marcus Willershausen"
+      },
+      {
+        "pageid": 9055813,
+        "ns": 0,
+        "title": "Marianne Littke"
+      },
+      {
+        "pageid": 9055839,
+        "ns": 0,
+        "title": "Magnus Haara",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Centerpartiet"
+          }
+        ]
+      },
+      {
+        "pageid": 9055954,
+        "ns": 0,
+        "title": "Marcus Fridlund",
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058047,
+        "ns": 0,
+        "title": "Louise Minnhagen",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
+          }
+        ]
+      },
+      {
+        "pageid": 9058352,
+        "ns": 0,
+        "title": "Lotta Högström",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Infobox politiker"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      },
+      {
+        "pageid": 9058462,
+        "ns": 0,
+        "title": "Lotta Björklund",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "templates": 500,
+    "categories": 500
+  }
+}
