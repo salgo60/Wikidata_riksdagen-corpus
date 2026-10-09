@@ -1,0 +1,282 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 43963846,
+        "ns": 6,
+        "title": "File:Karin Enström in 2015.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Karin_Enstr%C3%B6m_in_2015.jpg/250px-Karin_Enstr%C3%B6m_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 230,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Karin_Enstr%C3%B6m_in_2015.jpg/500px-Karin_Enstr%C3%B6m_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Karin_Enstr%C3%B6m_in_2015.jpg/250px-Karin_Enstr%C3%B6m_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 230,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Karin_Enstr%C3%B6m_in_2015.jpg/500px-Karin_Enstr%C3%B6m_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Karin_Enstr%C3%B6m_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karin_Enstr%C3%B6m_in_2015.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43963846",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FrankieF\" class=\"mw-redirect\" title=\"User:FrankieF\">Frankie Fouganthin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 45030412,
+        "ns": 6,
+        "title": "File:Kerstin Lundgren 2013-10-21 001.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kerstin_Lundgren_2013-10-21_001.jpg/250px-Kerstin_Lundgren_2013-10-21_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 288,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kerstin_Lundgren_2013-10-21_001.jpg/500px-Kerstin_Lundgren_2013-10-21_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kerstin_Lundgren_2013-10-21_001.jpg/250px-Kerstin_Lundgren_2013-10-21_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 288,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kerstin_Lundgren_2013-10-21_001.jpg/500px-Kerstin_Lundgren_2013-10-21_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Kerstin_Lundgren_2013-10-21_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kerstin_Lundgren_2013-10-21_001.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45030412",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/centerpartiet/15429069430/\">https://www.flickr.com/photos/centerpartiet/15429069430/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Anna Simonsson / <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/centerpartiet/\">Centerpartiet</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 112529951,
+        "ns": 6,
+        "title": "File:Kjell-Arne Ottosson.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kjell-Arne_Ottosson.jpg/250px-Kjell-Arne_Ottosson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 288,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kjell-Arne_Ottosson.jpg/500px-Kjell-Arne_Ottosson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kjell-Arne_Ottosson.jpg/250px-Kjell-Arne_Ottosson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 288,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kjell-Arne_Ottosson.jpg/500px-Kjell-Arne_Ottosson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kjell-Arne_Ottosson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kjell-Arne_Ottosson.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112529951",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gategutten&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gategutten (page does not exist)\">Gategutten</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 120149829,
+        "ns": 6,
+        "title": "File:Kalle Olsson 2021.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Kalle_Olsson_2021.jpg/250px-Kalle_Olsson_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 134,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Kalle_Olsson_2021.jpg/500px-Kalle_Olsson_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Kalle_Olsson_2021.jpg/250px-Kalle_Olsson_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 134,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Kalle_Olsson_2021.jpg/500px-Kalle_Olsson_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kalle_Olsson_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kalle_Olsson_2021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120149829",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Agj1998&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Agj1998 (page does not exist)\">Agj1998</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 201109174,
+        "ns": 6,
+        "title": "File:Kevin Sahlin (SD).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kevin_Sahlin_%28SD%29.jpg/250px-Kevin_Sahlin_%28SD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 256,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kevin_Sahlin_%28SD%29.jpg/500px-Kevin_Sahlin_%28SD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kevin_Sahlin_%28SD%29.jpg/250px-Kevin_Sahlin_%28SD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 256,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kevin_Sahlin_%28SD%29.jpg/500px-Kevin_Sahlin_%28SD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Kevin_Sahlin_%28SD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kevin_Sahlin_(SD).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201109174",
+            "extmetadata": {
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/kevin-sahlin_e287ee77-0f36-4c34-9e98-3e4d3ba00551/\">https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/kevin-sahlin_e287ee77-0f36-4c34-9e98-3e4d3ba00551/</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/anvandarstod/anvandningsvillkor/\">https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/anvandarstod/anvandningsvillkor/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Sveriges riksdag/The Swedish Parliament",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 14696332,
+        "ns": 6,
+        "title": "File:Socialdemokrat.Jennie Nilsson 1c301 5872.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg/250px-Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 289,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg/500px-Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg/250px-Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 289,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg/500px-Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Socialdemokrat.Jennie_Nilsson_1c301_5872.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14696332",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://politik.in2pic.com\">http://politik.in2pic.com</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Janwikifoto",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 22018102,
+        "ns": 6,
+        "title": "File:Sten Bergheden.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Sten_Bergheden.jpg/250px-Sten_Bergheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 192,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Sten_Bergheden.jpg/500px-Sten_Bergheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Sten_Bergheden.jpg/250px-Sten_Bergheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 192,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Sten_Bergheden.jpg/500px-Sten_Bergheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sten_Bergheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sten_Bergheden.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22018102",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Esquilo\" title=\"User:Esquilo\">Esquilo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Johan Fredriksson",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 113399112,
+        "ns": 6,
+        "title": "File:Swedish Prime Minister Andersson (2021).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Swedish_Prime_Minister_Andersson_%282021%29.jpg/250px-Swedish_Prime_Minister_Andersson_%282021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 251,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Swedish_Prime_Minister_Andersson_%282021%29.jpg/500px-Swedish_Prime_Minister_Andersson_%282021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Swedish_Prime_Minister_Andersson_%282021%29.jpg/250px-Swedish_Prime_Minister_Andersson_%282021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 251,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Swedish_Prime_Minister_Andersson_%282021%29.jpg/500px-Swedish_Prime_Minister_Andersson_%282021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Swedish_Prime_Minister_Andersson_%282021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Swedish_Prime_Minister_Andersson_(2021).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113399112",
+            "extmetadata": {
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/statephotos/51730125960/\">Secretary Blinken Meets With Swedish Prime Minister Andersson</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9364837@N06\">U.S. Department of State</a> from the United States.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 120185711,
+        "ns": 6,
+        "title": "File:Sofia Alexandra Völker 2022.tiff",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sofia_Alexandra_V%C3%B6lker_2022.tiff/lossy-page1-250px-Sofia_Alexandra_V%C3%B6lker_2022.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 135,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sofia_Alexandra_V%C3%B6lker_2022.tiff/lossy-page1-500px-Sofia_Alexandra_V%C3%B6lker_2022.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sofia_Alexandra_V%C3%B6lker_2022.tiff/lossy-page1-250px-Sofia_Alexandra_V%C3%B6lker_2022.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 135,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sofia_Alexandra_V%C3%B6lker_2022.tiff/lossy-page1-500px-Sofia_Alexandra_V%C3%B6lker_2022.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sofia_Alexandra_V%C3%B6lker_2022.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sofia_Alexandra_V%C3%B6lker_2022.tiff",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120185711",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Agj1998&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Agj1998 (page does not exist)\">Agj1998</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 122465169,
+        "ns": 6,
+        "title": "File:Sofia Amloh.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sofia_Amloh.jpg/250px-Sofia_Amloh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 205,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sofia_Amloh.jpg/500px-Sofia_Amloh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sofia_Amloh.jpg/250px-Sofia_Amloh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 205,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sofia_Amloh.jpg/500px-Sofia_Amloh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sofia_Amloh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sofia_Amloh.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122465169",
+            "extmetadata": {
+              "Credit": {
+                "value": "Sveriges socialdemokratiska arbetareparti (SAP)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Andreas Ericsson / Socialdemokratiska arbetarepartiet",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

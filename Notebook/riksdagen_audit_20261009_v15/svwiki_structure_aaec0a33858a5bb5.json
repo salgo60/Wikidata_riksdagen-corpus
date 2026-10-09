@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T12:24:25Z",
+  "curtimestamp": "2026-10-09T13:27:34Z",
   "query": {
     "pages": [
       {
@@ -595,6 +595,12 @@
         "pageid": 8999017,
         "ns": 0,
         "title": "Carl-Wiktor Svensson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Kristdemokraterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
