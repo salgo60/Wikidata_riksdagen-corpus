@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T07:07:10Z",
+  "curtimestamp": "2026-10-09T10:05:50Z",
   "query": {
     "pages": [
       {
@@ -83,6 +83,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Centerpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -128,7 +132,13 @@
       {
         "pageid": 3959408,
         "ns": 0,
-        "title": "Caroline Schmidt"
+        "title": "Caroline Schmidt",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Centerpartiet/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 4862822,
@@ -172,6 +182,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Centerpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -266,6 +280,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -345,6 +363,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Centerpartiet/2026–2030"
           }
         ],
         "categories": [
@@ -570,6 +592,12 @@
         "pageid": 9052056,
         "ns": 0,
         "title": "Caroline Täljeblad",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -581,6 +609,12 @@
         "pageid": 9053530,
         "ns": 0,
         "title": "David Höglund Velasquez",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -628,6 +662,12 @@
         "pageid": 9055837,
         "ns": 0,
         "title": "Emma Brihall",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Centerpartiet/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
