@@ -1,12 +1,20 @@
 {
-  "rapport_genererad_utc": "2026-10-10T08:19:41.943738+00:00",
-  "riksdagen_systemdatum": "2026-10-10 10:16:07",
+  "rapport_genererad_utc": "2026-10-10T14:13:02.154983+00:00",
+  "riksdagen_systemdatum": "2026-10-10 16:09:03",
   "antal_personer": 349,
   "status": {
     "Saknar bild (P18)": 180,
     "Har bild (P18)": 169
   },
   "live_refresh": true,
+  "identifierarkontroll": {
+    "p8388": {
+      "finns": 349
+    },
+    "p1214": {
+      "finns": 349
+    }
+  },
   "p39_20260928": {
     "finns": 320,
     "saknas": 29

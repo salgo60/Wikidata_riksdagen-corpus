@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-10T08:18:29Z",
+  "curtimestamp": "2026-10-10T14:12:01Z",
   "query": {
     "pages": [
       {
@@ -213,6 +213,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -230,6 +234,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -321,6 +329,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -658,6 +670,12 @@
         "pageid": 9055955,
         "ns": 0,
         "title": "Robin Lennartsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -669,6 +687,12 @@
         "pageid": 9055957,
         "ns": 0,
         "title": "Terje Skaarnes",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -680,6 +704,12 @@
         "pageid": 9055959,
         "ns": 0,
         "title": "Tomas Brandberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

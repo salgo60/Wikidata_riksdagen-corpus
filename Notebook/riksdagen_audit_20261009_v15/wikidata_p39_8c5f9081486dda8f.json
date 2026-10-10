@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-10T08:18:34Z",
+  "curtimestamp": "2026-10-10T14:12:06Z",
   "entities": {
     "Q141503821": {
       "type": "item",
@@ -35860,6 +35860,23 @@
             },
             "type": "statement",
             "id": "Q141593739$31d9a1b8-4e8d-74d0-b39d-6fdfb458ace4",
+            "rank": "normal"
+          }
+        ],
+        "P1214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1214",
+              "hash": "9f0c5a557cefab8d1e94a57d03638afc997c0caf",
+              "datavalue": {
+                "value": "0875225206221",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q141593739$ebbedfdd-4410-947b-99ad-8b0e41dc94ef",
             "rank": "normal"
           }
         ]

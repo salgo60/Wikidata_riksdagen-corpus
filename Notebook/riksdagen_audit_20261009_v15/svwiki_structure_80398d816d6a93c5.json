@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-10T08:18:29Z",
+  "curtimestamp": "2026-10-10T14:12:00Z",
   "query": {
     "pages": [
       {
@@ -455,6 +455,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -589,6 +593,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -699,6 +707,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -743,7 +755,13 @@
       {
         "pageid": 9055808,
         "ns": 0,
-        "title": "Marcus Willershausen"
+        "title": "Marcus Willershausen",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 9055813,
