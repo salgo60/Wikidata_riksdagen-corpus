@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-10T20:12:01Z",
+  "curtimestamp": "2026-10-10T21:45:15Z",
   "query": {
     "pages": [
       {
@@ -652,6 +652,12 @@
         "pageid": 9055935,
         "ns": 0,
         "title": "Veronica Kerr",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Kristdemokraterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
