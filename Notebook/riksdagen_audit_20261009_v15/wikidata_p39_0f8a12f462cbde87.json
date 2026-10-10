@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-10T02:36:14Z",
+  "curtimestamp": "2026-10-10T08:02:08Z",
   "entities": {
     "Q114772436": {
       "type": "item",
@@ -30215,6 +30215,23 @@
                 ]
               }
             ]
+          }
+        ],
+        "P1214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1214",
+              "hash": "71c053a9a07c35e7faf62f9df15f14a5a37ece9b",
+              "datavalue": {
+                "value": "0623225425598",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131732963$0d7c00e0-47c4-9270-2262-a115924d4931",
+            "rank": "normal"
           }
         ]
       }

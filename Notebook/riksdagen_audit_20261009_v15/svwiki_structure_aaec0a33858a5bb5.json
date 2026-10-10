@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-10T02:36:12Z",
+  "curtimestamp": "2026-10-10T08:02:05Z",
   "query": {
     "pages": [
       {
@@ -66,6 +66,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -148,6 +152,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -330,6 +338,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -347,6 +359,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -430,6 +446,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -581,6 +601,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ]
       },
@@ -592,6 +616,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ]
       },
@@ -730,6 +758,12 @@
         "pageid": 9055936,
         "ns": 0,
         "title": "Emma Ylivallo Altenhammar",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

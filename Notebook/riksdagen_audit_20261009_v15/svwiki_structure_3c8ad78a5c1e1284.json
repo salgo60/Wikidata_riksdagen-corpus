@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-10T02:36:11Z",
+  "curtimestamp": "2026-10-10T08:02:05Z",
   "query": {
     "pages": [
       {
@@ -53,6 +53,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -165,6 +169,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -347,6 +355,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -364,6 +376,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -533,6 +549,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -634,7 +654,13 @@
       {
         "pageid": 8899269,
         "ns": 0,
-        "title": "Andrea Kronvall"
+        "title": "Andrea Kronvall",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 9054062,
@@ -852,6 +878,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
         ],
         "categories": [
