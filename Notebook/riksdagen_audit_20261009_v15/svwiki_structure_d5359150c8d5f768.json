@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-10T14:12:00Z",
+  "curtimestamp": "2026-10-10T14:26:59Z",
   "query": {
     "pages": [
       {
@@ -53,6 +53,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Kristdemokraterna/2026–2030"
           }
         ],
         "categories": [
