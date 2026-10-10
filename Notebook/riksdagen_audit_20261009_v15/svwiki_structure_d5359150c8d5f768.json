@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T19:39:22Z",
+  "curtimestamp": "2026-10-10T02:36:12Z",
   "query": {
     "pages": [
       {
@@ -745,7 +745,13 @@
       {
         "pageid": 9054962,
         "ns": 0,
-        "title": "Erik Nygårds"
+        "title": "Erik Nygårds",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 9055669,

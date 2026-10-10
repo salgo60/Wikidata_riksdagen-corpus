@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T19:39:21Z",
+  "curtimestamp": "2026-10-10T02:36:12Z",
   "query": {
     "pages": [
       {
@@ -669,13 +669,23 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
           }
         ]
       },
       {
         "pageid": 9055814,
         "ns": 0,
-        "title": "Elin Andersson"
+        "title": "Elin Andersson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 9055834,

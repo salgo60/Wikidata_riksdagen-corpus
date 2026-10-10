@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-09T19:39:22Z",
+  "curtimestamp": "2026-10-10T02:36:13Z",
   "query": {
     "pages": [
       {
@@ -119,7 +119,13 @@
       {
         "pageid": 725442,
         "ns": 0,
-        "title": "Pär Gustafsson"
+        "title": "Pär Gustafsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 752918,
@@ -612,6 +618,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
           }
         ]
       },
