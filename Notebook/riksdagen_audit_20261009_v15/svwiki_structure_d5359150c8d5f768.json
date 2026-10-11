@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-11T10:26:54Z",
+  "curtimestamp": "2026-10-11T22:13:54Z",
   "query": {
     "pages": [
       {
@@ -821,6 +821,12 @@
         "pageid": 9055937,
         "ns": 0,
         "title": "Hanna Netterberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

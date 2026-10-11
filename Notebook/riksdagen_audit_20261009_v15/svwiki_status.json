@@ -1,0 +1,451 @@
+[
+  {
+    "parti": "C",
+    "personer": 25,
+    "fri_bild": 12,
+    "utan_p18": 13,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 0,
+    "utan_infobox": 7,
+    "utan_partikategori": 1,
+    "utan_p39": 0,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 48.0,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 25
+      },
+      "illustrationsbehov_status": {
+        "finns": 13,
+        "ej_aktuell": 12
+      },
+      "auktoritetsdata_status": {
+        "finns": 25
+      },
+      "riksdagsmall_status": {
+        "finns": 25
+      },
+      "infobox_status": {
+        "finns": 18,
+        "saknas": 7
+      },
+      "partikategori_status": {
+        "finns": 24,
+        "saknas": 1
+      },
+      "p39_status": {
+        "finns": 25
+      },
+      "p8388_status": {
+        "finns": 25
+      },
+      "p1214_status": {
+        "finns": 25
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "KD",
+    "personer": 22,
+    "fri_bild": 10,
+    "utan_p18": 12,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 0,
+    "utan_infobox": 4,
+    "utan_partikategori": 0,
+    "utan_p39": 3,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 45.5,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 22
+      },
+      "illustrationsbehov_status": {
+        "ej_aktuell": 10,
+        "finns": 12
+      },
+      "auktoritetsdata_status": {
+        "finns": 22
+      },
+      "riksdagsmall_status": {
+        "finns": 22
+      },
+      "infobox_status": {
+        "finns": 18,
+        "saknas": 4
+      },
+      "partikategori_status": {
+        "finns": 22
+      },
+      "p39_status": {
+        "finns": 19,
+        "saknas": 3
+      },
+      "p8388_status": {
+        "finns": 22
+      },
+      "p1214_status": {
+        "finns": 22
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "L",
+    "personer": 19,
+    "fri_bild": 6,
+    "utan_p18": 13,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 0,
+    "utan_infobox": 9,
+    "utan_partikategori": 18,
+    "utan_p39": 6,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 31.6,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 19
+      },
+      "illustrationsbehov_status": {
+        "finns": 13,
+        "ej_aktuell": 6
+      },
+      "auktoritetsdata_status": {
+        "finns": 19
+      },
+      "riksdagsmall_status": {
+        "finns": 19
+      },
+      "infobox_status": {
+        "finns": 10,
+        "saknas": 9
+      },
+      "partikategori_status": {
+        "saknas": 18,
+        "finns": 1
+      },
+      "p39_status": {
+        "saknas": 6,
+        "finns": 13
+      },
+      "p8388_status": {
+        "finns": 19
+      },
+      "p1214_status": {
+        "finns": 19
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "M",
+    "personer": 70,
+    "fri_bild": 26,
+    "utan_p18": 44,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 42,
+    "utan_infobox": 17,
+    "utan_partikategori": 5,
+    "utan_p39": 15,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 37.1,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 70
+      },
+      "illustrationsbehov_status": {
+        "finns": 44,
+        "ej_aktuell": 26
+      },
+      "auktoritetsdata_status": {
+        "finns": 70
+      },
+      "riksdagsmall_status": {
+        "finns": 28,
+        "saknas": 42
+      },
+      "infobox_status": {
+        "finns": 53,
+        "saknas": 17
+      },
+      "partikategori_status": {
+        "finns": 65,
+        "saknas": 5
+      },
+      "p39_status": {
+        "finns": 55,
+        "saknas": 15
+      },
+      "p8388_status": {
+        "finns": 70
+      },
+      "p1214_status": {
+        "finns": 70
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "MP",
+    "personer": 22,
+    "fri_bild": 12,
+    "utan_p18": 10,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 0,
+    "utan_infobox": 7,
+    "utan_partikategori": 1,
+    "utan_p39": 0,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 54.5,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 22
+      },
+      "illustrationsbehov_status": {
+        "finns": 10,
+        "ej_aktuell": 12
+      },
+      "auktoritetsdata_status": {
+        "finns": 22
+      },
+      "riksdagsmall_status": {
+        "finns": 22
+      },
+      "infobox_status": {
+        "finns": 15,
+        "saknas": 7
+      },
+      "partikategori_status": {
+        "finns": 21,
+        "saknas": 1
+      },
+      "p39_status": {
+        "finns": 22
+      },
+      "p8388_status": {
+        "finns": 22
+      },
+      "p1214_status": {
+        "finns": 22
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "S",
+    "personer": 99,
+    "fri_bild": 59,
+    "utan_p18": 40,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 81,
+    "utan_infobox": 19,
+    "utan_partikategori": 7,
+    "utan_p39": 4,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 59.6,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 99
+      },
+      "illustrationsbehov_status": {
+        "finns": 40,
+        "ej_aktuell": 59
+      },
+      "auktoritetsdata_status": {
+        "finns": 99
+      },
+      "riksdagsmall_status": {
+        "saknas": 81,
+        "finns": 18
+      },
+      "infobox_status": {
+        "finns": 80,
+        "saknas": 19
+      },
+      "partikategori_status": {
+        "finns": 92,
+        "saknas": 7
+      },
+      "p39_status": {
+        "finns": 95,
+        "saknas": 4
+      },
+      "p8388_status": {
+        "finns": 99
+      },
+      "p1214_status": {
+        "finns": 99
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "SD",
+    "personer": 62,
+    "fri_bild": 34,
+    "utan_p18": 28,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 0,
+    "utan_infobox": 8,
+    "utan_partikategori": 4,
+    "utan_p39": 2,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 54.8,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 62
+      },
+      "illustrationsbehov_status": {
+        "ej_aktuell": 34,
+        "finns": 28
+      },
+      "auktoritetsdata_status": {
+        "finns": 62
+      },
+      "riksdagsmall_status": {
+        "finns": 62
+      },
+      "infobox_status": {
+        "finns": 54,
+        "saknas": 8
+      },
+      "partikategori_status": {
+        "finns": 58,
+        "saknas": 4
+      },
+      "p39_status": {
+        "finns": 60,
+        "saknas": 2
+      },
+      "p8388_status": {
+        "finns": 62
+      },
+      "p1214_status": {
+        "finns": 62
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "V",
+    "personer": 30,
+    "fri_bild": 10,
+    "utan_p18": 20,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 0,
+    "utan_infobox": 17,
+    "utan_partikategori": 5,
+    "utan_p39": 0,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 33.3,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 30
+      },
+      "illustrationsbehov_status": {
+        "finns": 20,
+        "ej_aktuell": 10
+      },
+      "auktoritetsdata_status": {
+        "finns": 30
+      },
+      "riksdagsmall_status": {
+        "finns": 30
+      },
+      "infobox_status": {
+        "saknas": 17,
+        "finns": 13
+      },
+      "partikategori_status": {
+        "finns": 25,
+        "saknas": 5
+      },
+      "p39_status": {
+        "finns": 30
+      },
+      "p8388_status": {
+        "finns": 30
+      },
+      "p1214_status": {
+        "finns": 30
+      }
+    },
+    "licens_okand": 0
+  },
+  {
+    "parti": "Totalt",
+    "personer": 349,
+    "fri_bild": 169,
+    "utan_p18": 180,
+    "utan_svwiki": 0,
+    "utan_illustration": 0,
+    "utan_authority": 0,
+    "utan_riksdagsmall": 123,
+    "utan_infobox": 88,
+    "utan_partikategori": 41,
+    "utan_p39": 30,
+    "utan_p8388": 0,
+    "utan_p1214": 0,
+    "andel_fri_bild": 48.4,
+    "kontrollstatus": {
+      "sv_wikipedia": {
+        "ja": 349
+      },
+      "illustrationsbehov_status": {
+        "finns": 180,
+        "ej_aktuell": 169
+      },
+      "auktoritetsdata_status": {
+        "finns": 349
+      },
+      "riksdagsmall_status": {
+        "finns": 226,
+        "saknas": 123
+      },
+      "infobox_status": {
+        "finns": 261,
+        "saknas": 88
+      },
+      "partikategori_status": {
+        "finns": 308,
+        "saknas": 41
+      },
+      "p39_status": {
+        "finns": 319,
+        "saknas": 30
+      },
+      "p8388_status": {
+        "finns": 349
+      },
+      "p1214_status": {
+        "finns": 349
+      }
+    },
+    "licens_okand": 0
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-11T10:26:57Z",
+  "curtimestamp": "2026-10-11T22:13:56Z",
   "entities": {
     "Q114772436": {
       "type": "item",
@@ -22246,21 +22246,6 @@
             },
             "type": "statement",
             "id": "Q125929408$2da953df-4708-bf09-b9fd-3f1c6d9079a7",
-            "rank": "normal"
-          },
-          {
-            "mainsnak": {
-              "snaktype": "value",
-              "property": "P18",
-              "hash": "eb96104d8de8cb398aaaba2dd4357095e764d72d",
-              "datavalue": {
-                "value": "Emil Eneblad.jpg",
-                "type": "string"
-              },
-              "datatype": "commonsMedia"
-            },
-            "type": "statement",
-            "id": "Q125929408$d51e88fc-45f4-4b35-03f6-345d00832abe",
             "rank": "normal"
           }
         ],

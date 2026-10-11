@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-11T10:26:58Z",
+  "curtimestamp": "2026-10-11T22:13:57Z",
   "entities": {
     "Q141503821": {
       "type": "item",
@@ -11292,21 +11292,6 @@
             },
             "type": "statement",
             "id": "Q141507883$114fd740-4adb-398b-f736-4b9f342535cd",
-            "rank": "normal"
-          },
-          {
-            "mainsnak": {
-              "snaktype": "value",
-              "property": "P2013",
-              "hash": "6a2caca85adeeb79a93007abdfbae2db12685295",
-              "datavalue": {
-                "value": "my.wigstrom",
-                "type": "string"
-              },
-              "datatype": "external-id"
-            },
-            "type": "statement",
-            "id": "Q141507883$d2ec75d9-45e8-5198-7bf9-ddf48da1e723",
             "rank": "normal"
           }
         ],

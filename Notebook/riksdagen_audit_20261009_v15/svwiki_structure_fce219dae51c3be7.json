@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-11T10:26:55Z",
+  "curtimestamp": "2026-10-11T22:13:55Z",
   "query": {
     "pages": [
       {
@@ -757,6 +757,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [

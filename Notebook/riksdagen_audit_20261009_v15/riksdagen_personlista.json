@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2026-10-11 12:24:30",
+    "@systemdatum": "2026-10-12 00:11:21",
     "@hits": "349",
     "person": [
       {
@@ -119335,294 +119335,6 @@
         }
       },
       {
-        "hangar_guid": "e937829e-99e7-4037-a34a-4768c4ac5266",
-        "sourceid": "9842d41a-513d-4030-9799-7a44b6d775ce",
-        "intressent_id": "0433422973328",
-        "hangar_id": "3057420",
-        "fodd_ar": "1992",
-        "kon": "man",
-        "efternamn": "Lindberg",
-        "tilltalsnamn": "Kristoffer",
-        "sorteringsnamn": "Lindberg,Kristoffer",
-        "iort": "",
-        "parti": "S",
-        "valkrets": "Gävleborgs län",
-        "status": "Tjänstgörande riksdagsledamot",
-        "person_url_xml": "https://data.riksdagen.se/person/9842d41a-513d-4030-9799-7a44b6d775ce",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9842d41a-513d-4030-9799-7a44b6d775ce_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9842d41a-513d-4030-9799-7a44b6d775ce_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9842d41a-513d-4030-9799-7a44b6d775ce_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "274",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2027-04-02",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "274",
-              "status": "Ledig",
-              "typ": "kammaruppdrag",
-              "from": "2026-10-12",
-              "tom": "2027-04-01 23:59:00",
-              "uppgift": [
-                "Linnéa Wickman 2026-10-12 - 2026-10-27"
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "30"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "274",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2026-09-28 11:00:00",
-              "tom": "2026-10-11 23:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "106",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2022-09-26 11:00:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Ersättare",
-              "ordningsnummer": "311",
-              "status": "Ersättare",
-              "typ": "kammaruppdrag",
-              "from": "2021-11-01",
-              "tom": "2021-12-19 23:59:00",
-              "uppgift": [
-                "Patrik Lundqvist"
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "45",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "20"
-            },
-            {
-              "organ_kod": "KrU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "13",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Kulturutskottet"
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "KrU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "2",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-04 11:00:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Kulturutskottet"
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "NU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "10",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-04-24 09:01:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Näringsutskottet"
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SkU",
-              "roll_kod": "Extra suppleant",
-              "ordningsnummer": "0",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2021-11-01",
-              "tom": "2021-12-19 23:59:00",
-              "uppgift": [
-                "Skatteutskottet"
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "55",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "ER",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "6",
-              "status": "",
-              "typ": "Riksdagsorgan",
-              "from": "2022-11-01",
-              "tom": "2026-10-31 23:59:00",
-              "uppgift": [
-                "Riksdagens delegation till Europarådets parlamentariska församling"
-              ],
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420",
-              "sortering": "50",
-              "organ_sortering": "300",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "Uppdrag inom riksdag och regering",
-              "uppgift": [
-                "Riksdagsledamot 21 (ersättare 211101–211219) och 22–. Extra suppleant skatteutskottet 21. Suppleant kulturutskottet 22–. Suppleant Europarådets svenska delegation 22–."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "Föräldrar",
-              "uppgift": [
-                "Läraren Ann-Kristin Alftberg och bagaren Mikael Lindberg."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "Utbildning",
-              "uppgift": [
-                "Torsbergsgymnasiet, estetiskt program, Bollnäs 08-11. Fridhems folkhögskola, teaterlinjen, Svalöv 12–13. Studier i statsvetenskap och spanska, Umeå universitet, Luleå tekniska universitet och Högskolan Dalarna 19–21."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "Anställningar",
-              "uppgift": [
-                "Butiksbiträde, matbutik i Bollnäs 08–13. Lärarvikarie, Ovanåkers kommun 11–12, 13–14. Butiksbiträde, klädbutik i Bollnäs 13–14. Verksamhetsutvecklare, Arbetarnas bildningsförbund västra Hälsingland 21–."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "Kommunala uppdrag",
-              "uppgift": [
-                "Kommunfullmäktig, Bollnäs 10– (ordförande 18–22). Ledamot barn- och utbildningsnämnden 11–18 (ordförande 15–18). Ersättare, kommunstyrelsen 11–14. Nämndeman, Hudiksvalls tingsrätt 12–14. Vice ordförande, kultur- och internationella utskottet, Bollnäs kommun, 13–14. Regionfullmäktig, Gävleborg 14–18. Ledamot, Folkteatern Gävleborg 18–22. Representant Världsarvsrådet, Bollnäs kommun 19–22. Representant Leader utveckling Hälsingebygden, Bollnäs kommun, 19–22."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "Uppdrag inom förenings- och näringsliv",
-              "uppgift": [
-                "Ordförande, SSU Bollnäs 07–09. Ordförande, Bollnäs socialdemokratiska arbetarekommun 13–17. Ledamot distriktsstyrelsen, Socialdemokraterna Gävleborg 14–."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "kristoffer.lindberg[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420"
-            },
-            {
-              "kod": "KandiderarINastaVal",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "val",
-              "intressent_id": "0433422973328",
-              "hangar_id": "3057420"
-            }
-          ]
-        }
-      },
-      {
         "hangar_guid": "bf50a1ce-88d7-499c-8862-af84528c15d6",
         "sourceid": "f270f5c5-c28f-4267-8dff-0bead595f631",
         "intressent_id": "0494242537816",
@@ -145727,6 +145439,330 @@
               "typ": "val",
               "intressent_id": "0202577142527",
               "hangar_id": "5003963"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "78a5ba9d-9c23-42c2-b575-ff26a5a57f94",
+        "sourceid": "234d4dfe-48a4-44d3-8ff0-323454d8cc68",
+        "intressent_id": "0456522027421",
+        "hangar_id": "5146908",
+        "fodd_ar": "1992",
+        "kon": "kvinna",
+        "efternamn": "Wickman",
+        "tilltalsnamn": "Linnéa",
+        "sorteringsnamn": "Wickman,Linnéa",
+        "iort": "",
+        "parti": "S",
+        "valkrets": "Gävleborgs län",
+        "status": "Tillgänglig ersättare",
+        "person_url_xml": "https://data.riksdagen.se/person/234d4dfe-48a4-44d3-8ff0-323454d8cc68",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/234d4dfe-48a4-44d3-8ff0-323454d8cc68_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/234d4dfe-48a4-44d3-8ff0-323454d8cc68_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/234d4dfe-48a4-44d3-8ff0-323454d8cc68_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Ersättare",
+              "ordningsnummer": "238",
+              "status": "Ersättare",
+              "typ": "kammaruppdrag",
+              "from": "2026-10-28",
+              "tom": "2027-05-27 23:59:00",
+              "uppgift": [
+                "Patrik Lundqvist"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "45",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "20"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Ersättare",
+              "ordningsnummer": "274",
+              "status": "Ersättare",
+              "typ": "kammaruppdrag",
+              "from": "2026-10-12",
+              "tom": "2026-10-27 23:59:00",
+              "uppgift": [
+                "Kristoffer Lindberg"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "45",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "20"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "167",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2022-09-26 11:00:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "UU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "8",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-04 11:00:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Utrikesutskottet"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UFöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "4",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-05-19 11:45:00",
+              "tom": "2026-06-04 23:59:00",
+              "uppgift": [
+                "Sammansatta utrikes- och försvarsutskottet"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "50",
+              "organ_sortering": "160",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UFöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "4",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2025-09-25 08:00:00",
+              "tom": "2025-12-10 23:59:00",
+              "uppgift": [
+                "Sammansatta utrikes- och försvarsutskottet"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "50",
+              "organ_sortering": "160",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UFöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "4",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2025-03-13 08:00:00",
+              "tom": "2025-03-20 23:59:00",
+              "uppgift": [
+                "Sammansatta utrikes- och försvarsutskottet"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "50",
+              "organ_sortering": "160",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UFöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "8",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2024-11-05 10:00:00",
+              "tom": "2024-12-12 23:59:00",
+              "uppgift": [
+                "Sammansatta utrikes- och försvarsutskottet"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "50",
+              "organ_sortering": "160",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UFöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "8",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2024-05-23 08:00:00",
+              "tom": "2024-06-18 23:59:00",
+              "uppgift": [
+                "Sammansatta utrikes- och försvarsutskottet"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "50",
+              "organ_sortering": "160",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UFöU",
+              "roll_kod": "Deputerad",
+              "ordningsnummer": "10",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-20",
+              "tom": "2022-12-21 23:59:00",
+              "uppgift": [
+                "Sammansatta utrikes- och försvarsutskottet"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "40",
+              "organ_sortering": "160",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "EUN",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "61",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-18 13:00:00",
+              "tom": "2024-09-12 12:00:00",
+              "uppgift": [
+                "EU-nämnden"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "50",
+              "organ_sortering": "170",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "OSSE",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "8",
+              "status": "",
+              "typ": "Riksdagsorgan",
+              "from": "2022-10-11 11:00:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Riksdagens delegation till OSSE:s parlamentariska församling"
+              ],
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908",
+              "sortering": "30",
+              "organ_sortering": "300",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "Uppdrag inom riksdag och regering",
+              "uppgift": [
+                "Riksdagsledamot 22–. Ledamot utrikesutskottet 22–. Suppleant EU-nämnden 22–. Deputerad sammansatta utrikes- och försvarsutskottet 22–. Ledamot OSSE-delegationen 22–. "
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "Föräldrar",
+              "uppgift": [
+                "Processingenjören Lars-Ove Wickman och medicinska sekreteraren Ingela Jonsson"
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "Utbildning",
+              "uppgift": [
+                "Borgarskolan, Gävle, samhällsvetenskapliga programmet, slutår 11. Fil.kand. statsvetenskap, Uppsala Universitet 17."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "Anställningar",
+              "uppgift": [
+                "Restaurangbiträde, McDonald's Hemsta, Gävle 11–12. Projektledare för Miljötinget, Landstinget Gävleborg 12–13. Valkretsombudsman, Socialdemokraterna Gävleborg 17. Politisk sekreterare, Socialdemokraterna, Gävle kommun 18–22."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "Kommunala uppdrag",
+              "uppgift": [
+                "Ersättare barn- och ungdomsnämnden, Gävle kommun 11–13 och ledamot utbildningsnämnden 14. Regionfullmäktig, Gävleborg 20–22, ersättare 14–18. Ersättare regionstyrelsen 14–18 och regionstyrelsens fastighetsteknik- och miljöutskott 16–18. Ledamot hållbarhetsnämnden, Region Gävleborg 14–18 .  Ordförande gemensamma nämnden för hjälpmedel SAM och FoU välfärd 18–22. Ledamot hälso- och sjukvårdsnämnden 18–21."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "Uppdrag inom förenings- och näringsliv",
+              "uppgift": [
+                "Vice ordförande SSU Gävle 10–11 och ordförande 11–12. Ledamot SSU Gävleborgs distriktsstyrelse 11–14 och Sätra Socialdemokratiska förening 12–14. Vice ordförande S-kvinnor Gävle 12–14. Ledamot S-kvinnor Gävleborg 13–14. Ledamot valberedningen S-kvinnor Gävle 15–. Ledamot Unga S Socialdemokratiska förening 18–20, 22–23 och ordförande 20–22."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "linnea.wickman[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908"
+            },
+            {
+              "kod": "KandiderarINastaVal",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "val",
+              "intressent_id": "0456522027421",
+              "hangar_id": "5146908"
             }
           ]
         }
