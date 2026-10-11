@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-10T21:45:14Z",
+  "curtimestamp": "2026-10-11T10:26:54Z",
   "query": {
     "pages": [
       {
@@ -262,6 +262,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -296,6 +300,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -608,6 +616,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -670,6 +682,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ]
       },
@@ -781,6 +797,12 @@
         "pageid": 9055939,
         "ns": 0,
         "title": "Annelie Hastig Olsson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -803,6 +825,12 @@
         "pageid": 9055950,
         "ns": 0,
         "title": "Amanda Thonander",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -814,6 +842,12 @@
         "pageid": 9055961,
         "ns": 0,
         "title": "Anna Vedin",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
@@ -825,6 +859,12 @@
         "pageid": 9055966,
         "ns": 0,
         "title": "Alexander Svensson",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

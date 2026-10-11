@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-10T21:45:16Z",
+  "curtimestamp": "2026-10-11T10:26:56Z",
   "entities": {
     "Q101961506": {
       "type": "item",
@@ -789,21 +789,6 @@
             },
             "type": "statement",
             "id": "Q101961506$4964EC5B-772F-4880-A530-003B4E7BD12A",
-            "rank": "normal"
-          },
-          {
-            "mainsnak": {
-              "snaktype": "value",
-              "property": "P18",
-              "hash": "4438042cb8e29d464ad9d7feb1e6bcfd26a9d3c8",
-              "datavalue": {
-                "value": "M.Ekeblad 1.jpg",
-                "type": "string"
-              },
-              "datatype": "commonsMedia"
-            },
-            "type": "statement",
-            "id": "Q101961506$b3dab2ad-4996-b1b9-33ba-8f755e39ffa1",
             "rank": "normal"
           }
         ],

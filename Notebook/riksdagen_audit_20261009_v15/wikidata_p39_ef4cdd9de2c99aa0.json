@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-10T21:45:24Z",
+  "curtimestamp": "2026-10-11T10:27:01Z",
   "entities": {
     "Q4987958": {
       "type": "item",
@@ -19256,6 +19256,25 @@
                 ]
               }
             ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "4b160f23716e832362b5802b7d10bdc4c8a499ab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 82955,
+                  "id": "Q82955"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5564514$174DA230-CE5E-41E4-A02C-FA4997D6CBE7",
+            "rank": "normal"
           }
         ],
         "P18": [
