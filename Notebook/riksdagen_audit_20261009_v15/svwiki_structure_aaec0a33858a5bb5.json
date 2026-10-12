@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-11T22:13:53Z",
+  "curtimestamp": "2026-10-11T23:15:17Z",
   "query": {
     "pages": [
       {
@@ -116,6 +116,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -825,6 +829,12 @@
         "pageid": 9055951,
         "ns": 0,
         "title": "Elise Ryder Wikén",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,
