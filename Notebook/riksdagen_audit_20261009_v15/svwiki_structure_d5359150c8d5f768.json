@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-12T13:11:22Z",
+  "curtimestamp": "2026-10-12T14:52:28Z",
   "query": {
     "pages": [
       {
@@ -116,6 +116,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -307,7 +311,13 @@
       {
         "pageid": 6287218,
         "ns": 0,
-        "title": "Jimmy Jansson (politiker)"
+        "title": "Jimmy Jansson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 6925554,
@@ -397,6 +407,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -456,6 +470,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -494,6 +512,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -694,6 +716,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
         ],
         "categories": [

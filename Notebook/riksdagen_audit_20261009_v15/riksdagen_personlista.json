@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2026-10-12 15:09:02",
+    "@systemdatum": "2026-10-12 16:50:08",
     "@hits": "349",
     "person": [
       {
@@ -154696,123 +154696,6 @@
         }
       },
       {
-        "hangar_guid": "510ba74b-35df-4f49-93fe-458e83c7eaed",
-        "sourceid": "9bac25ff-aea2-45c9-a0ad-e7ec3af930e5",
-        "intressent_id": "0853651496711",
-        "hangar_id": "5297281",
-        "fodd_ar": "1965",
-        "kon": "man",
-        "efternamn": "Nilsson",
-        "tilltalsnamn": "Niclas",
-        "sorteringsnamn": "Nilsson,Niclas",
-        "iort": "",
-        "parti": "M",
-        "valkrets": "Hallands län",
-        "status": "Tjänstgörande ersättare",
-        "person_url_xml": "https://data.riksdagen.se/person/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "39",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2026-10-15",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0853651496711",
-              "hangar_id": "5297281",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Ersättare",
-              "ordningsnummer": "67",
-              "status": "Ersättare",
-              "typ": "kammaruppdrag",
-              "from": "2026-09-28 11:00:00",
-              "tom": "2026-10-14 23:59:00",
-              "uppgift": [
-                "Helena Storckenfeldt"
-              ],
-              "intressent_id": "0853651496711",
-              "hangar_id": "5297281",
-              "sortering": "45",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "20"
-            },
-            {
-              "organ_kod": "CU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "2",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2027-05-28 23:59:00",
-              "uppgift": [
-                "Civilutskottet"
-              ],
-              "intressent_id": "0853651496711",
-              "hangar_id": "5297281",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "UbU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "10",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2027-05-28 23:59:00",
-              "uppgift": [
-                "Utbildningsutskottet"
-              ],
-              "intressent_id": "0853651496711",
-              "hangar_id": "5297281",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "0853651496711",
-              "hangar_id": "5297281"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "niclas.nilsson[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "0853651496711",
-              "hangar_id": "5297281"
-            }
-          ]
-        }
-      },
-      {
         "hangar_guid": "78a5ba9d-9c23-42c2-b575-ff26a5a57f94",
         "sourceid": "234d4dfe-48a4-44d3-8ff0-323454d8cc68",
         "intressent_id": "0456522027421",
@@ -155150,6 +155033,123 @@
               "typ": "val",
               "intressent_id": "0456522027421",
               "hangar_id": "5146908"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "510ba74b-35df-4f49-93fe-458e83c7eaed",
+        "sourceid": "9bac25ff-aea2-45c9-a0ad-e7ec3af930e5",
+        "intressent_id": "0853651496711",
+        "hangar_id": "5297281",
+        "fodd_ar": "1965",
+        "kon": "man",
+        "efternamn": "Nilsson",
+        "tilltalsnamn": "Niclas",
+        "sorteringsnamn": "Nilsson,Niclas",
+        "iort": "",
+        "parti": "M",
+        "valkrets": "Hallands län",
+        "status": "Tjänstgörande ersättare",
+        "person_url_xml": "https://data.riksdagen.se/person/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/9bac25ff-aea2-45c9-a0ad-e7ec3af930e5_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "39",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2026-10-15",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0853651496711",
+              "hangar_id": "5297281",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Ersättare",
+              "ordningsnummer": "67",
+              "status": "Ersättare",
+              "typ": "kammaruppdrag",
+              "from": "2026-09-28 11:00:00",
+              "tom": "2026-10-14 23:59:00",
+              "uppgift": [
+                "Helena Storckenfeldt"
+              ],
+              "intressent_id": "0853651496711",
+              "hangar_id": "5297281",
+              "sortering": "45",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "20"
+            },
+            {
+              "organ_kod": "CU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "2",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2027-05-28 23:59:00",
+              "uppgift": [
+                "Civilutskottet"
+              ],
+              "intressent_id": "0853651496711",
+              "hangar_id": "5297281",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UbU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "10",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2027-05-28 23:59:00",
+              "uppgift": [
+                "Utbildningsutskottet"
+              ],
+              "intressent_id": "0853651496711",
+              "hangar_id": "5297281",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "0853651496711",
+              "hangar_id": "5297281"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "niclas.nilsson[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "0853651496711",
+              "hangar_id": "5297281"
             }
           ]
         }
