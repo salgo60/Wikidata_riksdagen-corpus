@@ -254,7 +254,7 @@
     "utan_svwiki": 0,
     "utan_illustration": 0,
     "utan_authority": 0,
-    "utan_riksdagsmall": 81,
+    "utan_riksdagsmall": 74,
     "utan_infobox": 19,
     "utan_partikategori": 7,
     "utan_p39": 4,
@@ -273,8 +273,8 @@
         "finns": 99
       },
       "riksdagsmall_status": {
-        "saknas": 81,
-        "finns": 18
+        "saknas": 74,
+        "finns": 25
       },
       "infobox_status": {
         "finns": 80,
@@ -404,7 +404,7 @@
     "utan_svwiki": 0,
     "utan_illustration": 0,
     "utan_authority": 0,
-    "utan_riksdagsmall": 81,
+    "utan_riksdagsmall": 74,
     "utan_infobox": 88,
     "utan_partikategori": 41,
     "utan_p39": 30,
@@ -423,8 +423,8 @@
         "finns": 349
       },
       "riksdagsmall_status": {
-        "finns": 268,
-        "saknas": 81
+        "finns": 275,
+        "saknas": 74
       },
       "infobox_status": {
         "finns": 261,

@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2026-10-12 10:02:23",
+    "@systemdatum": "2026-10-12 12:59:26",
     "@hits": "349",
     "person": [
       {
@@ -86224,609 +86224,6 @@
         }
       },
       {
-        "hangar_guid": "adf6da0f-ac2d-434a-be5f-a1b192f9b8a2",
-        "sourceid": "6225d351-aa7a-4a12-94a0-084b7077a7af",
-        "intressent_id": "0256404677510",
-        "hangar_id": "5003860",
-        "fodd_ar": "1972",
-        "kon": "kvinna",
-        "efternamn": "Engström",
-        "tilltalsnamn": "Cecilia",
-        "sorteringsnamn": "Engström,Cecilia",
-        "iort": "",
-        "parti": "KD",
-        "valkrets": "Skåne läns södra",
-        "status": "Tjänstgörande riksdagsledamot",
-        "person_url_xml": "https://data.riksdagen.se/person/6225d351-aa7a-4a12-94a0-084b7077a7af",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "259",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2026-09-28 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "261",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2022-09-26 11:00:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Ersättare",
-              "ordningsnummer": "294",
-              "status": "Ersättare",
-              "typ": "kammaruppdrag",
-              "from": "2020-01-14",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Michael Anefur"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "45",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "20"
-            },
-            {
-              "organ_kod": "KU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "12",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Konstitutionsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "UU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "12",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Utrikesutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SkU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "13",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-04 11:00:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Skatteutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "FiU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "20",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-11-09 09:01:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Finansutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "MJU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "23",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-11-09 09:01:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Miljö- och jordbruksutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "NU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "23",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-12 14:15:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Näringsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "MJU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "22",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-12 14:15:00",
-              "tom": "2022-11-09 09:00:00",
-              "uppgift": [
-                "Miljö- och jordbruksutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "AU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "262",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Arbetsmarknadsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "CU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "261",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Civilutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "FiU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "259",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Finansutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "FöU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "261",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Försvarsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "JuU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "314",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Justitieutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "KrU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "12",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-02-12 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Kulturutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "KU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "314",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Konstitutionsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "MJU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "315",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Miljö- och jordbruksutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "NU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "315",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Näringsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SfU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "314",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Socialförsäkringsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SkU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "314",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Skatteutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "TU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "314",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Trafikutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "UbU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "312",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Utbildningsutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "UU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "314",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Utrikesutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SoU",
-              "roll_kod": "Extra suppleant",
-              "ordningsnummer": "0",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-01-15",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "Socialutskottet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "55",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "EUN",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "43",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-12 14:15:00",
-              "tom": "2026-10-06 10:59:00",
-              "uppgift": [
-                "EU-nämnden"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "170",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "EUN",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "322",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-08-30 23:59:00",
-              "uppgift": [
-                "EU-nämnden"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "50",
-              "organ_sortering": "170",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "LR",
-              "roll_kod": "Ersättare",
-              "ordningsnummer": "6",
-              "status": "",
-              "typ": "Riksdagsorgan",
-              "from": "2022-10-12",
-              "tom": "2026-10-12 23:59:00",
-              "uppgift": [
-                "Ledamotsrådet"
-              ],
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860",
-              "sortering": "45",
-              "organ_sortering": "300",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "90"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860"
-            },
-            {
-              "kod": "Uppdrag inom riksdag och regering",
-              "uppgift": [
-                "Riksdagsledamot 20 (ersättare 200114–200830) och 22–. Ledamot skatteutskottet 22–. Suppleant miljö- och jordbruksutskottet 22–, EU-nämnden 22–, näringsutskottet 22– och finansutskottet 22–. Extra suppleant socialutskottet 20. Suppleant ledamotsrådet 22–."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5003860"
-            },
-            {
-              "kod": "Föräldrar",
-              "uppgift": [
-                "Åke Engström och Ruth Engström, f. Svensson."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5003860"
-            },
-            {
-              "kod": "Utbildning",
-              "uppgift": [
-                "Gymnasieskola, ekonomisk linje, slutår 91. Ekon. mag., Internationella handelshögskolan, Jönköpingg 97."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5003860"
-            },
-            {
-              "kod": "Anställningar",
-              "uppgift": [
-                "Ekonomichef Jergo 06–19. Ekonomichef Cardello 20–22."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5003860"
-            },
-            {
-              "kod": "Kommunala uppdrag",
-              "uppgift": [
-                "Kommunfullmäktig, Helsingborg 10–22. Ersättare barn- och fritidsnämnden, Kristianstad 02–06. Ledamot barn- och utbildningsnämnden, Helsingborg 06–14. Ordförande idrotts- och fritidsnämnden, Helsingborg 14–18. Ordförande kulturnämnden, Helsingborg 18–22."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5003860"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "cecilia.engstrom[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860"
-            },
-            {
-              "kod": "KandiderarINastaVal",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "val",
-              "intressent_id": "0256404677510",
-              "hangar_id": "5003860"
-            }
-          ]
-        }
-      },
-      {
         "hangar_guid": "b66549cd-d4e8-41a3-aeaa-48bb9d73468a",
         "sourceid": "de52ae16-706b-4138-a194-aec42fd28aab",
         "intressent_id": "0641953830512",
@@ -119236,717 +118633,6 @@
         }
       },
       {
-        "hangar_guid": "bf50a1ce-88d7-499c-8862-af84528c15d6",
-        "sourceid": "f270f5c5-c28f-4267-8dff-0bead595f631",
-        "intressent_id": "0494242537816",
-        "hangar_id": "5004023",
-        "fodd_ar": "1966",
-        "kon": "man",
-        "efternamn": "Eklind",
-        "tilltalsnamn": "Hans",
-        "sorteringsnamn": "Eklind,Hans",
-        "iort": "",
-        "parti": "KD",
-        "valkrets": "Örebro län",
-        "status": "Tjänstgörande statsrådsersättare",
-        "person_url_xml": "https://data.riksdagen.se/person/f270f5c5-c28f-4267-8dff-0bead595f631",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/f270f5c5-c28f-4267-8dff-0bead595f631_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/f270f5c5-c28f-4267-8dff-0bead595f631_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/f270f5c5-c28f-4267-8dff-0bead595f631_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "RRR",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "6",
-              "status": "",
-              "typ": "Riksdagsorgan",
-              "from": "2022-10-27 12:01:00",
-              "tom": "2026-10-27 23:59:00",
-              "uppgift": [
-                "Riksdagens råd för Riksrevisionen"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "30",
-              "organ_sortering": "",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Statsrådsersättare",
-              "ordningsnummer": "75",
-              "status": "Ersättare",
-              "typ": "kammaruppdrag",
-              "from": "2026-09-28 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Ebba Busch"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "20"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "270",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2022-09-26 11:00:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "307",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2018-09-24",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "FiU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "12",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Finansutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "FiU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "13",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-11-09 09:01:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Finansutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SfU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "21",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-11-09 09:01:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Socialförsäkringsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SkU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "21",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-11-09 09:01:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Skatteutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "AU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "21",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-12 14:15:00",
-              "tom": "2025-01-16 12:00:00",
-              "uppgift": [
-                "Arbetsmarknadsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SfU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "13",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-04 11:00:00",
-              "tom": "2022-11-09 09:00:00",
-              "uppgift": [
-                "Socialförsäkringsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "FiU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "13",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-04 11:00:00",
-              "tom": "2022-11-09 09:00:00",
-              "uppgift": [
-                "Finansutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SkU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "20",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-12 13:00:00",
-              "tom": "2022-11-09 09:00:00",
-              "uppgift": [
-                "Skatteutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SfU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "12",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2018-10-02",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Socialförsäkringsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "AU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "25",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2018-10-16",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Arbetsmarknadsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "CU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "263",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Civilutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "FiU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "261",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Finansutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "JuU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "316",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Justitieutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "KrU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "316",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Kulturutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "MJU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "317",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Miljö- och jordbruksutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "NU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "317",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Näringsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SkU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "316",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Skatteutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "SoU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "315",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Socialutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "TU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "316",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Trafikutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "UbU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "314",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2022-09-26 10:59:00",
-              "uppgift": [
-                "Utbildningsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "FöU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "263",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-09-03 23:59:00",
-              "uppgift": [
-                "Försvarsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "KU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "316",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-09-03 23:59:00",
-              "uppgift": [
-                "Konstitutionsutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "UU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "316",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2020-03-18 09:00:00",
-              "tom": "2020-09-03 23:59:00",
-              "uppgift": [
-                "Utrikesutskottet"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "EUN",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "44",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2022-10-12 14:15:00",
-              "tom": "2026-10-06 10:59:00",
-              "uppgift": [
-                "EU-nämnden"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "170",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "EUN",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "93",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2019-09-26 15:00:00",
-              "tom": "2022-10-04 11:00:00",
-              "uppgift": [
-                "EU-nämnden"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "170",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "VB",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "6",
-              "status": "",
-              "typ": "Riksdagsorgan",
-              "from": "2026-09-28 16:15:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Valberedningen"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "300",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "VB",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "6",
-              "status": "",
-              "typ": "Riksdagsorgan",
-              "from": "2025-01-16 12:01:00",
-              "tom": "2026-09-28 10:59:00",
-              "uppgift": [
-                "Valberedningen"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "50",
-              "organ_sortering": "300",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "KD",
-              "roll_kod": "Förste vice gruppledare",
-              "ordningsnummer": "0",
-              "status": "",
-              "typ": "partiuppdrag",
-              "from": "2022-12-06",
-              "tom": "",
-              "uppgift": [
-                "Kristdemokraterna"
-              ],
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023",
-              "sortering": "33",
-              "organ_sortering": "300",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Uppdrag inom riksdag och regering",
-              "uppgift": [
-                "Riksdagsledamot 18–. Ledamot socialförsäkringsutskottet 18–22 och finansutskottet 22–. Suppleant arbetsmarknadsutskottet 18–22, EU-nämnden 19–, finansutskottet 22, skatteutskottet 22– och socialförsäkringsutskottet 22–. 1:e vice gruppledare Kristdemokraterna 22–. Ledamot Riksdagens råd för Riksrevisionen 22–. "
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Föräldrar",
-              "uppgift": [
-                "Egenföretagarna Hans Åström och Margareta Eklind."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Utbildning",
-              "uppgift": [
-                "High School, USA, slutår 84. Gymnasieskola, Örebro, slutår 86. Teol. mag.-examen, Stockholm 05."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Anställningar",
-              "uppgift": [
-                "Telefonist, taxiväxel, Örebro 87–88. Ombudsman KDU och KDS, Örebro län 88–91. Förbundsordförande, KDU 92–96. Pressekreterare, Skattebetalarnas förening 96–97. Projektledare (lobbyist), Svensk Handel 98–99. Informationschef, Skattebetalarnas förening 00–02. Gruppledare, Kristdemokraterna, Nyköping 02–04. Komminister, Längbro församling, Örebro 06–13. Församlingsherde, Längbro församling, Örebro 13–18."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Uppdrag inom statliga myndigheter m.m.",
-              "uppgift": [
-                "Ledamot, Pensionsgruppen. Ledamot, utredningen om strängare regler om utländska månggiften. Ledamot, kommittén om den framtida svenska migrationspolitiken 19–. Ledamot, insynsrådet, Migrationsverket 19–. Ledamot, kommittén Långsiktiga villkor för ett hållfast och oberoende public service."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Kommunala uppdrag",
-              "uppgift": [
-                "Kommunfullmäktig, Örebro 91–94. Ledamot, kommunstyrelsen, Nyköping 02–04. Suppleant, turist- och fritidsnämnden, Örebro 88–91. Kommundelsnämndsordförande, Örebro 91–92."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Uppdrag inom förenings- och näringsliv",
-              "uppgift": [
-                "Distriktsordförande, Kristdemokratiska Ungdomsförbundet Örebro/Värmland 88–92.  2:e vice förbundsordförande, KDU 91–92 och förbundsordförande 92–96. Styrelseledamot, European Young Christian Democrats  94. 2:e vice ordförande EYCD 95. Distriktsordförande, Kristdemokraterna Sörmlands län 03–04. Ordförande, Svenska kyrkans teologgrupp vid Örebro Teologiska Högskola, 04–05. Vice ordförande, Örebro SK Bandy 05. Ordförande, Örebro SK Bandy, 06–12. Styrelseledamot, Riksdagens idrottsklubb 18–23. Distriktsordförande, Kristdemokraterna, Örebro län 19–. Styrelseledamot Lepramissionen (21–). Styrelseledamot Claphaminstitutet 20–."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Litteratur",
-              "uppgift": [
-                "Vision för ung generation (93), Medborgarsamhället (95), Irrfärdens slut (95, tillsammans med Berggren, Idergaard och Johansson)."
-              ],
-              "typ": "biografi",
-              "intressent_id": "",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "hans.eklind[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "sv",
-              "uppgift": [
-                "Församlingsherde."
-              ],
-              "typ": "titlar",
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023"
-            },
-            {
-              "kod": "KandiderarINastaVal",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "val",
-              "intressent_id": "0494242537816",
-              "hangar_id": "5004023"
-            }
-          ]
-        }
-      },
-      {
         "hangar_guid": "47012412-b0ac-45ec-9656-46c54a6c871c",
         "sourceid": "f3da7403-18a0-454d-bcac-9a0a36783d38",
         "intressent_id": "0492644357418",
@@ -149008,78 +147694,6 @@
         }
       },
       {
-        "hangar_guid": "c9076cfe-dda3-4adb-bb15-b75a76c34ae4",
-        "sourceid": "c0e3b421-f14c-4593-80d0-275d3f3a26cf",
-        "intressent_id": "0677609280627",
-        "hangar_id": "5146721",
-        "fodd_ar": "1984",
-        "kon": "man",
-        "efternamn": "Reinhag",
-        "tilltalsnamn": "Filip",
-        "sorteringsnamn": "Reinhag,Filip",
-        "iort": "",
-        "parti": "S",
-        "valkrets": "Gotlands län",
-        "status": "Tjänstgörande riksdagsledamot",
-        "person_url_xml": "https://data.riksdagen.se/person/c0e3b421-f14c-4593-80d0-275d3f3a26cf",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "93",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2026-10-06 11:21:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "filip.reinhag[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721"
-            },
-            {
-              "kod": "KandiderarINastaVal",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "val",
-              "intressent_id": "0677609280627",
-              "hangar_id": "5146721"
-            }
-          ]
-        }
-      },
-      {
         "hangar_guid": "8d14873b-af60-4987-bdc0-ba7c4c90431c",
         "sourceid": "ee86b181-9f3b-4e03-8ef4-b96b1e79cd25",
         "intressent_id": "0780214960516",
@@ -155078,6 +153692,1428 @@
               "typ": "eadress",
               "intressent_id": "0875225206221",
               "hangar_id": "5297020"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "adf6da0f-ac2d-434a-be5f-a1b192f9b8a2",
+        "sourceid": "6225d351-aa7a-4a12-94a0-084b7077a7af",
+        "intressent_id": "0256404677510",
+        "hangar_id": "5003860",
+        "fodd_ar": "1972",
+        "kon": "kvinna",
+        "efternamn": "Engström",
+        "tilltalsnamn": "Cecilia",
+        "sorteringsnamn": "Engström,Cecilia",
+        "iort": "",
+        "parti": "KD",
+        "valkrets": "Skåne läns södra",
+        "status": "Tjänstgörande riksdagsledamot",
+        "person_url_xml": "https://data.riksdagen.se/person/6225d351-aa7a-4a12-94a0-084b7077a7af",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "259",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2026-09-28 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "261",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2022-09-26 11:00:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Ersättare",
+              "ordningsnummer": "294",
+              "status": "Ersättare",
+              "typ": "kammaruppdrag",
+              "from": "2020-01-14",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Michael Anefur"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "45",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "20"
+            },
+            {
+              "organ_kod": "KU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "12",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Konstitutionsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "12",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2026-10-12 14:00:00",
+              "uppgift": [
+                "Utrikesutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SkU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "13",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-04 11:00:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Skatteutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "FiU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "20",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-11-09 09:01:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Finansutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "MJU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "23",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-11-09 09:01:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Miljö- och jordbruksutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "NU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "23",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-12 14:15:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Näringsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "MJU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "22",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-12 14:15:00",
+              "tom": "2022-11-09 09:00:00",
+              "uppgift": [
+                "Miljö- och jordbruksutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "AU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "262",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Arbetsmarknadsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "CU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "261",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Civilutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "FiU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "259",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Finansutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "FöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "261",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Försvarsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "JuU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "314",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Justitieutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "KrU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "12",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-02-12 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Kulturutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "KU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "314",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Konstitutionsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "MJU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "315",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Miljö- och jordbruksutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "NU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "315",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Näringsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SfU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "314",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Socialförsäkringsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SkU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "314",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Skatteutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "TU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "314",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Trafikutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UbU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "312",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Utbildningsutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "314",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Utrikesutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SoU",
+              "roll_kod": "Extra suppleant",
+              "ordningsnummer": "0",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-01-15",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "Socialutskottet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "55",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "EUN",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "43",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-12 14:15:00",
+              "tom": "2026-10-06 10:59:00",
+              "uppgift": [
+                "EU-nämnden"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "170",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "EUN",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "322",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-08-30 23:59:00",
+              "uppgift": [
+                "EU-nämnden"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "50",
+              "organ_sortering": "170",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "LR",
+              "roll_kod": "Ersättare",
+              "ordningsnummer": "6",
+              "status": "",
+              "typ": "Riksdagsorgan",
+              "from": "2022-10-12",
+              "tom": "2026-10-12 23:59:00",
+              "uppgift": [
+                "Ledamotsrådet"
+              ],
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860",
+              "sortering": "45",
+              "organ_sortering": "300",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "90"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860"
+            },
+            {
+              "kod": "Uppdrag inom riksdag och regering",
+              "uppgift": [
+                "Riksdagsledamot 20 (ersättare 200114–200830) och 22–. Ledamot skatteutskottet 22–. Suppleant miljö- och jordbruksutskottet 22–, EU-nämnden 22–, näringsutskottet 22– och finansutskottet 22–. Extra suppleant socialutskottet 20. Suppleant ledamotsrådet 22–."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5003860"
+            },
+            {
+              "kod": "Föräldrar",
+              "uppgift": [
+                "Åke Engström och Ruth Engström, f. Svensson."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5003860"
+            },
+            {
+              "kod": "Utbildning",
+              "uppgift": [
+                "Gymnasieskola, ekonomisk linje, slutår 91. Ekon. mag., Internationella handelshögskolan, Jönköpingg 97."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5003860"
+            },
+            {
+              "kod": "Anställningar",
+              "uppgift": [
+                "Ekonomichef Jergo 06–19. Ekonomichef Cardello 20–22."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5003860"
+            },
+            {
+              "kod": "Kommunala uppdrag",
+              "uppgift": [
+                "Kommunfullmäktig, Helsingborg 10–22. Ersättare barn- och fritidsnämnden, Kristianstad 02–06. Ledamot barn- och utbildningsnämnden, Helsingborg 06–14. Ordförande idrotts- och fritidsnämnden, Helsingborg 14–18. Ordförande kulturnämnden, Helsingborg 18–22."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5003860"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "cecilia.engstrom[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860"
+            },
+            {
+              "kod": "KandiderarINastaVal",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "val",
+              "intressent_id": "0256404677510",
+              "hangar_id": "5003860"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "bf50a1ce-88d7-499c-8862-af84528c15d6",
+        "sourceid": "f270f5c5-c28f-4267-8dff-0bead595f631",
+        "intressent_id": "0494242537816",
+        "hangar_id": "5004023",
+        "fodd_ar": "1966",
+        "kon": "man",
+        "efternamn": "Eklind",
+        "tilltalsnamn": "Hans",
+        "sorteringsnamn": "Eklind,Hans",
+        "iort": "",
+        "parti": "KD",
+        "valkrets": "Örebro län",
+        "status": "Tjänstgörande statsrådsersättare",
+        "person_url_xml": "https://data.riksdagen.se/person/f270f5c5-c28f-4267-8dff-0bead595f631",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/f270f5c5-c28f-4267-8dff-0bead595f631_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/f270f5c5-c28f-4267-8dff-0bead595f631_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/f270f5c5-c28f-4267-8dff-0bead595f631_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "RRR",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "6",
+              "status": "",
+              "typ": "Riksdagsorgan",
+              "from": "2022-10-27 12:01:00",
+              "tom": "2026-10-27 23:59:00",
+              "uppgift": [
+                "Riksdagens råd för Riksrevisionen"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "30",
+              "organ_sortering": "",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Statsrådsersättare",
+              "ordningsnummer": "75",
+              "status": "Ersättare",
+              "typ": "kammaruppdrag",
+              "from": "2026-09-28 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Ebba Busch"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "20"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "270",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2022-09-26 11:00:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "307",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2018-09-24",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "FiU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "12",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Finansutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "12",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-12 14:01:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Utrikesutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "FiU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "13",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-11-09 09:01:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Finansutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SfU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "21",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-11-09 09:01:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Socialförsäkringsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SkU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "21",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-11-09 09:01:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Skatteutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "AU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "21",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-12 14:15:00",
+              "tom": "2025-01-16 12:00:00",
+              "uppgift": [
+                "Arbetsmarknadsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SfU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "13",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-04 11:00:00",
+              "tom": "2022-11-09 09:00:00",
+              "uppgift": [
+                "Socialförsäkringsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "FiU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "13",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-04 11:00:00",
+              "tom": "2022-11-09 09:00:00",
+              "uppgift": [
+                "Finansutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SkU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "20",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-12 13:00:00",
+              "tom": "2022-11-09 09:00:00",
+              "uppgift": [
+                "Skatteutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SfU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "12",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2018-10-02",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Socialförsäkringsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "AU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "25",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2018-10-16",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Arbetsmarknadsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "CU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "263",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Civilutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "FiU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "261",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Finansutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "JuU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "316",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Justitieutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "KrU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "316",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Kulturutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "MJU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "317",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Miljö- och jordbruksutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "NU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "317",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Näringsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SkU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "316",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Skatteutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "SoU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "315",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Socialutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "TU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "316",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Trafikutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UbU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "314",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2022-09-26 10:59:00",
+              "uppgift": [
+                "Utbildningsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "FöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "263",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-09-03 23:59:00",
+              "uppgift": [
+                "Försvarsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "KU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "316",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-09-03 23:59:00",
+              "uppgift": [
+                "Konstitutionsutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "UU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "316",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2020-03-18 09:00:00",
+              "tom": "2020-09-03 23:59:00",
+              "uppgift": [
+                "Utrikesutskottet"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "EUN",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "44",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2022-10-12 14:15:00",
+              "tom": "2026-10-06 10:59:00",
+              "uppgift": [
+                "EU-nämnden"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "170",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "EUN",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "93",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2019-09-26 15:00:00",
+              "tom": "2022-10-04 11:00:00",
+              "uppgift": [
+                "EU-nämnden"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "170",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "VB",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "6",
+              "status": "",
+              "typ": "Riksdagsorgan",
+              "from": "2026-09-28 16:15:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Valberedningen"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "300",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "VB",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "6",
+              "status": "",
+              "typ": "Riksdagsorgan",
+              "from": "2025-01-16 12:01:00",
+              "tom": "2026-09-28 10:59:00",
+              "uppgift": [
+                "Valberedningen"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "50",
+              "organ_sortering": "300",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "KD",
+              "roll_kod": "Förste vice gruppledare",
+              "ordningsnummer": "0",
+              "status": "",
+              "typ": "partiuppdrag",
+              "from": "2022-12-06",
+              "tom": "",
+              "uppgift": [
+                "Kristdemokraterna"
+              ],
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023",
+              "sortering": "33",
+              "organ_sortering": "300",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Uppdrag inom riksdag och regering",
+              "uppgift": [
+                "Riksdagsledamot 18–. Ledamot socialförsäkringsutskottet 18–22 och finansutskottet 22–. Suppleant arbetsmarknadsutskottet 18–22, EU-nämnden 19–, finansutskottet 22, skatteutskottet 22– och socialförsäkringsutskottet 22–. 1:e vice gruppledare Kristdemokraterna 22–. Ledamot Riksdagens råd för Riksrevisionen 22–. "
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Föräldrar",
+              "uppgift": [
+                "Egenföretagarna Hans Åström och Margareta Eklind."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Utbildning",
+              "uppgift": [
+                "High School, USA, slutår 84. Gymnasieskola, Örebro, slutår 86. Teol. mag.-examen, Stockholm 05."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Anställningar",
+              "uppgift": [
+                "Telefonist, taxiväxel, Örebro 87–88. Ombudsman KDU och KDS, Örebro län 88–91. Förbundsordförande, KDU 92–96. Pressekreterare, Skattebetalarnas förening 96–97. Projektledare (lobbyist), Svensk Handel 98–99. Informationschef, Skattebetalarnas förening 00–02. Gruppledare, Kristdemokraterna, Nyköping 02–04. Komminister, Längbro församling, Örebro 06–13. Församlingsherde, Längbro församling, Örebro 13–18."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Uppdrag inom statliga myndigheter m.m.",
+              "uppgift": [
+                "Ledamot, Pensionsgruppen. Ledamot, utredningen om strängare regler om utländska månggiften. Ledamot, kommittén om den framtida svenska migrationspolitiken 19–. Ledamot, insynsrådet, Migrationsverket 19–. Ledamot, kommittén Långsiktiga villkor för ett hållfast och oberoende public service."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Kommunala uppdrag",
+              "uppgift": [
+                "Kommunfullmäktig, Örebro 91–94. Ledamot, kommunstyrelsen, Nyköping 02–04. Suppleant, turist- och fritidsnämnden, Örebro 88–91. Kommundelsnämndsordförande, Örebro 91–92."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Uppdrag inom förenings- och näringsliv",
+              "uppgift": [
+                "Distriktsordförande, Kristdemokratiska Ungdomsförbundet Örebro/Värmland 88–92.  2:e vice förbundsordförande, KDU 91–92 och förbundsordförande 92–96. Styrelseledamot, European Young Christian Democrats  94. 2:e vice ordförande EYCD 95. Distriktsordförande, Kristdemokraterna Sörmlands län 03–04. Ordförande, Svenska kyrkans teologgrupp vid Örebro Teologiska Högskola, 04–05. Vice ordförande, Örebro SK Bandy 05. Ordförande, Örebro SK Bandy, 06–12. Styrelseledamot, Riksdagens idrottsklubb 18–23. Distriktsordförande, Kristdemokraterna, Örebro län 19–. Styrelseledamot Lepramissionen (21–). Styrelseledamot Claphaminstitutet 20–."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Litteratur",
+              "uppgift": [
+                "Vision för ung generation (93), Medborgarsamhället (95), Irrfärdens slut (95, tillsammans med Berggren, Idergaard och Johansson)."
+              ],
+              "typ": "biografi",
+              "intressent_id": "",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "hans.eklind[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "sv",
+              "uppgift": [
+                "Församlingsherde."
+              ],
+              "typ": "titlar",
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023"
+            },
+            {
+              "kod": "KandiderarINastaVal",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "val",
+              "intressent_id": "0494242537816",
+              "hangar_id": "5004023"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "c9076cfe-dda3-4adb-bb15-b75a76c34ae4",
+        "sourceid": "c0e3b421-f14c-4593-80d0-275d3f3a26cf",
+        "intressent_id": "0677609280627",
+        "hangar_id": "5146721",
+        "fodd_ar": "1984",
+        "kon": "man",
+        "efternamn": "Reinhag",
+        "tilltalsnamn": "Filip",
+        "sorteringsnamn": "Reinhag,Filip",
+        "iort": "",
+        "parti": "S",
+        "valkrets": "Gotlands län",
+        "status": "Tjänstgörande riksdagsledamot",
+        "person_url_xml": "https://data.riksdagen.se/person/c0e3b421-f14c-4593-80d0-275d3f3a26cf",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/c0e3b421-f14c-4593-80d0-275d3f3a26cf_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "93",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2026-10-06 11:21:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "FöU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "1",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-12 14:01:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Försvarsutskottet"
+              ],
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "filip.reinhag[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721"
+            },
+            {
+              "kod": "KandiderarINastaVal",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "val",
+              "intressent_id": "0677609280627",
+              "hangar_id": "5146721"
             }
           ]
         }
