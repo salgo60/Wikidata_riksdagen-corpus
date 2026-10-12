@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-12T11:01:45Z",
+  "curtimestamp": "2026-10-12T13:11:21Z",
   "query": {
     "pages": [
       {
@@ -132,7 +132,13 @@
       {
         "pageid": 1440616,
         "ns": 0,
-        "title": "Emil Högberg"
+        "title": "Emil Högberg",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 1487166,
@@ -231,6 +237,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -554,6 +564,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
         ],
         "categories": [
@@ -772,7 +786,13 @@
       {
         "pageid": 9055834,
         "ns": 0,
-        "title": "Elias Hammarlund Aguirre"
+        "title": "Elias Hammarlund Aguirre",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 9055837,
