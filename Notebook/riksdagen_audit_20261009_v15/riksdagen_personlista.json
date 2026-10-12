@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2026-10-12 01:12:58",
+    "@systemdatum": "2026-10-12 10:02:23",
     "@hits": "349",
     "person": [
       {
@@ -104431,105 +104431,6 @@
         }
       },
       {
-        "hangar_guid": "af0ffb49-97fc-46cf-a698-2c5ff7e786e3",
-        "sourceid": "e87f12b0-939e-468d-915d-44bace24e58e",
-        "intressent_id": "0875225206221",
-        "hangar_id": "5297020",
-        "fodd_ar": "1975",
-        "kon": "kvinna",
-        "efternamn": "Hermelin",
-        "tilltalsnamn": "Magdalena",
-        "sorteringsnamn": "Hermelin,Magdalena",
-        "iort": "",
-        "parti": "M",
-        "valkrets": "Östergötlands län",
-        "status": "Tjänstgörande talmansersättare",
-        "person_url_xml": "https://data.riksdagen.se/person/e87f12b0-939e-468d-915d-44bace24e58e",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/e87f12b0-939e-468d-915d-44bace24e58e_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/e87f12b0-939e-468d-915d-44bace24e58e_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/e87f12b0-939e-468d-915d-44bace24e58e_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Talmansersättare",
-              "ordningsnummer": "32",
-              "status": "Ersättare",
-              "typ": "kammaruppdrag",
-              "from": "2026-09-28 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "0875225206221",
-              "hangar_id": "5297020",
-              "sortering": "",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "20"
-            },
-            {
-              "organ_kod": "CU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "10",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Civilutskottet"
-              ],
-              "intressent_id": "0875225206221",
-              "hangar_id": "5297020",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            },
-            {
-              "organ_kod": "MJU",
-              "roll_kod": "Suppleant",
-              "ordningsnummer": "10",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Miljö- och jordbruksutskottet"
-              ],
-              "intressent_id": "0875225206221",
-              "hangar_id": "5297020",
-              "sortering": "50",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "0875225206221",
-              "hangar_id": "5297020"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "magdalena.hermelin[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "0875225206221",
-              "hangar_id": "5297020"
-            }
-          ]
-        }
-      },
-      {
         "hangar_guid": "ed7c07e0-4389-4e91-93d0-c60ba8a20460",
         "sourceid": "b2bb1d34-0f20-4daf-b26e-8916bb911075",
         "intressent_id": "0922497728524",
@@ -155078,6 +154979,105 @@
               "typ": "val",
               "intressent_id": "0456522027421",
               "hangar_id": "5146908"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "af0ffb49-97fc-46cf-a698-2c5ff7e786e3",
+        "sourceid": "e87f12b0-939e-468d-915d-44bace24e58e",
+        "intressent_id": "0875225206221",
+        "hangar_id": "5297020",
+        "fodd_ar": "1975",
+        "kon": "kvinna",
+        "efternamn": "Hermelin",
+        "tilltalsnamn": "Magdalena",
+        "sorteringsnamn": "Hermelin,Magdalena",
+        "iort": "",
+        "parti": "M",
+        "valkrets": "Östergötlands län",
+        "status": "Tjänstgörande talmansersättare",
+        "person_url_xml": "https://data.riksdagen.se/person/e87f12b0-939e-468d-915d-44bace24e58e",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/e87f12b0-939e-468d-915d-44bace24e58e_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/e87f12b0-939e-468d-915d-44bace24e58e_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/e87f12b0-939e-468d-915d-44bace24e58e_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Talmansersättare",
+              "ordningsnummer": "32",
+              "status": "Ersättare",
+              "typ": "kammaruppdrag",
+              "from": "2026-09-28 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "0875225206221",
+              "hangar_id": "5297020",
+              "sortering": "",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "20"
+            },
+            {
+              "organ_kod": "CU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "10",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Civilutskottet"
+              ],
+              "intressent_id": "0875225206221",
+              "hangar_id": "5297020",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            },
+            {
+              "organ_kod": "MJU",
+              "roll_kod": "Suppleant",
+              "ordningsnummer": "10",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Miljö- och jordbruksutskottet"
+              ],
+              "intressent_id": "0875225206221",
+              "hangar_id": "5297020",
+              "sortering": "50",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "0875225206221",
+              "hangar_id": "5297020"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "magdalena.hermelin[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "0875225206221",
+              "hangar_id": "5297020"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-11T23:15:18Z",
+  "curtimestamp": "2026-10-12T08:04:59Z",
   "query": {
     "pages": [
       {
@@ -688,6 +688,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -825,6 +829,12 @@
         "pageid": 9055964,
         "ns": 0,
         "title": "Linda Frohm",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

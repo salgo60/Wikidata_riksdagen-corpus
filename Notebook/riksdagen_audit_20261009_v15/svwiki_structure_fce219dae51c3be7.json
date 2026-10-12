@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-11T23:15:18Z",
+  "curtimestamp": "2026-10-12T08:05:00Z",
   "query": {
     "pages": [
       {
@@ -81,6 +81,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -98,6 +102,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -136,6 +144,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -153,6 +165,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -186,7 +202,13 @@
       {
         "pageid": 1681323,
         "ns": 0,
-        "title": "Tony Ring"
+        "title": "Tony Ring",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ]
       },
       {
         "pageid": 4526744,
@@ -386,6 +408,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -479,6 +505,10 @@
           {
             "ns": 10,
             "title": "Mall:Infobox politiker"
+          },
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
         ],
         "categories": [
@@ -731,6 +761,12 @@
         "pageid": 9055960,
         "ns": 0,
         "title": "Sophia Granswed Baat",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
+          }
+        ],
         "categories": [
           {
             "ns": 14,

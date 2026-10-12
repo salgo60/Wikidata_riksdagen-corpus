@@ -1859,6 +1859,18 @@
     "restriktioner": "",
     "metadata_status": "hämtad"
   },
+  "Talla Alkurdi.jpg": {
+    "filnamn": "Talla Alkurdi.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Talla_Alkurdi.jpg",
+    "bild_url": "",
+    "licens": "Ej angiven i Commons",
+    "licens_url": "",
+    "fotograf_upphovsperson": "Ej angiven i Commons",
+    "credit": "",
+    "attribution": "",
+    "restriktioner": "",
+    "metadata_status": "fil saknas/metadata saknas"
+  },
   "Sten Bergheden.jpg": {
     "filnamn": "Sten Bergheden.jpg",
     "commons_url": "https://commons.wikimedia.org/wiki/File:Sten_Bergheden.jpg",
@@ -1903,18 +1915,6 @@
     "licens_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "fotograf_upphovsperson": "Andreas Ericsson / Socialdemokratiska arbetarepartiet",
     "credit": "Sveriges socialdemokratiska arbetareparti (SAP)",
-    "attribution": "",
-    "restriktioner": "",
-    "metadata_status": "hämtad"
-  },
-  "Talla Alkurdi.jpg": {
-    "filnamn": "Talla Alkurdi.jpg",
-    "commons_url": "https://commons.wikimedia.org/wiki/File:Talla_Alkurdi.jpg",
-    "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Talla_Alkurdi.jpg/250px-Talla_Alkurdi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "licens": "CC BY-SA 4.0",
-    "licens_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "fotograf_upphovsperson": "Fotograf: Jann Lipka",
-    "credit": "https://www.regionstockholm.se/press/pressbilder/regionrad/",
     "attribution": "",
     "restriktioner": "",
     "metadata_status": "hämtad"
