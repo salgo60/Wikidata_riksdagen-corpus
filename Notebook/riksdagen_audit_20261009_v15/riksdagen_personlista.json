@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2026-10-12 16:50:08",
+    "@systemdatum": "2026-10-12 17:11:02",
     "@hits": "349",
     "person": [
       {
@@ -35450,105 +35450,6 @@
               "typ": "val",
               "intressent_id": "0509415296421",
               "hangar_id": "5004006"
-            }
-          ]
-        }
-      },
-      {
-        "hangar_guid": "aa3d74dc-c696-4b8d-9708-7469ac29667f",
-        "sourceid": "4e5eafca-7eb9-454c-afaf-ad461e0e1a8b",
-        "intressent_id": "088326858427",
-        "hangar_id": "5146617",
-        "fodd_ar": "1977",
-        "kon": "kvinna",
-        "efternamn": "Winther",
-        "tilltalsnamn": "Andrine",
-        "sorteringsnamn": "Winther,Andrine",
-        "iort": "",
-        "parti": "S",
-        "valkrets": "Stockholms län",
-        "status": "Tjänstgörande riksdagsledamot",
-        "person_url_xml": "https://data.riksdagen.se/person/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b",
-        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b_80.jpg",
-        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b_192.jpg",
-        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b_max.jpg",
-        "personuppdrag": {
-          "uppdrag": [
-            {
-              "organ_kod": "kam",
-              "roll_kod": "Riksdagsledamot",
-              "ordningsnummer": "282",
-              "status": "Tjänstgörande",
-              "typ": "kammaruppdrag",
-              "from": "2026-09-28 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                {}
-              ],
-              "intressent_id": "088326858427",
-              "hangar_id": "5146617",
-              "sortering": "10",
-              "organ_sortering": "10",
-              "uppdrag_rollsortering": "60",
-              "uppdrag_statussortering": "10"
-            },
-            {
-              "organ_kod": "SoU",
-              "roll_kod": "Ledamot",
-              "ordningsnummer": "15",
-              "status": "",
-              "typ": "uppdrag",
-              "from": "2026-10-06 11:00:00",
-              "tom": "2030-09-23 10:59:00",
-              "uppgift": [
-                "Socialutskottet"
-              ],
-              "intressent_id": "088326858427",
-              "hangar_id": "5146617",
-              "sortering": "30",
-              "organ_sortering": "150",
-              "uppdrag_rollsortering": "90",
-              "uppdrag_statussortering": "90"
-            }
-          ]
-        },
-        "personuppgift": {
-          "uppgift": [
-            {
-              "kod": "HarBild",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "bilder",
-              "intressent_id": "088326858427",
-              "hangar_id": "5146617"
-            },
-            {
-              "kod": "Officiell e-postadress",
-              "uppgift": [
-                "andrine.winther[på]riksdagen.se"
-              ],
-              "typ": "eadress",
-              "intressent_id": "088326858427",
-              "hangar_id": "5146617"
-            },
-            {
-              "kod": "Tjänstetelefon",
-              "uppgift": [
-                "66028"
-              ],
-              "typ": "telefonnummer",
-              "intressent_id": "088326858427",
-              "hangar_id": "5146617"
-            },
-            {
-              "kod": "KandiderarINastaVal",
-              "uppgift": [
-                "true"
-              ],
-              "typ": "val",
-              "intressent_id": "088326858427",
-              "hangar_id": "5146617"
             }
           ]
         }
@@ -155150,6 +155051,105 @@
               "typ": "eadress",
               "intressent_id": "0853651496711",
               "hangar_id": "5297281"
+            }
+          ]
+        }
+      },
+      {
+        "hangar_guid": "aa3d74dc-c696-4b8d-9708-7469ac29667f",
+        "sourceid": "4e5eafca-7eb9-454c-afaf-ad461e0e1a8b",
+        "intressent_id": "088326858427",
+        "hangar_id": "5146617",
+        "fodd_ar": "1977",
+        "kon": "kvinna",
+        "efternamn": "Winther",
+        "tilltalsnamn": "Andrine",
+        "sorteringsnamn": "Winther,Andrine",
+        "iort": "",
+        "parti": "S",
+        "valkrets": "Stockholms län",
+        "status": "Tjänstgörande riksdagsledamot",
+        "person_url_xml": "https://data.riksdagen.se/person/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b",
+        "bild_url_80": "https://data.riksdagen.se/filarkiv/bilder/ledamot/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b_80.jpg",
+        "bild_url_192": "https://data.riksdagen.se/filarkiv/bilder/ledamot/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b_192.jpg",
+        "bild_url_max": "https://data.riksdagen.se/filarkiv/bilder/ledamot/4e5eafca-7eb9-454c-afaf-ad461e0e1a8b_max.jpg",
+        "personuppdrag": {
+          "uppdrag": [
+            {
+              "organ_kod": "kam",
+              "roll_kod": "Riksdagsledamot",
+              "ordningsnummer": "282",
+              "status": "Tjänstgörande",
+              "typ": "kammaruppdrag",
+              "from": "2026-09-28 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                {}
+              ],
+              "intressent_id": "088326858427",
+              "hangar_id": "5146617",
+              "sortering": "10",
+              "organ_sortering": "10",
+              "uppdrag_rollsortering": "60",
+              "uppdrag_statussortering": "10"
+            },
+            {
+              "organ_kod": "SoU",
+              "roll_kod": "Ledamot",
+              "ordningsnummer": "15",
+              "status": "",
+              "typ": "uppdrag",
+              "from": "2026-10-06 11:00:00",
+              "tom": "2030-09-23 10:59:00",
+              "uppgift": [
+                "Socialutskottet"
+              ],
+              "intressent_id": "088326858427",
+              "hangar_id": "5146617",
+              "sortering": "30",
+              "organ_sortering": "150",
+              "uppdrag_rollsortering": "90",
+              "uppdrag_statussortering": "90"
+            }
+          ]
+        },
+        "personuppgift": {
+          "uppgift": [
+            {
+              "kod": "HarBild",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "bilder",
+              "intressent_id": "088326858427",
+              "hangar_id": "5146617"
+            },
+            {
+              "kod": "Officiell e-postadress",
+              "uppgift": [
+                "andrine.winther[på]riksdagen.se"
+              ],
+              "typ": "eadress",
+              "intressent_id": "088326858427",
+              "hangar_id": "5146617"
+            },
+            {
+              "kod": "Tjänstetelefon",
+              "uppgift": [
+                "66028"
+              ],
+              "typ": "telefonnummer",
+              "intressent_id": "088326858427",
+              "hangar_id": "5146617"
+            },
+            {
+              "kod": "KandiderarINastaVal",
+              "uppgift": [
+                "true"
+              ],
+              "typ": "val",
+              "intressent_id": "088326858427",
+              "hangar_id": "5146617"
             }
           ]
         }
