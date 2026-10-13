@@ -1,0 +1,75 @@
+{
+  "checked_at": "2026-10-13T17:20:39.454976+00:00",
+  "results": [
+    {
+      "url": "https://github.com/salgo60/Wikidata_riksdagen-corpus",
+      "status": 206,
+      "final_url": "https://github.com/salgo60/Wikidata_riksdagen-corpus",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://github.com/salgo60/Wikidata_riksdagen-corpus/blob/01ff41dc40ba7bca16eabab5e716f2388eb3dc68/Notebook/riksdagen_audit_20261009_v15/bildkontroll_resultat.json",
+      "status": 206,
+      "final_url": "https://github.com/salgo60/Wikidata_riksdagen-corpus/blob/01ff41dc40ba7bca16eabab5e716f2388eb3dc68/Notebook/riksdagen_audit_20261009_v15/bildkontroll_resultat.json",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q114031212",
+      "status": 200,
+      "final_url": "https://www.wikidata.org/wiki/Q114031212",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://sv.wikipedia.org/wiki/Anna_Lasses",
+      "status": 200,
+      "final_url": "https://sv.wikipedia.org/wiki/Anna_Lasses",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://sv.wikipedia.org/wiki/Mall%3ARiksdagsledam%C3%B6ter/Centerpartiet/2026%E2%80%932030",
+      "status": 200,
+      "final_url": "https://sv.wikipedia.org/wiki/Mall%3ARiksdagsledam%C3%B6ter/Centerpartiet/2026%E2%80%932030",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Anna_Lasses_2025.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Anna_Lasses_2025.jpg",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/4.0",
+      "status": 206,
+      "final_url": "https://creativecommons.org/licenses/by/4.0/",
+      "content_type": "text/html",
+      "bytes_read": 189
+    },
+    {
+      "url": "https://data.riksdagen.se/filarkiv/bilder/ledamot/b2b99439-43f1-4b95-8aec-9f1e83044e76_192.jpg",
+      "status": 200,
+      "final_url": "https://data.riksdagen.se/filarkiv/bilder/ledamot/b2b99439-43f1-4b95-8aec-9f1e83044e76_192.jpg",
+      "content_type": "image/jpeg",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://data.riksdagen.se/personlista/?iid=0985426914829&utformat=json",
+      "status": 200,
+      "final_url": "https://data.riksdagen.se/personlista/?iid=0985426914829&utformat=json",
+      "content_type": "application/json; charset=utf-8",
+      "bytes_read": 256
+    },
+    {
+      "url": "https://salgo60.github.io/Wikidata_riksdagen-corpus/Notebook/riksdagen_audit_20261009_v15/riksdagen_saknar_bild.html",
+      "status": 206,
+      "final_url": "https://salgo60.github.io/Wikidata_riksdagen-corpus/Notebook/riksdagen_audit_20261009_v15/riksdagen_saknar_bild.html",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_read": 256
+    }
+  ]
+}

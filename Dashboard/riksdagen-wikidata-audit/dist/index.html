@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow"><meta name="description" content="Riksdagen–Wikidata-kontrollpanel med filter och historik.">
+  <title>Riksdagen · Wikidata Audit</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Hoppa till innehållet</a>
+<header class="topbar"><a href="./" class="brand"><span class="mark" aria-hidden="true">R<span>↔</span>W</span><span>RIKSDAGEN / WIKIDATA<span class="brand-sub">Magnus Sälgö · audit</span></span></a><span class="prototype">Prototyp</span></header>
+<main id="main">
+  <section class="intro"><div><p class="eyebrow">BILDER · ARTIKLAR · KOPPLINGAR</p><h1>Riksdagen, i Wikidata.</h1><p class="lead">Ett samlat arbetsbord för att se vad som finns, vad som saknas och vad som har förändrats.</p></div><div class="data-stamp"><span class="live-dot"></span> Sparad mätning<strong id="latest-date">Laddar data…</strong><a id="repo-link" href="https://github.com/salgo60/Wikidata_riksdagen-corpus" target="_blank" rel="noopener noreferrer">Wikidata_riksdagen-corpus ↗</a></div></section>
+  <div class="toolbar"><nav aria-label="Vyer"><button data-view="members" class="tab active" aria-current="page">Ledamöter <span id="total-badge">349</span></button><button data-view="history" class="tab">Historik <span id="snapshot-badge">13</span></button></nav><div class="toolbar-actions"><button id="share" class="button"><span aria-hidden="true">↗</span> Kopiera filterlänk</button><button id="export" class="button">Exportera CSV</button></div></div>
+  <p id="notice" class="notice" role="status" aria-live="polite"></p><input id="share-fallback" class="share-fallback" aria-label="Filterlänk att kopiera" readonly hidden>
+  <section class="filter-panel" aria-label="Filtrera ledamöter"><div class="filter-heading"><h2>Hitta ditt urval</h2><button id="reset" class="text-button">Återställ filter</button></div><div class="filter-grid">
+    <label class="search-label">Sök ledamot<input id="q" type="search" placeholder="Namn, Q-ID eller person-ID" autocomplete="off"></label>
+    <label>Parti<select id="party"><option value="">Alla partier</option></select></label>
+    <label>Län<select id="county"><option value="">Alla län</option></select></label>
+    <label>Bildstatus<select id="status"><option value="">Alla bilder</option><option value="free">Fri Commons-bild</option><option value="no_free">Ingen fri bild registrerad</option><option value="unknown">Ej kontrollerat</option><option value="no_p18">Saknar P18</option><option value="has_p18">Har P18</option></select></label>
+    <label>svWikipedia<select id="svwiki"><option value="">Alla artikelstatusar</option><option value="ja">Artikel finns</option><option value="nej">Artikel saknas</option><option value="okant">Okänd status</option></select></label>
+    <label>Riksdagsmall 2026–2030<select id="riksdagsmall" class="status-select"></select></label>
+  </div><details id="advanced"><summary>Fler kontroller <span id="advanced-count"></span></summary><div class="advanced-grid">
+    <label>Infobox politiker<select id="infobox" class="status-select"></select></label><label>Illustrationsbehov<select id="illustration" class="status-select"></select></label><label>Auktoritetsdata<select id="authority" class="status-select"></select></label><label>Partikategori<select id="partikategori" class="status-select"></select></label><label>Mandat · P39<select id="p39" class="status-select"></select></label><label>Person-ID · P8388<select id="p8388" class="status-select"></select></label><label>Intressent-ID · P1214<select id="p1214" class="status-select"></select></label>
+  </div></details></section>
+  <div class="measurement-line"><label>Visa mätning <select id="snapshot"></select></label><span id="measurement-note"></span></div>
+  <section id="members-view">
+    <div class="kpis" id="kpis"></div>
+    <details class="panel breakdown"><summary>Status per parti och län <span>Öppna sammanställning</span></summary><div class="breakdown-controls"><button data-group="party" class="button selected">Per parti</button><button data-group="county" class="button">Per län</button></div><div id="breakdown-table" class="table-scroll"></div></details>
+    <section class="panel members-panel"><div class="section-heading"><div><h2>Ledamöter</h2><p id="result-count" aria-live="polite">Laddar…</p></div><span class="small-note">Välj en ledamot för bilder, kontroller och källor.</span></div><div class="table-scroll"><table class="members-table"><thead><tr><th scope="col"><button data-sort="name">Ledamot ↕</button></th><th scope="col"><button data-sort="party">Parti ↕</button></th><th scope="col"><button data-sort="county">Län ↕</button></th><th scope="col"><button data-sort="free">Fri bild ↕</button></th><th scope="col"><button data-sort="svwiki">svWikipedia ↕</button></th><th scope="col"><button data-sort="riksdagsmall">Riksdagsmall ↕</button></th><th scope="col"><button data-sort="infobox">Infobox ↕</button></th><th scope="col">Källor</th></tr></thead><tbody id="member-rows"></tbody></table></div><div id="empty" class="empty" hidden><h3>Inga ledamöter matchar urvalet.</h3><p>Prova en annan mätning eller återställ filtren. Senaste mätningen har inga saknade svWikipedia-artiklar eller riksdagsmallar.</p><button id="empty-reset" class="button">Återställ filter</button></div><div class="pagination"><span id="page-label"></span><div><button id="prev" class="button" aria-label="Föregående sida">←</button><button id="next" class="button" aria-label="Nästa sida">→</button></div></div></section>
+  </section>
+  <section id="history-view" hidden>
+    <div class="history-intro"><div><h2>Vad har förändrats?</h2><p>Person-ID binder samman mätningarna. Parti, län och sökning bestämmer urvalet över de två valda mätningarna. Bild-, artikel- och mallfilter gäller ledamotstabellen.</p></div><label>Jämför med<select id="compare"></select></label></div>
+    <div class="panel"><div class="section-heading"><div><h2>Från då till nu</h2><p id="comparison-label"></p></div><span id="cohort-count" class="small-note"></span></div><div id="comparison-table" class="table-scroll"></div></div>
+    <div class="panel timeline-panel"><div class="section-heading"><div><h2>Utveckling över tid</h2><p>Antal personer där uppgiften saknas. Okända kontroller räknas separat.</p></div><label>Följ en uppgift<select id="metric"></select></label></div><div id="timeline"></div></div>
+    <div class="panel"><div class="section-heading"><div><h2>Ändrade statusar</h2><p id="changes-count"></p></div></div><div id="changes-table" class="table-scroll"></div></div>
+    <p class="method-note">Län i v15-historiken hämtas från senaste rapporten eftersom historikfilen inte sparar län. Äldre v9/v12-rapporter saknar vissa kontroller. En ny registrerad kontroll innebär inte automatiskt att innehållet ändrades.</p>
+  </section>
+  <details class="panel sources"><summary>Om data och källor <span>Metod, datum och ursprung</span></summary><div class="sources-content"><p>Det här är Magnus Sälgös audit, baserad på sparade rapporter i Wikidata_riksdagen-corpus. En status beskriver en observation vid kontrolltillfället. P18-bilden kan skilja sig från bilden som visas i en Wikipedia-artikel.</p><p>Län är rapportens länsgruppering; valkretsen visas i ledamotens detaljvy. Historiken matchas via Riksdagens person-ID (sourceid / P8388). <strong>Ej kontrollerat</strong> och <strong>Okänt</strong> är separata från <strong>Saknas</strong>. Illustrationsbehov kan vara <strong>Ej aktuell</strong> om bilden eller artikeln gör kontrollen överflödig enligt rapportens regler.</p><p>Data är en sparad kopia. Liveändringar på Wikipedia eller Wikidata visas efter en ny import. En kopierad filterlänk ändrar inte webbplatsens åtkomstinställning.</p><p id="provenance"></p><ul id="source-list"></ul></div></details>
+  <footer><span>Riksdagen ↔ Wikidata <span class="muted">· Person-ID först. Kontrollstatus i sitt sammanhang.</span></span><span><a href="riksdagen-dashboard-source.zip" download>Källkod (ZIP) ↓</a> · <a href="https://data.riksdagen.se/personlista/" target="_blank" rel="noopener noreferrer">Riksdagens öppna data ↗</a></span></footer>
+</main>
+<dialog id="person-dialog" aria-labelledby="person-name"><div class="dialog-header"><p class="eyebrow">LEDAMOT · KÄLLOR & KONTROLLER</p><button id="close-dialog" class="button" aria-label="Stäng detaljvy">Stäng ×</button></div><div id="person-detail"></div></dialog>
+<noscript><p class="error">Aktivera JavaScript för att använda filtren.</p></noscript><script type="module" src="app.mjs"></script>
+</body></html>

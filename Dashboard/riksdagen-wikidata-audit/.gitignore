@@ -1,0 +1,4 @@
+data/source/
+dist/data.json
+node_modules/
+__pycache__/

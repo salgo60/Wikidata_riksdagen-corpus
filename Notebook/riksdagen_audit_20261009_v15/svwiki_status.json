@@ -156,7 +156,7 @@
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 17,
-    "utan_partikategori": 1,
+    "utan_partikategori": 0,
     "utan_p39": 15,
     "utan_p8388": 0,
     "utan_p1214": 0,
@@ -180,8 +180,7 @@
         "saknas": 17
       },
       "partikategori_status": {
-        "finns": 69,
-        "saknas": 1
+        "finns": 70
       },
       "p39_status": {
         "finns": 55,
@@ -400,7 +399,7 @@
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 88,
-    "utan_partikategori": 15,
+    "utan_partikategori": 14,
     "utan_p39": 30,
     "utan_p8388": 0,
     "utan_p1214": 0,
@@ -424,8 +423,8 @@
         "saknas": 88
       },
       "partikategori_status": {
-        "finns": 334,
-        "saknas": 15
+        "finns": 335,
+        "saknas": 14
       },
       "p39_status": {
         "finns": 319,

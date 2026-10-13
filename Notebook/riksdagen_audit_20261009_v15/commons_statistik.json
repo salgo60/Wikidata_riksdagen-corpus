@@ -116,11 +116,11 @@
     },
     {
       "grupp": "Jönköpings län",
-      "antal_personer": 14,
-      "med_fri_commons_bild": 6,
+      "antal_personer": 13,
+      "med_fri_commons_bild": 5,
       "utan_commons_bild": 8,
       "licens_okand": 0,
-      "andel_procent": 42.9
+      "andel_procent": 38.5
     },
     {
       "grupp": "Kalmar län",
@@ -220,11 +220,11 @@
     },
     {
       "grupp": "Örebro län",
-      "antal_personer": 11,
-      "med_fri_commons_bild": 4,
+      "antal_personer": 12,
+      "med_fri_commons_bild": 5,
       "utan_commons_bild": 7,
       "licens_okand": 0,
-      "andel_procent": 36.4
+      "andel_procent": 41.7
     },
     {
       "grupp": "Östergötlands län",
