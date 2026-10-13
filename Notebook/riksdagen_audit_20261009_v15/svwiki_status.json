@@ -106,7 +106,7 @@
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 9,
-    "utan_partikategori": 18,
+    "utan_partikategori": 14,
     "utan_p39": 6,
     "utan_p8388": 0,
     "utan_p1214": 0,
@@ -130,8 +130,8 @@
         "saknas": 9
       },
       "partikategori_status": {
-        "saknas": 18,
-        "finns": 1
+        "finns": 5,
+        "saknas": 14
       },
       "p39_status": {
         "saknas": 6,
@@ -156,7 +156,7 @@
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 17,
-    "utan_partikategori": 5,
+    "utan_partikategori": 1,
     "utan_p39": 15,
     "utan_p8388": 0,
     "utan_p1214": 0,
@@ -180,8 +180,8 @@
         "saknas": 17
       },
       "partikategori_status": {
-        "finns": 65,
-        "saknas": 5
+        "finns": 69,
+        "saknas": 1
       },
       "p39_status": {
         "finns": 55,
@@ -400,7 +400,7 @@
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 88,
-    "utan_partikategori": 23,
+    "utan_partikategori": 15,
     "utan_p39": 30,
     "utan_p8388": 0,
     "utan_p1214": 0,
@@ -424,8 +424,8 @@
         "saknas": 88
       },
       "partikategori_status": {
-        "finns": 326,
-        "saknas": 23
+        "finns": 334,
+        "saknas": 15
       },
       "p39_status": {
         "finns": 319,
