@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-12T15:13:21Z",
+  "curtimestamp": "2026-10-13T08:52:18Z",
   "query": {
     "pages": [
       {
@@ -138,6 +138,12 @@
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
         ]
       },
       {
@@ -153,6 +159,12 @@
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Moderaterna/2026–2030"
           }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Moderaterna"
+          }
         ]
       },
       {
@@ -163,6 +175,12 @@
           {
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Centerpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Centerpartiet"
           }
         ]
       },
@@ -258,6 +276,12 @@
           {
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
           }
         ]
       },
@@ -512,6 +536,12 @@
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
           }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
+          }
         ]
       },
       {
@@ -674,6 +704,12 @@
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
           }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
+          }
         ]
       },
       {
@@ -688,6 +724,12 @@
           {
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Sverigedemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Sverigedemokraterna"
           }
         ]
       },
@@ -770,6 +812,12 @@
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
           }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Liberalerna och Folkpartiet"
+          }
         ]
       },
       {
@@ -791,6 +839,12 @@
           {
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
           }
         ]
       },

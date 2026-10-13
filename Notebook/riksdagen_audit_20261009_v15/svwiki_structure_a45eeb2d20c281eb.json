@@ -1,6 +1,6 @@
 {
   "batchcomplete": true,
-  "curtimestamp": "2026-10-12T15:13:22Z",
+  "curtimestamp": "2026-10-13T08:52:19Z",
   "query": {
     "pages": [
       {
@@ -430,6 +430,12 @@
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Socialdemokraterna/2026–2030"
           }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Socialdemokraterna"
+          }
         ]
       },
       {
@@ -615,6 +621,12 @@
           {
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Vänsterpartiet/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Vänsterpartiet"
           }
         ]
       },
@@ -871,6 +883,12 @@
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
           }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Liberalerna och Folkpartiet"
+          }
         ]
       },
       {
@@ -926,6 +944,12 @@
           {
             "ns": 10,
             "title": "Mall:Riksdagsledamöter/Liberalerna/2026–2030"
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Kategori:Ledamöter av Sveriges riksdag för Liberalerna och Folkpartiet"
           }
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-12T15:13:26Z",
+  "curtimestamp": "2026-10-13T08:52:24Z",
   "entities": {
     "Q141600242": {
       "type": "item",
@@ -2087,9 +2087,9 @@
             "mainsnak": {
               "snaktype": "value",
               "property": "P6634",
-              "hash": "dca09089401d8fa8a913b330f4f7602e8d764abd",
+              "hash": "5c736804e47b87d89c9e98b4c2dd23d8fdfacbbd",
               "datavalue": {
-                "value": "tony-rahm-73651935/",
+                "value": "tony-rahm-73651935",
                 "type": "string"
               },
               "datatype": "external-id"
