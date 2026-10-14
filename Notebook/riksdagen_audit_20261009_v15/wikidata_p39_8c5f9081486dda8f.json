@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-13T13:49:25Z",
+  "curtimestamp": "2026-10-14T16:42:50Z",
   "entities": {
     "Q141503821": {
       "type": "item",
@@ -16116,21 +16116,6 @@
             },
             "type": "statement",
             "id": "Q141510321$8afbcd09-4c42-2085-27c5-fcc71239eb1b",
-            "rank": "normal"
-          },
-          {
-            "mainsnak": {
-              "snaktype": "value",
-              "property": "P2003",
-              "hash": "509884265ca31e3bb4325e4126cf1d829870d7b9",
-              "datavalue": {
-                "value": "andreasahlqvistsverigedemokrat",
-                "type": "string"
-              },
-              "datatype": "external-id"
-            },
-            "type": "statement",
-            "id": "Q141510321$8d875573-446d-4eac-590d-d5e53b82894b",
             "rank": "normal"
           }
         ],
