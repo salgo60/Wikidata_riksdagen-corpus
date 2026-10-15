@@ -150,12 +150,12 @@
     "parti": "M",
     "personer": 70,
     "fri_bild": 25,
-    "utan_p18": 44,
+    "utan_p18": 45,
     "utan_svwiki": 0,
     "utan_illustration": 0,
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
-    "utan_infobox": 17,
+    "utan_infobox": 18,
     "utan_partikategori": 0,
     "utan_p39": 15,
     "utan_p8388": 0,
@@ -163,42 +163,34 @@
     "andel_fri_bild": 35.7,
     "kontrollstatus": {
       "sv_wikipedia": {
-        "ja": 69,
-        "okant": 1
+        "ja": 70
       },
       "illustrationsbehov_status": {
-        "finns": 44,
-        "ej_aktuell": 26
+        "finns": 45,
+        "ej_aktuell": 25
       },
       "auktoritetsdata_status": {
-        "finns": 69,
-        "ej_aktuell": 1
+        "finns": 70
       },
       "riksdagsmall_status": {
-        "finns": 69,
-        "ej_aktuell": 1
+        "finns": 70
       },
       "infobox_status": {
         "finns": 52,
-        "saknas": 17,
-        "ej_aktuell": 1
+        "saknas": 18
       },
       "partikategori_status": {
-        "finns": 69,
-        "ej_aktuell": 1
+        "finns": 70
       },
       "p39_status": {
-        "finns": 54,
-        "saknas": 15,
-        "okant": 1
+        "finns": 55,
+        "saknas": 15
       },
       "p8388_status": {
-        "finns": 69,
-        "okant": 1
+        "finns": 70
       },
       "p1214_status": {
-        "finns": 69,
-        "okant": 1
+        "finns": 70
       }
     },
     "licens_okand": 0
@@ -401,12 +393,12 @@
     "parti": "Totalt",
     "personer": 349,
     "fri_bild": 169,
-    "utan_p18": 179,
+    "utan_p18": 180,
     "utan_svwiki": 0,
     "utan_illustration": 0,
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
-    "utan_infobox": 88,
+    "utan_infobox": 89,
     "utan_partikategori": 14,
     "utan_p39": 30,
     "utan_p8388": 0,
@@ -414,43 +406,35 @@
     "andel_fri_bild": 48.4,
     "kontrollstatus": {
       "sv_wikipedia": {
-        "ja": 348,
-        "okant": 1
+        "ja": 349
       },
       "illustrationsbehov_status": {
-        "finns": 179,
-        "ej_aktuell": 170
+        "finns": 180,
+        "ej_aktuell": 169
       },
       "auktoritetsdata_status": {
-        "finns": 348,
-        "ej_aktuell": 1
+        "finns": 349
       },
       "riksdagsmall_status": {
-        "finns": 348,
-        "ej_aktuell": 1
+        "finns": 349
       },
       "infobox_status": {
         "finns": 260,
-        "saknas": 88,
-        "ej_aktuell": 1
+        "saknas": 89
       },
       "partikategori_status": {
-        "finns": 334,
-        "saknas": 14,
-        "ej_aktuell": 1
+        "finns": 335,
+        "saknas": 14
       },
       "p39_status": {
-        "finns": 318,
-        "saknas": 30,
-        "okant": 1
+        "finns": 319,
+        "saknas": 30
       },
       "p8388_status": {
-        "finns": 348,
-        "okant": 1
+        "finns": 349
       },
       "p1214_status": {
-        "finns": 348,
-        "okant": 1
+        "finns": 349
       }
     },
     "licens_okand": 0
