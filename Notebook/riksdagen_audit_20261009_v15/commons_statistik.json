@@ -27,10 +27,10 @@
     {
       "grupp": "M",
       "antal_personer": 70,
-      "med_fri_commons_bild": 26,
-      "utan_commons_bild": 44,
+      "med_fri_commons_bild": 25,
+      "utan_commons_bild": 45,
       "licens_okand": 0,
-      "andel_procent": 37.1
+      "andel_procent": 35.7
     },
     {
       "grupp": "MP",
@@ -43,10 +43,10 @@
     {
       "grupp": "S",
       "antal_personer": 99,
-      "med_fri_commons_bild": 59,
-      "utan_commons_bild": 40,
+      "med_fri_commons_bild": 60,
+      "utan_commons_bild": 39,
       "licens_okand": 0,
-      "andel_procent": 59.6
+      "andel_procent": 60.6
     },
     {
       "grupp": "SD",
@@ -101,10 +101,10 @@
     {
       "grupp": "Hallands län",
       "antal_personer": 13,
-      "med_fri_commons_bild": 5,
-      "utan_commons_bild": 8,
+      "med_fri_commons_bild": 4,
+      "utan_commons_bild": 9,
       "licens_okand": 0,
-      "andel_procent": 38.5
+      "andel_procent": 30.8
     },
     {
       "grupp": "Jämtlands län",
@@ -213,10 +213,10 @@
     {
       "grupp": "Västra Götalands län",
       "antal_personer": 57,
-      "med_fri_commons_bild": 22,
-      "utan_commons_bild": 35,
+      "med_fri_commons_bild": 23,
+      "utan_commons_bild": 34,
       "licens_okand": 0,
-      "andel_procent": 38.6
+      "andel_procent": 40.4
     },
     {
       "grupp": "Örebro län",

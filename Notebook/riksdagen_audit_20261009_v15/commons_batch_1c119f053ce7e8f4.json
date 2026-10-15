@@ -197,7 +197,7 @@
                 "source": "commons-desc-page"
               },
               "Artist": {
-                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FFswe\" class=\"mw-redirect\" title=\"User:FFswe\">Frankie Fouganthin</a>",
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:FFswe\" title=\"User:FFswe\" class=\"mw-redirect\">Frankie Fouganthin</a>",
                 "source": "commons-desc-page"
               },
               "LicenseShortName": {

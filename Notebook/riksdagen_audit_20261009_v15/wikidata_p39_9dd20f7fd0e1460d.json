@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-14T16:42:48Z",
+  "curtimestamp": "2026-10-15T13:29:15Z",
   "entities": {
     "Q101961506": {
       "type": "item",
@@ -9953,6 +9953,23 @@
             },
             "type": "statement",
             "id": "Q106862781$C0A964E8-A923-4348-88A5-19D14CCD0D9A",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "9f5dd5d35cb86113df33b7cbff6c2db692125dc6",
+              "datavalue": {
+                "value": "Jessica Rodén 2022.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q106862781$298a5570-44a5-c0dd-3bb1-1f52d1f59d1d",
             "rank": "normal"
           }
         ]
