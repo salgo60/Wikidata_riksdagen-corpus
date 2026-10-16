@@ -149,25 +149,25 @@
   {
     "parti": "M",
     "personer": 70,
-    "fri_bild": 25,
-    "utan_p18": 45,
+    "fri_bild": 26,
+    "utan_p18": 44,
     "utan_svwiki": 0,
     "utan_illustration": 0,
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 18,
     "utan_partikategori": 0,
-    "utan_p39": 15,
+    "utan_p39": 16,
     "utan_p8388": 0,
     "utan_p1214": 0,
-    "andel_fri_bild": 35.7,
+    "andel_fri_bild": 37.1,
     "kontrollstatus": {
       "sv_wikipedia": {
         "ja": 70
       },
       "illustrationsbehov_status": {
-        "finns": 45,
-        "ej_aktuell": 25
+        "finns": 44,
+        "ej_aktuell": 26
       },
       "auktoritetsdata_status": {
         "finns": 70
@@ -183,8 +183,8 @@
         "finns": 70
       },
       "p39_status": {
-        "finns": 55,
-        "saknas": 15
+        "finns": 54,
+        "saknas": 16
       },
       "p8388_status": {
         "finns": 70
@@ -392,25 +392,25 @@
   {
     "parti": "Totalt",
     "personer": 349,
-    "fri_bild": 169,
-    "utan_p18": 180,
+    "fri_bild": 170,
+    "utan_p18": 179,
     "utan_svwiki": 0,
     "utan_illustration": 0,
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 89,
     "utan_partikategori": 14,
-    "utan_p39": 30,
+    "utan_p39": 31,
     "utan_p8388": 0,
     "utan_p1214": 0,
-    "andel_fri_bild": 48.4,
+    "andel_fri_bild": 48.7,
     "kontrollstatus": {
       "sv_wikipedia": {
         "ja": 349
       },
       "illustrationsbehov_status": {
-        "finns": 180,
-        "ej_aktuell": 169
+        "finns": 179,
+        "ej_aktuell": 170
       },
       "auktoritetsdata_status": {
         "finns": 349
@@ -427,8 +427,8 @@
         "saknas": 14
       },
       "p39_status": {
-        "finns": 319,
-        "saknas": 30
+        "finns": 318,
+        "saknas": 31
       },
       "p8388_status": {
         "finns": 349

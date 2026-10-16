@@ -1,0 +1,287 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 43752018,
+        "ns": 6,
+        "title": "File:Jesper Skalberg Karlsson.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jesper_Skalberg_Karlsson.jpg/250px-Jesper_Skalberg_Karlsson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 168,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jesper_Skalberg_Karlsson.jpg/500px-Jesper_Skalberg_Karlsson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jesper_Skalberg_Karlsson.jpg/250px-Jesper_Skalberg_Karlsson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 168,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jesper_Skalberg_Karlsson.jpg/500px-Jesper_Skalberg_Karlsson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jesper_Skalberg_Karlsson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jesper_Skalberg_Karlsson.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43752018",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Esquilo\" title=\"User:Esquilo\">Esquilo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Johan Fredriksson",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 94134781,
+        "ns": 6,
+        "title": "File:JanineAlmEricson.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/JanineAlmEricson.jpg/250px-JanineAlmEricson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 154,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/JanineAlmEricson.jpg/500px-JanineAlmEricson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/JanineAlmEricson.jpg/250px-JanineAlmEricson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 154,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/JanineAlmEricson.jpg/500px-JanineAlmEricson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/JanineAlmEricson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:JanineAlmEricson.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94134781",
+            "extmetadata": {
+              "Credit": {
+                "value": "www.mp.se",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "James Hughes",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 101574238,
+        "ns": 6,
+        "title": "File:Ingemar-Kihlström-240918-0409 (2).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg/250px-Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 260,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg/500px-Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg/250px-Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 260,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg/500px-Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ingemar-Kihlstr%C3%B6m-240918-0409_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ingemar-Kihlstr%C3%B6m-240918-0409_(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101574238",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fridhem2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fridhem2 (page does not exist)\">Fridhem2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 194534540,
+        "ns": 6,
+        "title": "File:Jacob Risberg.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jacob_Risberg.jpg/250px-Jacob_Risberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 128,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jacob_Risberg.jpg/500px-Jacob_Risberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jacob_Risberg.jpg/250px-Jacob_Risberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 128,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jacob_Risberg.jpg/500px-Jacob_Risberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jacob_Risberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jacob_Risberg.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194534540",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Beninho\" title=\"User:Beninho\">Bene Riobó</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 201755388,
+        "ns": 6,
+        "title": "File:Jessica Rodén 2022.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jessica_Rod%C3%A9n_2022.jpg/250px-Jessica_Rod%C3%A9n_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 192,
+            "thumbheight": 86,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jessica_Rod%C3%A9n_2022.jpg/500px-Jessica_Rod%C3%A9n_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jessica_Rod%C3%A9n_2022.jpg/250px-Jessica_Rod%C3%A9n_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 192,
+              "height": 86,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jessica_Rod%C3%A9n_2022.jpg/500px-Jessica_Rod%C3%A9n_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jessica_Rod%C3%A9n_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jessica_Rod%C3%A9n_2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201755388",
+            "extmetadata": {
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"sv\">Eget arbete</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_Ulf_G_A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H Ulf G A (page does not exist)\">H Ulf G A</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

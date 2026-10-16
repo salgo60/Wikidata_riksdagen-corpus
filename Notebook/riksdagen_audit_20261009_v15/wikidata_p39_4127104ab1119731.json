@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-15T14:12:00Z",
+  "curtimestamp": "2026-10-16T10:49:27Z",
   "entities": {
     "Q141600242": {
       "type": "item",
@@ -2691,6 +2691,51 @@
             "type": "statement",
             "id": "Q141739504$49249e07-45e9-ff02-c6c5-8ebd503f8d8e",
             "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "1e2366931d41e5fab30fa6660f0c9ab3ecee6748",
+              "datavalue": {
+                "value": "https://valkompass.svt.se/2026/kandidat/19470-sara-fladje/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q141739504$3e0f62f4-47ab-1dab-72e6-0b7d8081a6ed",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "270668d0f3b79621dd524ccaeb87eef845eee8e4",
+              "datavalue": {
+                "value": "https://www.hn.se/asikt-och-debatt/asikter/ordet-ar-fritt/hur-ar-det-mojligt-att-domda-pedofiler-far-vara-vardnadshavare.8a26fcde-8caf-43ea-9c4d-62acfe0e8cc1",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q141739504$3198345b-4d81-c97f-cdb2-700ac1615463",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "13ac2f63e16b685ea105d56e0b8761a5625508fd",
+              "datavalue": {
+                "value": "https://www.hn.se/native/forstagangsvaljaren-sara-fladje-vill-in-i-riksdagen.ab3e83a0-12fb-4b0f-98fa-5e00453e665a",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q141739504$079d6ede-439e-725e-c594-a67fed3c634a",
+            "rank": "normal"
           }
         ],
         "P2013": [
@@ -2725,6 +2770,79 @@
             "type": "statement",
             "id": "Q141739504$8e3637b9-45c9-891a-9312-aa128ee9b3f5",
             "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "c011732ef42998fd9d7dd0bd50a5363f3ab2b43f",
+              "datavalue": {
+                "value": "https://mufhalland.se/sara",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q141739504$3bff288c-4d51-41d9-700b-3b77e9755ff5",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "8c9eb9ec519d4c7d5c929b18984e96aa237e95e0",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f8c7e23afa83da08302dc6b204ff0e7d53cae8df",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "0283d1d37c376463e91dbb38779893de8ac84492",
+                      "datavalue": {
+                        "value": "https://mufhalland.se/sara",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "af9f2841b90d9622a4af70ac69e00f92bfd204a5",
+                      "datavalue": {
+                        "value": {
+                          "text": "Muf Halland: Sara Fladje",
+                          "language": "sv"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813",
+                  "P854",
+                  "P1476"
+                ]
+              }
+            ]
           }
         ],
         "P8388": [
@@ -2780,6 +2898,160 @@
             "type": "statement",
             "id": "Q141739504$d906f232-48dc-3f96-ef05-58315616c470",
             "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "e2177fbd33df5ce6d0734b50d48326156aa357ee",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48282,
+                  "id": "Q48282"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q141739504$e04b2438-4619-126e-afed-3a4e6d64844d",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "69ece124d8c258813cecd2b5d0cf7adde95fd828",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f8c7e23afa83da08302dc6b204ff0e7d53cae8df",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "4dfe25ce4bb10ff53b0de27612c49fe420431bba",
+                      "datavalue": {
+                        "value": "https://valkompass.svt.se/2026/kandidat/19470-sara-fladje/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "48e905f4401e11e431c7e82aa6da75ace396ad0d",
+                      "datavalue": {
+                        "value": {
+                          "text": "Val 2026 Valkompass Sara Fladje",
+                          "language": "sv"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813",
+                  "P854",
+                  "P1476"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "81ce0fb438c311b0329f76c11db28a86c2ee725d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 157195,
+                  "id": "Q157195"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q141739504$8f7451d0-4d89-0e07-3191-83bfe6e98616",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "69ece124d8c258813cecd2b5d0cf7adde95fd828",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f8c7e23afa83da08302dc6b204ff0e7d53cae8df",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "4dfe25ce4bb10ff53b0de27612c49fe420431bba",
+                      "datavalue": {
+                        "value": "https://valkompass.svt.se/2026/kandidat/19470-sara-fladje/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "48e905f4401e11e431c7e82aa6da75ace396ad0d",
+                      "datavalue": {
+                        "value": {
+                          "text": "Val 2026 Valkompass Sara Fladje",
+                          "language": "sv"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813",
+                  "P854",
+                  "P1476"
+                ]
+              }
+            ]
           }
         ],
         "P27": [
@@ -2821,7 +3093,122 @@
             },
             "type": "statement",
             "id": "Q141739504$bd664c92-475e-fc12-8887-a310dcccdd75",
-            "rank": "normal"
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a7da50c3aad6216483b1515130f7d45ecec51e6",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f750587eb835edbfcf18f83f589b73349064f4bb",
+                      "datavalue": {
+                        "value": "https://data.riksdagen.se/personlista/?iid=1c5b27fe-989e-4a03-9924-169eb725cb1f&utformat=json",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f8c7e23afa83da08302dc6b204ff0e7d53cae8df",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              },
+              {
+                "hash": "10753610452010261f31e4c5c8339a9586c4ca43",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "5e5f973747494548414237abb1add5101885b0df",
+                      "datavalue": {
+                        "value": "https://www.svt.se/nyheter/lokalt/halland/sara-fladje-m-21-fran-halmstad-yngst-i-riksdagen-tryckte-rott-for-magda",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "9562f3ebb1b0219a95814381ec690d57eb9e8b98",
+                      "datavalue": {
+                        "value": {
+                          "text": "Sara Fladje (M), 21, från Halmstad yngst i riksdagen – tryckte rött för Magda",
+                          "language": "sv"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "af33f1fd97da17f384594a804e1410e831025c6d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 10686370,
+                          "id": "Q10686370"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f8c7e23afa83da08302dc6b204ff0e7d53cae8df",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
           }
         ],
         "P39": [
@@ -2846,10 +3233,10 @@
                 {
                   "snaktype": "value",
                   "property": "P580",
-                  "hash": "6d107b9d8d7c1b0c278dc0da29f3634d1b8f7d5e",
+                  "hash": "4ea55a6da99cbf5f65a4561d43db5e94ece24f21",
                   "datavalue": {
                     "value": {
-                      "time": "+2026-09-28T00:00:00Z",
+                      "time": "+2026-10-15T00:00:00Z",
                       "timezone": 0,
                       "before": 0,
                       "after": 0,
@@ -2924,6 +3311,25 @@
                   },
                   "datatype": "wikibase-item"
                 }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "b0b9c229ba5d4c83e4c0a8b6f785335198913527",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2027-05-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
               ]
             },
             "qualifiers-order": [
@@ -2931,7 +3337,8 @@
               "P4100",
               "P2715",
               "P768",
-              "P2937"
+              "P2937",
+              "P582"
             ],
             "id": "Q141739504$16C616F5-FAC0-4AF7-821A-FE0426409FE2",
             "rank": "normal",
@@ -2974,6 +3381,164 @@
                 "snaks-order": [
                   "P854",
                   "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P19": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P19",
+              "hash": "c307d027eb442c2e0135f0d7f52fc1e9b5fb5fcc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 26521,
+                  "id": "Q26521"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q141739504$e48525d3-4fb9-881a-70b1-c8b93cc47eeb",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "8c9eb9ec519d4c7d5c929b18984e96aa237e95e0",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f8c7e23afa83da08302dc6b204ff0e7d53cae8df",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "0283d1d37c376463e91dbb38779893de8ac84492",
+                      "datavalue": {
+                        "value": "https://mufhalland.se/sara",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "af9f2841b90d9622a4af70ac69e00f92bfd204a5",
+                      "datavalue": {
+                        "value": {
+                          "text": "Muf Halland: Sara Fladje",
+                          "language": "sv"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813",
+                  "P854",
+                  "P1476"
+                ]
+              }
+            ]
+          }
+        ],
+        "P551": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P551",
+              "hash": "94a375b60d30ad24430f4f9334fdeef89e383711",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 26521,
+                  "id": "Q26521"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q141739504$99ff5737-49ea-3b46-461d-36f1224c449f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "69ece124d8c258813cecd2b5d0cf7adde95fd828",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f8c7e23afa83da08302dc6b204ff0e7d53cae8df",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "4dfe25ce4bb10ff53b0de27612c49fe420431bba",
+                      "datavalue": {
+                        "value": "https://valkompass.svt.se/2026/kandidat/19470-sara-fladje/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "48e905f4401e11e431c7e82aa6da75ace396ad0d",
+                      "datavalue": {
+                        "value": {
+                          "text": "Val 2026 Valkompass Sara Fladje",
+                          "language": "sv"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813",
+                  "P854",
+                  "P1476"
                 ]
               }
             ]

@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-15T14:11:58Z",
+  "curtimestamp": "2026-10-16T10:49:26Z",
   "entities": {
     "Q141503821": {
       "type": "item",
@@ -2729,6 +2729,23 @@
                 ]
               }
             ]
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "9ca1e637a3194ff652dc5f5b0b20262cc3b43ca4",
+              "datavalue": {
+                "value": "Daniel Lyckestam.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q141505157$aab32477-4a3d-1af4-021d-ea45f54646c1",
+            "rank": "normal"
           }
         ]
       }
