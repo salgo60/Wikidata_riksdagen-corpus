@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-16T10:49:27Z",
+  "curtimestamp": "2026-10-17T09:57:48Z",
   "entities": {
     "Q141600242": {
       "type": "item",
@@ -58378,6 +58378,23 @@
             },
             "type": "statement",
             "id": "Q18239250$F37F9640-A5C2-4C81-B0B1-D6A7F9735205",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "7851e5215a599e8e7464508bbe73f00f01e3e9c5",
+              "datavalue": {
+                "value": "Category:Mats_Green",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q18239250$9ddae394-4346-a38c-55e7-fa3d5c7b4e90",
             "rank": "normal"
           }
         ]

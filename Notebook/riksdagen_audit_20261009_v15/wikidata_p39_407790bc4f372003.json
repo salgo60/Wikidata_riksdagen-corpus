@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-16T10:49:29Z",
+  "curtimestamp": "2026-10-17T09:57:49Z",
   "entities": {
     "Q20156222": {
       "type": "item",
@@ -121560,6 +121560,23 @@
                 ]
               }
             ]
+          }
+        ],
+        "P9318": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9318",
+              "hash": "062d43b2e876b63fa19e6d05f0e72e7b7547c008",
+              "datavalue": {
+                "value": "magdalena-andersson",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4935873$4c45c323-45d1-9b13-472e-0aa382d7963b",
+            "rank": "normal"
           }
         ]
       }

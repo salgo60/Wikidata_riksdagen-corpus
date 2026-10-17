@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-16T10:49:31Z",
+  "curtimestamp": "2026-10-17T09:57:51Z",
   "entities": {
     "Q4987958": {
       "type": "item",
@@ -16112,6 +16112,23 @@
             },
             "type": "statement",
             "id": "Q518776$F6A0C877-7F0B-48B4-AD51-F2AAE9B220CB",
+            "rank": "normal"
+          }
+        ],
+        "P9318": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9318",
+              "hash": "7eeeaad1a4421d54e77fb9a54d592f24cbeacaa1",
+              "datavalue": {
+                "value": "jimmie-akesson",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q518776$a2b48f16-4c3e-4404-6d5e-fe6b3788dfe1",
             "rank": "normal"
           }
         ]
