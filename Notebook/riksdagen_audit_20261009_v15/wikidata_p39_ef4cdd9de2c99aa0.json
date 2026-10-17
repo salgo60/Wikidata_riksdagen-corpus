@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-17T09:57:51Z",
+  "curtimestamp": "2026-10-17T21:30:27Z",
   "entities": {
     "Q4987958": {
       "type": "item",
@@ -11732,6 +11732,63 @@
                   "P248",
                   "P813",
                   "P1810"
+                ]
+              },
+              {
+                "hash": "810b4c658c27ae913fe28418065618635afb0387",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "65bf94067e6255ff8d61c9c9535d98794a309a4c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 746368,
+                          "id": "Q746368"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4342": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4342",
+                      "hash": "2085844cc82f5898b3f61e6db9693085673cedf5",
+                      "datavalue": {
+                        "value": "Jimmie_Åkesson",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "fd038ea588037d2156b347f496aefbe36a200452",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-10-17T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P4342",
+                  "P813"
                 ]
               }
             ]
