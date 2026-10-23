@@ -149,42 +149,46 @@
   {
     "parti": "M",
     "personer": 70,
-    "fri_bild": 26,
-    "utan_p18": 44,
+    "fri_bild": 25,
+    "utan_p18": 45,
     "utan_svwiki": 0,
-    "utan_illustration": 0,
-    "utan_authority": 0,
-    "utan_riksdagsmall": 0,
-    "utan_infobox": 18,
-    "utan_partikategori": 0,
-    "utan_p39": 16,
+    "utan_illustration": 2,
+    "utan_authority": 1,
+    "utan_riksdagsmall": 1,
+    "utan_infobox": 19,
+    "utan_partikategori": 1,
+    "utan_p39": 17,
     "utan_p8388": 0,
     "utan_p1214": 0,
-    "andel_fri_bild": 37.1,
+    "andel_fri_bild": 35.7,
     "kontrollstatus": {
       "sv_wikipedia": {
         "ja": 70
       },
       "illustrationsbehov_status": {
-        "finns": 44,
-        "ej_aktuell": 26
+        "finns": 43,
+        "ej_aktuell": 25,
+        "saknas": 2
       },
       "auktoritetsdata_status": {
-        "finns": 70
+        "finns": 69,
+        "saknas": 1
       },
       "riksdagsmall_status": {
-        "finns": 70
+        "finns": 69,
+        "saknas": 1
       },
       "infobox_status": {
-        "finns": 52,
-        "saknas": 18
+        "finns": 51,
+        "saknas": 19
       },
       "partikategori_status": {
-        "finns": 70
+        "finns": 69,
+        "saknas": 1
       },
       "p39_status": {
-        "finns": 54,
-        "saknas": 16
+        "finns": 53,
+        "saknas": 17
       },
       "p8388_status": {
         "finns": 70
@@ -253,8 +257,8 @@
     "utan_authority": 0,
     "utan_riksdagsmall": 0,
     "utan_infobox": 19,
-    "utan_partikategori": 0,
-    "utan_p39": 4,
+    "utan_partikategori": 1,
+    "utan_p39": 5,
     "utan_p8388": 0,
     "utan_p1214": 0,
     "andel_fri_bild": 60.6,
@@ -277,11 +281,12 @@
         "saknas": 19
       },
       "partikategori_status": {
-        "finns": 99
+        "finns": 98,
+        "saknas": 1
       },
       "p39_status": {
-        "finns": 95,
-        "saknas": 4
+        "finns": 94,
+        "saknas": 5
       },
       "p8388_status": {
         "finns": 99
@@ -392,43 +397,46 @@
   {
     "parti": "Totalt",
     "personer": 349,
-    "fri_bild": 170,
-    "utan_p18": 179,
+    "fri_bild": 169,
+    "utan_p18": 180,
     "utan_svwiki": 0,
-    "utan_illustration": 0,
-    "utan_authority": 0,
-    "utan_riksdagsmall": 0,
-    "utan_infobox": 89,
-    "utan_partikategori": 14,
-    "utan_p39": 31,
+    "utan_illustration": 2,
+    "utan_authority": 1,
+    "utan_riksdagsmall": 1,
+    "utan_infobox": 90,
+    "utan_partikategori": 16,
+    "utan_p39": 33,
     "utan_p8388": 0,
     "utan_p1214": 0,
-    "andel_fri_bild": 48.7,
+    "andel_fri_bild": 48.4,
     "kontrollstatus": {
       "sv_wikipedia": {
         "ja": 349
       },
       "illustrationsbehov_status": {
-        "finns": 179,
-        "ej_aktuell": 170
+        "finns": 178,
+        "ej_aktuell": 169,
+        "saknas": 2
       },
       "auktoritetsdata_status": {
-        "finns": 349
+        "finns": 348,
+        "saknas": 1
       },
       "riksdagsmall_status": {
-        "finns": 349
+        "finns": 348,
+        "saknas": 1
       },
       "infobox_status": {
-        "finns": 260,
-        "saknas": 89
+        "finns": 259,
+        "saknas": 90
       },
       "partikategori_status": {
-        "finns": 335,
-        "saknas": 14
+        "finns": 333,
+        "saknas": 16
       },
       "p39_status": {
-        "finns": 318,
-        "saknas": 31
+        "finns": 316,
+        "saknas": 33
       },
       "p8388_status": {
         "finns": 349

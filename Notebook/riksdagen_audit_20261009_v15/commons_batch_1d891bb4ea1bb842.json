@@ -149,11 +149,11 @@
             "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113399112",
             "extmetadata": {
               "Credit": {
-                "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/statephotos/51730125960/\" class=\"external text\">Secretary Blinken Meets With Swedish Prime Minister Andersson</a>",
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/statephotos/51730125960/\">Secretary Blinken Meets With Swedish Prime Minister Andersson</a>",
                 "source": "commons-desc-page"
               },
               "Artist": {
-                "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/9364837@N06\" class=\"external text\">U.S. Department of State</a> from the United States.",
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9364837@N06\">U.S. Department of State</a> from the United States.",
                 "source": "commons-desc-page"
               },
               "LicenseShortName": {

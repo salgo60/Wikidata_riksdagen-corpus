@@ -27,10 +27,10 @@
     {
       "grupp": "M",
       "antal_personer": 70,
-      "med_fri_commons_bild": 26,
-      "utan_commons_bild": 44,
+      "med_fri_commons_bild": 25,
+      "utan_commons_bild": 45,
       "licens_okand": 0,
-      "andel_procent": 37.1
+      "andel_procent": 35.7
     },
     {
       "grupp": "MP",
@@ -149,10 +149,10 @@
     {
       "grupp": "Skåne län",
       "antal_personer": 48,
-      "med_fri_commons_bild": 25,
-      "utan_commons_bild": 23,
+      "med_fri_commons_bild": 24,
+      "utan_commons_bild": 24,
       "licens_okand": 0,
-      "andel_procent": 52.1
+      "andel_procent": 50.0
     },
     {
       "grupp": "Stockholms län",
