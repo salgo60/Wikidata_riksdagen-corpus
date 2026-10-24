@@ -1,5 +1,5 @@
 {
-  "curtimestamp": "2026-10-23T06:32:16Z",
+  "curtimestamp": "2026-10-24T06:50:35Z",
   "entities": {
     "Q141503807": {
       "type": "item",
@@ -9629,6 +9629,23 @@
               }
             ]
           }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "d41a1880bd09436d4566a00c3d994b53b78dd95c",
+              "datavalue": {
+                "value": "MarcusFridlund Porträtt 20261021-15.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q141507544$78cb51ab-4503-9993-ac0f-86872a8bd168",
+            "rank": "normal"
+          }
         ]
       }
     },
@@ -12386,6 +12403,23 @@
                 ]
               }
             ]
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "53f206160a2c338b412f18476792b95cb3800c29",
+              "datavalue": {
+                "value": "My Rosell.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q141507883$a743605d-4c2e-81df-df2a-b6e621b42dfc",
+            "rank": "normal"
           }
         ]
       }

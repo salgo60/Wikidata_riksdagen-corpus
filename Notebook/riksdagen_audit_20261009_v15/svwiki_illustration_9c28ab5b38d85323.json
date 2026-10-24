@@ -1,0 +1,44 @@
+{
+  "batchcomplete": true,
+  "curtimestamp": "2026-10-24T06:50:28Z",
+  "query": {
+    "pages": [
+      {
+        "pageid": 742729,
+        "ns": 0,
+        "title": "Åsa Kullgren",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 8732589,
+        "ns": 0,
+        "title": "Zinaida Kajevic",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      },
+      {
+        "pageid": 9058439,
+        "ns": 0,
+        "title": "Åsa Andersson (politiker)",
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Mall:Illustrationsbehov-svensk politiker"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "templates": 500
+  }
+}

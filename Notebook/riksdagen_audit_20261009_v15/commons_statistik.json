@@ -43,10 +43,10 @@
     {
       "grupp": "S",
       "antal_personer": 99,
-      "med_fri_commons_bild": 60,
-      "utan_commons_bild": 39,
+      "med_fri_commons_bild": 62,
+      "utan_commons_bild": 37,
       "licens_okand": 0,
-      "andel_procent": 60.6
+      "andel_procent": 62.6
     },
     {
       "grupp": "SD",
@@ -125,10 +125,10 @@
     {
       "grupp": "Kalmar län",
       "antal_personer": 8,
-      "med_fri_commons_bild": 3,
-      "utan_commons_bild": 5,
+      "med_fri_commons_bild": 4,
+      "utan_commons_bild": 4,
       "licens_okand": 0,
-      "andel_procent": 37.5
+      "andel_procent": 50.0
     },
     {
       "grupp": "Kronobergs län",
@@ -149,10 +149,10 @@
     {
       "grupp": "Skåne län",
       "antal_personer": 48,
-      "med_fri_commons_bild": 24,
-      "utan_commons_bild": 24,
+      "med_fri_commons_bild": 25,
+      "utan_commons_bild": 23,
       "licens_okand": 0,
-      "andel_procent": 50.0
+      "andel_procent": 52.1
     },
     {
       "grupp": "Stockholms län",
